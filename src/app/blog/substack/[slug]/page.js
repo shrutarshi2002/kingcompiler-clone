@@ -7,31 +7,6 @@ import Navbar from "../../../../components/Navbar";
 import Footer from "../../../../components/Footer";
 import Image from "next/image";
 
-export async function generateStaticParams() {
-  // Fetch the Substack RSS feed
-  const rssUrl = "https://kingcompiler.substack.com/feed";
-  const response = await fetch(rssUrl);
-  const xmlText = await response.text();
-
-  // Parse slugs from RSS feed
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  const linkRegex = /<link>(.*?)<\/link>/;
-  const titleRegex = /<title>(.*?)<\/title>/;
-  const slugs = [];
-  let match;
-  while ((match = itemRegex.exec(xmlText)) !== null) {
-    const itemContent = match[1];
-    const link = linkRegex.exec(itemContent)?.[1] || "";
-    const title = titleRegex.exec(itemContent)?.[1] || "";
-    // Extract slug from link (last part of the URL)
-    const slug = link.split("/").filter(Boolean).pop();
-    if (slug) {
-      slugs.push({ slug });
-    }
-  }
-  return slugs;
-}
-
 export default function SubstackPostPage() {
   const params = useParams();
   const [post, setPost] = useState(null);
