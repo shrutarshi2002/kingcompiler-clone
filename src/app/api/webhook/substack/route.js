@@ -1,7 +1,5 @@
 import { NextResponse } from "next/server";
 
-export const dynamic = "force-static";
-
 export async function POST(request) {
   try {
     const body = await request.json();
@@ -26,9 +24,13 @@ export async function POST(request) {
 
     // Trigger a cache refresh by making a request to the blog API
     try {
+      // Use relative URL for internal API calls in production
       const baseUrl =
-        process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
-      const refreshResponse = await fetch(`${baseUrl}/api/blog/substack`, {
+        process.env.NEXT_PUBLIC_BASE_URL ||
+        (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
+      const apiUrl = `${baseUrl}/api/blog/substack`;
+
+      const refreshResponse = await fetch(apiUrl, {
         method: "GET",
         headers: {
           "Cache-Control": "no-cache, no-store, must-revalidate",

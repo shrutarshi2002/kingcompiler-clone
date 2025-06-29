@@ -1,7 +1,5 @@
 import { NextResponse } from "next/server";
 
-export const dynamic = "force-static";
-
 export async function GET() {
   try {
     // Fetch RSS feed from your Substack with cache-busting
@@ -18,10 +16,18 @@ export async function GET() {
     });
 
     if (!response.ok) {
+      console.error(
+        `Failed to fetch RSS feed: ${response.status} ${response.statusText}`
+      );
       throw new Error(`Failed to fetch RSS feed: ${response.status}`);
     }
 
     const xmlText = await response.text();
+
+    if (!xmlText || xmlText.trim().length === 0) {
+      console.error("RSS feed returned empty content");
+      throw new Error("RSS feed returned empty content");
+    }
 
     // Parse XML to extract posts
     const posts = parseRSSFeed(xmlText);
@@ -49,6 +55,7 @@ export async function GET() {
       {
         success: false,
         error: error.message,
+        posts: [], // Return empty array instead of undefined
         lastUpdated: new Date().toISOString(),
       },
       {

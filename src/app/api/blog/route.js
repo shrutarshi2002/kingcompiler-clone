@@ -1,7 +1,5 @@
 import { NextResponse } from "next/server";
 
-export const dynamic = "force-static";
-
 // Regular blog posts data (in production, this would come from a database)
 const regularBlogPosts = [
   {
@@ -119,20 +117,21 @@ export async function GET() {
     // Fetch Substack posts only with cache-busting
     let substackPosts = [];
     try {
-      const substackResponse = await fetch(
-        `${
-          process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000"
-        }/api/blog/substack`,
-        {
-          method: "GET",
-          headers: {
-            "Cache-Control": "no-cache, no-store, must-revalidate",
-            Pragma: "no-cache",
-            Expires: "0",
-          },
-          next: { revalidate: 0 }, // Disable Next.js caching
-        }
-      );
+      // Use relative URL for internal API calls in production
+      const baseUrl =
+        process.env.NEXT_PUBLIC_BASE_URL ||
+        (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
+      const apiUrl = `${baseUrl}/api/blog/substack`;
+
+      const substackResponse = await fetch(apiUrl, {
+        method: "GET",
+        headers: {
+          "Cache-Control": "no-cache, no-store, must-revalidate",
+          Pragma: "no-cache",
+          Expires: "0",
+        },
+        next: { revalidate: 0 }, // Disable Next.js caching
+      });
       if (substackResponse.ok) {
         const substackData = await substackResponse.json();
         if (substackData.success && substackData.posts) {

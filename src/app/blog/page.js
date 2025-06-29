@@ -33,6 +33,7 @@ export default function BlogPage() {
         setIsLoading(true);
       }
 
+      console.log("Fetching blog posts from API...");
       const response = await fetch("/api/blog", {
         method: "GET",
         headers: {
@@ -41,9 +42,18 @@ export default function BlogPage() {
           Expires: "0",
         },
       });
+
+      console.log("API response status:", response.status);
+
+      if (!response.ok) {
+        throw new Error(`API request failed with status: ${response.status}`);
+      }
+
       const data = await response.json();
+      console.log("API response data:", data);
 
       if (data.success && data.posts) {
+        console.log(`Successfully fetched ${data.posts.length} blog posts`);
         setBlogPosts(data.posts);
         setFilteredPosts(data.posts);
         setLastUpdated(data.lastUpdated || new Date().toISOString());
