@@ -13,8 +13,8 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
               <Image
-                src="/logo.png"
-                alt="KingCompiler Logo"
+                src="/logo1.png"
+                alt="KingCompiler Logo 1"
                 width={40}
                 height={40}
                 className="rounded-lg"

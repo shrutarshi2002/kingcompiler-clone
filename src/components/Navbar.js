@@ -45,14 +45,16 @@ export default function Navbar() {
       className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-8 py-6"
       style={{ background: "var(--surface)" }}
     >
-      <div className="flex items-center gap-2">
-        <Image src="/next.svg" alt="Logo" width={40} height={40} />
-        <span
-          className="font-bold text-xl tracking-tight"
-          style={{ color: "var(--primary)" }}
-        >
-          kingcompiler
-        </span>
+      <div className="flex items-center">
+        <Link href="/">
+          <Image
+            src="/logo.png"
+            alt="KingCompiler Logo"
+            width={250}
+            height={250}
+            className="rounded-lg cursor-pointer"
+          />
+        </Link>
       </div>
 
       {/* Desktop Menu */}
@@ -147,12 +149,14 @@ export default function Navbar() {
             Contact Us
           </button>
         </Link>
-        <button
-          className="px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-          style={{ background: "none" }}
-        >
-          Privacy Policy
-        </button>
+        <Link href="/privacy-policy">
+          <button
+            className="px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+            style={{ background: "none" }}
+          >
+            Privacy Policy
+          </button>
+        </Link>
       </div>
       {/* Burger Menu Icon */}
       <div className="md:hidden flex items-center">
@@ -266,12 +270,14 @@ export default function Navbar() {
               Contact Us
             </button>
           </Link>
-          <button
-            className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-            style={{ background: "none" }}
-          >
-            Privacy Policy
-          </button>
+          <Link href="/privacy-policy">
+            <button
+              className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+              style={{ background: "none" }}
+            >
+              Privacy Policy
+            </button>
+          </Link>
         </div>
       )}
 

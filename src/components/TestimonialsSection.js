@@ -350,9 +350,12 @@ export default function TestimonialsSection() {
             >
               {/* Create slides with 2 testimonials each */}
               {Array.from({ length: totalSlides }, (_, slideIndex) => (
-                <div key={slideIndex} className="w-full flex-shrink-0 flex">
+                <div
+                  key={slideIndex}
+                  className="w-full flex-shrink-0 flex flex-col sm:flex-row"
+                >
                   {/* First testimonial in the slide */}
-                  <div className="w-1/2 px-2">
+                  <div className="w-full sm:w-1/2 px-2">
                     <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 h-full">
                       <div className="p-6">
                         {/* Header */}
@@ -410,9 +413,9 @@ export default function TestimonialsSection() {
                     </div>
                   </div>
 
-                  {/* Second testimonial in the slide (if exists) */}
+                  {/* Second testimonial in the slide (if exists, only show on sm and up) */}
                   {slideIndex * 2 + 1 < testimonials.length && (
-                    <div className="w-1/2 px-2">
+                    <div className="hidden sm:block w-1/2 px-2">
                       <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 h-full">
                         <div className="p-6">
                           {/* Header */}

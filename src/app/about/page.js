@@ -424,40 +424,50 @@ export default function AboutPage() {
             </p>
           </div>
           <div className="relative">
-            <div className="absolute left-1/2 transform -translate-x-px h-full w-0.5 bg-gradient-to-b from-green-400 to-blue-600"></div>
-            <div className="space-y-12">
+            {/* Timeline line: visible on all screens, centered. Thinner and shorter on mobile. */}
+            <div
+              className="absolute left-1/2 top-0 transform -translate-x-1/2 h-full w-0.5 bg-gradient-to-b from-green-400 to-blue-600 z-0"
+              style={{ minHeight: "100%" }}
+            ></div>
+            <div className="space-y-12 relative z-10">
               {studentJourney.map((stage, index) => (
                 <div
                   key={index}
-                  className={`flex items-center ${
-                    index % 2 === 0 ? "flex-row" : "flex-row-reverse"
+                  className={`flex flex-col items-center sm:flex-row ${
+                    index % 2 === 0 ? "sm:flex-row" : "sm:flex-row-reverse"
                   }`}
                 >
-                  <div className="w-1/2 px-8">
+                  {/* Timeline dot for mobile, centered above card */}
+                  <div className="flex flex-col items-center w-full sm:hidden mb-2">
+                    <div className="w-4 h-4 bg-gradient-to-r from-green-400 to-blue-600 rounded-full border-4 border-white shadow-lg"></div>
+                  </div>
+                  {/* Card */}
+                  <div className="w-full sm:w-1/2 px-2 sm:px-8 flex justify-center sm:justify-start">
                     <div
-                      className={`bg-white p-6 rounded-xl shadow-lg border-l-4 border-green-500 hover:shadow-xl transition-all duration-300 ${
-                        index % 2 === 0 ? "text-right" : "text-left"
+                      className={`bg-white w-full max-w-xs sm:max-w-full p-2 sm:p-6 rounded-xl shadow-lg border-l-4 border-green-500 hover:shadow-xl transition-all duration-300 ${
+                        index % 2 === 0 ? "sm:text-right" : "sm:text-left"
                       }`}
                     >
-                      <div className="flex items-center justify-between mb-3">
-                        <div className="text-3xl">{stage.icon}</div>
-                        <div className="text-sm font-semibold text-green-600 bg-green-50 px-3 py-1 rounded-full">
+                      <div className="flex items-center justify-between mb-2 sm:mb-3">
+                        <div className="text-xl sm:text-3xl">{stage.icon}</div>
+                        <div className="text-xs sm:text-sm font-semibold text-green-600 bg-green-50 px-2 sm:px-3 py-1 rounded-full">
                           {stage.duration}
                         </div>
                       </div>
-                      <div className="text-lg font-bold text-green-600 mb-2">
+                      <div className="text-sm sm:text-lg font-bold text-green-600 mb-1 sm:mb-2">
                         {stage.stage}
                       </div>
-                      <h3 className="text-xl font-bold mb-2 text-gray-900">
+                      <h3 className="text-base sm:text-xl font-bold mb-1 sm:mb-2 text-gray-900">
                         {stage.title}
                       </h3>
-                      <p className="text-gray-600 leading-relaxed">
+                      <p className="text-gray-600 text-xs sm:text-base leading-relaxed">
                         {stage.description}
                       </p>
                     </div>
                   </div>
-                  <div className="w-6 h-6 bg-gradient-to-r from-green-400 to-blue-600 rounded-full border-4 border-white shadow-lg"></div>
-                  <div className="w-1/2 px-8"></div>
+                  {/* Timeline dot for desktop, between cards */}
+                  <div className="hidden sm:flex w-6 h-6 bg-gradient-to-r from-green-400 to-blue-600 rounded-full border-4 border-white shadow-lg my-2 sm:my-0"></div>
+                  <div className="hidden sm:block w-1/2 px-8"></div>
                 </div>
               ))}
             </div>
