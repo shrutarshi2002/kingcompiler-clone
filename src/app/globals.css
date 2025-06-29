@@ -168,3 +168,15 @@ body {
   content: "📰";
   margin-right: 0.5rem;
 }
+
+/* Navbar with navbg.png background and low opacity overlay */
+.navbar-chess-bg {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.9),
+      rgba(255, 255, 255, 0.9)
+    ),
+    url("/navbg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

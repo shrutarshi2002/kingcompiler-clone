@@ -7,7 +7,7 @@ export default function PrivacyPolicyPage() {
   return (
     <div className="min-h-screen bg-white flex flex-col">
       <Navbar />
-      <main className="flex-1 max-w-3xl mx-auto px-4 pt-[320px] md:pt-20 pb-16">
+      <main className="flex-1 max-w-3xl mx-auto px-4 pt-[100px] lg:pt-[120px] pb-16">
         <h1 className="text-4xl font-bold mb-6 text-gray-900 text-center">
           Privacy Policy
         </h1>

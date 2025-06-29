@@ -140,29 +140,25 @@ export default function AboutPage() {
     {
       name: "Chess Masters",
       role: "International Chess Coaches",
-      image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+      image: "/Expert/1.png",
       description: "FIDE-rated players with years of teaching experience",
     },
     {
       name: "Tech Experts",
       role: "Senior Software Engineers",
-      image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=200&h=200&fit=crop&crop=face",
+      image: "/Expert/2.png",
       description: "Industry professionals from top tech companies",
     },
     {
       name: "AI Specialists",
       role: "Machine Learning Engineers",
-      image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+      image: "/Expert/3.png",
       description: "Experts in AI and emerging technologies",
     },
     {
       name: "Education Leaders",
       role: "Child Development Specialists",
-      image:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop&crop=face",
+      image: "/Expert/4.png",
       description: "Certified educators with psychology backgrounds",
     },
   ];
