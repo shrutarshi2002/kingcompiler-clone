@@ -167,8 +167,13 @@ export default function BlogPage() {
 
   const handlePostClick = (post) => {
     if (post.slug) {
-      // Navigate to local Substack post page
-      window.location.href = `/blog/substack/${post.slug}`;
+      // Navigate to appropriate post page based on source
+      if (post.source === "local") {
+        window.location.href = `/blog/local/${post.slug}`;
+      } else {
+        // Default to Substack post page
+        window.location.href = `/blog/substack/${post.slug}`;
+      }
     }
   };
 
@@ -274,7 +279,7 @@ export default function BlogPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredPosts.map((post) => (
               <article
-                key={`substack-${post.id}`}
+                key={`${post.source}-${post.id}`}
                 className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer"
                 itemScope
                 itemType="https://schema.org/BlogPosting"
@@ -282,7 +287,9 @@ export default function BlogPage() {
               >
                 {/* Featured image */}
                 <div className="relative h-48 bg-gray-200">
-                  {post.image && post.image !== "/blog/substack-post.jpg" ? (
+                  {post.image &&
+                  post.image !== "/blog/substack-post.jpg" &&
+                  post.image !== "/blog/local-post.jpg" ? (
                     <Image
                       src={post.image}
                       alt={post.title}
@@ -300,8 +307,14 @@ export default function BlogPage() {
                     </span>
                   </div>
                   <div className="absolute top-4 right-4">
-                    <span className="bg-orange-600 text-white px-2 py-1 rounded text-xs font-semibold">
-                      Substack
+                    <span
+                      className={`${
+                        post.source === "local"
+                          ? "bg-green-600"
+                          : "bg-orange-600"
+                      } text-white px-2 py-1 rounded text-xs font-semibold`}
+                    >
+                      {post.source === "local" ? "Local" : "Substack"}
                     </span>
                   </div>
                 </div>
@@ -363,24 +376,36 @@ export default function BlogPage() {
                     >
                       Read More
                     </button>
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        if (post.originalLink) {
-                          window.open(post.originalLink, "_blank");
-                        } else if (post.externalLinks?.substack) {
-                          window.open(post.externalLinks.substack, "_blank");
-                        } else {
-                          window.open(
-                            "https://kingcompiler.substack.com",
-                            "_blank"
-                          );
-                        }
-                      }}
-                      className="bg-orange-600 hover:bg-orange-700 text-white py-2 px-3 rounded text-sm font-medium transition-colors duration-200"
-                    >
-                      Substack
-                    </button>
+                    {post.source === "local" ? (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          window.open("/blog-admin", "_blank");
+                        }}
+                        className="bg-green-600 hover:bg-green-700 text-white py-2 px-3 rounded text-sm font-medium transition-colors duration-200"
+                      >
+                        Manage
+                      </button>
+                    ) : (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          if (post.originalLink) {
+                            window.open(post.originalLink, "_blank");
+                          } else if (post.externalLinks?.substack) {
+                            window.open(post.externalLinks.substack, "_blank");
+                          } else {
+                            window.open(
+                              "https://kingcompiler.substack.com",
+                              "_blank"
+                            );
+                          }
+                        }}
+                        className="bg-orange-600 hover:bg-orange-700 text-white py-2 px-3 rounded text-sm font-medium transition-colors duration-200"
+                      >
+                        Substack
+                      </button>
+                    )}
                   </div>
                 </div>
               </article>

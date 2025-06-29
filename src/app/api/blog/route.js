@@ -114,16 +114,19 @@ const regularBlogPosts = [
 
 export async function GET() {
   try {
-    // Fetch Substack posts only with cache-busting
+    // Fetch both Substack posts and local posts
     let substackPosts = [];
+    let localPosts = [];
+
+    // Fetch Substack posts
     try {
       // Use relative URL for internal API calls in production
       const baseUrl =
         process.env.NEXT_PUBLIC_BASE_URL ||
         (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
-      const apiUrl = `${baseUrl}/api/blog/substack`;
+      const substackApiUrl = `${baseUrl}/api/blog/substack`;
 
-      const substackResponse = await fetch(apiUrl, {
+      const substackResponse = await fetch(substackApiUrl, {
         method: "GET",
         headers: {
           "Cache-Control": "no-cache, no-store, must-revalidate",
@@ -142,13 +145,47 @@ export async function GET() {
       console.error("Error fetching Substack posts:", error);
     }
 
-    // Return only Substack posts with cache control headers
+    // Fetch local posts
+    try {
+      const baseUrl =
+        process.env.NEXT_PUBLIC_BASE_URL ||
+        (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
+      const localApiUrl = `${baseUrl}/api/blog/local`;
+
+      const localResponse = await fetch(localApiUrl, {
+        method: "GET",
+        headers: {
+          "Cache-Control": "no-cache, no-store, must-revalidate",
+          Pragma: "no-cache",
+          Expires: "0",
+        },
+        next: { revalidate: 0 }, // Disable Next.js caching
+      });
+      if (localResponse.ok) {
+        const localData = await localResponse.json();
+        if (localData.success && localData.posts) {
+          localPosts = localData.posts;
+        }
+      }
+    } catch (error) {
+      console.error("Error fetching local posts:", error);
+    }
+
+    // Combine and sort posts by date (newest first)
+    const allPosts = [...substackPosts, ...localPosts].sort((a, b) => {
+      const dateA = new Date(a.date || a.createdAt || 0);
+      const dateB = new Date(b.date || b.createdAt || 0);
+      return dateB - dateA;
+    });
+
+    // Return combined posts with cache control headers
     return NextResponse.json(
       {
         success: true,
-        posts: substackPosts,
-        total: substackPosts.length,
+        posts: allPosts,
+        total: allPosts.length,
         substack: substackPosts.length,
+        local: localPosts.length,
         lastUpdated: new Date().toISOString(),
       },
       {
