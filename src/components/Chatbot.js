@@ -611,7 +611,16 @@ const Chatbot = () => {
 
   const sendMessage = async (msg = input, fromVoice = false) => {
     // Ensure msg is a string
-    const messageText = String(msg || input).trim();
+    let messageText = msg;
+    if (typeof messageText === "object" && messageText !== null) {
+      // If it's an event or object with value, use value
+      if ("value" in messageText) {
+        messageText = messageText.value;
+      } else {
+        messageText = "";
+      }
+    }
+    messageText = String(messageText || input).trim();
     if (!messageText) return;
 
     const userMessage = { sender: "user", text: messageText };

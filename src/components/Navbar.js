@@ -178,31 +178,34 @@ export default function Navbar() {
       </div>
       {/* Mobile Menu */}
       {menuOpen && (
-        <div className="absolute top-full left-0 w-full bg-white shadow-lg z-20 flex flex-col items-center py-4 md:hidden animate-fade-in">
+        <div
+          className="absolute top-full left-0 w-full bg-white shadow-lg z-20 flex flex-col md:hidden animate-fade-in space-y-2 overflow-y-auto"
+          style={{ maxHeight: "80vh", padding: "1rem 0" }}
+        >
           <button
             onClick={handleCoursesClick}
-            className="w-11/12 text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold mb-1 hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+            className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
             style={{ background: "none" }}
           >
             Courses
           </button>
           <Link href="/about">
             <button
-              className="w-11/12 text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold mb-1 hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+              className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
               style={{ background: "none" }}
             >
               About Us
             </button>
           </Link>
-          <Link href="/blog" className="w-11/12">
+          <Link href="/blog">
             <button
-              className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold mb-1 hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+              className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
               style={{ background: "none" }}
             >
               Blogs
             </button>
           </Link>
-          <div className="w-11/12 relative mb-1">
+          <div className="w-full relative">
             <button
               onClick={() => setArenaOpen((open) => !open)}
               className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold flex items-center gap-1 focus:outline-none hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
@@ -224,7 +227,7 @@ export default function Navbar() {
               </svg>
             </button>
             {arenaOpen && (
-              <div className="w-full rounded shadow-lg z-30 bg-white border border-primary mt-1">
+              <div className="w-full rounded shadow-lg z-30 bg-white border border-primary mt-1 flex flex-col space-y-2">
                 <button
                   className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
                   style={{ background: "none" }}
@@ -257,14 +260,14 @@ export default function Navbar() {
           </div>
           <Link href="/contact">
             <button
-              className="w-11/12 text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold mb-1 hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+              className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
               style={{ background: "none" }}
             >
               Contact Us
             </button>
           </Link>
           <button
-            className="w-11/12 text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold mb-1 hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+            className="w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
             style={{ background: "none" }}
           >
             Privacy Policy
