@@ -59,7 +59,7 @@ export default function OurOfferingsSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-bold mb-1 text-black">One-to-One</h3>
+            <h3 className="text-xl font-bold mb-1 text-black">One-on-One</h3>
             <p className="text-gray-700 text-center text-sm">
               Personalized attention, flexible scheduling, and customized lesson
               plans. Ideal for students seeking focused, individual guidance.
