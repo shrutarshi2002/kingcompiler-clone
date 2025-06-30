@@ -3,6 +3,9 @@ export const dynamic = "force-static";
 export default function sitemap() {
   const baseUrl = "https://kingmaster.com";
 
+  // Import courses data
+  const { courses } = require("../data/courseData");
+
   // Static pages
   const staticPages = [
     {
@@ -12,19 +15,19 @@ export default function sitemap() {
       priority: 1,
     },
     {
-      url: `${baseUrl}/blog`,
+      url: `${baseUrl}/courses`,
       lastModified: new Date(),
-      changeFrequency: "daily",
+      changeFrequency: "weekly",
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/features`,
+      url: `${baseUrl}/blog`,
       lastModified: new Date(),
-      changeFrequency: "monthly",
+      changeFrequency: "daily",
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/testimonials`,
+      url: `${baseUrl}/about`,
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.7,
@@ -36,6 +39,14 @@ export default function sitemap() {
       priority: 0.6,
     },
   ];
+
+  // Course pages
+  const courseUrls = courses.map((course) => ({
+    url: `${baseUrl}/courses/${course.id}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.8,
+  }));
 
   // Blog posts (this would be fetched from your database in production)
   const blogPosts = [
@@ -114,5 +125,11 @@ export default function sitemap() {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...blogUrls, ...categoryUrls, ...tagUrls];
+  return [
+    ...staticPages,
+    ...courseUrls,
+    ...blogUrls,
+    ...categoryUrls,
+    ...tagUrls,
+  ];
 }

@@ -67,7 +67,7 @@ export default function AboutPage() {
             "@type": "Offer",
             itemOffered: {
               "@type": "Course",
-              name: "Chess Genius Training",
+              name: "Online Chess Classes for Kids",
             },
           },
           {
@@ -82,6 +82,13 @@ export default function AboutPage() {
             itemOffered: {
               "@type": "Course",
               name: "Generative AI for Kids",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Course",
+              name: "Machine Learning and AI for Kids",
             },
           },
         ],
@@ -106,7 +113,7 @@ export default function AboutPage() {
     { number: "4.9/5", label: "Average Rating", icon: "⭐" },
     { number: "100%", label: "Satisfaction Rate", icon: "💯" },
     { number: "50+", label: "Expert Coaches", icon: "👨‍🏫" },
-    { number: "11", label: "Specialized Courses", icon: "📚" },
+    { number: "12", label: "Specialized Courses", icon: "📚" },
   ];
 
   const values = [
@@ -213,6 +220,270 @@ export default function AboutPage() {
   const closeFormModal = () => {
     setIsFormModalOpen(false);
   };
+
+  // 50 SEO-rich FAQs for About Us page
+  const faqs = [
+    {
+      question: "What is KingCompiler Academy?",
+      answer:
+        "KingCompiler Academy is a leading online education platform specializing in chess, coding, and AI courses for children worldwide.",
+    },
+    {
+      question: "Who can join KingCompiler Academy?",
+      answer:
+        "Our programs are designed for children aged 5 to 18, with courses tailored for all skill levels from beginner to advanced.",
+    },
+    {
+      question: "What makes KingCompiler different from other academies?",
+      answer:
+        "We offer personalized learning, internationally certified coaches, modern curriculum, and a proven track record of student success.",
+    },
+    {
+      question: "Are your courses live or recorded?",
+      answer:
+        "All our courses are conducted live online, ensuring real-time interaction and personalized feedback for every student.",
+    },
+    {
+      question: "How do I book a free trial class?",
+      answer:
+        "You can book a free trial class by clicking the 'Start Free Trial' button or contacting our support team.",
+    },
+    {
+      question: "What subjects do you teach?",
+      answer:
+        "We teach chess, coding (Scratch, Python, Web Development), AI, robotics, mathematics, and more.",
+    },
+    {
+      question: "Are your instructors qualified?",
+      answer:
+        "Yes, our instructors are certified professionals, FIDE-rated chess players, and experienced educators from top tech companies.",
+    },
+    {
+      question: "Do you offer certificates?",
+      answer:
+        "Yes, students receive certificates of completion and achievement badges for milestones.",
+    },
+    {
+      question: "Can siblings join together?",
+      answer:
+        "Absolutely! We offer sibling discounts and encourage family participation.",
+    },
+    {
+      question: "How do you ensure online safety for kids?",
+      answer:
+        "All sessions are monitored, and we use secure, child-friendly platforms to ensure a safe learning environment.",
+    },
+    {
+      question: "What is the average class size?",
+      answer:
+        "We maintain small batch sizes (typically 6-10 students) to ensure personalized attention.",
+    },
+    {
+      question: "What technology do I need to join?",
+      answer:
+        "A computer or tablet with internet access is required. We guide you through any software setup needed.",
+    },
+    {
+      question: "Do you offer one-on-one classes?",
+      answer:
+        "Yes, we offer both group and one-on-one classes based on your child's needs.",
+    },
+    {
+      question: "How do you track student progress?",
+      answer:
+        "We provide regular feedback, progress reports, and assessments to help students improve continuously.",
+    },
+    {
+      question: "Are there homework or practice assignments?",
+      answer:
+        "Yes, students receive practice exercises and projects to reinforce learning between sessions.",
+    },
+    {
+      question: "Can parents observe classes?",
+      answer:
+        "Parents are welcome to observe trial classes and can request progress updates anytime.",
+    },
+    {
+      question: "What payment methods do you accept?",
+      answer:
+        "We accept all major credit/debit cards, UPI, and net banking for course payments.",
+    },
+    {
+      question: "How do I contact support?",
+      answer:
+        "You can reach our support team via email, phone, or the chat option on our website.",
+    },
+    {
+      question: "Do you offer classes in different time zones?",
+      answer:
+        "Yes, we have flexible scheduling and offer classes suitable for students in various countries.",
+    },
+    {
+      question: "What is your refund policy?",
+      answer:
+        "We offer a satisfaction guarantee. Please contact our support for details on refunds and cancellations.",
+    },
+    {
+      question: "How do I enroll my child?",
+      answer:
+        "You can enroll by booking a free trial class or filling out the enrollment form on our website.",
+    },
+    {
+      question: "What languages are classes conducted in?",
+      answer:
+        "Our primary language of instruction is English, but we also offer support in Hindi.",
+    },
+    {
+      question: "Do you offer summer camps or workshops?",
+      answer:
+        "Yes, we run special camps and workshops during holidays. Check our website for upcoming events.",
+    },
+    {
+      question: "How long are the courses?",
+      answer:
+        "Course durations vary from 3 to 12 months, depending on the subject and level.",
+    },
+    {
+      question: "Will my child get personal attention?",
+      answer:
+        "Yes, our small class sizes and dedicated instructors ensure every child receives personal guidance.",
+    },
+    {
+      question: "Are there any prerequisites?",
+      answer:
+        "Most courses require only basic computer skills and a willingness to learn.",
+    },
+    {
+      question: "Can my child participate in competitions?",
+      answer:
+        "Yes, we encourage students to participate in internal and external competitions and olympiads.",
+    },
+    {
+      question: "What is the teaching methodology?",
+      answer:
+        "We use interactive, project-based learning with a focus on critical thinking and creativity.",
+    },
+    {
+      question: "Do you provide study material?",
+      answer:
+        "Yes, all necessary study material and resources are provided digitally.",
+    },
+    {
+      question: "How do I know which course is right for my child?",
+      answer:
+        "Our experts can guide you based on your child's interests and goals. Book a free consultation!",
+    },
+    {
+      question: "Can my child switch courses later?",
+      answer:
+        "Yes, students can switch or add courses as their interests evolve.",
+    },
+    {
+      question: "Are there any discounts or scholarships?",
+      answer:
+        "We offer sibling discounts and occasional scholarships for meritorious students.",
+    },
+    {
+      question: "How do you select your instructors?",
+      answer:
+        "All instructors undergo a rigorous selection process and background checks.",
+    },
+    {
+      question: "What is the student success rate?",
+      answer:
+        "Over 95% of our students achieve their learning goals and show measurable improvement.",
+    },
+    {
+      question: "Do you offer demo classes?",
+      answer:
+        "Yes, every new student can attend a free demo class before enrolling.",
+    },
+    {
+      question: "Is there a mobile app?",
+      answer:
+        "Our platform is mobile-friendly, and a dedicated app is coming soon.",
+    },
+    {
+      question: "How do you handle feedback and complaints?",
+      answer:
+        "We value feedback and resolve complaints promptly through our dedicated support team.",
+    },
+    {
+      question: "What is the minimum age to join?",
+      answer:
+        "Children as young as 5 years old can join our beginner programs.",
+    },
+    {
+      question: "Do you offer parent-teacher meetings?",
+      answer:
+        "Yes, we schedule regular parent-teacher meetings to discuss progress and address concerns.",
+    },
+    {
+      question: "Are your courses recognized internationally?",
+      answer:
+        "Our certificates are recognized by several educational partners and organizations.",
+    },
+    {
+      question: "Can I refer a friend?",
+      answer:
+        "Yes, we have a referral program with exciting rewards for both you and your friend.",
+    },
+    {
+      question: "How do I get updates about new courses?",
+      answer:
+        "Subscribe to our newsletter or follow us on social media for the latest updates.",
+    },
+    {
+      question: "What is the class duration?",
+      answer:
+        "Each session typically lasts 60 minutes, including instruction and Q&A.",
+    },
+    {
+      question: "Do you offer group classes?",
+      answer:
+        "Yes, we offer both group and individual classes to suit different learning preferences.",
+    },
+    {
+      question: "How do you motivate students?",
+      answer:
+        "We use gamification, rewards, and regular encouragement to keep students motivated.",
+    },
+    {
+      question: "Can my child get extra help if needed?",
+      answer:
+        "Yes, we offer extra support sessions and doubt-clearing classes as needed.",
+    },
+    {
+      question: "Is there a trial period?",
+      answer:
+        "Yes, you can try our classes risk-free with a free trial session.",
+    },
+    {
+      question: "How do I access class recordings?",
+      answer:
+        "Class recordings are available for students who miss a session or want to review.",
+    },
+    {
+      question: "Do you offer career guidance?",
+      answer:
+        "We provide career guidance and mentorship for older students interested in tech and STEM fields.",
+    },
+    {
+      question: "What is your mission?",
+      answer:
+        "Our mission is to empower every child with future-ready skills in a fun, engaging, and supportive environment.",
+    },
+    {
+      question: "How can I join the KingCompiler team?",
+      answer:
+        "Visit our Careers page to see open positions and join our passionate team of educators.",
+    },
+    {
+      question: "Where is KingCompiler Academy based?",
+      answer:
+        "We are headquartered in India and Dubai, serving students globally through our online platform.",
+    },
+  ];
 
   return (
     <div className="min-h-screen bg-white pt-20">
@@ -494,6 +765,58 @@ export default function AboutPage() {
             >
               📞 Talk to Expert
             </button>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section for SEO */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-4xl font-bold mb-8 text-gray-900 text-center">
+            Frequently Asked Questions
+          </h2>
+          <div
+            className="space-y-4"
+            itemScope
+            itemType="https://schema.org/FAQPage"
+          >
+            {faqs.map((faq, idx) => (
+              <details
+                key={idx}
+                className="group bg-white rounded-lg shadow-md p-6 transition-all duration-200"
+                itemScope
+                itemProp="mainEntity"
+                itemType="https://schema.org/Question"
+              >
+                <summary
+                  className="cursor-pointer text-lg font-semibold text-gray-800 group-open:text-yellow-600 flex items-center justify-between"
+                  itemProp="name"
+                >
+                  {faq.question}
+                  <svg
+                    className="w-5 h-5 ml-2 transform transition-transform group-open:rotate-180"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M19 9l-7 7-7-7"
+                    />
+                  </svg>
+                </summary>
+                <div
+                  className="mt-4 text-gray-700 leading-relaxed"
+                  itemScope
+                  itemProp="acceptedAnswer"
+                  itemType="https://schema.org/Answer"
+                >
+                  <span itemProp="text">{faq.answer}</span>
+                </div>
+              </details>
+            ))}
           </div>
         </div>
       </section>

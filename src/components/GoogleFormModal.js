@@ -1,8 +1,10 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function GoogleFormModal({ isOpen, onClose }) {
+  const [iframeLoaded, setIframeLoaded] = useState(false);
+
   useEffect(() => {
     if (isOpen) {
       document.body.style.overflow = "hidden";
@@ -18,11 +20,11 @@ export default function GoogleFormModal({ isOpen, onClose }) {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/20 backdrop-blur-sm">
       {/* Modal container */}
-      <div className="relative w-full max-w-2xl h-[70vh] bg-transparent rounded-xl overflow-hidden">
+      <div className="relative w-full max-w-2xl h-[70vh] bg-white rounded-xl overflow-hidden border-2 border-gray-300 shadow-2xl">
         {/* Modal header */}
-        <div className="flex items-center justify-between p-3 bg-gradient-to-r from-yellow-400 to-yellow-500 rounded-t-xl shadow-lg">
+        <div className="flex items-center justify-between p-3 bg-gradient-to-r from-yellow-400 to-yellow-500 shadow-lg">
           <h2 className="text-lg font-bold text-black">
             Book Your Free Demo Class
           </h2>
@@ -46,7 +48,18 @@ export default function GoogleFormModal({ isOpen, onClose }) {
           </button>
         </div>
 
-        {/* Google Form iframe */}
+        {/* Loading Screen */}
+        {!iframeLoaded && (
+          <div className="flex items-center justify-center h-full bg-white">
+            <div className="text-center">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600 mx-auto mb-4"></div>
+              <h3 className="text-xl font-semibold text-gray-700 mb-2">
+                Wait a sec...
+              </h3>
+              <p className="text-gray-600">Form is getting ready...</p>
+            </div>
+          </div>
+        )}
         <div className="w-full h-full bg-transparent">
           <iframe
             src="https://forms.gle/RGYKvt6qQfLWqwrg8?embedded=true"
@@ -55,6 +68,8 @@ export default function GoogleFormModal({ isOpen, onClose }) {
             frameBorder="0"
             allowFullScreen
             loading="eager"
+            style={{ display: iframeLoaded ? "block" : "none" }}
+            onLoad={() => setIframeLoaded(true)}
           ></iframe>
         </div>
       </div>

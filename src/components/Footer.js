@@ -148,7 +148,7 @@ export default function Footer() {
                   href="#"
                   className="text-gray-300 hover:text-yellow-400 transition-colors"
                 >
-                  Chess Training
+                  Online Chess Classes for Kids
                 </a>
               </li>
               <li>
@@ -189,6 +189,22 @@ export default function Footer() {
                   className="text-gray-300 hover:text-yellow-400 transition-colors"
                 >
                   Game Development
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-yellow-400 transition-colors"
+                >
+                  Database Management
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                  className="text-gray-300 hover:text-yellow-400 transition-colors"
+                >
+                  Machine Learning & AI
                 </a>
               </li>
             </ul>

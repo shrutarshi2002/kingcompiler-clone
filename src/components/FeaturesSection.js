@@ -6,7 +6,7 @@ export default function FeaturesSection() {
   const features = [
     {
       icon: "/globe.svg",
-      title: "Chess Training",
+      title: "Online Chess Classes for Kids",
       description:
         "Master chess strategies, tactics, and advanced techniques with expert guidance.",
     },

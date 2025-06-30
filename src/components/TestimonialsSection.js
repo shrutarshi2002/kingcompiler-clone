@@ -12,7 +12,7 @@ export default function TestimonialsSection() {
       name: "Priya Sharma",
       role: "Parent",
       studentName: "Arjun (8 years)",
-      course: "Chess Genius Training",
+      course: "Online Chess Classes for Kids",
       location: "Mumbai, India",
       rating: 5,
       image:
@@ -144,7 +144,7 @@ export default function TestimonialsSection() {
       name: "Sophie Martin",
       role: "Student",
       age: "15 years",
-      course: "Chess Genius Training",
+      course: "Online Chess Classes for Kids",
       location: "Paris, France",
       rating: 5,
       image:
@@ -246,6 +246,18 @@ export default function TestimonialsSection() {
       image:
         "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
       text: "Creating games is my favorite hobby now! The teachers explain game mechanics in such an engaging way.",
+    },
+    {
+      id: 21,
+      name: "Elena Rodriguez",
+      role: "Parent",
+      studentName: "Carlos (13 years)",
+      course: "Machine Learning and AI for Kids",
+      location: "Barcelona, Spain",
+      rating: 5,
+      image:
+        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      text: "Carlos is fascinated by machine learning! The course makes complex AI concepts accessible and fun for kids.",
     },
   ];
 

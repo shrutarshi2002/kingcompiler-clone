@@ -14,9 +14,62 @@ import StatsSection from "../components/StatsSection";
 import Footer from "../components/Footer";
 import GoogleFormModal from "../components/GoogleFormModal";
 import FloatingDemoButton from "../components/FloatingDemoButton";
+import SEOHead from "../components/SEOHead";
 
 export default function Home() {
   const [showModal, setShowModal] = useState(false);
+
+  // SEO structured data for homepage
+  const homepageStructuredData = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    name: "KingCompiler Academy",
+    url: "https://kingmaster.com",
+    logo: "https://kingmaster.com/logo.png",
+    description:
+      "Leading online academy offering expert-led courses in chess, coding, AI, and robotics for children aged 5+",
+    address: {
+      "@type": "PostalAddress",
+      addressCountry: "IN",
+    },
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "customer service",
+      availableLanguage: "English",
+    },
+    sameAs: [
+      "https://facebook.com/kingcompiler",
+      "https://twitter.com/kingcompiler",
+      "https://instagram.com/kingcompiler",
+    ],
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Online Courses for Kids",
+      itemListElement: [
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Course",
+            name: "Online Chess Classes for Kids",
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Course",
+            name: "Coding Logic for Kids",
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Course",
+            name: "Machine Learning and AI for Kids",
+          },
+        },
+      ],
+    },
+  };
 
   // Handle hash navigation to courses section
   useEffect(() => {
@@ -46,6 +99,15 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white pt-20">
+      <SEOHead
+        title="KingCompiler - Online Academy for Chess, Coding, AI & Robotics for Kids"
+        description="Transform your child's future with expert-led online classes in Chess, Coding, AI, Robotics, and more. Free trial available. Join 1000+ happy students!"
+        keywords="online chess classes, coding for kids, AI classes, robotics for children, online education, kids programming, chess academy, STEM education, online learning"
+        image="https://kingmaster.com/banner.png"
+        url="https://kingmaster.com"
+        type="website"
+        structuredData={homepageStructuredData}
+      />
       <Navbar onBookDemo={handleBookDemo} />
       <HeroSection onBookDemo={handleBookDemo} />
       <AchieversSection />

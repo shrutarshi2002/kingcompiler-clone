@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 const countryCodes = [
   { code: "+1", name: "USA/Canada" },
@@ -20,9 +20,21 @@ const countryCodes = [
 export default function BookDemoModal({ isOpen, onClose }) {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   const [selectedCode, setSelectedCode] = useState("+91");
   const [course, setCourse] = useState("");
   const [otherCourse, setOtherCourse] = useState("");
+
+  // Loading screen effect when modal opens
+  useEffect(() => {
+    if (isOpen) {
+      setIsLoading(true);
+      const timer = setTimeout(() => {
+        setIsLoading(false);
+      }, 2000); // Show loading for 2 seconds
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -60,20 +72,30 @@ export default function BookDemoModal({ isOpen, onClose }) {
   const closeModal = () => {
     onClose();
     setIsSubmitted(false);
+    setIsLoading(true);
   };
 
   if (!isOpen) return null;
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/20 backdrop-blur-sm">
-      <div className="bg-white/95 backdrop-blur-md rounded-lg shadow-2xl p-8 w-full max-w-md relative border border-white/20">
+      <div className="bg-white/95 backdrop-blur-md rounded-lg shadow-2xl p-8 w-full max-w-md relative border-2 border-gray-300">
         <button
           onClick={closeModal}
           className="absolute top-3 right-3 text-gray-400 hover:text-gray-700 text-2xl"
         >
           &times;
         </button>
-        {!isSubmitted ? (
+
+        {isLoading ? (
+          <div className="text-center py-8">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600 mx-auto mb-4"></div>
+            <h3 className="text-xl font-semibold text-gray-700 mb-2">
+              Wait a sec...
+            </h3>
+            <p className="text-gray-600">Form is getting ready...</p>
+          </div>
+        ) : !isSubmitted ? (
           <>
             <h3 className="text-2xl font-bold mb-4 text-center">
               Book a Demo Class
@@ -83,14 +105,14 @@ export default function BookDemoModal({ isOpen, onClose }) {
                 type="text"
                 name="name"
                 placeholder="Your Name"
-                className="border rounded px-4 py-2 bg-white/80 backdrop-blur-sm"
+                className="border-2 border-gray-300 rounded px-4 py-2 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                 required
               />
               <input
                 type="email"
                 name="email"
                 placeholder="Email Address"
-                className="border rounded px-4 py-2 bg-white/80 backdrop-blur-sm"
+                className="border-2 border-gray-300 rounded px-4 py-2 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                 required
               />
               <div className="flex gap-2">
@@ -98,7 +120,7 @@ export default function BookDemoModal({ isOpen, onClose }) {
                   name="country_code"
                   value={selectedCode}
                   onChange={(e) => setSelectedCode(e.target.value)}
-                  className="border rounded px-2 py-2 bg-white/80 backdrop-blur-sm"
+                  className="border-2 border-gray-300 rounded px-2 py-2 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                   required
                 >
                   {countryCodes.map((c) => (
@@ -111,7 +133,7 @@ export default function BookDemoModal({ isOpen, onClose }) {
                   type="tel"
                   name="phone"
                   placeholder="Phone Number"
-                  className="border rounded px-4 py-2 flex-1 bg-white/80 backdrop-blur-sm"
+                  className="border-2 border-gray-300 rounded px-4 py-2 flex-1 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                   required
                 />
               </div>
@@ -119,7 +141,7 @@ export default function BookDemoModal({ isOpen, onClose }) {
                 type="tel"
                 name="whatsapp"
                 placeholder="WhatsApp Number (optional)"
-                className="border rounded px-4 py-2 bg-white/80 backdrop-blur-sm"
+                className="border-2 border-gray-300 rounded px-4 py-2 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
               />
               <div>
                 <label className="block mb-1 font-medium">
@@ -129,7 +151,7 @@ export default function BookDemoModal({ isOpen, onClose }) {
                   name="course"
                   value={course}
                   onChange={(e) => setCourse(e.target.value)}
-                  className="border rounded px-4 py-2 w-full bg-white/80 backdrop-blur-sm"
+                  className="border-2 border-gray-300 rounded px-4 py-2 w-full bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                   required
                 >
                   <option value="">Select a course</option>
@@ -144,7 +166,7 @@ export default function BookDemoModal({ isOpen, onClose }) {
                     value={otherCourse}
                     onChange={(e) => setOtherCourse(e.target.value)}
                     placeholder="Please specify"
-                    className="border rounded px-4 py-2 mt-2 w-full bg-white/80 backdrop-blur-sm"
+                    className="border-2 border-gray-300 rounded px-4 py-2 mt-2 w-full bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                     required
                   />
                 )}
@@ -152,13 +174,13 @@ export default function BookDemoModal({ isOpen, onClose }) {
               <input
                 type="datetime-local"
                 name="preferred_time"
-                className="border rounded px-4 py-2 bg-white/80 backdrop-blur-sm"
+                className="border-2 border-gray-300 rounded px-4 py-2 bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
                 required
               />
               <textarea
                 name="message"
                 placeholder="Any specific topics you'd like to cover? (optional)"
-                className="border rounded px-4 py-2 h-20 resize-none bg-white/80 backdrop-blur-sm"
+                className="border-2 border-gray-300 rounded px-4 py-2 h-20 resize-none bg-white/80 backdrop-blur-sm focus:border-indigo-500 focus:outline-none transition-colors"
               />
               <button
                 type="submit"

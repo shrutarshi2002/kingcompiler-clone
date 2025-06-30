@@ -128,7 +128,7 @@ export default function ContactPage() {
     {
       question: "What courses do you offer?",
       answer:
-        "We offer comprehensive courses in Chess Training, Coding for Kids, AI & Robotics, Python Programming, Web Development, and Game Development.",
+        "We offer comprehensive courses in Online Chess Classes for Kids, Coding for Kids, AI & Robotics, Python Programming, Web Development, Game Development, Database Management, and Machine Learning & AI for Kids.",
     },
     {
       question: "How do I enroll my child?",
