@@ -215,33 +215,42 @@ export default function MostPopularCoursesSection() {
       {isModalOpen && selectedVideo && (
         <div className="fixed inset-0 flex items-center justify-center z-50 p-2 sm:p-4 bg-transparent">
           <div
-            className="relative w-full max-w-4xl rounded-lg overflow-hidden border-4 border-yellow-500 mx-auto"
+            className="relative w-full max-w-xl rounded-lg overflow-hidden border-4 border-yellow-500 mx-auto"
             style={{ borderWidth: 5, maxWidth: "95vw" }}
           >
+            {/* Cross Button - always visible, outside header */}
+            <button
+              onClick={closeVideoModal}
+              className="absolute top-2 right-2 bg-white border-2 border-gray-400 rounded-full text-black hover:text-yellow-600 text-2xl font-bold z-50 w-10 h-10 flex items-center justify-center shadow-lg focus:outline-none focus:ring-2 focus:ring-yellow-500"
+              aria-label="Close Video"
+            >
+              <svg
+                viewBox="0 0 24 24"
+                width="22"
+                height="22"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="3"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <line x1="18" y1="6" x2="6" y2="18" />
+                <line x1="6" y1="6" x2="18" y2="18" />
+              </svg>
+            </button>
             {/* Modal Header */}
             <div className="flex items-center justify-between p-4 bg-white bg-opacity-90 backdrop-blur-sm rounded-t-lg">
               <h3 className="text-xl font-bold text-gray-900">
                 {selectedVideo.name}
               </h3>
-              <button
-                onClick={closeVideoModal}
-                className="absolute -top-5 -right-5 bg-white border-4 border-yellow-500 rounded-full text-gray-700 hover:text-black text-2xl font-bold z-10 w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center shadow-lg"
-                aria-label="Close Video"
-                style={{ borderWidth: 5 }}
-              >
-                &times;
-              </button>
             </div>
 
             {/* Video Container */}
-            <div
-              className="relative w-full"
-              style={{ paddingBottom: "56.25%", minHeight: 200 }}
-            >
+            <div className="relative w-full aspect-video max-h-[80vh]">
               <iframe
                 src={YOUTUBE_LINK}
                 title={selectedVideo.name}
-                className="absolute top-0 left-0 w-full h-full"
+                className="absolute top-0 left-0 w-full h-full max-h-[80vh]"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
