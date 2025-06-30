@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import Image from "next/image";
+import Parser from "rss-parser";
 
 const categories = ["All", "Chess", "Coding", "Education", "Tutorials"];
 
@@ -420,4 +421,30 @@ export default function BlogSection() {
       </div>
     </section>
   );
+}
+
+export async function GET() {
+  const parser = new Parser();
+  const feed = await parser.parseURL("https://kingcompiler.substack.com/feed");
+  // Map RSS items to your expected structure
+  const posts = feed.items.map((item, idx) => ({
+    id: idx,
+    title: item.title,
+    excerpt: item.contentSnippet || "",
+    author: item.creator || "Kingcompiler Team",
+    date: item.isoDate || item.pubDate,
+    image: item.enclosure?.url || "/blog/substack-post.jpg",
+    category: item.categories?.[0] || "Blog",
+    slug: item.guid?.split("/").pop() || "",
+    readTime: "3 min read", // You can estimate or parse this if needed
+    tags: item.categories || [],
+    originalLink: item.link,
+    externalLinks: { substack: item.link },
+  }));
+
+  return Response.json({
+    success: true,
+    posts,
+    lastUpdated: new Date().toISOString(),
+  });
 }
