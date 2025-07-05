@@ -61,7 +61,7 @@ export default function MostPopularCoursesSection() {
                   onClick={() => setSelectedCategory(category)}
                   className={`px-4 py-2 rounded-full font-semibold text-sm md:text-base transition-all duration-200 ${
                     selectedCategory === category
-                      ? "bg-blue-600 text-white shadow-lg transform scale-105"
+                      ? "bg-yellow-400 text-black shadow-lg transform scale-105"
                       : "bg-white text-gray-700 hover:bg-gray-100 border border-gray-200 hover:border-gray-300"
                   }`}
                 >
@@ -95,7 +95,7 @@ export default function MostPopularCoursesSection() {
                   />
                   {/* Category Badge */}
                   <div className="absolute top-2 left-2">
-                    <span className="bg-blue-600 text-white px-2 py-1 rounded-full text-xs font-semibold">
+                    <span className="bg-yellow-400 text-black px-2 py-1 rounded-full text-xs font-semibold">
                       {course.category}
                     </span>
                   </div>

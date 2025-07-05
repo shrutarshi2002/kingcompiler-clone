@@ -104,13 +104,13 @@ export default function WhyChooseUs() {
               onClick={() =>
                 window.open("https://wa.me/919038162791", "_blank")
               }
-              className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-full font-semibold transition-colors duration-200"
+              className="bg-black hover:bg-gray-800 text-yellow-400 px-8 py-3 rounded-full font-semibold transition-colors duration-200"
             >
               💬 Start Learning Today
             </button>
             <button
               onClick={() => window.open("tel:+919038162791", "_blank")}
-              className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-semibold transition-colors duration-200"
+              className="bg-yellow-400 hover:bg-yellow-500 text-black px-8 py-3 rounded-full font-semibold transition-colors duration-200"
             >
               📞 Call for Details
             </button>
