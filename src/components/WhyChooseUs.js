@@ -52,15 +52,18 @@ export default function WhyChooseUs() {
     <section
       id="why-choose-us"
       className="py-16"
-      style={{ background: "var(--background)" }}
+      style={{ background: "#F9FAFB" }}
     >
       <div className="max-w-7xl mx-auto px-4">
         {/* Header */}
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-black">
+          <h2
+            className="text-4xl md:text-5xl font-bold mb-4"
+            style={{ color: "#000" }}
+          >
             Why Choose Us?
           </h2>
-          <p className="text-xl mb-8" style={{ color: "var(--secondary)" }}>
+          <p className="text-xl mb-8" style={{ color: "#000" }}>
             Discover what makes Kingcompiler the preferred choice for chess and
             coding education
           </p>

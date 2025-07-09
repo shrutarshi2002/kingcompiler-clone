@@ -181,3 +181,13 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* Hero subtitle color fix for both light and dark mode */
+.hero-subtitle {
+  color: #444;
+}
+@media (prefers-color-scheme: dark) {
+  .hero-subtitle {
+    color: #444 !important;
+  }
+}

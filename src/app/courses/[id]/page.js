@@ -569,11 +569,11 @@ export default function CoursePage() {
             >
               &times;
             </button>
-            <div className="relative w-full aspect-video max-h-[80vh]">
+            <div className="relative w-full aspect-video max-h-[30vh]">
               <iframe
                 src="https://www.youtube.com/embed/lxIFwQ6GaZI?si=jn8mYOaAkz5MnQ62"
                 title="Course Video"
-                className="absolute top-0 left-0 w-full h-full rounded-b-lg max-h-[80vh]"
+                className="absolute top-0 left-0 w-full h-full rounded-b-lg max-h-[30vh]"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen

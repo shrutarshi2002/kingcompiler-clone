@@ -71,7 +71,7 @@ export default function HeroSection({ onBookDemo }) {
           </span>
         </h1>
         <p
-          className="text-base sm:text-lg lg:text-xl mb-6 lg:mb-8 leading-relaxed"
+          className="hero-subtitle text-base sm:text-lg lg:text-xl mb-6 lg:mb-8 leading-relaxed"
           style={{ color: "var(--foreground)" }}
         >
           Learn from expert mentors in fun, interactive, and personalized

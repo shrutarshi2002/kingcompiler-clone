@@ -451,7 +451,7 @@ export default function CoursesPage() {
       {isVideoModalOpen && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-transparent px-2 sm:px-0">
           <div
-            className="bg-white rounded-lg shadow-lg w-full max-w-xl relative border-4 border-yellow-500 mx-auto"
+            className="bg-white rounded-lg shadow-lg w-full max-w-xs relative border-4 border-yellow-500 mx-auto"
             style={{ borderWidth: 5, maxWidth: "95vw" }}
           >
             <button
@@ -473,11 +473,11 @@ export default function CoursesPage() {
                 <line x1="6" y1="6" x2="18" y2="18" />
               </svg>
             </button>
-            <div className="relative w-full aspect-video max-h-[80vh]">
+            <div className="relative aspect-video w-64 max-h-[30vh] mx-auto">
               <iframe
                 src="https://www.youtube.com/embed/lxIFwQ6GaZI?si=jn8mYOaAkz5MnQ62"
                 title="Course Video"
-                className="absolute top-0 left-0 w-full h-full rounded-b-lg max-h-[80vh]"
+                className="absolute top-0 left-0 w-full h-full rounded-b-lg max-h-[30vh]"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
