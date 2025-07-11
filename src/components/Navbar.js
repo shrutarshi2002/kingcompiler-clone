@@ -104,36 +104,58 @@ export default function Navbar() {
             <div
               className="absolute right-0 mt-2 w-40 rounded shadow-lg z-10"
               style={{
-                background: "var(--surface)",
+                background: "#F9FAFB",
                 border: "1px solid var(--primary)",
               }}
             >
+              <Link href="/learning-games" legacyBehavior>
+                <a
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
+                  onClick={() => setArenaOpen(false)}
+                >
+                  Learning Games
+                </a>
+              </Link>
+              <hr
+                className="my-1 border-t w-3/4 mx-auto"
+                style={{ borderColor: "#F9FAFB" }}
+              />
               <button
-                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                style={{ background: "none" }}
-              >
-                Learning Games
-              </button>
-              <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
-              <button
-                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                style={{ background: "none" }}
+                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                style={{ background: "none", color: "#000" }}
               >
                 Learning Quize
               </button>
-              <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
+              <hr
+                className="my-1 border-t w-3/4 mx-auto"
+                style={{ borderColor: "#F9FAFB" }}
+              />
               <button
-                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                style={{ background: "none" }}
+                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                style={{ background: "none", color: "#000" }}
               >
                 Hackathon
               </button>
-              <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
+              <hr
+                className="my-1 border-t w-3/4 mx-auto"
+                style={{ borderColor: "#F9FAFB" }}
+              />
               <button
-                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                style={{ background: "none" }}
+                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                style={{ background: "none", color: "#000" }}
               >
                 Battle ground
+              </button>
+              <hr
+                className="my-1 border-t w-3/4 mx-auto"
+                style={{ borderColor: "#F9FAFB" }}
+              />
+              <button
+                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                style={{ background: "none", color: "#000" }}
+              >
+                E-book Library
               </button>
             </div>
           )}
@@ -228,33 +250,58 @@ export default function Navbar() {
               </svg>
             </button>
             {arenaOpen && (
-              <div className="w-full rounded shadow-lg z-30 bg-white border border-primary mt-1 flex flex-col space-y-2">
+              <div
+                className="w-full rounded shadow-lg z-30 border border-primary mt-1 flex flex-col space-y-2"
+                style={{ background: "#F9FAFB" }}
+              >
+                <Link href="/learning-games" legacyBehavior>
+                  <a
+                    className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                    style={{ background: "none", color: "#000" }}
+                    onClick={() => setArenaOpen(false)}
+                  >
+                    Learning Games
+                  </a>
+                </Link>
+                <hr
+                  className="my-1 border-t w-3/4 mx-auto"
+                  style={{ borderColor: "#F9FAFB" }}
+                />
                 <button
-                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                  style={{ background: "none" }}
-                >
-                  Learning Games
-                </button>
-                <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
-                <button
-                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                  style={{ background: "none" }}
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
                 >
                   Learning Quize
                 </button>
-                <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
+                <hr
+                  className="my-1 border-t w-3/4 mx-auto"
+                  style={{ borderColor: "#F9FAFB" }}
+                />
                 <button
-                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                  style={{ background: "none" }}
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
                 >
                   Hackathon
                 </button>
-                <hr className="my-1 border-t border-gray-300 w-3/4 mx-auto" />
+                <hr
+                  className="my-1 border-t w-3/4 mx-auto"
+                  style={{ borderColor: "#F9FAFB" }}
+                />
                 <button
-                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 text-black font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                  style={{ background: "none" }}
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
                 >
                   Battle ground
+                </button>
+                <hr
+                  className="my-1 border-t w-3/4 mx-auto"
+                  style={{ borderColor: "#F9FAFB" }}
+                />
+                <button
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
+                >
+                  E-book Library
                 </button>
               </div>
             )}
