@@ -1,0 +1,1233 @@
+[Event "level 1 Double attack: forks - knight"]
+[Date "2020.09.04"]
+[White "forks"]
+[Black "knight"]
+[Result "1-0"]
+[FEN "5r2/4b3/2q3kp/2p2pp1/8/1P1N3P/2Q2PP1/3R2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - knight"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/18V9yprH"]
+[ChapterMode "gamebook"]
+
+{ [%csl Rg6,Rc6,Gd3] }
+1. Ne5+ { [%csl Gg6,Gc6][%cal Ge5g6,Ge5c6] } 1... Kg7 (1... Kh7 2. Nxc6) 2. Nxc6 1-0
+
+
+[Event "level 1 Double attack: forks - knight"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "knight"]
+[Result "1-0"]
+[Annotator "Krishna"]
+[FEN "8/1k6/1p6/2p2q1p/2N4P/1P4B1/5P1K/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - knight"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/0py3yVuJ"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,656,701,708,725] [%csl Gc4,Gf5,Gb7] }
+1. Nd6+ { [%csl Gb7,Gf5][%cal Gd6b7,Gd6f5] } 1... Kb8 2. Nxf5+ 1-0
+
+
+[Event "level 1 Double attack: forks - knight"]
+[Date "2023.08.21"]
+[White "forks"]
+[Black "knight"]
+[Result "1-0"]
+[Annotator "navya"]
+[FEN "8/8/4q1k1/1p3p1r/6p1/1P4P1/2P1N1B1/Q5K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - knight"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/gIAm7QjO"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,1236,1278,1278,1309] }
+1. Nf4+ Kh7 (1... Kf7) 2. Nxe6 1-0
+
+
+[Event "level 1 Double attack: forks - knight"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "knight"]
+[Result "1-0"]
+[FEN "8/1p1n2bk/2p1q1p1/5p2/8/2P2NP1/1PQB1PK1/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - knight"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/jcN0M7e4"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,1,1240,1337] }
+1. Ng5+ Kh8 2. Nxe6 1-0
+
+
+[Event "level 1 Double attack: fork - queen"]
+[Date "2020.04.11"]
+[White "fork"]
+[Black "queen"]
+[Result "1-0"]
+[Annotator "Doe,John"]
+[FEN "r5k1/p1p3pp/1p3r2/8/8/7P/PPPQ1PP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "fork - queen"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/ecDLd1oC"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,724,728,737,740] [%csl Ra8,Gg8,Gd2][%cal Rd5g8,Rd5a8] }
+1. Qd5+ { [%csl Ga8,Gg8][%cal Gd5g8,Gd5a8] } (1. Qg5) 1... Kf8 (1... Kh8 2. Qxa8+) 2. Qxa8+ 1-0
+
+
+[Event "level 1 Double attack: forks - queen"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "queen"]
+[Result "1-0"]
+[FEN "k7/2pr4/1p1b4/6p1/6P1/7P/6K1/3Q4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - queen"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/YoFHv1Rg"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,741,802,804,842] }
+1. Qa4+ { [%csl Gd7,Ga8][%cal Ga4d7,Ga5a8] } (1. Qd5+ { [%csl Ga8,Gg5][%cal Gd5a8,Gd5g5] }) 1... Kb8 2. Qxd7 1-0
+
+
+[Event "level 1 Double attack: forks - queen"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "queen"]
+[Result "1-0"]
+[FEN "k7/2pr4/1p1b4/6p1/6P1/7P/6K1/3Q4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - queen"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/TYG9LWsV"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,834,837,830,854] }
+1. Qa4+ Kb8 2. Qxd7 1-0
+
+
+[Event "level 1 Double attack: forks - queen"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "queen"]
+[Result "1-0"]
+[Annotator "Doe,John"]
+[FEN "r7/1n5k/3p3p/2p1p1p1/4P3/1P4P1/1KP2Q2/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - queen"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/m8Z3zs4G"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,690,691,688,715] [%csl Rb7,Rh7] }
+1. Qf7+ { [%cal Gf7h7,Gf7b7] } 1... Kh8 2. Qxb7 (2. Qd7) 1-0
+
+
+[Event "level 1 Double attack: forks - rook"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "rook"]
+[Result "1-0"]
+[FEN "8/8/1n3k1p/6p1/r1p5/2P3PB/1P2R3/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - rook"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/4y9tYgBJ"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,404,420,414,432] [%csl Gf6,Gb6,Ge2] }
+1. Re6+ { [%csl Re6][%cal Rh3e6,Ge6f6,Gd6b6] } 1... Kf7 (1... Kg7 2. Rxb6) 2. Rxb6 1-0
+
+
+[Event "level 1 Double attack: forks - rook"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "rook"]
+[Result "1-0"]
+[Annotator "Krishna"]
+[FEN "6k1/8/8/8/3R4/8/1K4b1/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - rook"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/giY4nkIu"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,547,547,547,557] }
+1. Rg4+ { [%cal Gg4g8,Gg4g2] } 1... Kf8 (1... Kf7 2. Rxg2) 2. Rxg2 1-0
+
+
+[Event "level 1 Double attack: forks - pawn"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "pawn"]
+[Result "1-0"]
+[FEN "8/8/4k1n1/1p6/4PP2/2P1K3/1P6/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - pawn"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/5WMqBj9s"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,1,1110,1242] [%csl Gg6,Ge6] }
+1. f5+ Ke7 2. fxg6 1-0
+
+
+[Event "level 1 Double attack: forks - pawn"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "pawn"]
+[Result "1-0"]
+[FEN "6k1/5pp1/1prpq2p/p7/1pPP4/1P5P/P4PP1/R2Q2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - pawn"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/5GHkT5iE"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,621,621,623,627] [%csl Ge6,Gc6] }
+1. d5 Qe5 (1... Qe7 2. dxc6) 2. dxc6 1-0
+
+
+[Event "level 1 Double attack: forks - bishops"]
+[Date "2020.08.16"]
+[White "forks"]
+[Black "bishops"]
+[Result "0-1"]
+[Annotator "home"]
+[FEN "8/7k/6b1/1Pp1p3/2PpP3/8/2K3R1/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - bishops"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/CwFDqREs"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,-842,-897,-969,-1406] }
+1... Bxe4+ { [%cal Ge4g2,Ge4c2] } (1... Kh6) (1... d3+) 2. Kb2 Bxg2 0-1
+
+
+[Event "level 1 Double attack: forks - king"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "king"]
+[Result "0-1"]
+[FEN "r6r/1p6/3pk1p1/8/2RPR3/6P1/1P3K2/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - king"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/8YtdYfhn"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,-585,-583,-600,-615] }
+1... Kd5 { [%csl Gc4,Ge4][%cal Gd5e4,Gd5c4] } 2. Re3 (2. Rc2 Kxe4) 2... Kxc4 0-1
+
+
+[Event "level 1 Double attack: forks - bishops"]
+[Date "2020.08.16"]
+[White "forks"]
+[Black "bishops"]
+[Result "0-1"]
+[Annotator "home"]
+[FEN "8/6k1/7p/1b4p1/3PNpP1/2P5/8/1K6 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - bishops"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/0XJ01wy9"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,-593,-593,-648,-685] }
+1... Bd3+ { [%cal Gd3b1,Gd3e4] } (1... Bc4) 2. Kb2 Bxe4 0-1
+
+
+[Event "level 1 Double attack: forks - king"]
+[Date "2020.08.16"]
+[White "forks"]
+[Black "king"]
+[Result "0-1"]
+[Annotator "home"]
+[FEN "8/2p3p1/bb4k1/8/4N1N1/1P3p2/K4P2/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - king"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/RVocyQXJ"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,2,-791,-837,-1063] [%csl Ge4,Gg4,Gg6] }
+1... Kf5 { [%csl Ge4,Gg4][%cal Gf5e4,Gf5g4] } 2. Nh2 (2. Nd2 Kxg4) 2... Kxe4 0-1
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Example #1"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Example #1"]
+[Result "*"]
+[FEN "r5k1/p2q1ppp/2r5/2np4/2N5/5Q1P/PP3PP1/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Example #1"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/SVYRS4eg"]
+[ChapterMode "gamebook"]
+
+{ [%csl Rc6,Rd7] }
+1. Qxf7+ { [%csl Gf7] } (1. Qxd5 Qxd5) 1... Kxf7 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Example #2"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Example #2"]
+[Result "*"]
+[FEN "6k1/rp1q1ppp/3p4/8/8/1P5P/PB1Q1PP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Example #2"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/Cg2It4Kj"]
+[ChapterMode "gamebook"]
+
+1. Qg5 (1. Qd4 { [%csl Gb2,Gd4,Gg7,Ga7][%cal Gd4g7,Gd4a7] } 1... Ra8 (1... f6 2. Qxa7) (1... Rxa2) 2. Qxg7# { [%csl Gg8][%cal Rb2g7] }) *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #1"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #1"]
+[Result "*"]
+[FEN "1r4k1/p4p1p/4qp2/1P6/8/2Q4P/5PP1/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #1"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/JQlGkTP6"]
+[ChapterMode "gamebook"]
+
+1. Qg3+ Kf8 2. Qxb8+ *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #2"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #2"]
+[Result "*"]
+[FEN "6k1/5pp1/7p/3q4/6r1/2Q5/5PPP/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #2"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/3t6PZ8PF"]
+[ChapterMode "gamebook"]
+
+1. Qc8+ { [%cal Gc8g4,Gc8g8] } (1. Qb4) (1. Qe5) 1... Kh7 2. Qxg4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #3"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #3"]
+[Result "*"]
+[FEN "2k4r/ppp3pp/5q2/8/n7/1N4P1/PPP1Q2P/1K5R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #3"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/PsKJtDDt"]
+[ChapterMode "gamebook"]
+
+1. Qg4+ { [%cal Gg4c8,Gg4a4] } (1. Qe4) 1... Kb8 2. Qxa4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #4"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #4"]
+[Result "*"]
+[FEN "5k2/5p2/8/8/8/3Qp1r1/5p2/5K2 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #4"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/rpE6xTep"]
+[ChapterMode "gamebook"]
+
+1. Qd6+ { [%cal Gd6f8,Gd6g3] } (1. Qd8+ Kg7) 1... Kg8 2. Qxg3+ *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #5"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #5"]
+[Result "*"]
+[FEN "5b2/1bp2ppk/p5qp/3P4/2P5/5P2/1B1NQ1PP/6K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #5"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/dCT1EzHX"]
+[ChapterMode "gamebook"]
+
+1... Qb6+ { [%cal Gb6g1,Gb6b2] } *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #6"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #6"]
+[Result "*"]
+[FEN "3q2k1/5pp1/7p/p7/N3P3/7P/P4PP1/R5K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #6"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/h82ZkRCQ"]
+[ChapterMode "gamebook"]
+
+1... Qd4 { [%cal Gd4a1,Gd4a4] } 2. Nb6 Qxa1+ *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #7"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #7"]
+[Result "*"]
+[FEN "8/3q2pk/2p4p/8/4p3/R3P1RP/2P1K1P1/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #7"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/P9TcWE9N"]
+[ChapterMode "gamebook"]
+
+1... Qd6 { [%csl Ga3,Gg3][%cal Gd6a3,Gd6g3] } 2. Ra1 Qxg3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #8"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #8"]
+[Result "*"]
+[FEN "2q3k1/p4pp1/3p3p/3P4/B7/4P1N1/P5P1/5RK1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #8"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/BqaAXULL"]
+[ChapterMode "gamebook"]
+
+1... Qg4 { [%csl Gb5][%cal Gg4g3,Gg4a4] } 2. Bd1 Qxg3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #9"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #9"]
+[Result "*"]
+[FEN "8/6k1/8/1b4b1/8/5P2/3R2K1/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #9"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/QCRbck2A"]
+[ChapterMode "gamebook"]
+
+1. Rd5 { [%cal Gd5g5,Gd5b5] } 1... Bf6 2. Rxb5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #10"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #10"]
+[Result "*"]
+[FEN "5rk1/7p/8/3R4/1Np5/2P5/5Pn1/2K5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #10"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/84k9rY7T"]
+[ChapterMode "gamebook"]
+
+1. Rg5+ { [%cal Gg5g8,Gg5g2] } 1... Kh8 2. Rxg2 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #11"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #11"]
+[Result "*"]
+[FEN "8/1b4bp/6p1/kp6/2p1P3/2P2P2/1P1R2K1/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #11"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/plNAlT05"]
+[ChapterMode "gamebook"]
+
+1. Rd7 { [%cal Gd7g7,Gd7b7] } 1... Bf8 2. Rxb7 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #12"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #12"]
+[Result "*"]
+[FEN "4r1k1/1p3ppp/p3p3/1q5b/2R5/1P1PB2P/2PQ1PP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #12"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/lGxCVL0m"]
+[ChapterMode "gamebook"]
+
+1. Rc5 { [%cal Gc5h5,Gc5b5] } 1... Bg6 2. Rxb5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #13"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #13"]
+[Result "*"]
+[FEN "5rk1/1pq2pp1/p2p1n1p/2r5/1P6/P6P/1BP1QPP1/R4RK1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #13"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/GeTP9W2Q"]
+[ChapterMode "gamebook"]
+
+1... Rxc2 { [%cal Gc2e2,Gc2b2] } 2. Qf3 Rxb2 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #14"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #14"]
+[Result "*"]
+[FEN "3r2k1/p1q2pp1/1p5p/2p2Q2/8/1P4PP/P4PB1/2B3K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #14"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/xXlYfAvW"]
+[ChapterMode "gamebook"]
+
+1... Rd1+ { [%cal Gd1g1,Gd1c1] } 2. Bf1 { [%csl Gd1] } 2... Rxc1 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #15"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #15"]
+[Result "*"]
+[FEN "r4rk1/p5p1/1ppp3p/8/2P3P1/1PN4N/P6P/R5K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #15"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/Or4q1w1J"]
+[ChapterMode "gamebook"]
+
+1... Rf3 { [%cal Gf3h3,Gf3c3] } 2. Nd1 Rxh3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #16"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #16"]
+[Result "*"]
+[FEN "6Q1/1k1r3p/1pr5/4P3/pB2n3/7P/P4P2/6K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #16"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/lfOjF83G"]
+[ChapterMode "gamebook"]
+
+1... Rg6+ { [%cal Gg6g8,Gg6g1] } 2. Qxg6 hxg6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #17"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #17"]
+[Result "*"]
+[FEN "5k2/5pp1/7p/b4b2/5P2/r3B1P1/6BP/2R3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #17"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/j7KyYCqk"]
+[ChapterMode "gamebook"]
+
+1. Bc5+ { [%cal Gc5f8,Gc5a3] } (1. Rc5 { [%csl Gc5] }) 1... Kg8 2. Bxa3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #18"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #18"]
+[Result "*"]
+[FEN "6k1/ppp3p1/7p/5p1N/8/5BP1/qPP4P/3R2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #18"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/aEANxHpI"]
+[ChapterMode "gamebook"]
+
+1. Bd5+ { [%csl Ga2][%cal Gd5g8,Gd5a2] } 1... Kh8 2. Bxa2 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #19"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #19"]
+[Result "*"]
+[FEN "3B4/kp6/p1n4p/P2Q4/8/4q1P1/6KP/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #19"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/tXfxxHmN"]
+[ChapterMode "gamebook"]
+
+1. Bb6+ { [%cal Gb6e3,Gb6a7] } 1... Qxb6 2. axb6+ Kxb6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #20"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #20"]
+[Result "*"]
+[FEN "2r5/p5kp/1p3pp1/8/2B5/2P3Pn/1P1R1P1P/7K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #20"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/mkNHJkmN"]
+[ChapterMode "gamebook"]
+
+1. Be6 { [%csl Gh3,Gc8][%cal Ge6c8,Ge6h3] } 1... Rb8 2. Bxh3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #21"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #21"]
+[Result "*"]
+[FEN "r7/3n1k1p/2N3p1/1p6/3B2b1/6P1/1R5P/7K b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #21"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/m53miwHa"]
+[ChapterMode "gamebook"]
+
+1... Bf3+ { [%cal Gf3h1,Gf3c6] } 2. Kg1 Bxc6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #22"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #22"]
+[Result "*"]
+[FEN "5r2/p4pkp/1p3np1/2b1R3/8/P1R4P/1PP3P1/1K6 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #22"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/qJRPcEFl"]
+[ChapterMode "gamebook"]
+
+1... Bd4 { [%csl Ge5][%cal Gd4e5,Gd4c3] } 2. Re1 Bxc3 3. bxc3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #23"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #23"]
+[Result "*"]
+[FEN "k7/6p1/1pN2nN1/1P6/8/8/7P/1K5b b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #23"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/HV8uVhY1"]
+[ChapterMode "gamebook"]
+
+1... Be4+ { [%cal Ge4b1,Ge4g6] } 2. Kb2 Bxg6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #24"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #24"]
+[Result "*"]
+[FEN "r2qk2r/ppp1bppp/8/Q2n4/8/3B1N2/PPP2PPP/R3K2R b KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #24"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/V2PRsDIY"]
+[ChapterMode "gamebook"]
+
+1... Bb4+ { [%cal Gb4e1,Gb4a5] } 2. Qxb4 Nxb4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #25"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #25"]
+[Result "*"]
+[FEN "r6r/ppp2k1p/5np1/4pp2/8/2Pq1N2/PP3PPP/R1Q2RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #25"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/J0gbOkFU"]
+[ChapterMode "gamebook"]
+
+1. Nxe5+ { [%cal Ge5f7,Ge5d3] } 1... Kg7 2. Nxd3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #26"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #26"]
+[Result "*"]
+[FEN "1k1r4/p1N1nppp/1p6/8/1r6/4P2P/P4PP1/2Q3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #26"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/2N3fzjPf"]
+[ChapterMode "gamebook"]
+
+1. Na6+ { [%cal Ga6b8,Ga6b5] } 1... Kb7 2. Nxb4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #27"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #27"]
+[Result "*"]
+[FEN "r5k1/p1p2p1p/1pb3p1/2bq3N/8/1N5P/PPP1QPP1/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #27"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/qpWImXn7"]
+[ChapterMode "gamebook"]
+
+1. Nf6+ { [%cal Gf6g8,Gf6d5] } 1... Kg7 2. Nxd5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #28"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #28"]
+[Result "*"]
+[FEN "2krr3/pppq1p2/2n3p1/7p/4N3/2Q4P/PPP2PP1/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #28"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/CpT20YZ9"]
+[ChapterMode "gamebook"]
+
+1. Nf6 { [%cal Gf6e8,Gf6d7] } 1... Qe7 2. Nxe8 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #29"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #29"]
+[Result "*"]
+[FEN "2k1r3/pp3ppp/2pp4/Q1b5/3n1B2/P7/1PP2PPP/2K5 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #29"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/bPS7OM72"]
+[ChapterMode "gamebook"]
+
+1... Ne2+ { [%cal Ge2f4,Ge2c1] } 2. Kb1 Nxf4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #30"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #30"]
+[Result "*"]
+[FEN "4r3/5pkp/6p1/R7/1p1K4/6PP/1P3PB1/n7 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #30"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/eYrgKfU0"]
+[ChapterMode "gamebook"]
+
+1... Nb3+ { [%cal Gb3d4,Gb3a5] } 2. Kc4 Nxa5+ *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #31"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #31"]
+[Result "*"]
+[FEN "6k1/6p1/5n1p/5p2/4pP1P/2B1P3/6PK/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #31"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/V8WcCYE2"]
+[ChapterMode "gamebook"]
+
+1... Ng4+ { [%cal Gg4h2,Gg4e3] } 2. Kg1 Nxe3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #32"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #32"]
+[Result "*"]
+[FEN "r5k1/ppq2pp1/7p/3n4/6P1/2P5/PPQ1N1RP/2K5 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #32"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/KBskYzYe"]
+[ChapterMode "gamebook"]
+
+1... Ne3 { [%cal Ge3g2,Ge3c2] } 2. Qd2 Nxg2 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #33"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #33"]
+[Result "*"]
+[FEN "r2q1rk1/pp3pp1/2pb1n1p/8/3pP3/1B1P2N1/PP1Q1PPP/R3R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #33"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/SfbSGzR6"]
+[ChapterMode "gamebook"]
+
+1. e5 { [%cal Ge5f6,Ge5d6] } 1... Bc7 2. exf6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #34"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #34"]
+[Result "*"]
+[FEN "6k1/pp3pp1/1npnb2p/8/2P5/1PN2N1P/P3BPP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #34"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/3RUWCXc6"]
+[ChapterMode "gamebook"]
+
+1. c5 { [%cal Gc5d6,Gc5b6] } 1... Ndc8 2. cxb6 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #35"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #35"]
+[Result "*"]
+[FEN "8/p3k1qp/b7/5P2/2p1N3/P3P2P/6B1/1R5K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #35"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/wMmLSaMB"]
+[ChapterMode "gamebook"]
+
+1. f6+ { [%cal Gf6g7,Gf6e7] } 1... Ke8 2. fxg7 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #36"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #36"]
+[Result "*"]
+[FEN "1k6/pp2rbr1/8/b4Pp1/1N6/P2R2P1/3K2B1/7R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #36"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/IUiC5ise"]
+[ChapterMode "gamebook"]
+
+1. f6 { [%cal Gf6g7,Gf6e7] } 1... Re8 2. fxg7 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #37"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #37"]
+[Result "*"]
+[FEN "8/2Rb2kp/5n2/6p1/5pP1/r6P/2P1NBK1/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #37"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/aKFuDklM"]
+[ChapterMode "gamebook"]
+
+1... f3+ { [%cal Gf3g2,Gf3e2] } 2. Kg1 fxe2 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #38"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #38"]
+[Result "*"]
+[FEN "7r/p1k3pp/1pnb4/2pp4/8/1N1B1P2/PPP3PP/2K4R b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #38"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/FzUkiOT2"]
+[ChapterMode "gamebook"]
+
+1... c4 { [%cal Gc4d3,Gc4b3] } 2. Bf5 cxb3 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #39"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #39"]
+[Result "*"]
+[FEN "r4rk1/pp3pbp/2p2np1/3p4/4P3/3B1N2/PPP2PPP/R4R1K b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #39"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/6DtMFIZ2"]
+[ChapterMode "gamebook"]
+
+1... dxe4 { [%cal Ge4f3,Ge4d3] } 2. Bxe4 Nxe4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #40"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #40"]
+[Result "*"]
+[FEN "2r2rk1/5pp1/3p2qp/2P1P3/1Q1R4/7P/5PP1/5RK1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #40"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/0DEVHMJ7"]
+[ChapterMode "gamebook"]
+
+1... dxc5 { [%cal Gc5d4,Gc5b4] } 2. Qc3 cxd4 3. Qxd4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #41"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #41"]
+[Result "*"]
+[FEN "8/5k2/1p6/1P6/4rpr1/8/5PK1/1R1R4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #41"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/m2KDMuxa"]
+[ChapterMode "gamebook"]
+
+1. Kf3 { [%cal Gf3g4,Gf3e4] } 1... Rg5 2. Kxe4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #42"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #42"]
+[Result "*"]
+[FEN "8/pp4kp/3K4/5n2/5n2/1BN5/PP5P/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #42"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/pfUr9uWh"]
+[ChapterMode "gamebook"]
+
+1. Ke5 { [%cal Ge5f5,Ge5f4] } 1... Nh6 2. Kxf4 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #43"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #43"]
+[Result "*"]
+[FEN "7k/7p/8/1N2pn2/8/2P2K1P/8/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #43"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/xCKxFdTu"]
+[ChapterMode "gamebook"]
+
+1. Ke4 { [%cal Ge4f5,Ge4e5] } 1... Ng7 2. Kxe5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #44"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #44"]
+[Result "*"]
+[FEN "8/pk6/6R1/nprP4/8/K1p1P3/B1P5/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #44"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/W77QKgZQ"]
+[ChapterMode "gamebook"]
+
+1. Kb4 { [%cal Gb4c5,Gb4a5] } 1... Rc7 2. Kxa5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #45"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #45"]
+[Result "*"]
+[FEN "8/p4Np1/1p6/2pN1k2/8/8/PPK3P1/7r b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #45"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/aniMtLss"]
+[ChapterMode "gamebook"]
+
+1... Ke6 { [%cal Ge6f7,Ge6d5] } 2. Nd8+ Kxd5 *
+
+
+[Event "level 1 Double attack: Forks and Double Attacks - Puzzle #46"]
+[Date "????.??.??"]
+[White "Forks and Double Attacks"]
+[Black "Puzzle #46"]
+[Result "*"]
+[FEN "8/p4k1p/1pn5/2b1pNB1/8/6P1/PP4KP/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "Forks and Double Attacks - Puzzle #46"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/8UZPlSkd"]
+[ChapterMode "gamebook"]
+
+1... Kg6 { [%cal Gg6f5,Gg6g5] } 2. Nh4+ Kxg5 *
+
+
