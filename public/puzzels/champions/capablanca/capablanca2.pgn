@@ -1,0 +1,324 @@
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.19"]
+[White "Capablanca, José Raúl"]
+[Black "Delmonte, Enrique"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Morphy Gambit, Andreaschek Gambit"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl - Delmonte, Enrique"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/j9CWI2du"]
+
+{ El propósito de esta base de datos es difundir a la comunidad
+hispanoparlante las partidas del genial cubano José Raúl Capablanca. Los
+libros en inglés han sido  traducidos por mi. Se ha usado como texto base el
+libro de Sergei Soloviov "Capablanca" de la editorial "Chess Stars", el cual
+usa el sistema de símbolos del  Informador Ajedrecístico. Para los
+comentarios con texto, se ha seleccionado a los siguientes libros:  1 Mi
+carrera ajedrecística  Capablanca  2 Vassily Panov          Capablanca  3
+Irving Chernev          Los mejores finales de Capablanca  4 Gideon Stalhberg
+Partidas Clásicas de Capablanca 5 Fred Reinfeld          The inmortal games
+of Capablanca  6 David Hooper           The unknown Capablanca    7 José
+Gelabert           Glorias del tablero "Capablanca"    8 Max Euwe
+El ajedrez inmortal de Capablanca   9 Kasparov               Mis geniales
+predecesores    En las partidas, el número entre paréntesis indica la fuente.
+Algunas variantes se repiten entre los libros y cuando ocurre, lo cito.  Se
+adjunta planilla de cálculo con un catálogo completo de las partidas, en el
+cual se muestra la cantidad de libros usado para cada una de las partidas.
+Este es un trabajo en progreso. Espero terminar con toda la colección, a
+medida que el tiempo lo permita.  Les rogaría distribuir el material con
+todos los archivos incluidos. (formato Chessbase, formato pgn, planilla de
+cálculo). Las partidas en pgn y toda la simbología se ven  perfectas en SCID,
+usando la fuente "Arial Unicode MS".  by Zegarra. }
+1. e4 c5 2. d4 cxd4 3. Nf3 e5?! 4. c3 Nc6 { 3. ... ♘c6; 3. ... ♘f6 } (4... dxc3 5. Nxc3 $36) 5. cxd4 Bb4+ (5... exd4 6. Nxd4 Bb4+ 7. Nc3) 6. Bd2 Qe7?! (6... Bxd2+ 7. Qxd2 d6 8. dxe5 dxe5 9. Qxd8+ Kxd8 10. Nc3 $16) 7. d5! Nd8 (7... Nd4 8. Nxd4 exd4 9. Bxb4 Qxb4+ 10. Qd2 $16) 8. Bd3!? (8. Nc3?! Nf6 9. Bd3 O-O 10. O-O d6 $14) 8... Bxd2+ (8... Nf6 9. Qa4 Bc5 10. b4! $16) 9. Nbxd2 d6 10. Rc1 (10. Qa4+!? Bd7 11. Qa3 { △ 12. ♘c4 ± }) 10... a6? (10... Nf6 11. Bb5+ Bd7 12. Rc7 $16 a6? 13. Bxd7+ Nxd7 14. Nc4 $18) 11. Nc4 Bd7 (11... Bg4 12. Nb6 Rb8 13. Qa4+ Bd7 (13... Kf8 14. h3 $18) 14. Qc2 $18) 12. Nb6 Rb8 13. Qc2! { △ 14. ♕c7 } 13... Bg4 (13... Bb5 14. Bxb5+ axb5 15. Qb3 $18) 14. h3! Bxf3 15. Qa4+ Nc6 (15... Kf8 16. Nd7+ Ke8 17. Nxb8+ $18) 16. dxc6 Qc7 17. cxb7+ Kf8 18. Rxc7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.20"]
+[White "Delmonte, Enrique"]
+[Black "Capablanca, José Raúl"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Spanish Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Delmonte, Enrique - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/Cvg7O19b"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 Qd6 { 4. ... dxe4 } 5. d4 (5. exd5!? Qxd5 6. Qe2 f6 7. d4 Bd7 (7... Bg4 8. c4 Bxf3 9. cxd5 Bxe2 10. Kxe2 a6 11. dxc6 axb5 12. cxb7 Rb8 13. dxe5 fxe5 14. a4! $16 { Sakaev - Mitkov, Leningrado 1991 }) 8. dxe5 Nxe5 9. Bxd7+ Kxd7 10. Nxe5+ Qxe5 11. Qxe5 fxe5 12. Nd2 $14 { Sakaev - A.
+Ivanov Leningrado 1990 }) 5... dxe4?! (5... exd4 6. Qxd4 { 6. e5 ♕g6∞ } 6... Be6 $13) 6. Nxe5 Bd7 7. O-O?? (7. Qb3!? Be6 { 7. … ♘xe5 8. dxe5± } 8. Bxc6+ Qxc6 { 8. … bxc6 9. ♕b7± } 9. Nxc6 Bxb3 10. axb3 bxc6 11. b4 $16) 7... Nxe5 $19 8. dxe5 Qxd1 9. Rxd1 Bxb5 10. Nd2 f5 (10... O-O-O 11. Re1 Bd3 12. b4 Re8 13. Bb2 Rxe5) 11. Nb3 Ba4 12. Be3 Ne7 13. f4 c6 14. c4 a6 15. Bb6 Bxb3 16. axb3 Ng6 17. g3 Be7 18. Kf2 h5 19. h4 Kf7 20. Rd7 Ke6 (20... Rhb8 21. Rad1 Nf8 $19) 21. Rxb7 Rhb8 22. Rxb8 Rxb8 23. c5 (23. Rxa6 Rxb6! 24. Rxb6 Bc5+ $19) (23. Bd4 Rxb3 24. Rxa6 Kd7 $19) 23... Ra8 24. b4 Nh8 25. Rd1 Nf7 26. Bc7 Nh6 27. Ke2 Nf7 28. Rd4 Rc8 29. Ba5 Bd8 30. Ke3 Bxa5 31. bxa5 Rb8 32. b4 Rd8 33. Rxd8 Nxd8 34. Kd4 Kd7 35. Kc3 Ne6 36. Kc4 Nc7 37. Kd4 Nd5 38. Kc4 Ne3+ 39. Kd4 Nf1 40. b5 cxb5 41. Kd5 Ne3+ 42. Kd4 Nc4 43. Kd5 Nxa5 44. e6+ Ke7 45. Ke5 g6 { 0-1 White resigns. } 0-1
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.21"]
+[White "Capablanca, José Raúl"]
+[Black "Corzo, Enrique"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio de Janeiro Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl  - Corzo, Enrique"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/K9iTmouo"]
+
+{ (6) Enrique, como su más famoso hermano Juan, no era buena en los finales:
+comenzando con una pequeña ventaja que termina perdiendo. }
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 { 5. ... ♘d6 partida XX: 5. ... d5 partida XX } 6. d5 { 6. ♕e2 partida XX } 6... Nd6 7. Ba4 (7. Be2 e4 8. dxc6 exf3 9. cxd7+ Bxd7 10. Bxf3 O-O 11. Nc3 c6 { I. Rogers - Boris Spassky Wellington 1988 }) 7... e4 8. dxc6 exf3 9. cxd7+ Bxd7 10. Bxd7+ Qxd7 11. Qxf3 O-O { 11. ... 0-0-0!? } 12. Nc3 Rad8 (12... Rfe8 13. Nd5 Bd8 14. Bf4 c6 15. Rad1!? $36) 13. Nd5 Rfe8 (13... c6 14. Nxe7+ Qxe7 15. Qe3!? $13) 14. Bf4 c6 15. Nxe7+ Qxe7 16. h3 (16. Qa3 Nf5!? (16... Qf6 17. Bxd6 Rxd6 18. Rae1 Red8) 17. Qxe7 { 17. ♕xa7!? ♘d4↑ } 17... Rxe7) 16... Qe4 (16... Nf5 17. c3 Qe2) 17. Qxe4 Rxe4 18. Bxd6 (18. g3 Nc4 19. Rad1 Red4) 18... Rxd6 19. Rfe1 Rde6 (19... Rxe1+ 20. Rxe1 Kf8) 20. Rxe4 Rxe4 21. Rd1 f5?! (21... Kf8 22. Rd7 Re7 (22... Re1+ 23. Kh2 Re2 24. Rxb7 Rxc2) 23. Rd8+ Re8) 22. Rd7 b5 23. Kf1 a5 24. b3 { 24. c3+/= } 24... Re5 25. Ra7 (25. c3 Rc5 26. Rd3 Kf7) 25... Rc5 26. Rxa5 Rxc2 27. a4 Ra2 28. Ra8+ Kf7 29. Ra7+ Kf8 (29... Kf6 30. Ra6 bxa4 31. Rxc6+ Ke5) 30. a5 Rb2? { 30. ... b4 = } 31. a6? (31. Rc7 Rb1+ (31... Rxb3 32. a6 $18) (31... Ra2 32. b4 Ra4 33. Ke2 { △♔d3-c3 +- }) 32. Ke2 Rb2+ 33. Ke1 Ra2 34. b4 Ra4 35. Kd2 Rxb4 36. a6 Rd4+ 37. Kc3 Rd8 38. Kb4 $18) 31... Rxb3? { 31. ... ♖a2! } 32. Rc7 b4 (32... Rb1+ 33. Ke2 Rb2+ 34. Ke3 Rb3+ 35. Kd4 c5+ 36. Kxc5 Rd3 37. a7 Rd8 38. Kc6 $18) 33. a7 Ra3 34. Rc8+ Ke7 35. a8=Q { 1-0 Black resigns. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.22"]
+[White "Capablanca, José Raúl"]
+[Black "Fiol, Antonio"]
+[Result "1/2-1/2"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl - Fiol, Antonio"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/czEo9Gbo"]
+
+{ (6) El niño Capablanca juega con su maestro de cabecera, que pudo haber
+hecho la lección más efectiva al jugar 37. ... ♕xg3! }
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 { 5. ♗e3 partida xx } 5... bxc6 (5... Qf6 6. Qd2 bxc6 { 6. ... dxc6∞ } 7. Nc3 Ne7 8. Na4 Bb6 9. Bd3 O-O 10. O-O d6 11. Kh1 $14 { Rublesvky - Beliavsky, Hyderabad 2002 }) 6. Bd3 Qf6?! (6... d6 7. O-O Ne7 { 7. … ♘f6 8. ♗g5+/= } 8. Qh5 Ng6 9. Bg5 Qd7 10. Nc3 Qg4 11. Qxg4 Bxg4 12. Na4 Bb6 13. Rfe1 f6 14. Bd2 Ne5 15. Bf1 Be6 16. b3 $14 { Pavasovic - Jovanic,
+Bled 2000 }) 7. O-O Ne7 8. Qe2 (8. Nc3!? d6?! (8... d5? 9. exd5 cxd5 { Junglas - Strassner Nickenich 1996 } 10. Nxd5! Nxd5 11. Bb5+ c6 12. Qxd5 $18) (8... O-O? 9. Qh5 $18) (8... Ng6 9. Kh1 $40 { △f4 }) 9. e5! Qxe5 (9... dxe5 10. Ne4 $18) (9... Qh4 10. Ne4 Bg4 11. Qe1 Qh5 12. Nxc5 dxc5 13. Qc3 $18 { Reedijk - Arp, Harleem 1999 }) 10. Re1 Qd4 11. Ne4 Bb6 12. Bg5 $40) 8... d6 9. Nc3 O-O 10. Kh1 Ng6 11. f4 (11. Na4!? Bb6 12. f4 Bd7 13. Bd2 $36) 11... Qh4 12. Na4 Bg4 13. Qd2 (13. Qe1!? Qxe1 14. Rxe1 Bf2 (14... Bd4? 15. f5 Ne5 16. h3 $18) 15. Rf1 Bd4 16. f5 { 16. e5 ♖ad8∞ } 16... Ne5 17. h3 { 17. ♗a6 f6∞ } 17... Nxd3 18. cxd3 Be2 19. Re1 Bxd3 20. Rd1 Bxb2 21. Bxb2 (21. Nxb2 Bxe4 22. f6 gxf6 23. Be3 c5 $13) 21... Bxe4 22. Rac1 (22. f6 Bc2 23. Rd4 c5 $13) 22... Rfb8 (22... Bxf5 23. Rxc6 Bd7 24. Rc4 $14) 23. f6 Rb4 24. Rd4 $14) 13... Bb6 14. g3?! (14. Nxb6 axb6 15. Qe1 (15. f5 Ne5 16. f6 gxf6 17. Qf4 Ng6 18. Qxf6 Qxf6 19. Rxf6 Kg7 20. Rf1 Ne5 $13) 15... Qxe1 16. Rxe1 $14) 14... Qh5! (14... Qf6 15. Nxb6 axb6 $13) 15. Nxb6 cxb6 16. Ba6? { ⌓ 16. ♔g1 } 16... Bf3+ 17. Kg1 Bxe4 18. Qxd6 { 18. b4!? △♗b2 } 18... Rad8 $19 19. Qa3?! (19. Qb4 Rfe8 20. Bd2 { 20. ♕e1 ♗g2
+-+ } 20... Nh4! $19) 19... b5 { 19. ... ♕h3! -+ } 20. Be3 Qe2 { ⌓ 20. ... ♖fe8-+ } 21. Rf2 Rd1+ 22. Rxd1 Qxd1+ 23. Rf1 Qxc2 24. Rf2 { 24. ♗f2 ♖d8→ } 24... Qd1+ 25. Rf1 Qg4 26. Bxa7 (26. Bc5 Qh3 27. Rf2 Rd8 28. Bd6 Qe6 $19) (26. Qd6 Nh4! 27. Qe7 Nf3+ 28. Kf2 Bd5 { △♘xh2 } 29. Bc5 Ra8 30. Qb7 Re8 $19) 26... Rd8?! 27. Qe3 Bd5? { 27. ... f5!-+ } 28. Re1 (28. Bc5 $17 { △♘h4 29. ♕e7! }) 28... h5 (28... Qh3 29. Qf2! $17 (29. Qd2? Nh4 30. Re3 Qd7! 31. gxh4 Qxa7 $19)) 29. b3 { 29. ♖f1!∓ } 29... Nh4 (29... Ra8 30. Qf2 Rxa7 { 30. ... ♕d7-+ } 31. Qxa7 Qf3 $19) 30. Re2 (30. Qe7 Nf3+ 31. Kf2 Rd7 32. Qe8+ Kh7 33. Bc8 Qh3 34. Rh1 (34. Qxd7 Qxh2+ 35. Kf1 Nd2#) (34. Bxd7 Qxh2+ 35. Ke3 Qd2#) 34... Ne5 35. Qxe5 Qg2+ 36. Ke3 Rxa7 $19) 30... Bf3 (30... Nf3+ 31. Kf2 Qh3 $19) 31. Rd2 (31. Re1 Bd5 32. Qe7 Nf3+ 33. Kf2 Rd7 34. Qe8+ Kh7 35. Bc8 Qh3 $19) 31... Bd5 (31... Rxd2 32. Qxd2 Bd5 33. Qd3 Nf3+ 34. Kf2 h4!? $19 { 34. ... ♘xh2-+ }) 32. Rf2 (32. Qe7 Nf3+ 33. Kf2 Nxd2 34. Qxd8+ Kh7 $19) (32. h3 Qg6 33. Kh2 Nf3+ 34. Qxf3 Bxf3 35. Rxd8+ Kh7 $19) 32... Nf3+ (32... Bg2!? 33. Re2 Rd1+ { 34. ♔f2 ♖f1# } 34. Re1 Rxe1+ 35. Qxe1 Nf3+) 33. Kf1 { 33. ♖xf3 ♕xf3-+ } 33... Qh3+ (33... Bc4+ 34. bxc4 (34. Kg2 Nh4+ 35. Kh1 Rd1+ $19) (34. Re2 Qh3+ 35. Kf2 Qxh2+ 36. Kxf3 Bd5+ $19) 34... Rd1+ 35. Ke2 Ng1#) 34. Ke2 Nxh2 35. a4 Ng4 (35... Be6 36. Ke1 Bg4 $19) 36. Qe7 Ra8 37. axb5 Rxa7?? (37... Qxg3 38. Rf1 Qxb3 $19) 38. Qxa7 Nxf2 (38... Qxg3 39. bxc6 Nxf2!? (39... Bxc6 40. Bd3 g6 $17) 40. c7 { 40. ♕xf2 ♕xb3-+ } 40... Bf3+ 41. Kf1 (41. Ke3 Bg4+ $19) (41. Kd2 Qxf4+ 42. Ke1 Bg4 $19) 41... Qg2+ 42. Ke1 Qg1+ 43. Bf1 Nd3+ 44. Kd2 Qxa7 45. c8=Q+ Kh7 46. Bxd3+ g6 $17) 39. Qxf2 cxb5?! (39... h4! 40. b6 (40. gxh4 Qxb3 41. Qe3 Bc4+ 42. Kf3 Qa2 43. Qe5 cxb5 $19) (40. bxc6 hxg3 41. Qb6 Qh2+ 42. Kd3 g2 43. c7 Be6 44. Qxe6 fxe6 45. c8=Q+ Kh7) 40... hxg3 41. Qe3 Qh2+ 42. Kd3 g2 43. b7 g1=Q 44. b8=Q+ Kh7 45. Qxg1 Qxg1 $17) 40. Bxb5 Bxb3 41. Qe3 $15 Qg2+ 42. Ke1 Qh1+ 43. Kd2 Qd1+ 44. Kc3 Be6 45. Bd3 Qb3+ (45... g6!? $15) 46. Kd2 Qb2+ 47. Ke1 Qf6 48. Qe5! Qxe5+ 49. fxe5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.22"]
+[White "Corzo y Príncipe, Juan"]
+[Black "Capablanca, José Raúl"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Valencian Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Corzo y Príncipe, Juan - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/qQFeYlL5"]
+
+{ (6) Juan Corzo era el mejor jugador de Cuba, al demostrarlo al ganar el
+campeonato nacional, unos pocos meses después. Con un buen juego en el
+mediojuego supera a Capablanca que recibe un mate - una rara humillación para
+el. }
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 { ⌓3. ... ♕a5 } 4. d4 e6 5. Nf3 Nf6 6. Bd3 (6. Bc4 Be7 7. O-O O-O 8. Qe2 Nbd7 9. Re1 Nb6 10. Bb3 $16 { Alekhine -
+Schlechter, Karlsbad 1911 }) 6... Be7 7. Ne2 { 7. 0-0 ♘c6+/= } (7. Ne5!? O-O 8. O-O Nbd7 9. Qf3 c5 (9... Nxe5 10. dxe5 Nd5 11. Rd1 $16) 10. Be3 $36) 7... Nc6 8. c3 O-O 9. h3 { ⌓9. 0-0+/= } 9... Ne8?! (9... h6!? 10. O-O (10. Qc2 Bd6 11. O-O e5) 10... Bd6 11. Bf4 (11. Re1 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Bf4 Bxf4 15. Nxf4 Qd6) 11... Bxf4 12. Nxf4 Qd6 13. Qd2 e5 14. dxe5 Nxe5 15. Nxe5 Qxe5 16. Rfe1 Qg5) 10. Qc2 g6?! (10... h6 11. Bf4 Bd6 12. O-O-O $36) 11. Bh6 Ng7 12. h4 $40 f5 (12... Re8 13. O-O-O Nf5 14. Bg5 $16) 13. O-O-O Rf7 14. Ne5 (14. Nf4 Bf6 15. Kb1!? $16) 14... Nxe5 15. dxe5 Qd5! 16. Kb1 Qxe5 17. Nf4 $44 Qc5 (17... a5 18. Rhe1 Qc5 19. h5 $40) 18. Qe2 Qc6 (18... Bd7 19. Bc4 Bd6 20. h5 $16) 19. f3! (19. Bc4 Qe4+! 20. Qxe4 fxe4 $13) 19... Bf6 (19... Bd7 20. h5 $36) 20. Bc4 b5?! (20... Rd7 21. Bg5 Bxg5 22. hxg5 a6 23. g4 { △24. ♕h2+- }) (20... Bd7 21. Nd5! Nh5 (21... exd5 22. Bxd5 Qa4 23. b3 Bb5 24. Bxf7+ Kxf7 25. Rd7+! Kg8 26. Rxg7+ $18) 22. Nxf6+ Nxf6 23. Bg5 $16) (20... a6 21. h5 $16) 21. Bxb5 Qb6 22. Bc4 Bxc3 23. Rd8+ { 23. h5!?→ } 23... Rf8 24. Rxf8+ Kxf8 25. Bxe6! (25. Bb3 Bf6 26. Re1 (26. h5 g5 27. Nxe6+ Bxe6 28. Qxe6 Qxe6 29. Bxe6 Rb8 30. b3 Ke7 $14) 26... Qd4 27. Bxe6 Ba6 $132) 25... Bxe6 (25... Rb8 26. Bb3 $18) (25... Ba6 26. Qc2 Be5 27. h5! Bxf4 28. Bxg7+ Kxg7 29. Qc3+ Kh6 30. Qf6 $18) 26. Nxe6+ Kg8 27. Bxg7 Bxg7 28. Nxg7 Kxg7 29. Qe5+ Qf6 (29... Kh6 30. g4! $18) 30. Qxc7+ Kh6 (30... Qf7 31. Rc1 $18) 31. g4! $18 fxg4 32. fxg4 Qf3 (32... Qe6 33. g5+ Kh5 34. Qxh7+ Kg4 35. Rg1+ Kf3 36. Qc7 $18) 33. g5+ Kh5 34. Qxh7+ Kg4 35. Rg1+ Kh3 36. Qxg6 Rd8 37. Qc2 Re8 38. g6 Re2 39. Qc1 (39. Qxe2 Qxe2 40. g7 Qe4+ 41. Ka1 $18) 39... Rg2 40. Rh1+ Kg4 41. Qg5# { 1-0 White wins by checkmate. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.23"]
+[White "Gavilán, A."]
+[Black "Capablanca, José Raúl"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C44"]
+[Opening "Scotch Game: Haxo Gambit"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Gavilán, A. - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/vlI2VPvH"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 { 4. ♘xd4 ver partida xx } 4... Bc5 5. O-O Nge7 6. c3 dxc3 7. Nxc3 O-O 8. Bg5 Kh8!? { △f6 } 9. a3?! { 9. ♘a4!?; 9. e5!? } 9... f6 10. Bh4 Ng6 11. Bg3 d6 12. h3? (12. b4 Bb6 13. Nd5 $15) 12... Nce5 $17 13. Bb3 Nxf3+ 14. Qxf3 Ne5 15. Qe2 Qe8?! (15... Bd7 16. Na4 Bd4 17. Rad1 Nc6 $17) 16. Nd5 Qg6 (16... Qf7 17. Ba2!? (17. Kh2 c6! 18. Nb6 Qxb3 19. Nxa8 Be6 $17) 17... Be6 $15) 17. Kh1 { ⌓17. ♔h2+/= } 17... Qh6 (17... c6 18. Ne7 Qh6 19. Nxc8 Raxc8 $15) 18. Bd1? (18. Bf4 g5 19. Bh2 Qg7 20. f4 gxf4 21. Nxf4 $15) (18. f4 Bg4 (18... Nc6 19. f5 Nd4 20. Qd3 Nxb3 21. Qxb3 c6 22. Nc7 Rb8 23. Rad1 $14) 19. Qd2 Rac8 20. Ne7 Rce8 21. Nf5 $15) 18... g6? (18... Bxh3!? 19. Qh5!? (19. gxh3 Qxh3+ 20. Bh2 Nf3 21. Qxf3 Qxf1+ 22. Bg1 f5 $17) 19... Qxh5 20. Bxh5 c6 21. gxh3 cxd5 22. exd5 $17) (18... c6! 19. Nc7 { 19. ♘f4 f5-+ } 19... Bxh3 20. Qh5 (20. gxh3 Qxh3+ 21. Bh2 Rac8 $19) 20... Qxh5 21. Bxh5 Rac8 22. gxh3 Rxc7 $19) 19. Nf4? (19. f4 Bxh3 { 19. ... ♗g4 20. ♕e1± } 20. gxh3 Qxh3+ 21. Bh2 Ng4 22. Rf3 $14) 19... g5 { 19. ... ♗d7∓ } 20. Nd3?! { 20. ♘d5
+c6∓ } (20. Nh5 g4 21. Bxe5 fxe5 22. hxg4 Rg8 23. f3 Be6 $17) 20... Bxh3! 21. gxh3? (21. Kg1 Nxd3 22. Qxd3 Be6 23. Bb3 $17) 21... Qxh3+ 22. Kg1 (22. Bh2 Ng4 23. Qxg4 Qxf1+ 24. Bg1 Qxd3 $19) 22... Qxg3+ 23. Kh1 Qh3+ 24. Kg1 Nxd3 $19 25. Qf3 Qxf3 26. Bxf3 f5 27. b4 Bxf2+ 28. Rxf2 Nxf2 29. e5 Nh3+ 30. Kh2 dxe5 31. Bxb7 Rab8 32. Bd5 Nf4 33. Bc4 Rbd8 34. Re1 Rd2+ 35. Kg1 e4 36. a4 Rf6 37. b5 Rh6 (37... Rg2+ 38. Kf1 Rh6 { △39. ... ♖h1# }) 38. Bf1 Rdh2 39. Rd1 e3 { 0-1 White resigns. } 0-1
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.25"]
+[White "Ettlinger, Alfred K"]
+[Black "Capablanca, José Raúl"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Paulsen Attack"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Ettlinger, Alfred K  - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/1NRddxEv"]
+
+{ (6) Ettlinger ya había tomado su parte de la fama, al haber jugado matches
+contra Steinitz y Em. Lasker, ¡aunque perdió todas las partidas! En esta
+fecha estaba de visita en La Habana, y volvió con historias a Nueva York de
+un nuevo prodigio. Tres años más tarde presentaría a Capablanca en el
+Manhattan Chess Club. }
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 { 5. ♘xc6 ver partida 4 } 5... Qf6 6. c3 Nge7 7. Bb5 (7. Bc4 Ne5 8. Be2 Qg6 9. O-O d6 10. f4 (10. f3 O-O 11. Kh1 d5 12. Nd2 Bb6 13. a4 c6 14. a5 Bc7 15. Bg1 dxe4 16. fxe4 Bg4 { Nedev - Lautier, Ohrid 2001 }) (10. Kh1 Qxe4 11. Nd2 Qg6 12. Bh5 Bg4 13. Bxg6 Bxd1 14. Bxf7+ Kxf7 15. Raxd1 Bxd4 16. Bxd4 N7c6 17. Ne4 Rhe8 { Ganguly - Khalifman, Moscú 2001 }) 10... Qxe4 11. Bf2 Bxd4 12. cxd4 N5g6 13. g3 Bh3 14. Bf3 Qf5 15. Re1 d5 16. Qb3 O-O 17. Nc3 c6 18. Qxb7 Rfb8 19. Qc7 Qf6 { Morozevich - Krammnik, Dortmund 2001 }) 7... a6 { 7. ... 0-0 ver partida xx } 8. Ba4 O-O? (8... b5 9. Bb3 (9. Bc2 O-O 10. O-O Ne5) 9... Bb7 10. O-O O-O) (8... Ne5 9. Qe2 N7g6 10. Nd2 Nf4 11. Bxf4 Qxf4 12. g3 Qg4 13. Qxg4 Nxg4 { Randviir - Keres, Parnu 1947 }) 9. O-O? (9. Nxc6 Bxe3 10. Nxe7+ Qxe7 11. fxe3 $18) 9... b5 10. Bb3 Bb7 11. Nxc6 (11. Nxb5 Bxe3 12. Nxc7 { 12. fxe3
+♕e5=/+ } 12... Bf4 13. Nxa8 Bxa8 $15) 11... Qxc6 12. Bxc5 Qxc5 13. Bc2 (13. Qxd7 Bxe4 14. Re1 Rad8 15. Qg4 Bb7) 13... d5 (13... d6 14. Nd2 Ng6) 14. Nd2 Rad8 (14... dxe4 15. Nxe4 Qc6! 16. f3 (16. Qh5 f5 17. Qg5 Ng6 18. Nd2 h6 19. Qg3 Nf4 $17) (16. Qd4 f5 17. Qc5 fxe4 18. Qxe7 e3 19. f3 Rae8 20. Qh4 h6 $36) 16... Rad8 17. Qe1 Rfe8 18. Qf2) 15. Nb3 (15. Qh5 Ng6 16. Rad1 $13 Qb6) 15... Qb6 { 16. ... ♕d6= } 16. e5!? Ng6!? (16... c5 17. Qh5 Ng6 18. Rad1 { 18. f4 d4<=> } 18... d4 $13) 17. Qd3?! (17. Qd4! Qxd4 { 17. ... ♕e6 18. ♘c5± } 18. cxd4 Nf4 19. g3 Ne6 20. Bf5 $16) 17... Rfe8 18. Rae1 c5 (18... d4 19. Qg3 d3 20. Bb1 { 20. ♗xd3? ♗xg2!∓ } 20... d2 (20... Bd5 21. Re3! Bxb3 22. axb3 d2 23. Rd1 $13) (20... Rd5 21. Bxd3 Rdxe5) 21. Rd1 Nxe5 22. Rxd2) 19. Qg3 d4 20. Kh1?! (20. Bxg6 fxg6 21. cxd4 cxd4 22. Rd1 $13) 20... d3! 21. Bxd3? (21. Bd1 c4 22. Nd2 (22. Nd4? Rxd4 23. cxd4 Qxd4 $19) 22... Ne7 $15) 21... Rxd3! 22. Qxd3 Bxg2+ 23. Kg1 c4? (23... Bxf1 24. Qxf1 Nxe5 $19) 24. Qd6! Qb7 25. Nc5 Qa8 26. e6 (26. Qxa6 Bxf1 (26... Nxe5? 27. f4 Nf3+ 28. Rxf3 Bxf3 29. Qxa8 Rxa8 30. Kf2 Bc6 31. Rd1) 27. Qxa8 Rxa8 28. Kxf1 Rxa2 29. b3 Rc2 30. bxc4 bxc4 $17) 26... Bxf1?! (26... fxe6!? 27. Rxe6 (27. f3 Bxf1 28. Rxf1 Nh4 $17) 27... Rd8 28. Qxa6 Bxf1 29. Qxa8 Rxa8 30. Kxf1 Rxa2 $17) 27. exf7+ (27. Kxf1 fxe6 { 27. ... ♕h1+ 28. ♔e2∞ } 28. Re4 e5 29. Qxa6 Qd5 30. Qxb5 Rc8 $17) 27... Kxf7 28. Qd7+ Re7 29. Rxe7+ Nxe7 30. Qe6+?! (30. Nb7! Bh3 (30... Bd3 31. Nd8+ Kf8 32. Ne6+) 31. Nd6+ Kf6 32. Qxh3 Qd5 33. Qd7 $13) 30... Ke8 (30... Kf8! $15) 31. Qd7+ Kf7 32. Qe6+ { 32. ♘b7! } 32... Kf8! $15 33. Kxf1 Qh1+ 34. Ke2 Qxh2 (34... Qb1 35. Nd7+ Ke8 36. Ne5 Qc2+ (36... Qxb2+? 37. Kf3 Qxc3+ 38. Kg2 $16) 37. Ke1) 35. Nd7+?! (35. Nxa6!? Qh5+ 36. Kd2 Qf3 37. Qe3 Qf5 $15) 35... Ke8 36. Ne5 Qh5+ 37. Ke1?! (37. f3 Qf5 38. Qd6 h5 $17) 37... Qf5 38. Qd6 Qe4+ 39. Kf1 Qd5 40. Qc7 Qd8 41. Qxd8+ (41. Qb7 Qd1+ 42. Kg2 Qd5+ $19) 41... Kxd8 $19 42. Nf7+ (42. Kg2 Kc7 43. f4 Kd6 44. Kf3 Kd5 $19) 42... Kd7 43. Ke2 (43. Ng5 h6 44. Ne4 Kc6 $19) 43... h6 44. Ne5+ Ke6 45. Nf3 g5 46. Ke3 Kd5 47. Nd4 h5 48. f4 (48. Kf3 Ng6 49. Nf5 Nf4 $19) 48... g4 49. b3 h4 50. f5 (50. b4 h3 51. Kf2 Ke4 52. Kg3 Nf5+) 50... Ke5 51. f6 Nd5+ 52. Kf2 Nxf6 53. bxc4 bxc4 { 0-1 White resigns. } 0-1
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.27"]
+[White "Capablanca, José Raúl"]
+[Black "Marceau, Mauro P"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl  -  Marceau, Mauro P"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/6xu71aXF"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nf5? (6. Nxc6 bxc6 7. Bd3 { - partida xx }) 6... O-O 7. Bd3 d5! 8. exd5 Qxd5 (8... Re8+! 9. Ne3 Nxd5 10. Bd2 Nf4 $17 { W. Martin - Ketterer, Baden 1993 }) 9. Qf3?? Qxf3? (9... Bxf5! 10. Bxf5 (10. Qxd5 Nxd5 11. Bxf5 Nxc3 $19) 10... Qe5+! 11. Be3 Nd4 $19) 10. gxf3 Bxf5 (10... Re8+!? 11. Ne3 (11. Be3 Ne5 12. Nd4 Nd5 $19) 11... Nd4 12. f4 Bh3 $19) 11. Bxf5 $17 Nd4 12. Bd3 Bxc3+ 13. bxc3 Rfe8+ 14. Kf1 Nxf3 15. Bb2 Ne4 16. Kg2 Ned2? (16... Nh4+!? 17. Kh3 Ng6 $17) 17. Rad1 Re5? (17... Nh4+!? 18. Kg3 Ndf3 19. Rb1! $15 { △♗c1-e3 }) 18. h4! { △19. ♗c1; △19. c4, 20. ♗c3 } 18... Rae8 19. c4? (19. Bc1! Ne1+ 20. Rhxe1 Rxe1 21. Rxe1 Rxe1 22. Bxd2 $14) 19... Rh5? (19... Re1 20. Bc3 Nxh4+ 21. Kg3 Rxh1 (21... Rxd1 22. Rxd1 Ndf3 23. Be2 $16) 22. Rxh1 Ndf3 23. Rxh4 Nxh4 24. Kxh4 $15) 20. Rh3? (20. Kg3! h6 21. Bc1 Ne4+ 22. Kxf3 Rf5+ 23. Kg2 Rxf2+ 24. Kg1 $16) 20... Ne1+? (20... Nxh4+ 21. Rxh4 Rxh4 22. Rxd2 c6 $13) 21. Rxe1 (21. Kg3! Ndf3 22. Be4 Ng1 23. Rxe1 (23. Rh1 Ne2+ 24. Kh3 h6 25. f3 Nf4+ 26. Kg3 Neg2 $13) 23... Nxh3 24. Kxh3 $16) 21... Rxe1 22. Bc3! Re4 23. Bxd2 Rexh4 24. Re3! $14 (24. Rxh4 Rxh4 $15) 24... f5? { 24. ... ♔f8+/= } 25. Re7 $18 f4 (25... Rh2+ 26. Kf3 R2h3+ 27. Ke2 $18) 26. Kf3 { 27. ♖xc7+- } 26... g5 (26... Rh3+ 27. Kxf4 R5h4+ 28. Ke5 Rf3 29. Bb4! $18 { △30. ♖e8 }) 27. Rxc7 Rh3+ 28. Kg4 R3h4+ 29. Kf5 f3 30. Bxg5 h6 (30... Rd4 31. c5 $18) 31. Kf6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.27"]
+[White "Márquez Sterling, Manuel"]
+[Black "Capablanca, José Raúl"]
+[Result "1/2-1/2"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Márquez Sterling, Manuel - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/cqV3Byh1"]
+
+{ Sterling tenía su reputación, habiendo jugado con los mejores jugadores del
+mundo en París, 1900. Capablanca le tiene respeto; jugando cuidadosamente
+llega a un buen final donde debió haber jugado 35. ... ♗f8, en vez de 35. ..
+. ♗e7. No vió los tenedores con los cuales las blancas salvan la partida. }
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 { 5. 0-0! véase A. Khalifman
+"Aperturas de acuerdo a Anand", volumen 2, Sofía 2003. } 5. d3 d6 6. c3 { 6. ♘c3 - ver partida xx } 6... b5 { 6. ... ♗d7 ver partida xx; 6. ... ♗e7 ver
+partida xx } 7. Bc2 Be7 8. Nbd2 O-O 9. Nf1 d5 10. Ng3 { 10. ♕e2∞ } 10... dxe4 11. dxe4 Qxd1+ 12. Bxd1 Bd6 (12... Re8 13. O-O Nd7 (13... Bb7 14. Bc2 g6 15. h3 Bf8 16. Bg5 Kg7 17. Rfd1 h6 { Gergel - Svirin, Smolensk 1991 }) 14. Nf5 Bf8 15. Bc2 Bb7 16. Rd1 Nb6 17. h3 Rad8 { Zakharov - Vasilchuk, Moscú 1961 }) 13. O-O { 13. ♗g5 ♘d7= } 13... Be6 14. Bb3 Nd8 (14... Bxb3 15. axb3 h6 16. Rd1 a5) 15. Be3 (15. Bg5!? Bxb3 (15... Nd7 16. Bxd8 Raxd8 17. Bxe6 fxe6 18. a4 $14) 16. axb3 Nd7 17. Nf5 $14) 15... Ng4 16. h3?! (16. Bd2 c5) (16. Bg5 Bxb3 17. axb3 Ne6) 16... Nxe3 17. fxe3 Bxb3 18. axb3 g6 (18... Nb7 19. b4 (19. Nf5 f6 20. b4 g6 $15) 19... g6 20. Ra2 c5 $15) 19. b4 Nc6 20. Ne2 (20. Ra2!? a5 21. Rfa1 $13) 20... a5! 21. bxa5 Nxa5 22. Nc1 { 22. ♘d2=/+ } 22... Nc4 23. Nd3 Nxe3? (23... f5! 24. Nf2 { 24. ♘g5 ♘xe3-+ } 24... Nxb2 25. Rab1 Na4 $19) 24. Rxa8 Rxa8 25. Re1 Nc4 26. b3 Na5 27. Ra1 Ra7 (27... f5 28. Ndxe5 (28. Nfxe5 fxe4 29. b4 exd3 30. Nxd3 Kf7 31. Rxa5) 28... fxe4 29. b4 exf3 30. Nxf3 c5 31. Rxa5 { 31. bxa5? ♖a6 △♗c7 } 31... Rxa5 32. bxa5) 28. b4 Nc6 29. Rxa7 Nxa7 30. Nfxe5 (30. Ndxe5 f6 31. Nd3 Kf7 32. Kf2) 30... f6 31. Ng4 (31. Nf3 Kf7 32. Kf2) 31... Kf7 32. e5!? (32. Kf2 Nc6 33. Kf3 h5 34. Ne3 Ne5+ $15) 32... fxe5 33. Ngxe5+ Ke6 34. Nf3 Kd5 $15 35. Nb2 (35. Nd2 Nc6 $15 { △♗e5; 35. … ♘c8=/+ △♘b6-c4 }) 35... Be7 36. Kf2!? (36. Nd2 Bg5 37. Nb1 Nc8 38. Kf2 Nd6 $15) 36... Bf6 37. Nd1 Kc4 38. Ne3+ Kb3 (38... Kxc3?? 39. Nd5+ $18) (38... Kd3!? 39. Ne1+ Ke4 40. Nd1 $15) 39. Nd2+! Kb2 (39... Kxc3?? 40. Ne4+ $18) 40. Ne4 Be5 41. Ke2 Nc8 42. Kd3 Nd6 (42... Nb6 43. g4 Na4 44. g5) 43. Nxd6 cxd6?! (43... Bxd6 44. Nc2 c5 45. bxc5 Bxc5 46. Nd4 Bxd4 47. cxd4 b4 48. d5 b3 49. d6 Ka2 50. d7 b2 51. d8=Q b1=Q+) 44. c4! Kb3 45. cxb5 (45. c5 dxc5 46. bxc5 Kb4 47. Ng4 Bc7!? (47... Bb8 48. Nf6 Bh2 49. Nxh7 Kxc5 50. Nf8 Kd6 51. Nxg6 Bg3 $44) 48. Kd4 Ka3 49. Ne3 b4 50. Nd5 Bd8 51. c6 b3 52. c7 Bxc7 53. Nxc7 b2 54. Nb5+ Kb3 55. Nc3 Kc2 56. Kc4 Kd2 57. Kd4 (57. Kb3 Ke3 58. Kxb2 Kf2 59. g4 Kg3) (57. h4 Ke3 58. Nd1+ Kf4 59. Nxb2 Kg3) 57... g5 58. g4 (58. g3 h5 59. g4 hxg4 60. hxg4 Kc2 61. Kc4 Kd2) 58... h6 59. Nb1+ Ke2 60. Ke4 Kf2 61. Kf5 Kg2) 45... Kxb4 46. b6 (46. Ng4 Bg3 47. b6 Kc5 48. b7 (48. Nf6 Kxb6 49. Nxh7 Kc6 50. Nf8 g5 51. Ke4 d5+ 52. Kf5 d4 53. Ke4 Kd6 54. Kxd4 Ke7 55. Nh7 g4! 56. hxg4 Kf7) 48... d5 49. Nf6 Kc6 50. Nxh7 Kxb7 51. Nf8 g5 52. Ne6 g4! (52... Bh4 53. Kd4 Kc6 54. Ke5 Bg3+ 55. Kf5 $16) 53. hxg4 Kc6 54. Nd4+ Kd7) 46... Kb5? (46... Kc5 47. b7 d5) 47. b7 d5 48. Nxd5 Kc6 49. Nf6 h5 50. g4? (50. Ke4 Bg3 51. Nd5 g5 52. Nf6 g4 53. Nxg4!! (53. hxg4 hxg4 54. Nxg4 Kxb7) (53. Nxh5 gxh3 54. Nxg3 hxg2 55. b8=Q g1=Q) 53... hxg4 54. hxg4 Kxb7 55. g5 Bd6 56. g6 Bf8 57. Ke5 Bg7+ 58. Ke6 Kc6 59. Kf7 Be5 60. g4 Kd5 61. g7 Bxg7 62. Kxg7 $18) 50... Kxb7 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.09.29"]
+[White "Capablanca, José Raúl"]
+[Black "José Antonio , Blanco"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Paulsen Attack"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl  - José Antonio , Blanco"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/PKCAEuZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 { 5. ♘xc6 ver partida xx } 5... Qf6 6. c3 Nge7 7. Bb5 O-O { 7. ... a6 ver partida xx } 8. Nxc6 bxc6 9. Bxc5 cxb5 10. O-O d6 11. Be3!? (11. Bd4 Qg6 12. Nd2 c5 13. Be3 f5 14. Qf3 Bd7 15. Rfe1 Rae8 16. exf5 Nxf5 $36 { Kupreichik-Romanishin, Moscú 1976 }) 11... Bb7 (11... Qg6 12. Nd2 f5 13. Qf3 Bd7 $13 { Harmonist - Mackenzie, Frankfurt 1887 }) 12. Nd2 Qg6 13. Re1 (13. f3 a6 14. a4 Bc6 15. axb5 axb5 { Henkel - Deiner, Bellheim
+1994 }) 13... Nf5 14. Qf3 (14. Bf4 Rae8 15. f3 Ne7) 14... Nh4?! (14... Nxe3 15. Rxe3! Rae8 (15... f5 16. exf5 Qxf5 17. Qxf5 Rxf5 18. Rae1) (15... Rfe8 16. Qf4) 16. a4 $13 (16. Qf4?! f5! 17. Rg3 fxe4 18. Qxf8+ Kxf8 19. Rxg6 hxg6 $15)) 15. Qh3 Qf6 16. Bd4 (16. Qg4! { △17.♗g5 } 16... h6 { 16. … ♗c8 17. ♕h5±; 16. … ♘g6 17. ♕d7± } 17. f3 (17. Qd7?! Qg6 18. Qh3 Qf6 $13) (17. Bd4 Qg5 18. Qxg5 hxg5) 17... Bc8 { 17. … c5?! 18.
+b4!± } 18. Qh5 $14) 16... Qe7 17. e5?! (17. Qg3 Ng6 18. c4 c5 19. Be3 a6 20. f3 Rae8 $13) 17... Nxg2 18. exd6 (18. Qg3 Qh4 19. Qxh4 (19. Re2 c5 20. Bxc5 dxc5 21. f3 Rfd8 22. Rxg2 Qxg3 23. hxg3 Rd3 $15) 19... Nxh4 20. exd6 cxd6 21. Re7 Rfb8 22. Rae1 { 22. ♖d7 ♘f5∓ } 22... Kf8 $15) 18... Qg5? (18... Qxd6 19. Ne4! (19. Qg4? f6 20. Ne4 Nxe1!! 21. Nxd6 Nf3+ $19) 19... Qg6 (19... Nf4 20. Qg3 Qg6 21. Nc5 Bd5 22. Re7 c6 23. Rae1 $44) 20. Qxg2 Qxg2+ 21. Kxg2 f5 22. f3 fxe4 23. fxe4 Rf4 24. Kg3 Rxe4 (24... Raf8 25. Be5 Rxe4 26. Rxe4 Bxe4 27. Bxc7) 25. Rxe4 Bxe4 26. Re1) 19. Ne4 Bxe4 20. Rxe4 Nf4+ 21. Qg3 Qxg3+ 22. fxg3 (22. hxg3 Ne6 23. dxc7 Nxc7 (23... Rfc8 24. Be5 Nxc7 25. a4 bxa4 26. Rexa4 $16) 24. Re7 Rfc8 25. a4 bxa4 26. Rxa4 $14) 22... Ne6 23. dxc7 Nxc7 (23... Rfc8 24. Be5 Nxc7 25. a4 bxa4 26. Rexa4 $16) 24. Re7 Ne6?! (24... Rfc8 25. a4 bxa4 26. Rxa4 a6 $14 (26... a5?! 27. b4! Nd5 28. Rd7 Nxc3 29. Bxc3 Rxc3 30. bxa5 g6 31. a6 $16 { △a7 })) 25. Rxa7?! { 25. ♗xa7!± } 25... Nxd4 26. Rxa8 Rxa8 27. cxd4 Ra4 28. d5 (28. b3!? Rxd4 29. a4 bxa4 30. bxa4 Rd6 31. a5 Ra6 32. Kf2 Kf8 33. Ke3 Ke7 34. Kd4 Kd6 35. Kc4 Kc6 $14) 28... Rd4 (28... Kf8 29. Re1 { 29. a3 ♖d4= } 29... Rxa2 30. d6 Ra6 31. d7 Ra8 32. Rd1 Ke7 33. Rd5 Rd8) 29. Rc1 (29. b3!? Rxd5 (29... b4 30. a4 bxa3 31. Rxa3 $14) 30. a4 $14) 29... Kf8 30. Rc5 b4 (30... Rd1+ 31. Kg2 Rd2+ 32. Kf3 Rxb2) 31. a4 (31. a3 Ke7!? 32. Rc7+ Kf6) 31... bxa3 (31... Rd1+ 32. Kf2 (32. Kg2 Rd2+ 33. Kh3 Rxb2) 32... Rd2+ 33. Ke3 Rxb2 34. Rc7 Ke8 35. d6 Rxh2 36. Re7+ Kd8 37. Rxf7 Ra2 38. Rxg7 h5 $14) 32. bxa3 Ke7 33. Ra5 Rd2 34. a4 h5 (34... g6 35. g4 h6) 35. d6+ Kxd6 36. Rxh5 Rd5?? (36... Ra2 37. a5 f6 38. Rf5 Ke6 $14) 37. Rxd5+ Kxd5 38. Kf2 $18 Kc5 39. Ke3 Kb4 40. Kd4 Kxa4 41. Ke5 Kb4 42. Kd6 Kc4 43. Ke7 f5 44. Ke6 (44. h4 Kd4 45. h5 Ke4 46. Kf7 Kf3 47. Kxg7 Kxg3 48. h6 f4 49. h7 f3 50. h8=Q Kg2 { 50. ... f2 51. ♕h1+- } 51. Qa8 $18) 44... f4 45. gxf4 Kd4 46. f5 Ke4 47. h4 Kf4 48. h5 Kg5 49. Kf7 { 49. ... ♔h6 50. ♔g8 ♔xh5 51.
+♔xg7+- } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.10.01"]
+[White "Enrique , Delmonte"]
+[Black "José Raúl , Capablanca"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Stonewall Attack"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Enrique , Delmonte - José Raúl , Capablanca"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/4w6oxkqX"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 Nbd7 4. f4 e6 5. Nf3 c5 6. c4?! (6. c3 c4?! { 6. ... ♗e7∞ } 7. Bc2 b5 8. a3 a5 9. O-O Bb7 10. Nbd2 b4 11. axb4 axb4 12. Rxa8 Qxa8 13. Ne5 Be7 14. e4 $36 { Stock - Euler, Griesheim 2000 }) 6... Bd6 (6... cxd4 7. exd4 { 7. cxd5!? ♗b4+!∓; 7. ♘xd4 e5=/+ } 7... dxc4 8. Bxc4 Bd6 $15) 7. O-O b6 (7... cxd4 8. cxd5 Nxd5 9. Nxd4) 8. b3 Bb7 9. Bb2 Rc8 10. Nbd2 h5?! { 10. ... 0-0= } 11. Qe1 (11. cxd5!? exd5 { 11. … ♘xd5 12. ♘c4+/
+= } 12. dxc5 bxc5 13. Nh4 g6 14. Qc2 $36) 11... Qc7 12. Ne5 { 12. ♕g3!?↑ } (12. cxd5 Nxd5 (12... Bxd5?? 13. e4 Bb7 14. e5 $18) 13. Nc4 $14) 12... h4!? 13. Ndf3?! (13. cxd5!? exd5 (13... Bxd5 14. e4 Bb7 15. Nec4 Be7 16. e5 Qc6 17. Qe2 $16) (13... Nxd5 14. Ne4 h3 15. Bb5 Bxe5 16. dxe5 $16) 14. Bf5 $36) 13... dxc4 14. Nxc4 h3 15. g3 b5? (15... Be7 16. Rc1 O-O $13) 16. Nce5? (16. Nxd6+ Qxd6 17. Bxb5 $16) 16... Bxf3?! { 16. ... a6!?∞ } 17. Rxf3 Qb7 18. Rf2?! (18. Qe2! Rb8 { 18. ... a6 19. a4± } 19. Nxd7 Qxd7 20. dxc5 Bxc5 21. Rc1 $16) 18... Bxe5 { 18. ... cxd4 19. exd4↑ } 19. dxe5 Ng4! { 19. ... ♘e4
+20. ♖c2± } 20. Rc2 (20. Rd2 c4!? 21. Bf1 Qe4! (21... c3? 22. Bxc3 Rxc3 23. Rxd7 $18) 22. bxc4 bxc4 23. Rad1 Nc5 $14 { △♘d3 } (23... c3? 24. Bxc3 Qxe3+ 25. Qxe3 Nxe3 26. Rxd7 Nxd1 27. Rxd1 Rxc3 28. Bb5+ Ke7 29. Rd7+ $18)) 20... c4?! (20... a6!? 21. Rd1 $14 (21. Qe2 Qg2+! 22. Qxg2 hxg2 23. Rxg2 Nxe3 24. Re2 Nd5)) 21. Bf1 (21. bxc4!? bxc4 (21... Nc5 22. Bf1 Qe4 23. Rac1 Qxe3+ 24. Qxe3 Nxe3 25. Rc3 Na4 26. Rxe3 Nxb2 27. Rb3 $16) 22. Rac1 Nb6 23. Bf1 Qe4 24. Bd4 $16) 21... Qe4 22. Re2 Nc5 23. Bd4 Nd3 (23... a6 24. Qa5 Rc6 25. Bxc5 Rxc5 26. bxc4 $16) 24. Qd2? { 24. ♕a5!± } 24... Rd8 { 24. ...
+△♖xd4 } (24... g5!? { △gxf4 } 25. Bxa7 Ra8 $17 26. Qa5 Qb7 $17) 25. Rd1 (25. Qc3 g5! 26. Bxa7 Qf3! { △27. ... ♘df2 } 27. Qc2 Qb7 28. Bd4 gxf4 $19) 25... Rxd4! 26. exd4 Qxd4+ 27. Kh1 Ngf2+ 28. Kg1 Nxd1+ 29. Kh1 Qd5+ 30. Kg1 Qc5+ 31. Kh1 N1f2+ 32. Rxf2 Nxf2+ { 0-1 White resigns. } 0-1
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana CUB"]
+[Date "1901.10.05"]
+[White "Corzo, Enrique"]
+[Black "Capablanca, José Raúl"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Corzo, Enrique - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/1pVid9nx"]
+
+{ (6) Enrique decide que un mediojuego agresivo sería una mejor política que,
+de hecho, su hermano había demostrado. En la siguiente partida las blancas
+ofrecen un peón que de no haber sido aceptado, las blancas hubiesen ganado un
+poderoso ataque en la jugada 9. Capablanca debió después haber intentado 20.
+... ♔d7 en vez de 20. ... ♔d8. Las blancas terminan hermosamente, dando
+sus caballos tenedores por todas partes. }
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Be3 { ⌓5. f4 ver partida xx } 5... c5 6. Qg4 (6. f4 cxd4!? { 6. ... ♘c6 7.
+♘f3 ver 5. f4 } 7. Bxd4 Nc6 $13) 6... cxd4 7. Bxd4 Nc6 8. O-O-O?! (8. Bb5? a6 9. Bxc6 bxc6 10. Nf3 c5 11. Be3 d4 $19) (8. Nf3 Nxd4 9. Qxd4 Bc5 $15) 8... Ndxe5 (8... Nxd4 9. Qxd4 f5 10. f4!? $13 { 10. exf6 ♕xf6=/+ Euwe }) 9. Qg3 (9. Bxe5 Nxe5 10. Qg3 { (6) 10. ... ♘g6 11. ♘b5! } 10... f6 11. f4 Nc6 12. f5 d4 (12... Kf7 13. Nge2 Bd6 14. Qh4 $13) 13. fxe6 Bxe6 14. Nb5 Rc8 $17) 9... Nxd4 (9... Ng6?! 10. Nb5 e5 11. Bxe5! Ngxe5 (11... Ncxe5 12. Rxd5 Qe7 13. Qc3 $16) 12. Rxd5 Qe7 13. Nf3 a6 14. Nd6+ Qxd6 15. Rxd6 Bxd6 16. Qxg7 Rf8 17. Ng5 $44) 10. Qxe5 Nc6 11. Bb5 Bd7 12. Qg3 Qb8 (12... a6!? 13. Bd3 (13. Bxc6 bxc6 14. f4 Qb6 15. Nf3 Rb8 $19) 13... Rc8 $17) 13. f4 a6 (13... Bd6 14. Nge2 O-O $17) 14. Bxc6 bxc6 15. Nf3 Qb6 (15... Ra7!? 16. Ne5 g6 17. Qe3 { 17. ♖he1 ♗g7∓ } 17... Bd6 $17) 16. Rhe1 Rb8 17. Na4 (17. b3? Ba3+ 18. Kb1 O-O $19) 17... Qa5 (17... Qb4 18. f5 (18. Rd4 Qb7 { △c5 } 19. Ne5 c5 20. Nxd7 cxd4 21. Nxb8 Qxb8 22. Rd1 g6 23. Rxd4 Bg7 24. Rd3 O-O $17) 18... c5 19. fxe6 fxe6 (19... Bxa4? 20. exf7+ Kxf7 21. Ng5+ Kg8 22. Qe5 Qxb2+ 23. Qxb2 Rxb2 24. Kxb2 $16) 20. Qe5 $132) (17... Qc7 18. Ne5 Bc8 19. f5 $36) 18. f5 Rb7 19. fxe6 Bxe6 20. Qg4 Kd8 (20... Kd7! 21. Rxe6 (21. Qc4 Bd6 22. Qd4 Rhb8 $19) (21. Ne5+ Kc8 22. Nxc6 Qxe1 23. Qg5 f6 24. Rxe1 fxg5 25. Rxe6 Kd7 $19) 21... fxe6 22. Ng5 Qb4! (22... Rb4 23. Qxe6+ Kc7 24. Qe5+ Kb7 25. Rf1 Qxa4 26. Rf7+ Ka8 27. Ne6 $40) (22... Kc7 23. Nxe6+ Kb8 24. Qf4+ Ka8 25. Nxf8 Rb4 26. Qf7 Rxa4 27. Qe8+ Ka7 28. Qd7+ Kb8) 23. Qxe6+ Kc7 24. Nf7 (24. Qe5+ Qd6 25. Ne6+ Kb8 $19) 24... Qxa4 25. Nxh8 Qf4+ 26. Kb1 { 26. ♖d2 ♗c5-+ } 26... Ba3 27. b3 Kb6 $19) 21. Rxe6! fxe6 22. Nd4! (22. Ng5 Qb4 23. Nxe6+ Kc8 24. Rd4 { 24. ♘d4 ♖d7-+ } 24... Qe1+ 25. Rd1 Qe3+ 26. Kb1 Kb8 $17) 22... Kc7! (22... h5 23. Qg6 Qxa4 24. Nxe6+ Kd7 25. Nxf8+ Kd8 (25... Rxf8 26. Qxg7+ Kc8 27. Qxf8+ $18) 26. Qd6+! (26. Qg5+? Kc8 27. Qf5+ Kb8 28. Nd7+ Ka8 29. Nc5 Qxa2 30. Nxb7 Qa1+ 31. Kd2 Qxb2 $19) (26. Ne6+ Kc8 27. Nc5 Qf4+ 28. Kb1 Qf6) 26... Kc8 27. Re1 c5 28. b3 Qa5 29. a4 Rb6 30. Qxd5 $18) 23. Nxe6+ Kb8 24. Qf4+ Ka8 25. Nxf8 Qb4? (25... Rb4! 26. Qf7 Rxa4 (26... Qxa4 27. Qxg7 Rc4 28. c3 Rxc3+ 29. Qxc3 Rxf8 $13) 27. Qe8+ Ka7 28. Qd7+ Kb8 { 28. ...♔b6?? 29. ♘e6+- } 29. Qe8+ (29. Qxg7 Rxa2 30. Nd7+ Kb7 31. Nc5+ Kb6 32. Nb3 Ra1+ 33. Nxa1 Qxa1+ 34. Kd2 Qa5+ $13) 29... Ka7) 26. Qxb4 Rxb4 27. Nd7 Rd8 28. c3 { 28. ♘ac5!+- } 28... Rg4 (28... Rxa4 29. Nb6+ $18) (28... Re4 29. Ndc5 Re2 30. Rd2 Rxd2 31. Kxd2 Rf8 32. Nd3 (32. Ke3 Re8+ 33. Kd3 Rf8 $132) 32... Rf1 33. Nac5 Rh1 34. h3 Rg1 35. Ne1 $18) 29. g3 Kb7 30. Nac5+ Ka7 31. Ne5 Rg5 32. Nxc6+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.10.03"]
+[White "José Raúl, Capablanca"]
+[Black "León , Paredes"]
+[Result "1-0"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "José Raúl, Capablanca - León , Paredes"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/qDd3WzTM"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 { ⌓5. ♘f3 } 5... cxd4 6. cxd4 Qb6 7. Nf3 Bd7 8. Nc3 Rc8 (8... Nh6!? 9. Na4 Qa5+ 10. Bd2 Bb4 11. Nc3 Nf5 12. a3 Be7 13. Ne2 (13. Rc1 Rc8 14. b4 Qb6 15. Na4 Qd8 16. Nc5 Ncxd4 17. Nxd4 Nxd4 18. Nxb7 Qb6 19. Rxc8+ Bxc8 20. Na5 Bd7 21. Bd3 Bb5 $15) 13... Qb6 14. Bc3 Ne3 15. Qc1 Nxf1 16. Rxf1 Rc8 $15 { Trelles - Menéndez Rey, España 1990 }) 9. Rb1 (9. f5!? Nge7 (9... exf5 10. Nxd5 Qa5+ 11. Nc3 $14) 10. fxe6 fxe6 11. Bd3 $13) 9... Bb4 (9... Nxe5 10. Nxe5 Rxc3 11. Nxd7 Kxd7 12. Bd2 Rc6 13. Qa4 $44) 10. Qd3 (10. Be3 Nh6 11. Bd3 Ng4 12. Qe2 (12. Bg1 Qa5 13. h3 Nh6 $15 { △14. ..
+. ♗xc3; 14. ... ♕xa2 })) 10... a6 (10... Nh6!? 11. Be2 Nf5 12. a3 Be7 13. Be3 Na5 14. O-O Nc4 $36) 11. a3 Be7 12. b4 { 12. f5!?↑ } 12... Nh6 13. Be3 Nf5 (13... O-O 14. Be2 f6 $132) 14. Bf2 Na7 15. g4 Nb5?? (15... Nh6 16. h3 Bb5 17. Nxb5 Nxb5 { △18. ... ♖c3 } 18. Qb3 O-O 19. Bxb5 Qxb5 20. f5 Kh8 $13) 16. Na4! $18 Qc7 17. gxf5 Nxa3 18. Qxa3 Qc2 19. Bd3 Qxa4 20. Qxa4 Bxa4 21. Kd2 O-O 22. f6 gxf6 23. Bh4 Kh8 24. Bxf6+ Bxf6 25. exf6 Rg8 26. Rhg1 h6 27. Ne5 Rxg1 28. Nxf7+ Kg8 29. Nxh6+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.10.07"]
+[White "Capablanca, José Raúl"]
+[Black "Corzo, Juan"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Capablanca, José Raúl - Corzo, Juan"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/3iRTMix9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 d6 { 4. ... ♗c5 ver partida xx; 4. ...
+♘f6 ver partida xx } 5. Be3 Nf6 6. Nc3 Bd7 7. f3 Be7 8. Bd3 { 8. ♕d2!?
+△0-0-0 } 8... Ne5 9. Nde2 (9. O-O c5!? 10. Nf5 { 10. ♘de2?? c4-+ } 10... Bxf5 11. exf5 O-O 12. Be4 { 12. ♖e1 d5<=> } 12... Nc4 13. Bc1 Nxe4 14. fxe4 Bf6 15. Qd5 Nb6 16. Qxb7 Bd4+ 17. Kh1 Bxc3 18. bxc3 Re8 19. Rb1 (19. f6 Qc8 20. Qxc8 Raxc8) 19... Re7 20. Qc6 Rc8) 9... c5 { ⌓9. ... 0-0 } 10. b3 { 10. ♘f4!+/= } 10... O-O 11. O-O Bc6 12. Nf4 Re8 13. Qd2 { 13. ♗e2!? } 13... Kh8?! (13... d5? 14. exd5 Nxd5 15. Nfxd5 Bxd5 16. Nxd5 Qxd5 17. Bxh7+ $18) (13... Nxd3 14. Qxd3 Nd7 15. Ncd5 Bg5 16. Rfd1 Nb6 17. Bf2 (17. Nxb6 axb6 18. Qxd6 Qxd6 19. Rxd6 f5) 17... Bxd5 18. Nxd5 $14) 14. Rae1 (14. Be2! Qa5 15. Rad1 $16) 14... Qa5 15. Nce2?! (15. Be2!? a6 16. a4 Rac8 { 16. ... b5 17. ♖a1!± } 17. Rd1 c4 18. b4! Qd8 (18... Qxb4 19. Rb1 Qa3 20. Ra1 Qb4 21. Rfb1 Qa5 22. Bb6 $18) 19. a5 $16) 15... Qxd2 16. Bxd2 g5 (16... d5 17. exd5 Nxd3 { 17. ... ♘xd5 18. ♗f5= } 18. Nxd3 Nxd5 (18... Bxd5?! 19. c4 Bc6 20. Nef4 $14) 19. Ne5 $13) (16... b5!? 17. Ng3 c4 18. bxc4 bxc4 19. Be2 d5 $15) 17. Nh3 Nxd3?! (17... g4 18. Nhf4 { 18. fxg4
+♘xe4=/+ } 18... gxf3 19. gxf3 d5 20. exd5 Nxd3 21. Nxd3 Nxd5 22. Ne5 $13) 18. cxd3 h6 19. f4! g4 20. Nf2 h5 { ⌓20. … ♔h7+/= } 21. Bc3 { 21. ♘g3!↑
+△♘f5; △♗c3; △e5 } 21... Kh7 22. Ng3 Kg6 (22... Bd7! 23. f5 h4 24. Ne2 Rg8 $13) 23. f5+?! (23. Nf5! b5 (23... Bf8 24. Nh4+ Kg7 25. Nh1! Re6 26. Ng3 $16) 24. Nh1 b4 25. Bb2 a5 26. Nxe7+ Rxe7 27. f5+ Kg7 (27... Kg5? 28. Bc1+ Kh4 29. g3+ Kh3 30. Nf2#) 28. Ng3 Rh8 29. Rf4! Re5 (29... a4? 30. Nxh5+! Rxh5 31. Rxg4+ $18) 30. Bxe5 dxe5 31. Rf2 $16) 23... Kh6 (23... Kg5?? 24. Bd2+ Kh4 25. Ngh1 { △g3# }) 24. Bd2+ Kg7 25. Bg5 { 25. ♗c3 ♔f8= } 25... Rh8 26. e5?! (26. Ne2 a5 27. d4! $13) 26... dxe5 27. Rxe5 Bd6 28. Bxf6+? { 28. ♖e2!? } (28. Re3 Nd5 $14) 28... Kxf6 $17 29. Re3 Be5? (29... Bxg3!? 30. hxg3 { 30. ♖xg3 ♖ae8∓ } 30... Rhe8 31. Ne4+ Bxe4 32. dxe4 Rad8 $17) 30. Kh1? { (6) Ambos jugadores pasan por alto que las blancas podían ganar con 30.
+♘xh5+! } (30. Nxh5+! Kg5 (30... Rxh5 31. Nxg4+ Kg7 32. Nxe5) 31. Rxe5 Rxh5 32. f6+ Kg6 33. Nxg4 $18) 30... Bd4 31. Re2 (31. Nfe4+ Ke7 32. f6+ Kd7 $17) 31... Bxf2 32. Rfxf2 (32. Rexf2 Rae8 33. Rf4 Re3 34. Rc4 Rxd3 35. Rxc5 h4 36. Ne2 Rd2 37. Nf4 h3 $19) 32... h4 (32... Rad8 33. Rd2 h4 34. Ne4+ Bxe4 35. dxe4 Rhe8 $19) 33. Ne4+ { 33. h4 ♖xd3-+ } 33... Bxe4 34. dxe4?! (34. Rxe4 Rad8 35. Rxg4 Rxd3 36. h3 Rd4 37. Kh2 $17) 34... Rhe8 { 34. ... ♖hg8 35. h3∓ } 35. h3 (35. g3 h3 36. Kg1 Rad8 37. Rf4 Kg5 $17) 35... g3 36. Rf4 Rad8 37. Re1 Kg5 38. Rg4+ Kh5 39. Kg1?! (39. Rf1 Rd2 40. Rg7 (40. f6 Re5 41. a3 Rg5 42. Rgf4 Rb2 43. R4f3 Re5 $19) 40... Rxe4 41. Rxf7 Ree2 42. Rg1 Rxa2 43. Rxb7 Kg5 44. Rc7 Rec2 45. Rh7 Rab2 46. Rxa7 Rxb3 $17) 39... Rd2 40. a4 Rb2 41. Kf1 (41. f6 Re5! (41... Rxb3 42. Rf1 Re5 43. Rg7 $132) 42. Rf1 Rg5 $19) 41... Rf2+?! { 41. ... ♖d8!-+ △♖dd2 } 42. Kg1 Rxf5 (42... Re5!? 43. Rf1 Rb2 44. f6 Rg5 $19) 43. Rf1! Rxf1+ 44. Kxf1 f5 (44... Re6 45. Rf4 f6 46. a5 b5 47. Ke2 $132) 45. exf5 Rf8 46. Rg7 Rxf5+ 47. Ke1?! (47. Kg1! c4! (47... Rd5 48. Kf1 b6 49. Rxa7 Rd1+ 50. Ke2 Rg1 51. Kf3 Rf1+ 52. Ke3! Rf2 53. Rh7+ Kg5 54. Rg7+ Kh6 55. Rb7 Rxg2 56. Rxb6+ Kg7 57. Rb7+ Kf8 58. Rh7) 48. bxc4 { 48. ♖xb7
+♖c5-+; 48. b4 ♖d5-+ } 48... Rc5 49. Rxb7 Rxc4 50. Kf1 Rxa4 $19) 47... Rf2 48. Rxb7 Rxg2 49. Rh7+ (49. Rxa7 Rh2 50. Rh7+ Kg5 $19 { △♖1+, g2 }) 49... Kg5 50. Rg7+ Kf6 51. Rg4 (51. Rxa7 Rh2!? (51... Rg1+ 52. Ke2 Rb1 53. Kf3 Rxb3+ 54. Kg2 Rb2+ 55. Kg1 $19) 52. Kf1 (52. a5 Rh1+ 53. Ke2 g2 $19) 52... Rxh3 53. Kg1 Rh2 54. Rh7 Kg5 $19) 51... Rh2 52. Kf1 (52. Rxh4 Rh1+ 53. Ke2 g2 $19) 52... Rxh3 53. Kg2 Rh2+ 54. Kg1 Ke5 55. b4 Kf5 56. Rc4 cxb4 57. Rxb4 Kg5 58. Rb5+ Kg4 59. Rb4+ Kh3 60. Rb3 Ra2 { 0-1 White resigns. } 0-1
+
+
+[Event "Campeonato de Cuba"]
+[Site "Havana"]
+[Date "1901.10.09"]
+[White "Fiol, Antonio"]
+[Black "Capablanca, José Raúl"]
+[Result "0-1"]
+[Annotator "Sergei Soloviov"]
+[Variant "Standard"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[StudyName "Partidas comentadas CAPABLANCA"]
+[ChapterName "Fiol, Antonio  - Capablanca, José Raúl"]
+[ChapterURL "https://lichess.org/study/cxdaBR1q/YjDKzqXD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Be7 { 4. ... ♗c5 ver partida xx; 4. ...
+♘xe4 } 5. d3 O-O 6. Nc3 (6. c3 d6 7. a4 { △8. a5 }) 6... d6 7. Ne1 { 7. a3!? } 7... Be6 { 7. ... ♘a5= } 8. Nd5 (8. Bxe6 fxe6 9. Ne2 { 9.f4 d5=/+ } 9... Nd7 { △♗g5 }) 8... Na5 (8... Bxd5!? 9. Bxd5 Nxd5 10. exd5 Nb4 11. c4 c5) 9. b3 (9. Nxe7+ Qxe7 10. Bxe6 fxe6!?) (9. Nxf6+!? Bxf6 10. Bxe6 fxe6 11. Qg4 Qe7 12. b4 Nc6 13. c3 $14) 9... Bd7 (9... Nxd5!? 10. Bxd5 Bd7 11. b4 c6 12. Bxf7+ Rxf7 13. Bd2 d5 14. bxa5 Be6 $44) 10. Nxf6+ (10. Nxe7+ Qxe7 11. Bd2 Nxc4 12. bxc4) 10... Bxf6 11. b4?! (11. Bd2 Nxc4 12. bxc4 Be7 13. f4 f5 $15) 11... Nxc4 12. dxc4 Be6 13. Qe2 (13. Qd3 Qd7 14. Nf3 { 14. b5 a6∓; 14.
+a4 ♕c6∓ } 14... Qa4 15. c3 a5 16. a3 axb4 17. cxb4 Qc6 18. Nd2 Bg5 $17) 13... a5 { 13. ... ♕d7!? } 14. c3? (14. b5 Bg5 $15) 14... c6 (14... axb4! 15. cxb4 Qd7 16. Nc2 { 16. a3 ♕c6∓ } 16... Qc6 17. Na3 Be7 $17 { △f5 }) 15. Qd3?! { 15.
+♘c2+/= } 15... Be7 { △f5 } (15... d5!? 16. cxd5 cxd5 $17) 16. f4 { ⌓16. ♘f3 } 16... exf4 17. Bxf4 axb4 18. cxb4 Qb6+ 19. c5 (19. Rf2 Qxb4 20. Rb1 Qxc4 21. Rxb7 Rfe8 $19) 19... dxc5 20. Be3 (20. bxc5 Bxc5+ 21. Kh1 Ra3 22. Qc2 Qb5 $19) 20... Qxb4 $19 21. Nc2 (21. Rb1 Bc4 22. Qc2 Qa4 $19) 21... Qc4 22. Qxc4 Bxc4 23. Rf4 Rxa2 24. Rxa2 Bxa2 25. Rg4 Be6 26. Rg3 Bd6 27. Rg5 f6 28. Rh5 g6 29. Rh6 b5 30. h4 Kg7 31. h5 g5!? { 31. ... b4-+ } 32. Bxg5 b4 33. Ne3 b3 34. Nf1 c4 35. Nd2 c3 36. Nb1 c2 { 0-1 White resigns. } 0-1
+
+

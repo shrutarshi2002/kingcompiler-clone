@@ -1,0 +1,386 @@
+[Event "Kramnik - Leko Classical World Championship Match"]
+[Site "Brissago SUI"]
+[Date "2004.10.18"]
+[Round "14"]
+[White "Vladimir Kramnik"]
+[Black "Peter Leko"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vladimir Kramnik - Peter Leko"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/FytN7o7O"]
+
+1. e4 { (Notes by GM Ray Keene.) Kramnik, the defending world
+champion, scored a brilliant victory in the 14th and final
+game; Peter Leko resigned after 41 moves when faced with
+checkmate. This is only the third time in the entire history
+of the World Championship that the defending champion has
+saved his title by winning in the final game. The game itself
+was a jewel of controlled aggression. Despite consistent
+exchanges throughout the game, Kramnik maintained an iron grip
+on the position and ultimately blasted his way into the black
+camp via the dark squares. Taking no account of material
+sacrifices it was Kramnik�s king that dealt the fatal blow
+when it marched right into the heart of the opposing
+position. This outstanding game, the best of the match,
+recalled the classic fifth game won by Petrosian against
+Botvinnik in 1963 when a similarly epic king march in an
+endgame brought White a classic victory. "I had to give
+everything, especially at the end, to win against such an
+opponent. Peter Leko is an incredible defender. For me it was
+more difficult than my match against Kasparov in the year
+2000", said Kramnik after the game. Leko said in conclusion:
+"It was a very hard fight. In the end, it was not enough for
+me to win the title. I'm disappointed, but I'm looking forward
+to the future. I'm 25 years old, and I hope to get a new
+chance to become world champion." } 1... c6 { Leko is not averse to
+repeating the main lines of the Caro-Kann. } 2. d4 d5 3. e5 { By
+contrast, Kramnik must seek sharper paths. This move, favoured
+by Nimzowitsch, Tal and Short, is ideal for a must-win
+situation, since it locks pawn formations and avoids premature
+exchanges. } 3... Bf5 4. h4 { Nimzowitsch liked this 3 e5 variation
+and would play here 4 Bd3. His most famous game with this line
+is sadly a loss, a magnificent manoeuvring game against
+Capablanca from New York 1927. The most common alternative
+these days is 4 Nc3, as played for example by Kasparov in a
+drastic win over Karpov at Linares 2001, which continued
+4...e6 5 g4 Bg6 6 Nge2 Ne7 7 Nf4 c5 8 dxc5 Nd7 9 h4 Nxe5 10
+Bg2 h5 11 Qe2 N7c6 12 Nxg6 Nxg6 13 Bg5 Be7 14 gxh5 Nf8 15 Nb5
+Nd7 16 h6. The latest try for Black is 4 Nc3 a5!? as in
+Sebag-Chiburdanidze, FIDE WCh Women KO, Elista 2004. Black won
+in 33 moves after 5 Be3 a4 6 a3 Qb6 7 Rb1 Qa5 8 g4 Bd7 9 Bg2
+e6 10 Nge2 c5 11 0�0 Nc6 12 f4 h5. This 4 h4 line was tested
+repeatedly in the Tal-Botvinnik WCC match, Moscow 1961, with
+generally favourable results for Black. The paths they
+followed are retraced below. } 4... h6 { 4...h5 may be preferable,
+after which Tal tried 5 Ne2 e6 6 Ng3 g6 7 Nxf5 gxf5 8 c4 c5 9
+cxd5 Qxd5 but only drew their 14th game from 1961. } 5. g4 { Instead 5 Ne2 is possible and in their 20 th game 5 e6 6 Ng3
+Ne7 7 Nc3 Nd7 8 Be3 Bh7 9 Bd3 Bxd3 10 cxd3 h5 led to a
+marathon struggle and another draw. } 5... Bd7 { It looks more
+natural to retreat the bishop along the b1-h7 diagonal, but,
+in that case, Black has to reckon with the dangerous pawn sac
+e5-e6. } 6. Nd2 { This looks like a new move. In the 10th
+Tal-Botvinnik game from 1961, we saw 6 h5 c5 7 c3 Nc6 8 Bh3 e6
+9 Be3 Qb6 10 Qb3 cxd4 11 Qxb6 axb6 12 cxd4 Na5 and Black won
+in 42; while the 18 th game followed the course 6 c3 c5 7 Bg2
+e6 8 Ne2 Bb5 9 Na3 Bxe2 10 Qxe2 cxd4 11 cxd4 Bxa3 12 bxa3 Nc6
+and Black won again. However, Tal persisted with this line,
+and in Tal-Pachman, Bled 1961, he finally won after launching
+an attack following 7... e6 8 f4 Qb6 9 Nf3 Nc6 10 Na3 cxd4 11
+cxd4 O-O-O 12 Nc2 Kb8 13 Bd3 Nge7 14 Rb1 Na5 15 Bd2 Rc8 16
+b4. } 6... c5 { Black has one way to free himself before White's
+pawns begin to exert a fatal grip. } 7. dxc5 e6 8. Nb3 Bxc5 { A
+small combination that regains his pawn, but at the cost of
+trading his dark squared bishop. 9...Qc7 would doubtless
+transpose, but this is more forcing. } 9. Nxc5 Qa5+ 10. c3 Qxc5 11. Nf3 Ne7 12. Bd3 Nbc6 13. Be3 Qa5 14. Qd2 { The tone of play
+for the middlegame is set -- Black's position is resilient,
+but White has a promising future on the central dark
+squares. Fritz now wanted to try the line-opening gambit
+14...d4!?, but no human player would yet regard such drastic
+measures as necessary. (It's a mark of how far computer
+programs have advanced that Fritz makes this dynamic choice.) } 14... Ng6 15. Bd4 { Accepting some exchanges, but White's dark square
+grip persists. In contrast, 15 Bxg6 gives black too much
+counterplay along the half-open f-file. } 15... Nxd4 16. cxd4 Qxd2+ 17. Kxd2 Nf4 18. Rac1 { From now on, White's play is direct and
+brutal. I would have played Bf1 and followed it with
+Ke3. Kramnik has no truck with such sophisticated nuances and
+goes directly for the jugular. } 18... h5 { And here I would have left
+Black's king's-side pawns severely alone and traded on
+d3. After 18...Nxd3 19 Kxd3 Ke7 20 Rc7 Rab8 followed by
+...Rhc8, I believe Black could withstand the onslaught from
+White, though it must be admitted that White's knight will
+always be superior to Black's bishop. } 19. Rhg1 { 19 g5 is
+possible instead, but Kramnik is all for open lines. } 19... Bc6 20. gxh5 Nxh5 21. b4 a6 22. a4 { An admirable display of energy,
+but, after 22...Bxa4 23 Rc7 Bb5 24 Rxb7 O-O, Black reduces the
+tension and gains counterplay. Taking the pawn could even be
+dangerous for White after 25 Bxb5 axb5 26 Rxb5 Ra2+. For this
+reason, I prefer 22 Ke3 restricting Black's knight, and if
+22...O-O then 23 Rg5 g6 24 Rcg1 Ng7 25 h5! or if 24...Kh8 25
+Bxg6! fxg6 26 Rxg6 Rf7 27 Ng5 and wins. } 22... Kd8 { ? Leko exhibits
+an alarming tendency towards a bunker mentality. After this
+passive move, Black is strangled in the style of his hero
+Petrosian or of Nimzowitsch, the arch-blockader and early
+prophet of 3 e5 against the Caro-Kann. } 23. Ng5 Be8 24. b5 Nf4 { Clearing the a-file merely offers White a further avenue of
+attack after 24...axb5 25 axb5 Ra3 26 Ra1! } 25. b6 { Creating a
+terrible outpost on c7 for his rook. Black must prevent such
+an invasion at all costs. } 25... Nxd3 26. Kxd3 Rc8 27. Rxc8+ Kxc8 28. Rc1+ Bc6 { Black has plugged one path for White's forces but
+more soon open. Black, we soon see, is fatally debilitated on
+the central dark square complex. } 29. Nxf7 Rxh4 30. Nd6+ Kd8 31. Rg1 Rh3+ { Passive defence is hopeless, so Black tries to
+clear off as many white pawns as he can. } 32. Ke2 Ra3 33. Rxg7 Rxa4 34. f4 { !! The decisive coup. White's small but highly
+efficient army is ready to concentrate its powers and deal the
+death blow. If now 34...Rxd4, then 35 f5 exf5 36 e6 Re4+ 37
+Nxe4 fxe4 38 Rc7, threatening Rxc6, and if 37...Bb5+, 38 Ke3
+when Black's b-pawn is doomed and White's king penetrates. } 34... Ra2+ 35. Kf3 Ra3+ 36. Kg4 Rd3 37. f5 { The same theme. The way
+White's king now takes the Black fortress by storm with just
+rook and knight against rook and bishop reminds me strongly of
+the epic king march and superlative conclusion of game 5 from
+the Petrosian-Botvinnik WCC match, Moscow 1963. } 37... Rxd4+ 38. Kg5 exf5 39. Kf6 Rg4 40. Rc7 Rh4 41. Nf7+ { Black resigns since
+41...Ke8 42 Rc8+ Kd7 43 Rd8 is mate. A jewel of a game and a
+sublime atonement for the sins of omission in some previous
+games of this match. Now compare the celebrated king march by
+Petrosian that doubtless provided inspiration for Kramnik as
+he conducted his final onslaught. } 1-0
+
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Garry Kasparov"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "D47"]
+[Opening "Semi-Slav Defense: Meran Variation, Wade Variation"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Garry Kasparov - Vladimir Kramnik"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/4p7iZAn0"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. Nd4 Nc5 14. b4 cxb3 15. axb3 b4 16. Na4 Ncxe4 17. Bxe4 Nxe4 18. dxe6 Bd6 19. exf7+ Qxf7 20. f3 Qh5 21. g3 O-O 22. fxe4 Qh3 23. Nf3 Bxg3 24. Nc5 Rxf3 25. Rxf3 Qxh2+ 26. Kf1 Bc6 27. Bg5 Bb5+ 28. Nd3 Re8 29. Ra2 Qh1+ 30. Ke2 Rxe4+ 31. Kd2 Qg2+ 32. Kc1 Qxa2 33. Rxg3 Qa1+ 34. Kc2 Qc3+ 35. Kb1 Rd4 { 0-1 Black wins. } 0-1
+
+
+[Event "European Club Cup"]
+[Site "Berlin GER"]
+[Date "1996.09.06"]
+[Round "2"]
+[White "Boris Gelfand"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[WhiteElo "2665"]
+[BlackElo "2765"]
+[Variant "Standard"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stoltz Variation, Shabalov Attack"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Boris Gelfand - Vladimir Kramnik"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/H0n7ykIp"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Bb4 8. Bd2 Qe7 9. a3 Bxc3 10. Bxc3 b6 11. Bd3 Ba6 12. Qa4 dxc4 13. Qxa6 cxd3 14. Qxd3 O-O 15. g5 Nd5 16. Bd2 f5 17. O-O-O c5 18. Kb1 b5 19. Qxb5 Rab8 20. Qa5 Rb3 21. Ka2 Rfb8 22. Rb1 e5 23. Rhc1 Qe6 24. Ka1 exd4 25. Rxc5 Nxc5 26. Qxc5 Nc3 27. Nxd4 Rxb2 28. Rxb2 Qa2+ { 0-1 Black wins. } 0-1
+
+
+[Event "Moscow PCA/Intel-GP"]
+[Site "Moscow RUS"]
+[Date "1994.04.??"]
+[Round "2"]
+[White "Vladimir Kramnik"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E93"]
+[Opening "King's Indian Defense: Petrosian Variation, Normal Defense"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vladimir Kramnik - Garry Kasparov"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/XiAhLRKt"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. d5 Nbd7 8. Be3 Ng4 9. Bg5 f6 10. Bh4 h5 11. Nd2 Nh6 12. f3 Nf7 13. Qc2 Bh6 14. O-O-O c5 15. dxc6 bxc6 16. Kb1 a5 17. Na4 c5 18. Nc3 Be3 19. Nd5 Bd4 20. Nb3 Bb7 21. Nxd4 cxd4 22. f4 Rb8 23. Rhf1 Nh6 24. c5 Bxd5 25. exd5 Nf5 26. fxe5 Nxh4 27. exd6 Ne5 28. Rxd4 Nf5 29. Rxf5 gxf5 30. Qxf5 Kg7 31. Bxh5 Rh8 32. Rg4+ Kf8 33. Qe6 Rb7 34. c6 Rxb2+ 35. Kxb2 Qb6+ 36. Ka3 Qc5+ 37. Ka4 Qc2+ 38. Kb5 Qb2+ 39. Ka6 Qe2+ 40. Kb7 Rh7+ 41. d7 { 1-0 White wins. } 1-0
+
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas ESP"]
+[Date "1996.05.30"]
+[Round "8"]
+[White "Vassily Ivanchuk"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B66"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vassily Ivanchuk - Vladimir Kramnik"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/8J2Vo7fp"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8. O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Bxd4 b5 12. Qe3 Qc7 13. e5 dxe5 14. Bxe5 Ng4 15. Qf3 Nxe5 16. Qxa8 Nd7 17. g3 Nb6 18. Qf3 Bb7 19. Ne4 f5 20. Qh5+ Kf8 21. Nf2 Bf6 22. Bd3 Na4 23. Rhe1 Bxb2+ 24. Kb1 Bd5 25. Bxb5 Bxa2+ 26. Kxa2 axb5 27. Kb1 Qa5 28. Nd3 Ba3 29. Ka2 Nc3+ 30. Kb3 Nd5 31. Ka2 Bb4+ 32. Kb1 Bc3 { 0-1 Black wins. } 0-1
+
+
+[Event "Kasparov - Kramnik Classical World Championship Match"]
+[Site "London ENG"]
+[Date "2000.10.24"]
+[Round "10"]
+[White "Vladimir Kramnik"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2849"]
+[Variant "Standard"]
+[ECO "E53"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Gligoric System"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vladimir Kramnik - Garry Kasparov"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/sm7STa84"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O cxd4 8. exd4 dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Re1 Nbd7 12. Rc1 Rc8 13. Qb3 Be7 14. Bxf6 Nxf6 15. Bxe6 fxe6 16. Qxe6+ Kh8 17. Qxe7 Bxf3 18. gxf3 Qxd4 19. Nb5 Qxb2 20. Rxc8 Rxc8 21. Nd6 Rb8 22. Nf7+ Kg8 23. Qe6 Rf8 24. Nd8+ Kh8 25. Qe7 { 1-0 White wins. } 1-0
+
+
+[Event "Kramnik - Leko Classical World Championship Match"]
+[Site "Brissago SUI"]
+[Date "2004.09.25"]
+[Round "1"]
+[White "Peter Leko"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Classical Attack, Chigorin Variation, Main Line"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Peter Leko - Vladimir Kramnik"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/VZiiHBtH"]
+
+1. e4 { Notes by Raymond Keene *** 1. e4 No surprise; Leko
+plays little else. I felt a pang of sympathy for those
+commenting live on this game. After the combinational flurry
+ending on move 23, it was too easy to reach for the script
+that was titled "And White converts his material
+advantage". However, that account had to be shelved hastily as
+Kramnik emphatically showed the virtues of Black's position,
+rapidly attaining at least equality, then having some
+pressure, and finally seeing Leko go astray in a much
+simplified ending where the best White could hope for was a
+draw. } 1... e5 2. Nf3 Nf6 { The Petroff Defence was originally
+designed as an equaliser, but it also gives Black dynamic
+counterchances. } 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 { This
+move order has supplanted the ancient debate between 6...Bd6
+and 6...Be7. } 7. O-O Be7 8. c4 Nb4 { As we shall see, the
+Petroff is a defence where Kramnik appears to be equally at
+home with both White and Black. } 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5 15. Bf4 Rac8 16. h3 { So far, we are still well inside 'theory', the current
+habitual move order of modern masters. 16.h3 is an interesting
+psychological ploy by Leko, as it was Kramnik's own choice
+when he played against Anand in Corus 2003. } 16... Be4 { Kramnik -
+Anand, Wijk aan Zee 2003 saw 16...Bf6 but, according to
+Huzman, after 17 Nh2 Qa5 18 Bd2 Rcd8 19 Bf3 h6 20 Ng4 Bxg4 21
+hxg4 Bg5 22 Bxg5 hxg5 White could have got a clear advantage
+by 23 Qc1 Rxe1+ 24 Qxe1 Kf8 25 Rb1 Re8 26 Qc1. } 17. Be3 Na5 { "Provocative," said Leko afterwards, but also "the most
+thematic in this position, It reminds me of the Grunfeld,
+which I love to play with Black.". He had this position as
+White against Bologan at Dortmund earlier this year, but his
+opponent that day played now 17...Rcd8; the game was drawn in
+26 moves. } 18. c4 { Leko is provoked! This forcing sequence
+leads ineluctably to a situation where Black will have rook
+and bishop for the white queen. Also possible was 18 Nd2 as
+18...Bxg2 fails to 19 c4 Qc6 20 d5 Qg6 21 Bh5 Bf3+ 22 Bxg6
+Bxd1 23 Bf5. } 18... Nxc4 19. Bxc4 Qxc4 20. Nd2 Qd5 21. Nxe4 Qxe4 22. Bg5 Qxe1+ 23. Qxe1 Bxg5 24. Qa5 Bf6 { !? A tremendous
+decision. Black could probably draw with 24...Bf4 25Qxa7 b6
+followed by ...Bd6 when it is doubtful that White can break
+through. The text is considerably more ambitious. Black
+creates a passed pawn for himself, but he must also take
+account of the fact that White's passed apawn could become
+exceedingly dangerous. } 25. Qxa7 c5 { ! This is a key move,
+creating a situation with rival racing pawns. One might expect
+this still to favour the side with the material advantage, but
+Leko's Queen and Rook are out-numbered and out-manoeuvred by
+Kramnik's pieces. } 26. Qxb7 Bxd4 27. Ra2 c4 28. Re2 Red8 29. a4 c3 30. Qe4 Bb6 31. Qc2 g6 32. Qb3 { In the press
+conference afterwards, Leko with cheerful self-deprecation
+commented that "Once I got my queen to b3, I then spent time
+trying to get it to e4!" } 32... Rd6 33. Rc2 Ba5 34. g4 Rd2 35. Kg2 Rcd8 36. Rxc3 { Leko, with only a few minutes left, tires of
+the bind that Black is exerting and chooses to go into and
+endgame where only Black has winning chances. It might have
+been better to stay passive and trust in his blockade. } 36... Bxc3 37. Qxc3 R2d5 { Susan Polgar, commenting live online, pointed
+out that an ending with the same material and the same
+distribution of pawns on the king's-side occurred in
+Gurgenidze-Averbakh, Baku 1961, and it saw a win for the
+rooks. However, Leko's pawns stand better placed for defence
+here than did Averbakh's. } 38. Qc6 Ra5 39. Kg3 Rda8 40. h4 R5a6 { When Leko played h4, Kramnik should have quickly replied
+...h7h6, so as to meet h4h5 with ...g5. It's important to
+retain pawns here, as explained below. After the game, Leko
+mentioned that he was thinking about the idea Qe1!? but
+rejected it as too ugly for such a game(!). } 41. Qc1 Ra5 42. Qh6 { White's last two moves inhibit this ...h6 manoeuvre
+by Black. } 42... Rxa4 43. h5 R4a5 44. Qf4 { ? This is a blunder,
+which allows Black to fix the pawn formation and ultimately
+gang up on the weak white fpawn. White must play 44 hxg6 as
+they say in the beginner's books, swap pawns in the ending to
+reduce the opponent's winning chances. Even after the superior
+44 hxg6 hxg6 it is not obvious that White can reach the safe
+haven of a draw, as the basic black strategy of piling up with
+his rooks against the white f-pawn still seems valid. However,
+with only two pawns each on the board, White can place his
+g-pawn on g5, so that even if black trades both rooks for
+queen and f-pawn, the resulting king and pawn ending is a
+draw. } 44... g5 45. Qf6 h6 { This is a very clever move from Kramnik,
+clearly overlooked by Leko, whose last move could have no
+other purpose than to threaten h6. If now 46Qxh6, then ...R8a6
+traps the white queen. } 46. f3 R5a6 47. Qc3 Ra4 48. Qc6 R8a6 49. Qe8+ Kg7 50. Qb5 R4a5 51. Qb4 Rd5 52. Qb3 Rad6 53. Qc4 Rd3 54. Kf2 Ra3 55. Qc5 Ra2+ 56. Kg3 Rf6 57. Qb4 Raa6 58. Kg2 Rf4 { Black weaves a net inexorably around White's sorry f-pawn. } 59. Qb2+ Raf6 60. Qe5 Rxf3 { Kramnik's manoeuvres, though
+lengthy, have finally triumphed. If White does not trade his
+queen for Black's rooks, the white king will soon be hunted
+down. If White does exchange, then Black has an easy win in
+the king and pawn endgame. } 61. Qa1 Rf1 62. Qc3 Rf2+ 63. Kg3 Rf3+ 64. Qxf3 Rxf3+ 65. Kxf3 Kf6 { White resigns. The pawn
+endgame is a trivial win, e.g. 66 Ke4 Ke6 67 Kd4 f5 68 gxf5+
+Kxf5 69 Ke3 g4 70 Kf2 Kg5 71 Kg3 Kxh5 72 Kg2 Kg5 73 Kg3 h5 and
+the black pawns march down to promote. A marvellously dramatic
+encounter and a fine riposte to critics who thought the match
+would be dull. In the press conference after the game, Kramnik
+looked drained, Leko cheerful and phlegmatic. Kramnik insisted
+throughout that the position objectively is drawn, and pulled
+many sceptical faces when describing his win. The following
+day, both players remarked how hard it is to move on from such
+a battle, Kramnik musing "I tried to get the two rooks out of
+my mind, and to stop trying to coordinate them in different
+attacking patterns. I think it was four o'clock in the morning
+when I was able to sleep." Leko added, "I needed until five
+a.m. to get rid of those two black rooks." } 0-1
+
+
+[Event "Dortmund Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2001.07.21"]
+[Round "9"]
+[White "Vladimir Kramnik"]
+[Black "Viswanathan Anand"]
+[Result "1-0"]
+[WhiteElo "2802"]
+[BlackElo "2794"]
+[Variant "Standard"]
+[ECO "D27"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Main Line"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vladimir Kramnik - Viswanathan Anand"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/NXBgHBkV"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 c5 6. O-O a6 7. Bb3 cxd4 8. exd4 Nc6 9. Nc3 Be7 10. Bg5 O-O 11. Qd2 Na5 12. Bc2 b5 13. Qf4 Ra7 14. Rad1 Bb7 15. d5 Bxd5 16. Nxd5 exd5 17. Qh4 h5 18. Rfe1 Nc6 19. g4 Qd6 20. gxh5 Qb4 21. h6 Qxh4 22. Nxh4 Ne4 23. hxg7 Rc8 24. Bxe7 Nxe7 25. Bxe4 dxe4 26. Rxe4 Kxg7 27. Rd6 Rc5 28. Rg4+ Kh7 29. Nf3 Ng6 30. Ng5+ Kg7 31. Nxf7 Rxf7 32. Rdxg6+ Kh7 33. R6g5 Rxg5 34. Rxg5 Rc7 35. a3 b4 36. axb4 Rc1+ 37. Kg2 Rb1 38. Ra5 Rxb2 39. Ra4 { 1-0 White wins. } 1-0
+
+
+[Event "Belgrade Investbank"]
+[Site "Belgrade SRB"]
+[Date "1995.11.20"]
+[Round "6"]
+[White "Veselin Topalov"]
+[Black "Vladimir Kramnik"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B57"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Veselin Topalov - Vladimir Kramnik"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/REngH8C0"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7. Ndb5 a6 8. Be3 Qa5 9. Nd4 Ne5 10. Bd3 Neg4 11. Bc1 g6 12. Nb3 Qb6 13. Qe2 Bg7 14. f4 Nh5 15. Nd5 Qd8 16. Bd2 e6 17. Ba5 Qh4+ 18. g3 Nxg3 19. Nc7+ Ke7 20. hxg3 Qxg3+ 21. Kd1 Nf2+ 22. Kd2 Nxh1 23. Nxa8 Qxf4+ 24. Qe3 Qh2+ 25. Qe2 Qf4+ 26. Qe3 Qh2+ 27. Qe2 Bh6+ 28. Kc3 Qe5+ 29. Kb4 Ng3 30. Qe1 Bg7 31. Nb6 d5 32. Ka4 Bd7+ 33. Nxd7 b5+ 34. Kb4 Kxd7 35. Bb6 Qxb2 36. exd5 Rc8 37. dxe6+ Ke8 38. Bc5 Bc3+ 39. Qxc3 a5+ 40. Kxb5 Qxc3 { 0-1 Black wins. } 0-1
+
+
+[Event "World Championship Tournament"]
+[Site "Mexico City MEX"]
+[Date "2007.09.14"]
+[Round "2"]
+[White "Vladimir Kramnik"]
+[Black "Alexander Morozevich"]
+[Result "1-0"]
+[WhiteElo "2811"]
+[BlackElo "2758"]
+[Variant "Standard"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[StudyName "Vladimir Kramnik famous games"]
+[ChapterName "Vladimir Kramnik - Alexander Morozevich"]
+[Annotator "https://lichess.org/@/HR_CHESS_EMPIRE"]
+[ChapterURL "https://lichess.org/study/RVhqNodk/vI0nKuSN"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 dxc4 5. Bg2 a6 6. Ne5 Bb4+ 7. Nc3 Nd5 8. O-O O-O 9. Qc2 b5 10. Nxd5 exd5 11. b3 c6 12. e4 f6 13. exd5 fxe5 14. bxc4 exd4 15. dxc6 Be6 16. cxb5 d3 17. c7 Qd4 18. Qa4 Nd7 19. Be3 Qd6 20. Bxa8 Rxa8 21. Bf4 Qf8 22. b6 Ne5 23. Bxe5 Qf3 24. Qd1 Qe4 25. b7 Rf8 26. c8=Q Bd5 27. f3 { 1-0 White wins. } 1-0
+
+

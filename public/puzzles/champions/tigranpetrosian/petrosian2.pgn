@@ -1,0 +1,678 @@
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1983.??.??"]
+[White "Tigran Petrosian"]
+[Black "Alexander G Beliavsky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Petrosian - Alexander G Beliavsky"]
+[Annotator "https://lichess.org/@/sHiv-JeThWa"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/OA5bNblz"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Nf3 Re8 9. O-O c6 10. Qc2 Nf8 11. a3 Ne4 12. Bf4 Ng5 13. Nxg5 Bxg5 14. Bxg5 Qxg5 15. Rae1 Bd7 16. f4 Qh6 17. Qf2 Re7 18. f5 g6 19. e4 dxe4 20. Nxe4 gxf5 21. Qg3+ Kh8 22. Nd6 f4 23. Rxe7 Qxd6 24. Rxd7 Qxd7 25. Qxf4 Rd8 26. Qf6+ Kg8 27. Kh1 Qxd4 28. Qxf7+ Kh8 29. Qe7 Ng6 30. Bxg6 hxg6 31. h3 b5 32. Rf6 Rg8 33. Rxc6 Rg7 34. Qg5 Kh7 35. Kh2 b4 36. Rf6 bxa3 37. bxa3 Qc4 38. Rf4 Qc7 39. Qh4+ Kg8 40. Qg3 a5 41. a4 Qb6 { 1-0 White wins. } 1-0
+
+
+[Event "Olympiad URS"]
+[Site "Moscow (Russia)"]
+[Date "1983.??.??"]
+[White "Tigran Petrosian"]
+[Black "Valery A Loginov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Petrosian - Valery A Loginov"]
+[Annotator "https://lichess.org/@/sHiv-JeThWa"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/hUs1dEvu"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Be3 Ng4 9. Bg5 f6 10. Bh4 Qe8 11. Nd2 f5 12. Bxg4 fxg4 13. Bg5 Na6 14. Be3 Bd7 15. O-O Rf7 16. Qe2 Qe7 17. b3 Raf8 18. a3 Qh4 19. Rab1 Rf6 20. b4 axb4 21. axb4 g5 22. g3 Qh5 23. Rfc1 c5 24. bxc5 Nxc5 25. Rb6 Bc8 26. Rxd6 Rxd6 27. Bxc5 Rh6 28. Nf1 Rff6 29. Be3 b6 30. Ra1 Bf8 31. Ra8 Bd7 32. Qa2 Rf7 33. Rb8 Rff6 34. Qa7 Be8 35. Qa8 Bd7 36. c5 { [%c_arrow
+b6c5;keyPressed;none;from;b6;opacity;0.8;to;c5;persistent;false,e3c5;keyPressed;none;from;e3;opacity;0.8;to;c5;persistent;false,h5f7;keyPressed;none;from;h5;opacity;0.8;to;f7;persistent;false,b8e8;keyPressed;none;from;b8;opacity;0.8;to;e8;persistent;false] [%cal Bb6c5,Be3c5,Bh5f7,Bb8e8] } 1-0
+
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1950.12.11"]
+[Round "17"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Igor Bondarevsky"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Igor Bondarevsky"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/23gKxj6V"]
+
+1. Nf3 { Notes by Peter Clarke } 1... e6 { There are people who play
+this against any opening move by White. Perhaps it is the only
+reply that unquestionably deserves such a strange
+distinction. } 2. g3 f5 3. Bg2 Nf6 4. O-O Be7 5. d4 O-O 6. c4 c6 { He intens to adapt the stonewall formation and decides on
+this order of moves to avoid the possibility of his
+black-squared Bishop being exchanged by b3 and Ba3 (this way
+he has ...d6 in reserve); not that there is anything really to
+be feared in that. } 7. Qc2 Qe8 { The manouver ...Q-e8-g6 (or
+h5) is the normal method of preparing the K-side attack. Here
+he starts it while waiting for White to reveal his hand more. } 8. Nbd2 d5 9. Ne5 { Petrosian is employing the same strategy as
+he did against Pirtskhalava-placing his Knights on d3 and f3
+in order to exploit the hole on e5. What is interesting is
+that he has found an entirely different route for them to
+take. } 9... Nbd7 10. Nd3 (10. Ndf3) 10... Ne4 11. Nf3 { White has avoided relieving
+Black's game by exchanges and is now ready to begin the drive
+forward in the center. This is a critical moment for the
+second player, for he must seek counter-play on the K side and
+yet not overreach himself there; 11...Qh5 seems
+natural. Instead Bondarevsky tries to combat White's plans by
+striking out first on the other wing, a policy as wrong as it
+is anti-thematic. } 11... Nd6 12. b3 b5 13. c5! Nf7 { [%csl Ga2][%cal Ga2a4] } 14. a4 { The
+new extension to the wall must fall, after which Black is left
+with a weakened and exposed Q side, not at all what he had
+bargained for. } 14... bxa4 15. Rxa4 Bf6 16. Bb2 a6 { For the one and
+only time he could have played ...e5 here. Although it would
+have greatly freed his pieces-after, for instance, 17.dxe5
+Nfxe5 18.Rfa1 Nxd3 19.exd3 Bxb2 20.Qxb2 Nxc5 21.Rxa7-White's
+too would have had the board opened up for them. And open
+positions invariably favor the side with the initiative. } (16... e5 17. dxe5 Nfxe5 18. Rfa1 Nxd3 19. exd3 Bxb2 20. Qxb2 Nxc5 21. Rxa7 Rxa7 22. Rxa7) 17. Nfe5 Nfxe5 18. dxe5 Be7 19. f4 Rb8 { If 19...g5 20.fxg5
+Bxg5 21.Bc1! Black's problem is to find a constructive plan
+which does not help his opponent. } 20. Rfa1 Rb5 21. b4 { !
+21.Bd4 was superficially correct, but White would like to see
+his Knight on d4; moreover, he wishes to preserve the
+possibility of Bc1, as mentioned in the previous note. } 21... h5 { Bondarevsky has not yet had all the fight squeezed out of
+him.! He is aiming to win some space on the K side and so
+perhaps put White out of his methodical stride. } 22. Bc3 h4 23. e3 Nb8 { Unfortunately this passive step is necessary, as
+White is threatening to bring his KB to bear on the a-pawn. } 24. Ne1 Rb7 { Better was the prelimanary 24...hxg3. As played,
+Black loses the benefit he expected from the advance of the
+h-pawn. } 25. gxh4 Bxh4 26. Nf3 Bd8 27. h4 { ! It is clear that
+Black's last chance of doing anything active- ...g5-has
+gone. The outlook is one of grim defence behind his pawn
+barrier. } 27... Qh5 28. Be1 Bd7 29. Qf2 Kf7 { ? A final error,
+shortening the game by many moves. He had to return his Bishop
+to c8 to protect his a-pawn, in which event it still would
+have required a long campaign of White to breach the defences
+(the g-file is the weak spot). As soon as the pawn is removed,
+there is nothing to hold the attacker off. } 30. Bf1 Rh8 31. Bxa6 Nxa6 32. Rxa6 Be7 33. Ra7 Rhb8 { He attacked the enemy
+h-pawn in vain and now he has had to give up. The end is not
+far away. } 34. Rxb7 Rxb7 35. Nd4 Qh8 36. Qg3 (36. b5 Bxc5 37. bxc6 Bxd4 38. cxb7 Bxa1 39. Qa2 Bc6 40. Qa7 Bxb7 41. Qxb7+) 36... Qb8 { Black was
+almost in Zugzwang; for instance, Bishop moves permit Ra8,
+whilst the threat of b5 continually hangs over him. } 37. h5 Ra7 38. Rc1 { Avoiding a subtle trap-38.Rxa7 Qxa7 39.Qg6+ Kf8
+40.Ne6+ Bxe6 41.Qxe6 Qa1! 42.Qc8+ Kf7 48.Qxf5+ Kg8, and White
+must either give perpetual check or lose his Bishop. } (38. Rxa7 Qxa7 39. Qg6+ Kf8 40. Nxe6+ Bxe6 41. Qxe6 Qa1 42. Qc8+ Kf7 43. Qxf5+ Kg8) 38... Qg8 39. Qg6+ Kf8 40. b5 { This inevitable breakthrough is the
+stronger for being delayed. If 40...cxb5, then 41.c6 Bc 8
+42.Nxb5 and 43.Nd6 wins. } 40... Qf7 41. bxc6 Bc8 { Black sealed this
+move and the next day, in view of the continuation 42.Qxf7+
+Kxf7 43.Nb5 Ra8 44.Nd6+ Kf8 45.c7, he resigned. } 42. Qxf7+ Kxf7 43. Nb5 Ra8 44. Nd6+ Kf8 45. c7 Kg8 46. c6 { 1-0 White wins. } { [%cal Gc1b1,Gb1b8] } 1-0
+
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1949.10.24"]
+[Round "6"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Andre Lilienthal"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "C49"]
+[Opening "Four Knights Game: Spanish Variation, Symmetrical Variation, Metger Unpin"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Andre Lilienthal"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/7W2t8yLD"]
+
+1. e4 { Notes by Peter Clarke } 1... e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 { The Rubinstein Counter-Attack (4...Nd4) is sound enough, but
+Lilienthal was no doubt unwilling to provide the 'novice' with
+a ready-made simplifying line-5.Nxd4 exd4 6.e5, etc. } 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6 8. Bg5 Qe7 { This and his next two moves
+constitute the Metger Defence; while holding on firmly to the
+center Black seeks to unpin himself and drive back the
+agressive Bishops. } 9. Re1 Nd8 10. d4 Ne6 11. Bc1 c5 { Here we
+have a position which is not only of fundamental importance
+for the theory of the opening but also extremely interesting
+from the point of view of general strategy. It is a question
+of Bishops versus Knights and of the advantages and
+disadvantages of the doubled pawn complex. Nimzovitch
+considered that White was not in an attacking but a
+'crouching' position and that any move on the part of his
+central pawns would disclose their dynamic weakness. He
+recommended Black's last move as the correct way to challenge
+them. On the other hand, Botvinnik has frequently demonstrated
+that this type of position can be very favourable for White if
+he can stabilise the situation in the center and consolidate a
+piece-preferably his KB-on d5. To this end the continuation
+12.dxe5 dxe5 13.Bc4 (Not 13.Nxe5 Nc7, etc.) is well worth
+considering. } { [%csl Gc4][%cal Gb5c4,Gd4e5,Gd6e5] } 12. Bf1 { [%cal Gc5d4,Gc3e5] } 12... Qc7 { Inconsequential play; Black could
+and should have carried out the positional threat of 12...cxd4
+13.cxd4 Qc7 with prospects on the c-file. He is not given a
+second opportunity. } 13. d5 { [%cal Ge6f4,Gc1f4,Ge5f4,Ge4e5,Gd6e5,Ge1e5] } 13... Nd8 { 13...Nf4 would allow White to
+break up the center to his advantage by 14.Bxf4 exf4 15.e5
+dxe5 16.Nxe5. Petrosian supports this as follows 16...Rd8
+17.c4 b5 18.Qf3 Bb7 (or 18...bxc4 19.d6 Qb7 20.Qxf4, etc.)
+19.Rad1 bxc4 20.Bxc4 Rd6 21.Bb3. It shoul be noted that while
+Black has succeeded in immobilising the enemy pawns this is
+not necessarily a permanent state of affairs. Wite immediately
+starts preparing for a thrust on the K side with h4. } (13... Nf4 14. Bxf4 exf4 { [%csl Gf4] } 15. Qd2) 14. Nh4 Ne8 15. g3 Qe7 16. Nf5 Bxf5 { Otherwise this Knight may settle on
+c4 and harass him on all sides. However, leaving onelf with
+two knights against two bishops, even in a closed position, is
+a serious step,. It may be all right in theory, but in
+practice many difficulties are involved. The trouble is that
+the player with the Knights must be extremely cautious about
+changes in the pawn formation, whereas his opponent may
+undertake almost any action he likes. The rest of the game
+affords a good illustration of the way the bishops work
+towards the breaching and ultimate collapse of the opposing
+defences. } 17. exf5 Qf6 18. Qg4 Qe7 19. Bg5 Qd7 20. a4 f6 { After
+non too happy manouvering with his Queen, Black was faced with
+the threat of 21. Bb5 Qc7 22.Bxe8 Rxe8 23.Bf6 and wins. } 21. Bd2 g6 { Is this not helping White? Yes; but if he does
+nothing to relieve his rather cramped position, White will
+buid up a K side offensive at his leisure. That is Black's
+dilemma. } { [%csl Gh3] } 22. Bh3 Qxf5 { Not 22...Ng7? 23.fxg6! winning a pawn;
+while if 22...g5, White simply retires his KB again and gets
+ready to strike back with h4. } 23. Qxf5 gxf5 24. Bxf5 Ng7 25. Bd3 f5 { He ought to have played 25...Nf7 and kept his pawns firmly
+entrenched where they were. By his weakening his support to
+the strongpoint at e5 he makes it easier for White to
+undermine it. It is doubtful whether Black's game can be saved
+after this. } 26. f4 e4 { Closing the position again, but the
+respite is only temporary. With every new advance the Knights
+find it harder to plug the gaps. 26...Nf7 was therefore the
+better choice. } 27. Be2 Rc8 28. c4 Ne8 29. h3 Nf6 30. g4! { !
+White's strategy has won the day. The barrier of enemy pawns
+that curbs his Bishops can no longer be maintained. } 30... fxg4 31. hxg4 Rc7 32. Kf2 h6 33. Rh1 e3+ { A desperate attempt at
+counter-play. Passive defence was hopeless in any case; for
+example, 33...Kg7 34.Bc3 Kg6 35.Ke3 Rh7 36.Rag1 Nf7 37.g5 hxg5
+38.f5+!, winning a piece. } 34. Bxe3 Ne4+ 35. Kg2 Nf7 36. Bd3 Re7 37. Rae1 Rfe8 38. Bc1 Nc3 { The Knight makes a sortie at last. } 39. Rxe7 Rxe7 { [%cal Gc3a4] } 40. a5 b6 41. Bd2 Ne2 42. axb6 axb6 43. c3 { And gets
+trapped! As is fitting the Bishops have had the final way. } 43... b5 44. Kf3 { 1-0 White wins. } 1-0
+
+
+[Event "USSR Team Championship"]
+[Site "Moscow"]
+[Date "1961.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Leonid Stein"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "E93"]
+[Opening "King's Indian Defense: Petrosian Variation, Normal Defense"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Leonid Stein"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/OYWqJBOh"]
+
+1. c4 { Notes by International Grandmaster Raymond Keene. } 1... Nf6 2. Nc3 d6 3. d4 g6 4. e4 Bg7 5. Be2 O-O 6. Nf3 { The Classical
+Variation, in which the strong zones for both players are
+defined clearly once the centre has been dixed: White achieves
+play on the Q-side while Black seeks an attack on the opposite
+wing. } 6... e5 7. d5 (7. O-O Nc6 8. d5 Ne7) 7... Nbd7 (7... a5) 8. Bg5 { Petrosian's own line, which
+provokes an immediate challenge to this bishop as White
+threatens 9. Qd2. For some years Petrosian earned his living
+by playing this variation, which at one point seemed to
+invalidate the whole defense until resources were found. } 8... h6 { [%csl Ge3,Gd2,Gc1][%cal Gg5e3,Ge3d2,Gd2c1] } 9. Bh4 a6 { At this stage there are many complex lines. If
+9...g5 10. Bg3 Nh5 White can choose the positional 11. Nd2 Nf4
+12. O-O Nc5 13. Nb3 or try for a direct assault on the black
+king with 11. h4. Stein's idea is to unpin the knight on f6 by
+moving the queen, having first guarded against Nb5. That way
+the g-pawn can stay where it is, and Black might be able to
+bring about a more usual advance on the flank by thrusting
+forward with the f-pawn. } { [%cal Gg6g5,Gh4g3,Gf6h5,Ge1g1,Gd7c5,Gf3d2] } (9... g5 10. Bg3 Nh5 11. Nd2) 10. O-O Qe8 11. Nd2 c5 { This is very
+committal, but Black already has problems relating to
+development. For example, if aims for a quick ...f5 by means
+of 11...Nh7 12. Rc1 f5 13. exf5 gxf5 14.Bh5 he may not be
+quite ready for the exchange sacrifice, almost identical to
+this, seen in Yusupov-Kasparov, Barcelona 1989, when Black was
+better developed and should have won. } 12. dxc6 bxc6 13. b4 Rb8 14. a3 { Consolidating his position. Black's d-pawn is
+vulnerable and the light-square bishop presently has no good
+location. Stein's one hope is to create complications that
+might nullify any positional defect in the spate of a full
+onslaught. } 14... Bb7 15. Nb3 Qe6 16. Na5 { Black's difficulties are
+highlighted by this move. If 16...Rfc8 17.Nxb7 Rxb7 18.c5
+White wins. Or 16...Ne8 17.Nd5! cxd5 (17...g5 18.Bg4) 18.cxd5
+Bxd5 19.exd5 Qf5 20.Bg4 Qf4 21.Bg3 } 16... Ba8 { The bishop now
+becomes locked behind the pawn at c6, never to move
+again. After this, Stein launches his attack, there being
+nothing else to play for. } 17. f3 d5 { Here it comes, yet White
+simply has to avoid 18.cxd5? to secure a lasting initiative. } 18. c5 { ! } 18... Nh5 (18... d4 19. Na4 { [%csl Gc4][%cal Ge2c4] }) 19. Bxa6 { The first fruit, but of course Black
+is no longer concerned about minor material loss. } 19... Nf4 20. Ne2 g5 { [%csl Gf4][%cal Ge2f4] } 21. Bf2 (21. Nxf4 exf4) 21... f5 22. Rc1 { As one would expect, Petrosian defends
+calmly, relying on the inherent soundness of his position to
+negate Black's desperate efforts to break through. } 22... fxe4 { [%csl Gd5] } 23. fxe4 Nf6 { The impulsive 23...dxe4 loses at once to 24.Nxf4
+followed by 25.Bc4 } (23... dxe4 24. Nxf4 exf4 25. Bc4) 24. exd5 N6xd5 { Unfortunately for Black,
+the one change to release the encarcerated bishop by 24...cxd5
+allows 25.c6! } 25. Ng3 e4 { Denying White the use of e4 while
+liberating the dark square bishop and planning to leap into d4
+with a knight. The drawback is that d4 becomes available to
+the other side. } 26. Bd4 Rbd8 27. Bxg7 Kxg7 28. Qd4+ Nf6 29. Qc3 Kg6 { After all Black's forceful play, it is HIS king
+that has become insecure. } 30. Nc4 Nd3 { 30...Rd3 is answered
+by 31.Ne5+ } 31. Rcd1 Nd5 32. Qc2 { A climax has been
+reached. If now 32...N5f4 33.Nd6 is sufficient to steam any
+threat based on the e-pawn's desire to push on. Or 32...N5xb4,
+when 33.axb4 Nxb4 34.Qa4 e3 35.Nd6 Nxa6 36.Qxe6 Qe5 37.Qc4
+wins. } 32... Nc7 33. Nd6 { ! } 33... Nxa6 34. Rxf8 Rxf8 35. Ndxe4 Naxb4 { If
+instead ...Nf4 then 36.Rd6. } 36. axb4 Nxb4 37. Qb1 { A quiet
+retreat that maintains the power to deliver a discovered
+check. } 37... Nd5 38. Re1 { One more sotto voce move on the back rank
+which leaves black with no adequate reply. } 38... Qd7 { If 38...Kg7
+39.Nh5+ Kh8 40.Qa1+ and wins--as played white sacs his knight
+to give the long prepared discovered check and forces the
+win. } 39. Nf6+ { 1-0 White wins. } 39... Qf5 (39... Kxf6 40. Nh5+ Kf7 41. Qh7#) (39... Kf7 { [%csl Gd7][%cal Gf6d7] }) 40. Qxf5+ { 1-0 White wins. } { [%cal Gg6f5,Gg3f5] } 1-0
+
+
+[Event "Bled"]
+[Site "Bled YUG"]
+[Date "1961.09.10"]
+[Round "6"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Ludek Pachman"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Ludek Pachman"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/MZUuVHKa"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. d3 e6 6. e4 Nge7 7. Re1 O-O 8. e5 d6 9. exd6 Qxd6 10. Nbd2 Qc7 11. Nb3 Nd4 12. Bf4 Qb6 13. Ne5 { [%csl Gc4][%cal Ge5c4] } 13... Nxb3 14. Nc4 { Very nice tempo move. --Fischer } 14... Qb5 15. axb3 a5 16. Bd6 Bf6 17. Qf3 Kg7 18. Re4 { Now Petrosian is
+preparing for a very beautiful finish.--Fischer } 18... Rd8 19. Qxf6+ Kxf6 20. Be5+ Kg5 21. Bg7 { This is a real problem
+move. --Fischer } 21... Nf5 (21... Kh5 22. Rh4+ Kg5 23. f4+ Kf5) 22. h4+ Nxh4 23. gxh4+ { [%cal Gg5f5] } 23... Kh5 24. Bf3# { 1-0 White wins. } 1-0
+
+
+[Event "Copenhagen (Denmark)"]
+[Site "Copenhagen (Denmark)"]
+[Date "1960.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Axel Nielsen"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "A80"]
+[Opening "Dutch Defense: Hopton Attack"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Axel Nielsen"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/MHHCgFFX"]
+
+1. d4 { Notes by Raymond Keene. } 1... f5 2. Bg5 g6 (2... h6 3. Bh4 g5 4. Bg3 f4 5. e3 h5 6. Be2 { [%cal Ge2h5] } 6... Bh6 7. exf4 gxf4 8. Bh4 { [%csl Gh5,Gf4] }) 3. Nd2 Bg7 4. c3 Nf6 5. e3 d6 6. Ngf3 Nc6 7. Qb3 h6 8. Bxf6 Bxf6 9. e4 e5 10. Bb5 Kf8 11. Bxc6 bxc6 12. dxe5 dxe5 13. Qa4 Qd6 14. Nb3 { -- heading for the blockading square c5. } 14... Bd7 (14... fxe4 15. Nfd2 { [%csl Ge4][%cal Gd2e4] } 15... e3 16. Ne4 exf2+ 17. Kxf2 Qe6 18. Nbc5 Qf5+ 19. Ke1) 15. Rd1 Qe7 16. Nc5 { ! } 16... Be8 { The way in which Black's bishops are
+never given a chance is highly reminiscent of Nimzowitsch. } 17. b4 Kg7 18. O-O Rf8 19. Qa6 { [%csl Gc4][%cal Ga6c4,Gc4e2] } 19... fxe4 20. Nd2 e3 21. Nde4 { ! } 21... exf2+ 22. Rxf2 Bg5 23. Rxf8 Kxf8 (23... Qxf8 24. Nxg5) 24. Nxg5 hxg5 25. Qb7 { White
+wins the rook. } 25... Rd8 26. Rxd8 Qxd8 27. Ne6+ { 1-0 White wins. } 1-0
+
+
+[Event "Bled-Zagreb-Belgrade Candidates"]
+[Site "Bled, Zagreb & Belgrade YUG"]
+[Date "1959.09.08"]
+[Round "2"]
+[White "Robert James Fischer"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Robert James Fischer - Tigran Vartanovich Petrosian"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/ju3vNHVC"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. g3 Bb4 8. Bd2 d4 9. Nb1 Bxd2+ 10. Nxd2 e5 11. Bg2 c5 12. O-O Nc6 13. Qe2 g5 14. Nf3 h6 15. h4 Rg8 16. a3 Qe7 17. hxg5 hxg5 18. Qd2 Nd7 19. c3 O-O-O 20. cxd4 exd4 21. b4 Kb8 22. Rfc1 Nce5 23. Nxe5 Qxe5 24. Rc4 Rc8 25. Rac1 g4 26. Qb2 Rgd8 27. a4 Qe7 28. Rb1 Ne5 29. Rxc5 Rxc5 30. bxc5 Nxd3 31. Qd2 Nxc5 32. Qf4+ Qc7 33. Qxg4 Nxa4 34. e5 Nc5 35. Qf3 d3 36. Qe3 d2 37. Bf3 Na4 38. Qe4 Nc5 39. Qe2 a6 40. Kg2 Ka7 41. Qe3 Rd3 42. Qf4 Qd7 43. Qc4 b6 44. Rd1 a5 45. Qf4 Rd4 46. Qh6 b5 47. Qe3 Kb6 48. Qh6+ Ne6 49. Qe3 Ka6 50. Be2 a4 51. Qc3 Kb6 52. Qe3 Nc5 53. Bf3 b4 54. Qh6+ Ne6 55. Qh8 Qd8 56. Qh7 Qd7 57. Qh8 b3 58. Qb8+ Ka5 59. Qa8+ Kb5 60. Qb8+ Kc4 61. Qg8 Kc3 62. Bh5 Nd8 63. Bf3 a3 64. Qf8 Kb2 65. Qh8 Ne6 66. Qa8 a2 67. Qa5 Qa4 68. Rxd2+ Ka3 { 0-1 Black wins. } 0-1
+
+
+[Event "Tilburg (07)"]
+[Site "Tilburg (07)"]
+[Date "1981.??.??"]
+[White "Garry Kasparov"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "D25"]
+[Opening "Queen's Gambit Accepted: Janowski-Larsen Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Garry Kasparov - Tigran Vartanovich Petrosian"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/TE28zS6i"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. h3 Bh5 7. Nc3 a6 8. g4 Bg6 9. Ne5 Nbd7 10. Nxg6 hxg6 11. Bf1 c6 12. Bg2 Qc7 13. O-O Be7 14. f4 Nb6 15. g5 Nfd7 16. Qg4 O-O-O 17. Rb1 Kb8 18. b4 Nd5 19. Na4 f5 20. Qg3 Nxb4 21. Bd2 Nd5 22. Rfc1 Ka7 23. Qe1 Ba3 24. Rc2 Qd6 25. Rb3 Qe7 26. Qe2 Rb8 27. Qd3 Bd6 28. Nb2 Rhc8 29. Nc4 Bc7 30. a4 b5 31. axb5 cxb5 32. Ra2 Kb7 33. Bb4 Qe8 34. Bd6 Ra8 35. Qb1 Kc6 36. Rba3 bxc4 37. Rxa6+ Rxa6 38. Rxa6+ Bb6 39. Bc5 Qd8 40. Qa1 Nxc5 41. dxc5 Kxc5 42. Ra4 { 0-1 Black wins. } 0-1
+
+
+[Event "Erevan"]
+[Site "Erevan"]
+[Date "1948.??.??"]
+[White "A Kalantar"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "A Kalantar - Tigran Vartanovich Petrosian"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/vQz3GNoO"]
+
+1. d4 { Notes by Peter Clarke } 1... Nf6 2. c4 e6 { [%csl Gc3,Gb4][%cal Gb1c3,Gf8b4,Gb4d2] } 3. Nf3 { How should
+Black take this slightly enigmatic move? Does it mean that his
+opponent dislikes or is afraid of meeting the Nimzovitch
+Defence and therefore has already, in a sense, surrendered the
+initiative? Or is it that White wants to get him into a
+Queen's Indian, believing that he will be able to keep on top
+then? The answer must be a subjective one. } 3... Bb4+ { He chooses
+the reply that was probably least expected. Although it is so
+rarely used, it gives a sound enough game. } 4. Bd2 Qe7 5. g3 Nc6 { Black's plan is unfolding. As in the Miner-Barry (or
+Zurich) Variation of the Nimzovitch itself, he is aiming, once
+his KB has been exchanged off, to free its colleague and at
+the same time secure a hold on the center by playing ...e5. } 6. Bg2 Bxd2+ 7. Nbxd2 { But not 7.Qxd2 Ne4! 8.Qc2 Qb4+ 9.Nc3
+Nxc3 10.Qxc3 Qxc3+ 11.bxc3 d6, when White has nothing to show
+for the doubled pawns. } (7. Qxd2 Ne4 8. Qc2 Qb4+ 9. Nc3 Nxc3 10. Qxc3 Qxc3+ 11. bxc3 d6) 7... O-O 8. O-O d6 9. e4 a5 { An example of
+prophylaxis. It looks ahead to the time when the pawn position
+in the center has become fixed and White's main weapon of
+attack consists in a general advance on the Q side. However it
+is not essential; some four years later, in the Interzonal
+Tournament at Stockholm, Petrosian played 9...e5 at once
+against Unzicker, obtaining an equal game after 10.d5 Nb8
+11.b4 Bg4 12.Qc2 Bxf3 13.Nxf3 a5 14.a3 Na6 15.Rab1 axb4
+16.axb4 c5! } { [%csl Gb4][%cal Gb2b4] } (9... e5 10. d5 Nb8 11. b4 Bg4 12. Qc2 Bxf3 13. Nxf3 a5 14. a3 Na6 15. Rab1 axb4 16. axb4 c5 17. bxc5 Nxc5 { [%csl Gc5,Gb7][%cal Gc5b7] }) 10. Qc2 { A good alternative is 10.b3, to be
+followed by a3 and later b4. Weak, on the other hand is 10.e5
+dxe5 11.dxe5 Nd7 12.Qe2 Nc5, with excellent play for Black. } 10... Nd7 (10... e5 11. d5 { [%cal Gb8d7] } 11... Nb8) 11. d5 Ncb8 { This two retreating moves by the Knights have
+not been made with a view to defence; rather the reverse. In
+closed positions considerations of time and even space are
+often less important than specific fatures like the pawn
+formation and weak squares. Black's scheme, therefore, is to
+temp White into overreaching himself by pushing on prematurely
+and creating points in his own camp that are vulnerable to
+counter-attack. } 12. Nd4 Nc5 13. Qc3 e5 14. N4b3 { 14.Nf5 Bxf5
+15.exf5 would show a definite detioration in his pawn
+structure, and the use of e4 would not be sufficient
+compensation. } 14... b6 15. Nxc5 bxc5 { White's manouvering of his
+KKT and particularly its exchange has not been happy. Instead
+of gaining ground on the Q side, he has now been brought to a
+standstill there; what is more, with his center pawns placed
+on white squares his Bishop has decreased in strength compared
+with the other minor pieces. The following variation shows how
+easily: 16.f4 Nd7 17.Nb3 a4 18.Na5 Qf6 19.Nc6 exf4 20.Qxf6
+(not 20.Qd2 Nb6 21.Rxf4 Nxc4 22.Qe2 Qxb2, etc.) Nxf6 21.Ne7+
+(or 21.gxf4 Re8 22.e5 Ng4 23.Rfe1 Bd7 24.exd6 cxd6 25.Bh3 h5
+and Black stands well), Kh8 22.Nxc8 Raxc8 23.gxf4 Rfe8 24.Rfe1
+Re7 25.Re2 Rce8 26.Rae1 Nh5 27.Rf2 f5! } 16. f4 Nd7 17. Bh3 { Kalantar realises the long-term danger in the position and
+decides to try to avert it by an immediate assault on Black's
+center. It is met with the greatest precision. } 17... Re8 { ! } 18. Rae1 Qf6 { [%csl Gf4,Gc8,Ge4][%cal Ge5f4,Gc3f6,Gd7f6,Gg3f4] } 19. Bxd7 { The pressure could not well be stepped
+up by 19.Nf3 on account of the reply 19...exf4. The text move
+envisages a forcing continuation taking the enemy
+strong-point. } 19... Bxd7 20. fxe5 Qxe5 21. Qxe5 Rxe5 22. Nf3 Re7 23. e5 { White has achieved his end, but where is he to go from
+here? Were he able to maintain the position in the center, he
+could claim an advantage. He cannot; he is forced to exchange
+pawns, after which the soundness of Black's game is no longer
+in any doubt. } 23... Rae8 (23... Bh3 24. exd6 Rxe1 25. Rxe1 cxd6 26. Re7 Kf8 { [%csl Gd7] } 27. Rb7 Bf5) 24. exd6 Rxe1 25. Rxe1 { To concede the
+file by 25.Nxe1 is scarcely worth considering. } 25... Rxe1+ 26. Nxe1 cxd6 { At first glance it might seem that White has fair
+chances in this ending, for his pawns are more compact than
+Black's (two groups are against three) and the general
+stability of the situation should be to the Knight's
+benefit. A closer examination shows that there are other
+factors that far outweigh these and bring down the advantage
+heavily on Black's side. They are; (i) Black's K-side majority
+is potentially active, whereas White's on his Q side is
+permanently crippled; (ii) the black King has a route into the
+center along the weakened black squares; and (iii) the Bishop
+is able to worry White by threatening to attack his pawns on
+the Q side. By exploiting these points, Petrosian rapidly
+takes over the initiative. } 27. Kf2 f5 { ! } 28. Ke3 Kf7 29. Nd3 Bc8 30. b3 { Black had intended to provoke this, anyway, by
+...Ba6. It is the first step in reducing White to passivity. } 30... g5 31. Kf3 Kf6 32. Ke3 Bd7 33. Kf3 Be8 { Manouvering the Bishop
+round so as to penetrate into the enemy camp. } 34. Ke3 h6 35. Kf3 { White puts his faith in pure defence. If he tries to
+counter-attack with his Knight on the Q side, he finds his
+threats easily parried, eg. 35.Nb2 Bh5 36.Na4 Ke5 37.Nb6 f4+
+38.gxf4+ gxf4+ 39.Kf2 Bg4, etc. } 35... Bh5+ 36. Ke3 Bd1 37. Kd2 Bf3 38. Ke3 (38. Nb2 Be4 39. Na4 { [%cal Ga4c3] }) 38... Be4 { Decisive; on 39.Nc1 there comes 39...Ke5 followed
+by ...f4+, pushing White further anf further back. } 39. Kd2 Bxd3 40. Kxd3 Ke5 { The King and pawn ending is the simplest of
+wins for Black, because he is to all intent and purposes a
+pawn up. It provides us with a perfect example of the relative
+value of mobile and immobile pawn majorities. } 41. Ke3 f4+ (41... h5 42. h3 f4+) 42. gxf4+ gxf4+ { [%cal Ge3f3] } 43. Kf3 Kf5 (43... Kd4 44. Kxf4 Kc3 45. Kf5 Kb2 46. Ke6 { [%csl Gd6] } 46... Kxa2 47. Kxd6 Kxb3 48. Kxc5 a4 49. d6 a3 50. d7 a2 51. d8=Q a1=Q { [%csl Gc4] }) 44. Kf2 { Or 44.a3 h5 45.h4 Ke5,
+and White must retreat. } (44. a3 h5 45. b4 axb4 46. axb4 cxb4 47. c5 dxc5 { [%cal Gd5d8] } 48. d6 Ke6 49. Kxf4 Kxd6 { [%cal Gf4e3,Gd6d5,Gc5c4] }) 44... Ke4 45. Ke2 f3+ 46. Kf2 Kf4 47. h4 h5 48. a3 Ke4 { Since the break by b4 is too late-49...axb4
+50.axb4 cxb4 21.c5 Kxd5, etc. } 49. b4 axb4 50. axb4 cxb4 { [%csl Gc5][%cal Gc4c5] } 51. c5 b3 52. c6 b2 53. c7 b1=Q 54. c8=Q Qa2+ { 0-1 Black wins. } 0-1
+
+
+[Event "Moscow"]
+[Site "It"]
+[Date "1961.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Lev Aronin"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "A08"]
+[Opening "King's Indian Attack: French Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Lev Aronin"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/9X8I2pUI"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 d5 4. O-O Nf6 5. d3 Bg4 6. c4 e6 7. Qa4 Qd7 8. Nc3 d4 9. Nb5 Be7 10. h3 Bxf3 11. exf3 O-O 12. Qd1 { The queen undevelops. This is the first
+retreat. There will be more! -- Chernev } 12... Rfe8 13. f4 Bd8 14. Na3 Ba5 15. Nc2 Bc7 16. a3 a5 17. Rb1 Bd6 18. Bd2 e5 19. fxe5 Nxe5 20. f4 Nc6 21. Qf3 h5 22. Rfe1 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Qxe8 25. Ne1 { The knight is now happily posted
+on the back rank! -- Chernev } 25... Qd8 26. Qd1 Qb6 27. Bc1 { Another
+piece returns home! -- Chernev } 27... Ne7 28. Qf3 Qb3 29. g4 hxg4 30. hxg4 g6 31. Bf1 Qb6 32. f5 gxf5 33. gxf5 Kf8 { Would you
+believe that White, with only one piece in play, now wins this
+in about half a dozen moves? -- Chernev } 34. Bg2 Nc6 35. Qh3 Ng8 36. Qh8 { Threatening Bh6+, winning the knight. } 36... Bg3 { Black's idea is to force Nf3, blocking the bishop. This would
+allow Black time to defend with Ne7. } 37. f6! Bxe1 38. Qg7+ Ke8 39. Qxg8+ Kd7 40. Bh3+ { 1-0 White wins. } 1-0
+
+
+[Event "Tbilisi"]
+[Site "t"]
+[Date "1947.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Akaki Pirtskhalava"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "A90"]
+[Opening "Dutch Defense: Stonewall Variation, Modern Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Akaki Pirtskhalava"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/4I42fy7Y"]
+
+1. c4 { Notes by Peter Clarke } 1... f5 { If you do not wish to meet
+the English on its own ground, then the Dutch Defence,
+provided you are happy with it, makes quite a good choice. It
+is a challenge for the initiative that must be taken up by the
+first player. } 2. d4 e6 3. g3 Nf6 4. Bg2 d5 { As a general
+principle, one should not commit oneself too readily in the
+opening, especially when Black. Here it is considered unwise
+to settle for a definite formation (i.e. by moving the d-pawn)
+before White has brought out his KKt. The reason is that
+against the stonewall set-up, which is characterised by pawns
+at c6, d5, e6, and f5, he could well develop it via h3,
+leaving himself free to expand rapidly in the center by f3 and
+e4. Even given the most accurate order of moves (4...Be7 5.Nc3
+O-O 6.O-O d5), this system is not without drawbacks. Chiefly,
+it tends to leave Black with a far too rigid and limited
+position. The ...d6 variation, since it reserves more options,
+has the preference nowadays. } 5. Nf3 c6 6. O-O Bd6 { [%csl Gf4][%cal Gc1f4,Gd6f4,Gg3f4] } 7. b3 (7. Bf4 Bxf4 8. gxf4) 7... Qe7 { With his last two moves Black has started to play
+anti-positionally. There was no way of improving on the simple
+6...Be7, 7...O-O and waiting for White to show his hand. } 8. Nc3 O-O 9. Bb2 Nbd7 { More precise was 9...Ne4, in order to
+exchange off the enemy QKT. } (9... e5 10. dxe5 (10. Nxd5 cxd5 11. dxe5 { [%cal Ge5d6,Ge5f6] } 11... Bxe5 12. Nxe5 dxc4 13. Nxc4) 10... Bxe5 11. Nxd5 cxd5 12. Nxe5) 10. e3 { ! Preparing a fine
+manouver, designed to clamp down on the hole at e5 and saddle
+Black with a permanent disadvantage. It is only fair to say
+that it is not Petrosian's own idea. Simagin employed it in a
+similar position against Chistiakov in the Moscow Championship
+the year before. } 10... Ne4 (10... e5 11. dxe5 Nxe5 12. cxd5) 11. Ne2 { ! } 11... Qf6 { The basic plan in the
+Dutch, motivating Black from the very first move, consists in
+an attack on the K side. Accordingly, the decision to abandon
+it and accept a less ambitious role is not at all an easy
+one. But here it had to be taken, for unless the strength of
+Black's strategy is recognised at once it will be too
+late. Best, therefore was 11...dxc4 12.bxc4 e5!, it being the
+one method of contesting the grip White has on the black
+squares. After 13.Qc2 followed by Rad1, White would remain
+with the much better developed game. } 12. Nf4 Qh6 { 12...dxc4
+and 13...e5 was still the best chance. } 13. Nd3 Ndf6 14. Nfe5 { As long as he is in occupation of this point, it is virtually
+impossible for Black to undertake anything active. The
+strangle-hold may be broken at the expense of material - for
+example, 14...Ng4 15.Nxg4 fxg4 16.Qxg4 e5 - but the result is
+hardly encouraging. } 14... Ng5 (14... Ng4 { [%cal Gh6h2,Gg4h2] } 15. Nxg4 fxg4 16. Qxg4 e5 { [%cal Gg4c8] } 17. Qd1 exd4 18. Bxd4 dxc4 19. bxc4 { [%csl Ge4][%cal Gg2e4] } 19... Bf5 20. c5 Bc7 21. Qb3+ { [%cal Gb3b7] }) 15. f3 Nf7 { Behind this retreat there
+is the reckless intention to advance the g-pawn, a course
+which is only likely to accelerate the disaster. The sensible
+thing to do was to prepare as much as he could for the
+inevitable clash in the center by 15...Bd7 and ...Rae8,
+leaving it to his opponent to drive back the Knight. } 16. Qe2 g5 { ? } (16... Bxe5 17. dxe5 Nd7 18. f4) 17. Rae1 { Setting a little trap: 17...g4 18.fxg4 Bxe5
+19.dxe5 Nxg4 20.h3, winning a piece. } 17... a5 (17... g4 18. fxg4 Bxe5 19. dxe5 Nxg4 20. h3) 18. e4 { Opening books
+may in the future use this position as an illustration of, on
+the one hand, the ideal objective for White and, in contrast,
+what is wholly to be avoided by Black. The negative aspects of
+the defence have become accentuated - the QB is shutin behind
+the pawn barrier and the central weakness on the black squares
+is making itself felt; moreover, the virtue of aggresion has
+rebounded on itself. In the exchages that result from White's
+thrust it is clear that Black is hopelessly outgunned. } 18... Bb4 { This explains his last move. But since the Bishop is exposed
+on b4 - White is not obiged to take it - 18...Bc7 was
+relatively better. } 19. Rd1 dxe4 { In view of the threat of c5
+followed by a3, Black must play further into White's hands by
+opening up the center himself. } 20. fxe4 Nxe5 21. dxe5 Nxe4 22. Bxe4 fxe4 23. Nf2 { ! No mechanical 23.Qxe4 for Petrosian!
+He is not content with merely a good move when there is a
+possibility of a stronger one. } (23. Qxe4 Rxf1+ 24. Rxf1) 23... Bc5 24. Bd4 Be7 25. Nxe4 Bd7 26. Bc5 { Pirtskhalava's errors have been exploited without
+mercy. Now with the elimination of the guardian of the black
+squares his defences collapse. } 26... Rxf1+ 27. Rxf1 Bxc5+ { Or
+27...Bd8 28.Rf8+ Qxf8 (28...Kg7 29.Qf3 Qg6 30.Rg8+!); 29.Bxf8
+Kxf8 Qh5, winning easily. } 28. Nxc5 Be8 { If 28...Rd8 or
+28...Bc8, then 29.Qd2 is immediately decisive. } 29. Rf6 Bg6 30. Nxe6 g4 { In the faint hope of struggling on by 31.Qxg4
+Qe3+ and ...Qxe5. } 31. Nf4 (31. Qxg4 Qe3+) 31... Qg5 32. Nxg6 { The Knight performs
+its last duty -to uncover the black King a little more. } 32... hxg6 33. Rf4 Kg7 { Total passivity by 33...Re8 34.e6 Qe7 35.Re4,
+etc., would be equivalent to resignation. } (33... Re8 34. e6 Qe7 35. Re4) 34. Qe3 Qd8 35. e6 Qe8 36. Rf7+ { 1-0 White wins. } 36... Kg8 37. Qh6 { 1-0 White wins. } { [%cal Gh6h7,Gh6g7] } 1-0
+
+
+[Event "Leningrad (Russia)"]
+[Site "Leningrad (Russia)"]
+[Date "1946.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Yuri M Kotkov"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Yuri M Kotkov"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/0fYGW1ft"]
+
+1. d4 { Notes by Peter Clarke } 1... Nf6 2. Nf3 e6 3. c4 d5 { Sometimes it is more trouble naming an opening than playing
+it. 'Obviously this is a Queen's Gambit Declined,' one might
+say, but so far there has been no gambit offered, let alone
+declined. And with his next move -typycal Petrosian- White
+gives the game a rather different character. } 4. Nbd2 c5 5. e3 { With 5.g3 we would have had a sort of Catalan. } 5... Nc6 6. a3 { A
+harmless-looking, yet insidious little move. Whereas an
+experienced master would probably have reacted at once with
+the exchange of pawns, Kotkov plays right into White's hands. } 6... Bd6 7. dxc5 { ! } 7... Bxc5 8. b4 { Petrosian's tactics have
+triuphed. He has reached a Queen's Gambit Accepted with not
+only the additional tempo of colours reversed but also a whole
+move extra. Considering the good reputation the defence has in
+normal circumstances, the outlook for Black is grim. } 8... Be7 9. Bb2 O-O 10. Bd3 dxc4 { Otherwise White may tighten his grip
+by c5, leaving Black with little or no chance of
+counterplay. With another open file, he can hope to relieve
+his position by exchanges. } 11. Nxc4 a6 { Black underestimates
+the attacking potential of his opponent's Bishop battery. If
+he is to organize his defences properly, he must complete his
+development as quickly as possible and without setting up more
+targets. Better, therefore was 11...Bd7 to be followed by
+...Rc8. } 12. Qc2 { ! A very fine move, suddenly bringing into
+sharp relief the dangers Black is exposed to. At first sight
+it might seem a blunder, for Black can play 12...Bxb4+ 13.axb4
+Nxb4 14.Bxh7+ Nxh7 15.Qc3 Nd3+ and ...Nxb2, finishing a pawn
+up. Only a closer examination reveals White's cunning
+idea-12...Bxb4+ 13.Ke2!! The Bishop would then have nothing
+better than to go back to e7, after which White could either
+recover the pawn at once by Bxf6 and Bxh7+ or, still stronger,
+continue 14.Rad1 Qc7 15.Ng5 h6 16.Bh7+ Kh8 17.h4 with a
+tremendous attack. Here we can appreciate the quality of
+White,s conception-his King is absolutely safe on e2 while his
+KR takes on an aggresive role from its initial square. } 12... h6 13. O-O b5 { ? Now 13...Bd7 was essential. The text move leaves
+a gaping hole on the q side. It is true that it is not by any
+means obvious how White can exploit it; for instance, 14.Nce5
+Nxe5 15.Nxe5 Bb7 and Black has a playable game. Petrosian
+solves the problem in a most original way. } 14. Bxf6 { ! } 14... Bxf6 { 14...bxc4 15.Bxe7 Qxe7 simply loses a pawn, whilst 14...gxf6
+is positional suicide, e.g. 15.Rad1 Qe8 16.Bh7+ Kg7 17.Nd6
+Bxd6 18.Rxd6 Ne7 19.Be4, etc. } 15. Rad1 { Threatening a
+discovery on the Queen. Attempts at flight fail as follows:
+(i) 15...Qc7 16.Na5, and the pin leads to gain of material;
+(ii) 15...Qe7 16.Nb6 etc. (iii) 15...Qe8 16.Nd6 Qd7 17.Be4! } 15... Bd7 16. Bh7+ Kh8 17. Be4 { ! One must admire the precision of
+White's manouvers. Each move makes a telling blow. Black finds
+that 17...Rc8 is inadequate on account of 18.Rxd7 Qxd7 19.Nb6
+and wether he plays 19...Qc7 20.Nxc8 Rxc8 21.Rc1 or 19...Nxb4
+20.Nxd7 Nxc2 21.Nxf8 a piece is lost. } 17... Nxb4 { Despair, which as
+usual merely hastens the end. } 18. axb4 Rc8 19. Rxd7 { ! } 19... Qxd7 20. Nb6 { Again White comes out a piece ahead. It is a pleasing
+touch that the Knight, en prise for six moves, should have the
+last word. } 1-0
+
+
+[Event "Tbilisi"]
+[Site "It"]
+[Date "1949.??.??"]
+[White "Tigran Vartanovich Petrosian"]
+[Black "Iosif Pogrebissky"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/BKIRCA"]
+[Variant "Standard"]
+[ECO "D74"]
+[Opening "Neo-Grünfeld Defense: Delayed Exchange Variation"]
+[StudyName "Tigran Petrosian"]
+[ChapterName "Tigran Vartanovich Petrosian - Iosif Pogrebissky"]
+[ChapterURL "https://lichess.org/study/WfAx6ANK/ml2TOg3a"]
+
+1. d4 { Notes by Peter Clarke } 1... Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 { In the last few years this fianchetto has lost ground as a
+means of combating the King's Indian, being replaced by
+systems involving a more immediate and aggresive occupation of
+the center. Petrosian's part in this trend is clear to see in
+later games. Here, of course, White may have been prepared for
+the Gruenfeld anyway. } 4... O-O 5. Bg2 d5 6. cxd5 Nxd5 { The basic
+idea behind Black's play, as in the Alekhine Defence, to
+provoke his opponent into making premature pawn
+advances. Inevitably there is a considerable element of risk
+in such a policy, for nobody can predict the outcome with
+certainty and pawns which prove weak in one game may, given
+some new finesse, become a crushing force in the next. All
+this is typical of the modern approach to the openings -a
+willingness to make concessions of some sort in the belief
+that real counter-chances will be obtained in return. } 7. O-O c5 8. e4 Nf6 { 8...Nb6 went out of favour with the game
+Botvinnik - Novotelnov, Chigorin Memorial Tournament, 1947,
+which continued 9.d5 e6 10.Bg5 f6 11.Be3 Na6 12.Nc3 Nc4 13.Bc1
+e5 14.Nb5 Bd7 15.a4, etc. } 9. e5 Nfd7 { Tempting fate a little
+too far. He should play 9...Nd5, to which White normally
+replies 10.dxc5, with an intense struggle ahead. } 10. Ng5 { ! A
+very useful opening principle refers to the danger of moving
+the same piece twice before completing one's development. In
+this game Black's whole strategy has so far been a negation of
+this - yet it cannot be condemned as wrong - and now White
+'errs' as well. Knowing principles is good; knowing how to
+break them is better! The Knight move is the only way to
+obtain the advantage. It fulfill two functions; permits him to
+consolidate his e-pawn by f4 and at the same time threatens
+the disruptive e6. } 10... cxd4 { He has no choice. After 10...e6
+11.f4 White has secured his spatial advantage and Black's play
+has failed accordingly. } 11. f4 { Too slow now. 11.e6 gives
+excellent chances; for instance, 11...Ne5 12.exf7+ Nxf7 13.Qb3
+e6 14.Bxb7 Bxb7 15.Qxb7 Nxg5 16.Bxg5 Qxg5 (though 16...Qb6 is
+better, White still has the upper hand after 17.Qxb6 axb6)
+17.Qxa8 Qb5 18.Na3 Qxb2 19.Qxa7 Nc6 20.Qd7 Ne5 21.Qxe6+
+(Donner-Bouwmeester, Munich, 1954). } 11... Nc5 { If 11...Nc6
+(reckoning on 12.e6 Nc5 13.exf7+ Kh8!) White could probably
+get away with 12.Bxc6 bxc6 13.Qxd4, the initiative and command
+of the center being his. } 12. b4 { This is really the decisive
+moment. White realises he must play with the outmost
+vigour-having failed to do so on the previous move! His idea
+here is that after 12...Ne6 (not 12...Nca6 13.a3!) 13.Nxe6
+fxe6 Black's KB would be shut out of the game for good while
+his other one would be a little better off. And the d-pawn
+would be sure to fall. So what is Black to do? He must play
+vigorously himself and instead of ...fxe6 be ready to
+sacrifice the exchange by 13...Bxe6 14.Bxb7 Bd5; if he
+accepts, White is left desperately weak on the white
+squares. Petrosian, who pointed out this possibility
+afterwards, would probably have exchanged Bishops and tried to
+make something out of the temporary isolatin of the
+d-pawn. The likelyhood of his succeeding would not appear to
+have been very great. But Pogrebyssky panics and in a vain
+attempt to drive back the enemy Knight gets his King position
+compromised. } 12... f6 13. exf6 { ! } 13... exf6 14. Nxh7 Kxh7 15. bxc5 Nc6 16. Bb2 Qc7 { Defending the d-pawn indirectly, e.g. 17.Bxc6
+Qxc6 18.Qxd4 Bh3 19.Rf2 Rad8, etc. However, since there was
+not that much to lose now, he might have boldly played
+16...Bf5 and hoped for some counterplay if White took the
+pawn. } 17. Nd2 Be6 18. Ne4 Rad8 19. h4 { ! By this energetic
+thrust White shows up the true weakness of his opponent's K
+side. Though Black has got all his pieces out, they are
+powerless to stop the onslaught. } 19... Qd7 20. h5 Bg4 { Seeming to
+block the way, but White has a small combination ready. } 21. hxg6+ Kxg6 22. f5+ Bxf5 { If 22...Qxf5, then 23.Qb1! forces
+Black to expose himself to a deadly discovered check; while if
+22...Kh5, there is the drastic finish 23.Qxg4+! Kxg4 24.Rf4+
+and mate next move. } 23. Nd6 { The quiet point. Petrosian
+concludes the attack with a series of elegant strokes. } 23... Bg4 24. Be4+ Kh5 25. Rf4 { ! An echo of a previous idea; if
+25...Bxd1, then Rh4+ Kg5 27.Bc1 mate. } 25... f5 26. Rxg4 fxg4 27. Qd2 { Threatening mate in two by Qh2+. } 27... Rh8 28. Kg2 { ! } 1-0
+
+

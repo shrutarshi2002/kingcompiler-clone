@@ -1,0 +1,126 @@
+[Event "Hauptturnier Winners' Group"]
+[Site "Breslau GER"]
+[Date "1889.07.24"]
+[Round "4"]
+[White "Lorenzo Mabillis"]
+[Black "Emanuel Lasker"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Fianchetto Defense"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Lorenzo Mabillis - Emanuel Lasker"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/HEew0vBt"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. d3 Nge7 6. Be3 O-O 7. Qd2 d6 8. Bh6 Bg4 9. Bxg7 Kxg7 10. Bxc6 bxc6 11. Qg5 Bxf3 12. gxf3 f6 13. Qg3 g5 14. Nc3 Ng6 15. Ne2 f5 16. Kh1 c5 17. Rg1 h6 18. Raf1 Qf6 19. Qh3 Kh7 20. Rg3 Rf7 21. Qh5 Raf8 22. Rfg1 Kg7 23. h4 Rh8 24. hxg5 hxg5 { 0-1 White resigns. } 0-1
+
+
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1889.08.26"]
+[Round "1"]
+[White "Emanuel Lasker"]
+[Black "Johann Hermann Bauer"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Emanuel Lasker - Johann Hermann Bauer"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/YJuqE2qd"]
+
+1. f4 d5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. Bd3 b6 6. Nc3 Bb7 7. Nf3 Nbd7 8. O-O O-O 9. Ne2 c5 10. Ng3 Qc7 11. Ne5 Nxe5 12. Bxe5 Qc6 13. Qe2 a6 14. Nh5 Nxh5 15. Bxh7+ Kxh7 16. Qxh5+ Kg8 17. Bxg7 Kxg7 18. Qg4+ Kh7 19. Rf3 e5 20. Rh3+ Qh6 21. Rxh6+ Kxh6 22. Qd7 Bf6 23. Qxb7 Kg7 24. Rf1 Rab8 25. Qd7 Rfd8 26. Qg4+ Kf8 27. fxe5 Bg7 28. e6 Rb7 29. Qg6 f6 30. Rxf6+ Bxf6 31. Qxf6+ Ke8 32. Qh8+ Ke7 33. Qg7+ Kxe6 34. Qxb7 Rd6 35. Qxa6 d4 36. exd4 cxd4 37. h4 d3 38. Qxd3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lasker - Bardeleben m"]
+[Site "Berlin GER"]
+[Date "1889.11.14"]
+[Round "2"]
+[White "Emanuel Lasker"]
+[Black "Curt von Bardeleben"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Three Pawns Attack"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Emanuel Lasker - Curt von Bardeleben"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/8O7okUY2"]
+
+1. e4 g6 2. d4 Bg7 3. f4 c5 4. dxc5 Qa5+ 5. Bd2 Qxc5 6. Bc3 Nf6 7. Qd4 Qc7 8. e5 Nc6 9. Qd3 Nh5 10. Ne2 f5 11. Nd2 O-O 12. g3 b6 13. Bg2 Bb7 14. O-O Nd8 15. Rad1 Bxg2 16. Kxg2 Ne6 17. Nb3 Rfd8 18. Qd5 Kh8 19. Rd2 Bf8 20. Rfd1 Nhg7 21. a4 a6 22. h4 Qc6 23. a5 b5 24. Bb4 Qc4 25. c3 Rac8 26. Na1 Qc6 27. Nc2 Ne8 28. Ne3 N8c7 29. Qf3 Qxf3+ 30. Kxf3 Kg7 31. Rxd7 Kf7 32. Rxd8 Rxd8 33. Rxd8 Nxd8 34. Bc5 Nb7 35. Bb6 Na8 36. Nd5 Ke6 37. Nb4 Nxb6 38. axb6 Kd7 39. Nxa6 e6 40. Nd4 b4 41. cxb4 Nd8 42. Nc5+ Kc8 43. Ke3 Be7 44. Kd3 h6 45. Kc4 g5 46. hxg5 hxg5 47. Ndxe6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lasker - Mieses 1889/90"]
+[Site "Leipzig GER"]
+[Date "1889.12.30"]
+[Round "1"]
+[White "Emanuel Lasker"]
+[Black "Jacques Mieses"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Emanuel Lasker - Jacques Mieses"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/h63IjPas"]
+
+1. d4 f5 2. c4 c5 3. dxc5 Qa5+ 4. Nc3 Qxc5 5. e4 fxe4 6. Nxe4 Qc7 7. Nh3 g6 8. Nf4 Bg7 9. Nd5 Qd8 10. Bg5 Bxb2 11. Nd6+ Kf8 12. Qf3+ Bf6 13. Bxf6 Nxf6 14. Nxf6 exf6 15. Qd5 Qe7+ 16. Kd2 Kg7 17. Re1 Qf8 18. h4 h5 19. Rh3 Nc6 20. Rhe3 Qd8 21. Re8 Rxe8 22. Rxe8 Qa5+ 23. Qxa5 Nxa5 24. Rxc8 Rxc8 25. Nxc8 Nc6 26. Nd6 b6 27. Be2 f5 28. Bf3 Ne7 29. Nb5 a5 30. Nc7 Nc8 31. Nd5 Kf7 32. Kc3 Ke6 33. Kd4 d6 34. Nf4+ Kf6 35. Bb7 Na7 36. Nd5+ Ke6 37. Nxb6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lasker - Mieses 1889/90"]
+[Site "Leipzig GER"]
+[Date "1890.01.03"]
+[Round "4"]
+[White "Jacques Mieses"]
+[Black "Emanuel Lasker"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C25"]
+[Opening "Vienna Game: Anderssen Defense"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Jacques Mieses - Emanuel Lasker"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/ngTdvSi7"]
+
+1. e4 e5 2. Nc3 Bc5 3. g3 Nc6 4. Bg2 a6 5. d3 d6 6. Nge2 Nge7 7. Nd5 O-O 8. O-O Be6 9. Kh1 Qd7 10. Nxe7+ Nxe7 11. f4 Bh3 12. Bxh3 Qxh3 13. f5 Qh5 14. f6 gxf6 15. Rxf6 Kh8 16. Qf1 Ng8 17. Rf5 Qg6 18. Qf3 f6 19. Bd2 Ne7 20. Rh5 f5 21. Rf1 Qg8 22. exf5 d5 23. Bh6 Rf7 24. Rg5 Qe8 25. Qg4 Ng6 26. Re1 Ne7 27. Bg7+ Rxg7 28. Rxg7 Qf8 29. Rg5 Ng8 30. Nc3 Nf6 31. Qf3 Qd6 32. Nd1 Re8 33. Nf2 e4 34. Qe2 Qc6 35. dxe4 Nxe4 36. Nd3 Nf2+ 37. Nxf2 Rxe2 38. Rxe2 Bxf2 39. Rxf2 d4+ 40. Kg1 d3 41. c3 Qe4 42. h4 d2 43. f6 { 0-1 White resigns. } 0-1
+
+
+[Event "Lasker - Mieses 1889/90"]
+[Site "Leipzig GER"]
+[Date "1890.01.04"]
+[Round "5"]
+[White "Emanuel Lasker"]
+[Black "Jacques Mieses"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D02"]
+[Opening "Queen's Gambit Declined: Baltic Defense, Pseudo-Slav"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Emanuel Lasker - Jacques Mieses"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/NkYGc2gr"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 c6 5. e3 Nd7 6. Bd3 Bg6 7. O-O Ngf6 8. Qe2 Be7 9. b3 O-O 10. Bxg6 hxg6 11. Bb2 Nb6 12. c5 Nbd7 13. b4 Nh7 14. Nd2 Bf6 15. Nb3 e5 16. Rad1 exd4 17. Nxd4 Bxd4 18. Rxd4 Ne5 19. e4 Qf6 20. Nxd5 cxd5 21. Rxd5 Qe6 22. Bxe5 Rfe8 23. Re1 Ng5 24. f4 Nxe4 25. Qxe4 f6 26. Qd4 Qa6 27. Rd7 fxe5 28. Qd5+ Kh7 29. Qf7 Rg8 30. Re3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lasker - Mieses 1889/90"]
+[Site "Leipzig GER"]
+[Date "1890.01.06"]
+[Round "7"]
+[White "Emanuel Lasker"]
+[Black "Jacques Mieses"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Gunsberg Defense"]
+[StudyName "Best games of emanuel lasker"]
+[ChapterName "Emanuel Lasker - Jacques Mieses"]
+[Annotator "https://lichess.org/@/NavodayK"]
+[ChapterURL "https://lichess.org/study/KbMLKTBM/IKKJlqTy"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. e4 exd5 6. Qxd5 Qxd5 7. exd5 a6 8. a4 Nd7 9. Nc3 Ngf6 10. Bf4 Be7 11. Rd1 O-O 12. Be2 Nh5 13. Be3 Bd6 14. g3 Re8 15. Nd2 Nhf6 16. Nxc4 Be5 17. a5 Bxc3+ 18. bxc3 Ne4 19. Rc1 Ne5 20. Nb6 Rb8 21. Nxc8 Rbxc8 22. c4 f5 23. O-O Ng4 24. Bxg4 fxg4 25. Rc2 Nd6 26. Kg2 Re4 27. Rfc1 Nf5 28. Rb2 Nxe3+ 29. fxe3 Rxe3 30. Rxb7 Re2+ 31. Kg1 Ra2 32. Rf1 Rf8 33. Rc7 Rxf1+ 34. Kxf1 Rxa5 35. d6 Kf8 36. Rc8+ Kf7 37. d7 Ra1+ 38. Ke2 Ra2+ 39. Ke3 { 1-0 Black resigns. } 1-0
+
+

@@ -1,0 +1,196 @@
+[Event "Calcutta"]
+[Site "Calcutta"]
+[Date "1986.02.??"]
+[White "Viswanathan Anand"]
+[Black "Ventzislav V Inkiov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B63"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "Game 1 : Anand vs V Inkiov 1986"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/PirCrb4M"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.25] } 2. Nf3 { [%eval 0.2] } 2... d6 { [%eval 0.31] } 3. d4 { [%eval 0.22] } 3... cxd4 { [%eval 0.19] } 4. Nxd4 { [%eval 0.18] } 4... Nf6 { [%eval 0.25] } 5. Nc3 { [%eval 0.32] } 5... Nc6 { [%eval 0.3] } (5... a6) 6. Bg5 { [%eval 0.25] } 6... e6 { [%eval 0.39] } 7. Qd2 { [%eval 0.39] } 7... Be7 { [%eval 0.32] } 8. O-O-O { [%eval 0.46] } 8... O-O { [%eval 0.58] } 9. Nb3 { [%eval 0.37] } 9... a5 { [%eval 0.73] } 10. a4 { [%eval 0.83] } 10... d5 { [%eval 0.84] } 11. Bb5 { [%eval 0.8] } 11... Nb4 { [%eval 0.8] } 12. Rhe1 { [%eval 0.73] } 12... dxe4 { [%eval 1.2] } 13. Qxd8 { [%eval 1.15] } 13... Rxd8 { [%eval 1.18] } 14. Nxe4 { [%eval 1.3] } 14... Nbd5 { [%eval 1.62] } 15. c4 { [%eval 1.55] } 15... Nc7 { [%eval 1.92] } 16. Rxd8+ { [%eval 2.01] } 16... Bxd8 { [%eval 1.83] } 17. Rd1 { [%eval 1.4] } 17... Be7 { [%eval 1.21] } 18. Nxf6+ { [%eval 1.12] } 18... gxf6 { [%eval 1.02] } (18... Bxf6 19. Bxf6 gxf6 20. Rd8+) 19. Be3 { [%eval 1.14] } 19... Nxb5 { [%eval 1.06] } 20. axb5 { [%eval 1.04] } 20... f5 { [%eval 1.35] } 21. Nc5?! { [%eval 0.77] } { Inaccuracy. f4 was best. } (21. f4 e5 22. Nc5 exf4 23. Bf2 Kf8 24. b3 Be6 25. Kb2 Bxc5 26. Bxc5+ Kg7) 21... e5?! { [%eval 1.82] } { Inaccuracy. f4 was best. } (21... f4 22. Bd4 f6 23. Na4 Kf7 24. Bc5 e5 25. b3 Bg4 26. f3 Be6 27. Bxe7) 22. Nd7 { [%eval 2.11] } 22... f4 { [%eval 1.68] } 23. Bb6 { [%eval 1.86] } 23... f6 { [%eval 2.4] } 24. Bc7 { [%eval 2.05] } 24... Bxd7 { [%eval 2.3] } 25. Rxd7 { [%eval 2.27] } 25... Bc5 { [%eval 2.48] } 26. Bd6 { [%eval 2.29] } 26... Bxd6 { [%eval 2.63] } 27. Rxd6 { [%eval 2.54] } 27... Rc8 { [%eval 2.69] } 28. b3 { [%eval 2.86] } 28... a4 { [%eval 2.73] } 29. Kb2 { [%eval 2.69] } (29. bxa4 Rxc4+ 30. Kb2 Rxa4) 29... axb3 { [%eval 2.97] } 30. Kxb3 { [%eval 2.79] } 30... Kf7?! { [%eval 3.63] } { Inaccuracy. f5 was best. } (30... f5 31. Rd7 b6 32. Rb7 e4 33. Rxb6 Kf7 34. Ra6 Ke7 35. Ra1 Kd7 36. Rd1+) 31. Rd7+ { [%eval 3.54] } 31... Ke6 { [%eval 3.31] } 32. Rxb7 { [%eval 3.33] } 32... e4 { [%eval 3.46] } 33. Ra7 { [%eval 3.01] } (33. Rxh7 Ra8) 33... e3?! { [%eval 4.08] } { Inaccuracy. Re8 was best. } (33... Ra8) (33... Re8 34. Ra1 h5 35. Kc3 h4 36. Kd4 f5 37. c5 h3 38. g3 e3 39. Re1) 34. fxe3 { [%eval 4.03] } 34... fxe3 { [%eval 3.69] } 35. Kc3 { [%eval 3.74] } 35... Rd8 { [%eval 4.39] } 36. Ra2 { [%eval 4.37] } 36... Ke5 { [%eval 4.31] } 37. b6 { [%eval 4.21] } 37... Ke4 { [%eval 4.84] } 38. b7 { [%eval 4.73] } 38... Rd3+ { [%eval 5.21] } 39. Kb4 { [%eval 4.74] } 39... Rd2 { [%eval 5.58] } 40. b8=Q { [%eval 5.22] } (40. Rxd2 exd2 41. b8=Q d1=Q) 40... Rxa2 { [%eval 5.84] } 41. Qb7+ { [%eval 5.8] } (41. Qe8+) 41... Kd3 { [%eval 5.64] } 42. Qd5+ { [%eval 5.36] } 42... Ke2 { [%eval 5.5] } 43. c5 { [%eval 5.27] } { 1-0 Black resigns. } 43... Rb2+?? { [%eval #14] } { Checkmate is now unavoidable. Ra7 was best. } (43... Ra7 44. Qc4+ Ke1 45. Qh4+ Kd2 46. Qd4+ Ke2 47. Qxf6 h6 48. c6 Ra6 49. Kb5) 44. Kc3 { [%eval 11.91] } 44... Rd2?! { [%eval #8] } { Checkmate is now unavoidable. Rb5 was best. } (44... Rb5 45. Qf3+) 45. Qh5+?? { [%eval 5.86] } { Lost forced checkmate sequence. Qf3+ was best. } (45. Qf3+ Ke1 46. Qxe3+ Kf1 47. Kxd2 f5 48. Qf3+ Kg1 49. Ke2 Kh1 50. Kf2 f4) 1-0
+
+
+[Event "Wch U20"]
+[Site "Baguio PHI"]
+[Date "1987.07.??"]
+[White "Viswanathan Anand"]
+[Black "Kiril Ninov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 2 - anand vs ninov"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/eQV9Clbf"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6 8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. g4 b5 12. O-O-O O-O 13. g5 Ne8 14. f4 b4 15. Ne2 a5 16. Nbd4 Nxd4 17. Nxd4 Qb6 18. e5 Bb7 19. Rhf1 dxe5 20. fxe5 Rd8 21. Bxh7+ Kxh7 22. g6+ Kg8 23. Qh3 Nf6 24. exf6 fxg6 25. fxg7 { 1-0 White wins. } 1-0
+
+
+[Event "Wch U20"]
+[Site "Baguio PHI"]
+[Date "1987.07.??"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Simen Agdestein"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Norwegian Variation"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 4 - anand vs agdestein"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/NXJIvuEH"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 Nxb3 8. axb3 f6 9. Nc3 Bb7 10. Nh4 Ne7 11. dxe5 dxe5 12. Qf3 Qd7 13. Rd1 Qe6 14. Nd5 Nxd5 15. exd5 Qf7 16. c4 Be7 17. Nf5 Rd8 18. Be3 g6 19. Nh6 Qg7 20. Qg3 Bc8 21. h4 Bd6 22. Qf3 Be7 23. Rac1 bxc4 24. bxc4 Rf8 25. c5 f5 26. Bg5 Bxg5 27. hxg5 Qe7 28. Qg3 f4 29. Qh4 e4 30. d6 Qe5 31. dxc7 Rxd1+ 32. Rxd1 e3 33. Rd8+ Ke7 34. Ng8+ Rxg8 35. Rxg8 Be6 36. c8=Q exf2+ 37. Qxf2 Bxc8 38. Rxc8 { 1-0 White wins. } 1-0
+
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1989.01.27"]
+[Round "12"]
+[White "Viswanathan Anand"]
+[Black "Joel Benjamin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B63"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 5 - anand vs benjamin"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/Dus7C76m"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.25] } 2. Nf3 { [%eval 0.2] } 2... d6 { [%eval 0.31] } 3. d4 { [%eval 0.22] } 3... cxd4 { [%eval 0.19] } 4. Nxd4 { [%eval 0.18] } 4... Nf6 { [%eval 0.31] } 5. Nc3 { [%eval 0.32] } 5... Nc6 { [%eval 0.3] } 6. Bg5 { [%eval 0.25] } 6... e6 { [%eval 0.39] } 7. Qd2 { [%eval 0.39] } 7... Be7 { [%eval 0.32] } 8. O-O-O { [%eval 0.63] } 8... O-O { [%eval 0.43] } 9. Nb3 { [%eval 0.34] } 9... Qb6 { [%eval 0.53] } 10. f3 { [%eval 0.4] } 10... Rd8 { [%eval 0.4] } 11. Kb1 { [%eval 0.47] } 11... d5 { [%eval 0.38] } 12. Bxf6 { [%eval 0.38] } 12... dxe4?? { [%eval 2.97] } { Blunder. Bxf6 was best. } (12... Bxf6) 13. Bxe7 { [%eval 3.0] } 13... Rxd2 { [%eval 2.94] } 14. Nxd2 { [%eval 2.98] } 14... exf3 { [%eval 3.38] } 15. gxf3 { [%eval 2.81] } 15... e5 { [%eval 2.88] } 16. Bh4 { [%eval 2.38] } 16... Be6 { [%eval 2.21] } 17. Nde4 { [%eval 2.31] } 17... Nd4 { [%eval 2.5] } 18. Bg2?? { [%eval 0.7] } { Blunder. Bf2 was best. } (18. Bf2 Rd8 19. f4 Bg4 20. Rd2 Qa5 21. Rg1 Be6 22. Bg2 Nc6 23. Nf6+ Kh8) 18... Rc8 { [%eval 0.7] } 19. Bf2 { [%eval 0.83] } 19... f5 { [%eval 0.77] } 20. f4 { [%eval 0.68] } 20... fxe4 { [%eval 0.79] } 21. fxe5 { [%eval 0.71] } 21... Rc4? { [%eval 2.25] } { Mistake. Rd8 was best. } (21... Rd8 22. Rd2 Nc6 23. Bxb6 Rxd2 24. Bxe4 axb6 25. b3 g6 26. h4 Bf5 27. Bxf5) 22. Rhe1? { [%eval 0.9] } { Mistake. Bxe4 was best. } (22. Bxe4) 22... Rb4? { [%eval 2.43] } { Mistake. Bg4 was best. } (22... Bg4 23. Rd2) 23. Kc1? { [%eval 1.2] } { Mistake. b3 was best. } (23. b3) 23... Bg4 { [%eval 1.73] } 24. Nd5?? { [%eval -2.11] } { Blunder. Rd2 was best. } (24. Rd2) 24... Qc5?? { [%eval 3.6] } { Blunder. Qd8 was best. } (24... Qd8) 25. Nxb4 { [%eval 3.46] } 25... Bxd1 { [%eval 3.58] } 26. Kxd1 { [%eval 3.31] } 26... e3 { [%eval 3.89] } 27. Rxe3 { [%eval 3.7] } 27... Nf5?! { [%eval 5.01] } { Inaccuracy. Qxb4 was best. } (27... Qxb4 28. Re4 Qxb2 29. Rxd4 Kf8 30. Bd5 Ke8 31. e6 h6 32. Rd3 Qa1+ 33. Kd2) 28. Bd5+ { [%eval 4.81] } 28... Kf8 { [%eval 4.56] } 29. Rf3 { [%eval 4.78] } 29... Qxb4 { [%eval 4.77] } 30. Rxf5+ { [%eval 4.73] } 30... Ke8 { [%eval 4.65] } 31. e6 { [%eval 4.41] } { 1-0 White wins. } 1-0
+
+
+[Event "Tournoi de Generations"]
+[Site "Cannes FRA"]
+[Date "1989.02.??"]
+[Round "4"]
+[White "Mikhail Tal"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 6 -  tal vs anand"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/zS1Nz3MI"]
+
+1. c4 { [%eval 0.12] } 1... c5 { [%eval 0.19] } 2. Nf3 { [%eval 0.26] } 2... Nc6 { [%eval 0.31] } 3. Nc3 { [%eval 0.16] } 3... Nd4 { [%eval 0.52] } 4. e3 { [%eval 0.54] } 4... Nxf3+ { [%eval 0.51] } 5. Qxf3 { [%eval 0.47] } 5... g6 { [%eval 0.39] } 6. b3 { [%eval 0.28] } 6... Bg7 { [%eval 0.33] } 7. Bb2 { [%eval 0.19] } 7... d6 { [%eval 0.22] } 8. g3 { [%eval 0.21] } 8... Rb8 { [%eval 0.17] } 9. Bg2 { [%eval 0.15] } 9... Nh6 { [%eval 0.2] } 10. Qd1 { [%eval 0.22] } 10... O-O { [%eval 0.15] } 11. O-O { [%eval 0.15] } 11... Bd7 { [%eval 0.26] } 12. a4 { [%eval 0.28] } 12... Bc6 { [%eval 0.24] } 13. d4 { [%eval 0.3] } 13... Bxg2 { [%eval 0.22] } 14. Kxg2 { [%eval 0.3] } 14... Rc8 { [%eval 0.6] } 15. Qd3 { [%eval 0.09] } 15... cxd4 { [%eval 0.16] } 16. exd4 { [%eval 0.16] } 16... Nf5 { [%eval 0.29] } 17. d5 { [%eval 0.32] } 17... Qb6 { [%eval 0.38] } 18. Nd1 { [%eval -0.08] } 18... Bxb2 { [%eval -0.09] } 19. Nxb2 { [%eval -0.1] } 19... e5 { [%eval -0.05] } 20. dxe6 { [%eval -0.06] } 20... fxe6 { [%eval -0.12] } 21. Rad1 { [%eval -0.47] } 21... Rf6 { [%eval -0.17] } 22. Rd2 { [%eval -0.18] } 22... e5 { [%eval -0.23] } 23. Qd5+ { [%eval -0.25] } 23... Kg7 { [%eval -0.28] } 24. Qb5 { [%eval -0.24] } 24... Qc7 { [%eval -0.33] } 25. c5? { [%eval -1.55] } { Mistake. Qd5 was best. } (25. Qd5 Nd4) 25... Qxc5 { [%eval -1.66] } 26. Qxb7+ { [%eval -1.68] } 26... Rc7 { [%eval -1.68] } 27. Qd5 { [%eval -1.77] } 27... Qb4 { [%eval -1.89] } 28. Rfd1 { [%eval -1.83] } 28... Rc5 { [%eval -1.83] } 29. Qa8 { [%eval -1.76] } 29... Qxb3 { [%eval -1.84] } 30. Nd3 { [%eval -1.82] } 30... Rc2 { [%eval -1.8] } 31. Qe4 { [%eval -1.81] } 31... Rc4 { [%eval -1.84] } 32. Qd5 { [%eval -1.86] } 32... Qc3 { [%eval -1.71] } 33. Rb2?! { [%eval -2.63] } { Inaccuracy. Ne1 was best. } (33. Ne1 Rxa4 34. Rc2 Qa5 35. Qxa5 Rxa5 36. Nf3 Ra4 37. Rc7+ Rf7 38. Rxf7+ Kxf7) 33... Rd4 { [%eval -2.68] } 34. Rb7+? { [%eval -4.65] } { Mistake. Qb3 was best. } (34. Qb3 Qc6+ 35. Kg1 Rf7 36. Ne1 Qxa4 37. Qxa4 Rxa4 38. Rb8 Kf6 39. Rd8 a5) 34... Kh6 { [%eval -4.19] } 35. Qb5?! { [%eval -5.91] } { Inaccuracy. Qb3 was best. } (35. Qb3 Qc6+) 35... Ne3+ { [%eval -7.3] } 36. Kg1 { [%eval -7.26] } 36... Qc2 { [%eval -7.1] } 37. Rf1 { [%eval -7.77] } 37... Rxd3 { [%eval -7.71] } { 0-1 Black wins. } 0-1
+
+
+[Event "Tournoi de Generations"]
+[Site "Cannes FRA"]
+[Date "1989.02.??"]
+[Round "3"]
+[White "Viswanathan Anand"]
+[Black "Boris Spassky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 7 - anand vs spassky"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/QQbsfxrF"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.13] } 2... Nc6 { [%eval 0.21] } 3. Bb5 { [%eval 0.15] } 3... a6 { [%eval 0.21] } 4. Ba4 { [%eval 0.11] } 4... Nf6 { [%eval 0.18] } 5. O-O { [%eval 0.13] } 5... Be7 { [%eval 0.24] } 6. Re1 { [%eval 0.19] } 6... b5 { [%eval 0.14] } 7. Bb3 { [%eval 0.11] } 7... d6 { [%eval 0.32] } 8. c3 { [%eval 0.41] } 8... O-O { [%eval 0.45] } 9. h3 { [%eval 0.31] } 9... Nb8 { [%eval 0.33] } 10. d4 { [%eval 0.39] } 10... Nbd7 { [%eval 0.4] } 11. c4 { [%eval 0.33] } 11... c6 { [%eval 0.37] } 12. a3 { [%eval 0.28] } 12... bxc4 { [%eval 0.37] } 13. Bxc4 { [%eval 0.43] } 13... d5 { [%eval 0.52] } 14. exd5 { [%eval 0.45] } 14... cxd5 { [%eval 0.53] } 15. Ba2 { [%eval 0.52] } 15... e4 { [%eval 0.49] } 16. Ne5 { [%eval 0.49] } 16... Bb7 { [%eval 0.46] } 17. Nc3 { [%eval 0.37] } 17... Nb6 { [%eval 0.55] } 18. f3 { [%eval 0.44] } 18... Rc8 { [%eval 0.38] } 19. Bb3 { [%eval 0.08] } 19... Ba8 { [%eval 0.04] } 20. Bg5 { [%eval -0.04] } 20... Rc7 { [%eval 0.24] } 21. Rc1 { [%eval 0.25] } 21... Nfd7 { [%eval 0.66] } 22. Bf4 { [%eval 0.63] } 22... Bg5 { [%eval 0.61] } 23. Bxg5 { [%eval 0.59] } 23... Qxg5 { [%eval 0.68] } 24. fxe4 { [%eval 0.57] } 24... dxe4 { [%eval 0.57] } 25. Qg4 { [%eval 0.56] } 25... Qxg4 { [%eval 0.48] } 26. Nxg4 { [%eval 0.71] } 26... g6 { [%eval 0.76] } 27. Nf2 { [%eval 0.86] } 27... Re8 { [%eval 0.59] } 28. d5 { [%eval 0.36] } 28... Kg7 { [%eval 0.43] } 29. Nfxe4 { [%eval 0.42] } 29... Nxd5 { [%eval 0.54] } 30. Nd6 { [%eval 0.5] } 30... Rxe1+ { [%eval 0.54] } 31. Rxe1 { [%eval 0.51] } 31... N5f6? { [%eval 1.67] } { Mistake. Rc5 was best. } (31... Rc5 32. Nce4) 32. Re7 { [%eval 1.51] } 32... Rc6 { [%eval 1.44] } 33. Rxf7+ { [%eval 1.56] } 33... Kh6 { [%eval 1.7] } 34. Nc4 { [%eval 1.54] } 34... Re6 { [%eval 1.48] } 35. Kf2?! { [%eval 0.67] } { Inaccuracy. Kh2 was best. } (35. Kh2 Kg5) 35... Kg5?! { [%eval 1.64] } { Inaccuracy. Nc5 was best. } (35... Nc5 36. Bc2) 36. Bc2 { [%eval 1.95] } 36... Bc6 { [%eval 1.79] } 37. Nd2?! { [%eval 1.05] } { Inaccuracy. b4 was best. } (37. b4 h5 38. a4 Kh6 39. g3 Ba8 40. a5 Bc6 41. Bd3 Nh7 42. Rf4 Ng5) 37... h5 { [%eval 1.46] } 38. Nb3 { [%eval 0.97] } 38... Ne5 { [%eval 1.08] } 39. Ra7?! { [%eval 0.43] } { Inaccuracy. Nc5 was best. } (39. Nc5) 39... Neg4+ { [%eval 0.43] } 40. hxg4 { [%eval 0.46] } 40... Nxg4+ { [%eval 0.53] } 41. Kf1 { [%eval 0.5] } 41... Ne3+ { [%eval 0.44] } 42. Kg1 { [%eval 0.47] } 42... Nxc2 { [%eval 0.51] } 43. Rxa6 { [%eval 0.5] } 43... Bd7 { [%eval 0.62] } 44. Rxe6 { [%eval 0.2] } 44... Bxe6 { [%eval 0.18] } 45. Nc5 { [%eval 0.24] } 45... Bc4 { [%eval 0.23] } 46. a4 { [%eval 0.3] } 46... Kf4 { [%eval 0.36] } 47. a5 { [%eval 0.38] } 47... Nb4 { [%eval 0.35] } 48. b3 { [%eval 0.37] } 48... Bf7?? { [%eval 4.97] } { Blunder. Ba6 was best. } (48... Ba6) 49. Nd3+ { [%eval 4.34] } 49... Nxd3 { [%eval 4.46] } 50. a6 { [%eval 4.54] } 50... Be8 { [%eval 4.4] } 51. Nd5+ { [%eval 5.02] } { 1-0 White wins. } 1-0
+
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1990.01.12"]
+[Round "1"]
+[White "Rini Kuijf"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 8 - kuijf vs anand"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/iNNvPq6s"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.22] } 2. Nf3 { [%eval 0.13] } 2... Nc6 { [%eval 0.21] } 3. c3 { [%eval -0.13] } 3... Nf6 { [%eval 0.0] } 4. d4 { [%eval 0.0] } 4... Nxe4 { [%eval 0.0] } 5. d5 { [%eval -0.31] } 5... Ne7?! { [%eval 0.25] } { Inaccuracy. Bc5 was best. } (5... Bc5 6. dxc6 Bxf2+ 7. Ke2 Bb6 8. Qd5 Nf2 9. cxb7 Bxb7 10. Qxb7) 6. Nxe5 { [%eval 0.24] } 6... Ng6 { [%eval 0.23] } 7. Bd3?! { [%eval -0.34] } { Inaccuracy. Nxg6 was best. } (7. Nxg6 hxg6 8. Qe2 Qe7 9. Be3 Rh5 10. c4 b6 11. Nd2 Ba6) 7... Nxe5 { [%eval -0.25] } 8. Bxe4 { [%eval -0.32] } 8... Bc5 { [%eval -0.4] } 9. Qh5 { [%eval -0.6] } 9... d6 { [%eval -0.54] } 10. Bg5?! { [%eval -1.61] } { Inaccuracy. h3 was best. } (10. h3 Qe7) 10... Bg4 { [%eval -1.46] } 11. Qh4? { [%eval -2.89] } { Mistake. Bxd8 was best. } (11. Bxd8) 11... f6 { [%eval -2.8] } 12. Bc1?! { [%eval -3.8] } { Inaccuracy. Be3 was best. } (12. Be3 g5 13. Qg3 f5 14. Bxc5 f4 15. Qxg4 Nxg4 16. Bd4 Qe7 17. Nd2 Ne5) 12... Qe7 { [%eval -3.78] } 13. O-O { [%eval -3.65] } 13... g5 { [%eval -3.8] } 14. Qg3 { [%eval -3.45] } 14... f5 { [%eval -3.18] } 15. Bxf5 { [%eval -3.84] } 15... Bxf5 { [%eval -3.82] } 16. Bxg5 { [%eval -3.83] } 16... Qf7 { [%eval -3.79] } 17. Nd2 { [%eval -3.88] } 17... Rg8 { [%eval -3.61] } 18. Rae1 { [%eval -4.13] } 18... h6 { [%eval -4.07] } 19. Rxe5+ { [%eval -4.32] } 19... dxe5 { [%eval -4.25] } 20. Qxe5+ { [%eval -4.35] } 20... Kd7 { [%eval -4.2] } 21. Be3?! { [%eval -5.63] } { Inaccuracy. Bf4 was best. } (21. Bf4 Bd6 22. Nc4 Bxe5 23. Nxe5+ Ke8 24. Nxf7 Kxf7 25. Rd1 Rae8 26. Kf1 Re4) 21... Rae8 { [%eval -5.48] } 22. Qf4 { [%eval -5.57] } 22... Qxd5 { [%eval -5.59] } 23. Nf3 { [%eval -7.07] } 23... Bd6 { [%eval -6.86] } 24. Qa4+ { [%eval -8.16] } 24... b5 { [%eval -5.47] } { 0-1 Black wins. } 0-1
+
+
+[Event "Manila Interzonal"]
+[Site "Manila PHI"]
+[Date "1990.07.06"]
+[Round "7"]
+[White "Margeir Petursson"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 9 - petursson vs anand"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/LO8nwC04"]
+
+1. d4 { [%eval 0.17] } 1... d6 { [%eval 0.48] } 2. c4 { [%eval 0.21] } 2... e5 { [%eval 0.33] } 3. Nc3 { [%eval 0.28] } 3... exd4 { [%eval 0.08] } 4. Qxd4 { [%eval 0.05] } 4... Nf6 { [%eval 0.16] } 5. g3 { [%eval 0.11] } 5... Nc6 { [%eval 0.12] } 6. Qd2 { [%eval 0.0] } 6... g6 { [%eval 0.41] } 7. Bg2 { [%eval 0.38] } 7... Bg7 { [%eval 0.36] } 8. Nh3 { [%eval -0.06] } 8... O-O { [%eval -0.12] } 9. Nf4 { [%eval -0.15] } 9... a5 { [%eval -0.12] } 10. O-O { [%eval -0.11] } 10... Re8 { [%eval 0.1] } 11. Re1 { [%eval -0.13] } 11... a4 { [%eval -0.2] } 12. Rb1 { [%eval -0.16] } 12... Nd7 { [%eval 0.17] } 13. b3 { [%eval 0.2] } 13... axb3 { [%eval 0.18] } 14. axb3 { [%eval 0.17] } 14... Nce5 { [%eval 0.17] } 15. Qc2 { [%eval 0.04] } 15... Nc5 { [%eval 0.06] } 16. b4 { [%eval 0.02] } 16... Bf5 { [%eval 0.0] } 17. e4 { [%eval 0.0] } 17... Ne6 { [%eval 0.08] } 18. Nxe6?! { [%eval -0.7] } { Inaccuracy. Nce2 was best. } (18. Nce2 Bg4 19. h3 Nxf4 20. Nxf4 Bd7 21. b5 Qc8 22. Qb3 Be6 23. Bf1 b6) 18... Bxe6 { [%eval -0.79] } 19. Nd5 { [%eval -1.23] } 19... b5 { [%eval -1.18] } 20. Bb2 { [%eval -1.21] } 20... Ra2 { [%eval -1.14] } 21. Nc3 { [%eval -1.26] } 21... Rxb2 { [%eval -1.32] } 22. Rxb2 { [%eval -1.29] } 22... Bxc4 { [%eval -1.36] } 23. Re3?! { [%eval -2.03] } { Inaccuracy. Rd1 was best. } (23. Rd1) 23... Bh6?! { [%eval -1.19] } { Inaccuracy. Ng4 was best. } (23... Ng4 24. Re1) 24. f4 { [%eval -1.36] } 24... Ng4 { [%eval -1.39] } 25. Rf3 { [%eval -1.23] } 25... Bg7 { [%eval -1.2] } 26. Qd2?! { [%eval -1.86] } { Inaccuracy. Rb1 was best. } (26. Rb1) 26... Qa8 { [%eval -1.36] } 27. h3 { [%eval -1.16] } 27... Qa1+ { [%eval -1.2] } 28. Bf1 { [%eval -0.89] } 28... Bxf1?! { [%eval -0.2] } { Inaccuracy. Ne3 was best. } (28... Ne3) 29. Rxf1 { [%eval -0.25] } 29... Qa3 { [%eval 0.0] } 30. Rf3 { [%eval 0.0] } 30... Nf6 { [%eval 0.0] } 31. Re3 { [%eval 0.0] } 31... d5?! { [%eval 0.71] } { Inaccuracy. c6 was best. } (31... c6 32. Nd1 Qa1 33. Ra2 Qb1 34. Rb2) 32. Nxd5?! { [%eval 0.0] } { Inaccuracy. Nd1 was best. } (32. Nd1 Qa7) 32... Qa1+ { [%eval -0.02] } 33. Re1 { [%eval -0.03] } 33... Qa7+ { [%eval -0.08] } 34. Kh2?? { [%eval -3.47] } { Blunder. Qe3 was best. } (34. Qe3 Qxe3+) 34... Nxd5 { [%eval -3.19] } 35. Ra2 { [%eval -3.5] } 35... Qd4 { [%eval -3.43] } 36. Qxd4 { [%eval -3.95] } 36... Bxd4 { [%eval -4.07] } 37. Ra5 { [%eval -3.86] } 37... Nc3 { [%eval -3.59] } 38. e5 { [%eval -3.54] } 38... Bb6 { [%eval -3.55] } 39. Ra3 { [%eval -3.45] } 39... Nd5 { [%eval -3.34] } 40. Rb3 { [%eval -3.66] } 40... Nxb4 { [%eval -3.53] } 41. Rd1 { [%eval -3.35] } 41... c5 { [%eval -3.4] } 42. Rd7 { [%eval -3.15] } 42... Rb8 { [%eval -3.23] } 43. g4 { [%eval -3.77] } 43... Ba5 { [%eval -3.7] } 44. Ra7?! { [%eval -4.97] } { Inaccuracy. Ra3 was best. } (44. Ra3 Nc6 45. Rd6 Bb4 46. Ra6 Nd4 47. Rd7 Bc3 48. Rf6 Rf8 49. Rd5 b4) 44... Nc6 { [%eval -4.88] } 45. Ra6 { [%eval -4.9] } 45... Nd4 { [%eval -4.96] } 46. Ra3 { [%eval -5.32] } 46... Bd2 { [%eval -4.93] } 47. Kg3 { [%eval -5.58] } 47... b4 { [%eval -5.44] } { 0-1 Black wins. } 0-1
+
+
+[Event "Novi Sad Olympiad"]
+[Site "Novi Sad YUG"]
+[Date "1990.11.24"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Ivan Eduardo Morovic-Fernandez"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B38"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 10 - Anand vs fernandez"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/FdI43Rwj"]
+
+1. e4 { [%eval 0.18] } 1... c5 { [%eval 0.25] } 2. Nf3 { [%eval 0.2] } 2... Nc6 { [%eval 0.25] } 3. d4 { [%eval 0.27] } 3... cxd4 { [%eval 0.27] } 4. Nxd4 { [%eval 0.21] } 4... g6 { [%eval 0.35] } 5. c4 { [%eval 0.4] } 5... Bg7 { [%eval 0.31] } 6. Be3 { [%eval 0.38] } 6... Nf6 { [%eval 0.6] } 7. Nc3 { [%eval 0.47] } 7... O-O { [%eval 0.59] } 8. Be2 { [%eval 0.66] } 8... d6 { [%eval 0.64] } 9. O-O { [%eval 0.6] } 9... Nd7 { [%eval 0.61] } 10. Rb1 { [%eval 0.71] } 10... Nc5 { [%eval 0.77] } 11. Qd2 { [%eval 0.68] } 11... Nxd4 { [%eval 0.65] } 12. Bxd4 { [%eval 0.92] } 12... a5 { [%eval 1.14] } 13. b3 { [%eval 0.74] } 13... Bxd4 { [%eval 0.89] } 14. Qxd4 { [%eval 0.78] } 14... b6 { [%eval 0.94] } 15. Rfe1 { [%eval 0.69] } 15... Bb7 { [%eval 0.86] } 16. Rbd1 { [%eval 0.94] } 16... f6 { [%eval 0.96] } 17. Bg4 { [%eval 0.98] } 17... Bc6 { [%eval 1.05] } 18. h4 { [%eval 0.82] } 18... Qc7 { [%eval 1.07] } 19. Qe3 { [%eval 1.15] } 19... Qb7 { [%eval 1.03] } 20. h5 { [%eval 1.07] } 20... Rf7 { [%eval 1.52] } 21. Nd5?! { [%eval 0.72] } { Inaccuracy. h6 was best. } (21. h6) 21... g5?? { [%eval 2.85] } { Blunder. gxh5 was best. } (21... gxh5 22. Bxh5 Rg7 23. g3 Kh8 24. Bf3 Rf8 25. Bg2 b5 26. cxb5 Qxb5 27. Qc3) 22. h6 { [%eval 2.97] } 22... Kh8 { [%eval 3.24] } 23. a3 { [%eval 3.36] } 23... e6?! { [%eval 4.37] } { Inaccuracy. Rff8 was best. } (23... Rff8 24. b4 Na4 25. Bf5 Rae8 26. Qh3 Rg8 27. b5 Bxd5 28. exd5 g4 29. Bxg4) 24. b4 { [%eval 4.46] } 24... axb4 { [%eval 4.26] } 25. axb4 { [%eval 4.36] } 25... exd5 { [%eval 4.31] } 26. exd5 { [%eval 4.14] } 26... Ba4 { [%eval 3.85] } 27. bxc5 { [%eval 3.87] } 27... Bxd1 { [%eval 3.75] } 28. c6 { [%eval 3.61] } 28... Qe7 { [%eval 3.62] } 29. Qc3?! { [%eval 2.29] } { Inaccuracy. Bxd1 was best. } (29. Bxd1 Qf8 30. Qxb6 Rb8 31. Qe3 Qxh6 32. Bc2 Qf8 33. Bf5 Rc7 34. g4 Kg8) (29. Qxe7 Rxe7 30. Rxd1) 29... Qxe1+? { [%eval 4.28] } { Mistake. Qf8 was best. } (29... Qf8 30. Rxd1) 30. Qxe1 { [%eval 3.99] } 30... Bxg4 { [%eval 3.83] } 31. Qb4?? { [%eval 0.88] } { Blunder. Qe4 was best. } (31. Qe4 Bh5 32. Qe6 Bg6 33. Kh2 Raf8 34. Qxd6 Bd3 35. Qb4 Bf5 36. d6 Be6) 31... Be2 { [%eval 0.78] } 32. Qxd6 { [%eval 0.88] } 32... Bxc4 { [%eval 0.8] } 33. c7?! { [%eval 0.0] } { Inaccuracy. Qe6 was best. } (33. Qe6 Raf8 34. f3 Kg8 35. Qe4 Ba6 36. Qe3 Bc8 37. Qxb6 Bf5 38. d6 Be6) 33... Re8?? { [%eval #6] } { Checkmate is now unavoidable. Raf8 was best. } (33... Raf8 34. Qxb6 Bxd5 35. Qa6 Rxc7 36. Qd6 Rcf7 37. Qxd5 Kg8 38. f3 Re8 39. Kh2) 34. Qe6 { [%eval #5] } 34... Rff8 { [%eval #5] } 35. c8=Q { [%eval #4] } { 1-0 White wins. } 1-0
+
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1994.03.09"]
+[Round "10"]
+[White "Viswanathan Anand"]
+[Black "Judit Polgar"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 29 : anand vs j polgar"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/zlIT8sx2"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f3 Nbd7 8. g4 h6 9. Rg1 b5 10. h4 Nb6 11. g5 Nfd7 12. Qe2 hxg5 13. hxg5 g6 14. O-O-O Nc4 15. Bf2 Bb7 16. f4 Qa5 17. Qg4 O-O-O 18. Bxc4 bxc4 19. Nxe6 fxe6 20. Qxe6 Kb8 21. Qxg6 Rh3 22. Kb1 Rf3 23. Bd4 Rxf4 24. Qh7 d5 25. g6 Bc5 26. Bxc5 Nxc5 27. g7 Ka7 28. g8=Q Rxg8 29. Qxg8 Nxe4 30. Nxe4 Rxe4 31. Qg7 Qc5 32. Rge1 Rf4 33. Re7 Qb6 34. Qg5 c3 35. b3 Qb4 36. Rc7 Re4 37. Qxd5 Kb8 38. Qd8+ Ka7 39. a3 Qxa3 { 1-0 White wins. } 1-0
+
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1999.03.06"]
+[Round "11"]
+[White "Veselin Topalov"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+[StudyName "Vishy Anand My best games of chess books"]
+[ChapterName "game 50 - topalav vs anand"]
+[Annotator "https://lichess.org/@/HmChessChannelYt"]
+[ChapterURL "https://lichess.org/study/3pjMsZh3/Y5W1FBH2"]
+
+1. e4 { [%eval 0.18] } 1... c6 { [%eval 0.23] } 2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.24] } 3. e5 { [%eval 0.33] } 3... Bf5 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... e6 { [%eval 0.0] } 5. g4 { [%eval 0.0] } 5... Bg6 { [%eval 0.0] } 6. Nge2 { [%eval 0.0] } 6... Ne7 { [%eval 0.0] } 7. Nf4 { [%eval 0.08] } 7... c5 { [%eval 0.14] } 8. h4 { [%eval 0.14] } 8... cxd4 { [%eval 0.27] } 9. Nb5 { [%eval 0.16] } 9... Nec6 { [%eval 0.17] } 10. h5 { [%eval 0.17] } 10... Be4 { [%eval 0.21] } 11. f3 { [%eval 0.24] } 11... a6 { [%eval 0.25] } 12. Nd6+ { [%eval 0.22] } 12... Bxd6 { [%eval 0.22] } 13. exd6 { [%eval 0.25] } 13... g5 { [%eval 0.05] } 14. Nh3 { [%eval 0.0] } 14... h6 { [%eval 0.02] } 15. fxe4 { [%eval 0.04] } 15... dxe4 { [%eval 0.0] } 16. Bg2 { [%eval 0.05] } 16... f5 { [%eval 0.06] } 17. O-O { [%eval 0.1] } 17... O-O { [%eval 0.0] } 18. c3 { [%eval -0.39] } 18... Qxd6 { [%eval -0.4] } 19. gxf5 { [%eval -0.47] } 19... exf5 { [%eval -0.46] } 20. Qb3+ { [%eval -0.49] } 20... Kh8 { [%eval -0.34] } 21. Bxe4 { [%eval -0.84] } 21... fxe4 { [%eval -0.8] } 22. Rxf8+ { [%eval -0.83] } 22... Qxf8 { [%eval -0.87] } 23. Qe6 { [%eval -0.76] } 23... Nd7 { [%eval -0.85] } 24. Qxd7 { [%eval -1.04] } 24... Rd8 { [%eval -1.12] } 25. Qg4 { [%eval -1.54] } 25... e3 { [%eval -1.53] } 26. b3? { [%eval -3.0] } { Mistake. Kg2 was best. } (26. Kg2) 26... Ne5 { [%eval -3.29] } 27. Qe4 { [%eval -2.76] } 27... Qf6 { [%eval -2.23] } 28. Kg2 { [%eval -2.33] } 28... e2 { [%eval -2.33] } 29. Bxg5 { [%eval -2.41] } 29... hxg5 { [%eval -2.3] } 30. cxd4 { [%eval -2.27] } 30... Qc6 { [%eval -2.18] } 31. d5 { [%eval -2.18] } 31... Qxd5 { [%eval -2.2] } 32. Qxd5 { [%eval -2.29] } 32... Rxd5 { [%eval -2.15] } 33. Re1 { [%eval -2.23] } 33... Rd2 { [%eval -2.18] } 34. Kf2 { [%eval -2.4] } 34... Rxa2 { [%eval -2.27] } 35. Rxe2? { [%eval -3.77] } { Mistake. Ke3 was best. } (35. Ke3 Nf7 36. Ng1 Rb2 37. Nxe2 Rxb3+ 38. Ke4 Rb6 39. Rd1 Re6+ 40. Kf3 b5) 35... Nd3+ { [%eval -3.6] } 36. Ke3 { [%eval -3.44] } 36... Rxe2+ { [%eval -4.03] } 37. Kxe2 { [%eval -4.21] } 37... g4 { [%eval -4.2] } 38. Ng5 { [%eval -4.08] } 38... Nc1+ { [%eval -3.59] } 39. Ke3 { [%eval -3.97] } 39... Nxb3 { [%eval -3.69] } 40. h6?! { [%eval -5.18] } { Inaccuracy. Ne4 was best. } (40. Ne4 b5) 40... a5 { [%eval -5.31] } 41. Kf4 { [%eval -5.23] } 41... Nd4 { [%eval -5.25] } 42. Kxg4 { [%eval -5.88] } 42... a4 { [%eval -5.69] } 43. Kh5 { [%eval -5.36] } 43... Nc6 { [%eval -5.36] } { 0-1 Black wins. } 0-1
+
+

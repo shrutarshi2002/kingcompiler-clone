@@ -215,10 +215,16 @@ export default function MostPopularCoursesSection() {
       {isModalOpen && selectedVideo && (
         <div className="fixed inset-0 flex items-center justify-center z-50 p-2 sm:p-4 bg-transparent">
           <div
-            className="relative w-full max-w-xl rounded-lg overflow-hidden border-4 border-yellow-500 mx-auto"
-            style={{ borderWidth: 5, maxWidth: "95vw" }}
+            className="relative rounded-lg overflow-hidden border-4 border-yellow-500 mx-auto flex flex-col items-center"
+            style={{
+              borderWidth: 5,
+              width: "700px", // Increased modal width for desktop
+              maxWidth: "98vw",
+              padding: 0,
+              background: "#fff",
+            }}
           >
-            {/* Cross Button - always visible, outside header */}
+            {/* Cross Button */}
             <button
               onClick={closeVideoModal}
               className="absolute top-2 right-2 bg-white border-2 border-gray-400 rounded-full text-black hover:text-yellow-600 text-2xl font-bold z-50 w-10 h-10 flex items-center justify-center shadow-lg focus:outline-none focus:ring-2 focus:ring-yellow-500"
@@ -239,18 +245,30 @@ export default function MostPopularCoursesSection() {
               </svg>
             </button>
             {/* Modal Header */}
-            <div className="flex items-center justify-between p-4 bg-white bg-opacity-90 backdrop-blur-sm rounded-t-lg">
-              <h3 className="text-xl font-bold text-gray-900">
+            <div className="flex items-center justify-between p-4 bg-white bg-opacity-90 backdrop-blur-sm rounded-t-lg w-full">
+              <h3 className="text-xl font-bold text-gray-900 mx-auto">
                 {selectedVideo.name}
               </h3>
             </div>
 
             {/* Video Container */}
-            <div className="relative w-full aspect-video max-h-[80vh]">
+            <div
+              className="flex justify-center items-center w-full"
+              style={{ background: "#000" }}
+            >
               <iframe
                 src={YOUTUBE_LINK}
                 title={selectedVideo.name}
-                className="absolute top-0 left-0 w-full h-full max-h-[80vh]"
+                width="660"
+                height="371"
+                style={{
+                  display: "block",
+                  margin: "0 auto",
+                  width: "660px",
+                  height: "371px",
+                  borderRadius: "0 0 8px 8px",
+                  background: "#000",
+                }}
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -258,8 +276,10 @@ export default function MostPopularCoursesSection() {
             </div>
 
             {/* Modal Footer */}
-            <div className="p-4 bg-white bg-opacity-90 backdrop-blur-sm rounded-b-lg">
-              <p className="text-gray-700 text-sm">{selectedVideo.goal}</p>
+            <div className="p-4 bg-white bg-opacity-90 backdrop-blur-sm rounded-b-lg w-full">
+              <p className="text-gray-700 text-sm text-center">
+                {selectedVideo.goal}
+              </p>
             </div>
           </div>
         </div>

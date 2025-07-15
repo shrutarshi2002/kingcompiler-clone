@@ -1,0 +1,193 @@
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[White "Magnus Carlsen"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Magnus Carlsen - Wang Hao"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/WNka87K5"]
+
+1. e4 { [%eval 0.2] } 1... c6 { [%eval 0.37] } 2. d4 { [%eval 0.41] } 2... d5 { [%eval 0.33] } 3. e5 { [%eval 0.21] } 3... Bf5 { [%eval 0.5] } 4. Be3?! { Inaccuracy. Be2 was best. } { [%eval -0.08] } (4. Be2 e6 5. Nf3 Ne7 6. c3 Nd7 7. Nh4 Be4 8. Nd2 c5) 4... e6 { [%eval 0.0] } 5. Nd2 { [%eval 0.25] } 5... Nd7 { [%eval 0.28] } 6. Ngf3 { [%eval 0.29] } 6... Bg6 { [%eval 0.24] } 7. Be2 { [%eval 0.25] } 7... Ne7 { [%eval 0.5] } 8. Nh4 { [%eval 0.45] } 8... c5 { [%eval 0.44] } 9. c3 { [%eval 0.38] } 9... Nc6 { [%eval 0.89] } 10. Nxg6 { [%eval 0.8] } 10... hxg6 { [%eval 0.89] } 11. Nf3 { [%eval 0.83] } 11... Rc8 { [%eval 1.1] } 12. O-O { [%eval 0.95] } 12... a6 { [%eval 1.15] } 13. g3 { [%eval 1.15] } 13... Be7 { [%eval 1.13] } 14. h4 { [%eval 1.12] } 14... b5 { [%eval 1.51] } 15. a4 { [%eval 1.35] } 15... Qb6 { [%eval 1.57] } 16. axb5 { [%eval 1.59] } 16... axb5 { [%eval 1.61] } 17. Kg2 { [%eval 1.53] } 17... c4 { [%eval 1.72] } 18. Ng5 { [%eval 1.74] } 18... Qd8 { [%eval 2.13] } 19. Bg4 { [%eval 2.06] } 19... Bxg5 { [%eval 2.5] } 20. Bxg5 { [%eval 2.36] } 20... Qc7 { [%eval 2.44] } 21. Rh1 { [%eval 2.39] } 21... Nb6 { [%eval 2.89] } 22. h5 { [%eval 2.89] } 22... gxh5 { [%eval 2.94] } 23. Bxh5 { [%eval 3.02] } 23... Na4?! { Inaccuracy. Rg8 was best. } { [%eval 4.11] } (23... Rg8 24. Qb1 Nd7 25. Ra6 Nf8 26. b3 Qb7 27. Ra1 cxb3 28. Qxb3 Ng6 29. Rhb1 Rb8 30. Qa3) 24. Bxf7+ { [%eval 3.96] } 24... Kxf7?! { Inaccuracy. Qxf7 was best. } { [%eval 5.16] } (24... Qxf7 25. Rxh8+ Kd7 26. Rxc8 Kxc8 27. Qc2 Qh5 28. Be3 Kc7 29. Rh1 Qf7 30. Bg5 Nxb2 31. Qxb2) 25. Qf3+ { [%eval 5.06] } 25... Kg8 { [%eval 5.06] } 26. Rxh8+ { [%eval 4.98] } 26... Kxh8 { [%eval 4.7] } 27. Rh1+ { [%eval 4.99] } 27... Kg8 { [%eval 4.65] } 28. Qh5 { [%eval 4.67] } 28... Rf8 { [%eval 5.83] } 29. Bf6 { 1-0 White wins. } { [%eval 5.77] } 1-0
+
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.24"]
+[White "Magnus Carlsen"]
+[Black "Veselin Topalov"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed, Martinez Variation"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Magnus Carlsen - Veselin Topalov"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/HlNQJk0D"]
+
+1. e4 { [%eval 0.2] } 1... e5 { [%eval 0.17] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.13] } 3. Bb5 { [%eval 0.34] } 3... a6 { [%eval 0.38] } 4. Ba4 { [%eval 0.31] } 4... Nf6 { [%eval 0.27] } 5. O-O { [%eval 0.24] } 5... Be7 { [%eval 0.36] } 6. d3 { [%eval 0.12] } 6... b5 { [%eval 0.23] } 7. Bb3 { [%eval 0.07] } 7... d6 { [%eval 0.18] } 8. a4 { [%eval 0.27] } 8... Rb8 { [%eval 0.32] } 9. axb5 { [%eval 0.27] } 9... axb5 { [%eval 0.28] } 10. Nbd2 { [%eval 0.15] } 10... O-O { [%eval 0.16] } 11. Re1 { [%eval 0.18] } 11... Bd7 { [%eval 0.26] } 12. c3 { [%eval 0.22] } 12... Ra8 { [%eval 0.19] } 13. Rxa8 { [%eval 0.16] } 13... Qxa8 { [%eval 0.17] } 14. d4 { [%eval 0.26] } 14... h6 { [%eval 0.22] } 15. Nf1 { [%eval 0.21] } 15... Re8 { [%eval 0.16] } 16. Ng3 { [%eval 0.16] } 16... Qc8 { [%eval 0.42] } 17. Nh4 { [%eval 0.43] } 17... Bf8 { [%eval 0.78] } 18. Ng6 { [%eval 0.67] } 18... Na5 { [%eval 0.72] } 19. Nxf8 { [%eval 0.75] } 19... Rxf8 { [%eval 0.58] } 20. Bc2 { [%eval 0.67] } 20... Re8 { [%eval 1.03] } 21. f4 { [%eval 1.06] } 21... Bg4 { [%eval 1.5] } 22. Qd3 { [%eval 1.46] } 22... exf4 { [%eval 1.9] } 23. Bxf4 { [%eval 2.06] } 23... Nc4 { [%eval 1.95] } 24. Bc1?! { Inaccuracy. h3 was best. } { [%eval 1.13] } (24. h3 Bh5 25. Nxh5 Nxh5 26. Bc1 c5 27. b3 Nb6 28. Qxb5 Nd5 29. e5 Nhf4 30. Qc4 Nb6) 24... c5?! { Inaccuracy. Bf5 was best. } { [%eval 2.11] } (24... Bf5) 25. Rf1 { [%eval 2.22] } 25... cxd4 { [%eval 2.39] } 26. cxd4 { [%eval 2.56] } 26... Qd8 { [%eval 2.77] } 27. h3 { [%eval 2.82] } 27... Be6 { [%eval 2.83] } 28. b3 { [%eval 2.89] } 28... Qa5?! { Inaccuracy. Nb6 was best. } { [%eval 3.9] } (28... Nb6 29. e5 dxe5 30. Rxf6 Qxd4+ 31. Qxd4 exd4 32. Rf2 Nd5 33. Rd2 Rc8 34. Bb2 Ne3 35. Be4) 29. Kh2 { [%eval 3.77] } 29... Nh7 { [%eval 4.43] } 30. e5 { [%eval 4.19] } 30... g6 { [%eval 3.99] } 31. d5 { [%eval 4.19] } 31... Nxe5 { [%eval 4.12] } 32. dxe6 { 1-0 White wins. } { [%eval 4.12] } 1-0
+
+
+[Event "It (open) \\\"Aeroflot\\\""]
+[Site "Moscow (Russia)"]
+[Date "2004.02.19"]
+[White "Magnus Carlsen"]
+[Black "Sergey Dolmatov"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Magnus Carlsen - Sergey Dolmatov"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/nKO8XKiS"]
+
+1. Nf3 { [%eval 0.13] } 1... f5 { [%eval 0.55] } 2. d3 { [%eval 0.5] } 2... d6 { [%eval 0.46] } 3. e4 { [%eval 0.25] } 3... e5 { [%eval 0.52] } 4. Nc3 { [%eval 0.13] } 4... Nc6 { [%eval 0.3] } 5. exf5 { [%eval 0.26] } 5... Bxf5 { [%eval 0.75] } 6. d4 { [%eval 0.25] } 6... Nxd4 { [%eval 0.71] } 7. Nxd4 { [%eval 0.0] } 7... exd4 { [%eval 0.57] } 8. Qxd4 { [%eval 0.59] } 8... Nf6 { [%eval 0.79] } 9. Bc4 { [%eval 0.66] } 9... c6 { [%eval 0.65] } 10. Bg5 { [%eval 0.52] } 10... b5 { [%eval 0.61] } 11. Bb3 { [%eval 0.75] } 11... Be7? { Mistake. Qe7+ was best. } { [%eval 2.14] } (11... Qe7+ 12. Ne2 h6 13. Bxf6 Qxf6 14. a4 b4 15. Qxb4 d5 16. Qb7 Rc8 17. Qxa7 Bb4+ 18. c3) 12. O-O-O { [%eval 2.28] } 12... Qd7 { [%eval 2.67] } 13. Rhe1 { [%eval 2.56] } 13... Kd8?! { Inaccuracy. O-O-O was best. } { [%eval 3.35] } (13... O-O-O 14. a4 bxa4 15. Qxa4 Rhe8 16. Bf7 Rf8 17. Bc4 Kb8 18. Bf4 Ka8 19. Re5 Ng4 20. Nd5) 14. Rxe7!! { Briliant rook sacrefice!! } { [%eval 3.76] } 14... Qxe7 { [%eval 4.15] } 15. Qf4 { [%eval 4.23] } 15... Bd7 { [%eval 4.89] } 16. Ne4 { [%eval 4.92] } 16... d5 { [%eval 5.13] } 17. Nxf6 { [%eval 5.11] } 17... h6 { [%eval 4.98] } 18. Bh4 { [%eval 4.83] } 18... g5 { [%eval 4.92] } 19. Qd4 { 1-0 White wins. } { [%eval 5.05] } 1-0
+
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.01"]
+[Round "9"]
+[White "Dominguez Perez, L."]
+[Black "Carlsen, M."]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2776"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "B78"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Dominguez Perez, L. - Carlsen, M."]
+[ChapterURL "https://lichess.org/study/IrvPYTco/9xXDuSyk"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rb8 11. Bb3 Na5 12. Bh6 Bxh6 13. Qxh6 b5 14. g4?! Nxb3+ 15. Nxb3 b4 16. Nd5 Nxd5 17. exd5 Rb6?! 18. Rhe1? e5 19. dxe6! fxe6 20. Re3? Rf7 21. Nd2 d5 22. Nb3?! Qc7 23. Kb1 Rb8 24. Rde1? Rc8! 25. R1e2 Qb6? 26. h4 d4! 27. Re5 d3 28. cxd3 Rxf3 29. d4?? Bb5! 30. R2e3?! Bd3+! 31. Ka1 Qxd4 32. Rxe6 Rf1+ 33. Re1 Qxg4 34. Rxf1 Qxe6 35. Nc5 Qe2 36. Rc1 Bf5 37. Qf4 a5 38. h5 Qe7? 39. Qc4+? Be6! 40. Qc2?! Qg5 41. hxg6 hxg6 42. a3 bxa3 43. Qc3 axb2+ 44. Kxb2 Qd5 45. Rc2 a4 46. Ka1 a3 47. Qe3 Bf7 48. Qc3 g5 49. Qe3 Re8 50. Qc3 Re2!! 51. Nb3 Rxc2 52. Qxc2 Qe5+ 53. Kb1 Kg7 54. Qd2 Bxb3 { Game may have continued... } 0-1
+
+
+[Event "WCh Rapid TB 2016"]
+[Site "New York USA"]
+[Date "2016.11.30"]
+[Round "4"]
+[White "Carlsen, M."]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteElo "2853"]
+[BlackElo "2772"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Carlsen, M. - Karjakin, Sergey"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/YxelQv2F"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 Be7 7. c4 a5 8. Be3 a4 9. Nc1 O-O 10. Nc3 Qa5 11. Qd2 Na6?! 12. Be2 Nc5?! 13. O-O Bd7 14. Rb1 Rfc8 15. b4 axb3! 16. axb3 Qd8 17. Nd3 Ne6?! 18. Nb4?! Bc6?! 19. Rfd1 h5 20. Bf1?! h4 21. Qf2 Nd7 22. g3?! Ra3?! 23. Bh3 Rca8 24. Nc2 R3a6 25. Nb4 Ra5 26. Nc2 b6? 27. Rd2?! Qc7?! 28. Rbd1?! Bf8?! 29. gxh4 Nf4 30. Bxf4 exf4 31. Bxd7 Qxd7 32. Nb4 Ra3! 33. Nxc6 Qxc6 34. Nb5 Rxb3? 35. Nd4! Qxc4 36. Nxb3 Qxb3 37. Qe2 Be7 38. Kg2 Qe6?! 39. h5 Ra3 40. Rd3?! Ra2 41. R3d2 Ra3 42. Rd3?! Ra7? 43. Rd5 Rc7 44. Qd2 Qf6?! 45. Rf5 Qh4 46. Rc1 Ra7?! 47. Qxf4 Ra2+ 48. Kh1 Qf2?! 49. Rc8+ Kh7?! 50. Qh6+!! { Game may have continued... } 1-0
+
+
+[Event "Vugar Gashimov Mem 2015"]
+[Site "Shamkir AZE"]
+[Date "2015.04.24"]
+[Round "7.3"]
+[White "Carlsen, M."]
+[Black "Kramnik, V."]
+[Result "1-0"]
+[WhiteElo "2863"]
+[BlackElo "2783"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Carlsen, M. - Kramnik, V."]
+[ChapterURL "https://lichess.org/study/IrvPYTco/CmOGeeHz"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. h3 Ne7 8. d4 Bb6 9. Bd3 d5 10. Nbd2 dxe4 11. Nxe4 Nxe4 12. Bxe4 exd4 13. Qc2 h6 14. a4 c6 15. Rd1 Nd5 16. Nxd4 Re8 17. a5?! Bxa5 18. Nf3 b5! 19. Nd4 Bc7? 20. Nxc6 Qd6 21. g3!! Bb7! 22. Bf4 Qxc6?? 23. Bxd5 Re1+ 24. Kh2! Qxd5 25. Rxd5 Rxa1 26. Rd1 Rxd1 27. Qxd1 Rd8 28. Qe2 Bb6 29. Be3 Bxe3 30. Qxe3 Rd1?! 31. g4 Bc6 32. Qc5 Bd7 33. Qxa7 Rd2 34. Kg3 Rd3+ 35. Kf4 Kh7 36. Qb7 Rd2 37. Ke3 Rd6 38. f4 g6 39. Qb8 Rd5 40. Ke4 Be6 41. Qb7 Rc5 42. Kd4 Rc4+ 43. Ke5 b4 44. cxb4 Rc2 45. Kf6 Rxb2 46. Qb8 Rf2 47. f5 gxf5?! 48. Qg3?! Rf1?! 49. g5 { Game may have continued... } 1-0
+
+
+[Event "77th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2015.01.15"]
+[Round "5.6"]
+[White "Carlsen, M."]
+[Black "Aronian, L."]
+[Result "1-0"]
+[WhiteElo "2862"]
+[BlackElo "2797"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Carlsen, M. - Aronian, L."]
+[ChapterURL "https://lichess.org/study/IrvPYTco/XcsjDTI3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8. Qa4+ Nc6 9. e3 O-O 10. Be2 Be6 11. O-O a6 12. Rfc1 Bd6 13. Qd1 Ne7 14. a3 Rfd8 15. b4 Nc8 16. Na4 b6 17. Nb2 Ne7 18. Nd3 Ng6 19. a4 a5 20. b5 Re8 21. Rc3 Bf5 22. Rac1 Rad8 23. Nd2 Rd7?! 24. g3?! Nf8?! 25. Bg4 Nh7 26. Bxf5 Qxf5 27. Qf3 Qg5 28. h4 Qe7 29. Rc6 Nf6 30. Nf4 g6?! 31. h5 Kg7 32. hxg6 fxg6 33. Nxd5 Nxd5 34. Qxd5 Bxg3 35. Qg2 Bd6 36. Nc4! Rf8 37. Ne5! Bxe5? 38. Qxg6+ Kh8 39. Qxh6+ Kg8 40. dxe5! Qxe5 41. Rg6+ Kf7 42. Rc4 Qa1+ 43. Kg2 Rh8 44. Rf4+ Ke8 45. Re6+! Re7 46. Rxe7+ Kxe7 47. Re4+ { Game may have continued... } 1-0
+
+
+[Event "Ch World (juniors) (under 14)"]
+[Site "Halkidiki (Greece)"]
+[Date "2003.??.??"]
+[Round "1"]
+[White "Hammer Jon Ludvig (NOR)"]
+[Black "Carlsen Magnus (NOR)"]
+[Result "0-1"]
+[WhiteElo "2211"]
+[BlackElo "2581"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Hammer Jon Ludvig (NOR) - Carlsen Magnus (NOR)"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/QNMDkaOq"]
+
+1. Nf3 d6 2. d4 Nf6 3. Nbd2 g6?! 4. e4 Bg7 5. Bd3 O-O 6. O-O Nc6 7. c3 e5 8. h3 Nh5 9. dxe5 Nf4 10. Bb5?! Nxe5 11. Nxe5? Qg5! 12. Ng4 Qxb5 13. Nb3?! Ne2+ 14. Kh1 Bxg4 15. hxg4 Rae8?! 16. Be3? Rxe4 17. Re1? Qh5+!! { Game may have
+continued... } 0-1
+
+
+[Event "77th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2015.01.20"]
+[Round "9.4"]
+[White "Carlsen, M."]
+[Black "Radjabov, T."]
+[Result "1-0"]
+[WhiteElo "2862"]
+[BlackElo "2734"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Carlsen, M. - Radjabov, T."]
+[ChapterURL "https://lichess.org/study/IrvPYTco/68DAknXD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. Nbd2 O-O 7. Bxc6?! bxc6 8. h3 h6 9. Re1 Re8 10. Nf1 a5 11. Ng3 Rb8?! 12. b3 Bb4 13. Bd2 Ra8 14. c3 Bc5 15. d4 Bb6 16. dxe5 dxe5 17. c4 Nh7 18. Qe2 Nf8 19. Be3?! c5? 20. Rad1 Qf6 21. Nh5?! Qe7 22. Nh2 Kh7 23. Qf3?! f6 24. Ng4 Bxg4! 25. Qxg4 Red8?! 26. Qf5+ Kh8 27. f4 Rxd1?! 28. Rxd1 exf4 29. Bxf4 Qe6?! 30. Rd3 Re8? 31. Nxg7!! Kxg7 32. Qh5! Nh7 33. Bxh6+ Kh8 34. Qg6! Qg8 35. Bg7+! Qxg7 36. Qxe8+ Qf8 37. Qe6 Qh6 38. e5 Qc1+ 39. Kh2 Qf4+ 40. Rg3 { Game may have continued... } 1-0
+
+
+[Event "Cup World FIDE"]
+[Site "Khanty Mansyisk (Russia)"]
+[Date "2005.11.27"]
+[Round "1"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Azmaiparashvili Zurab (GEO)"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2658"]
+[Annotator "https://lichess.org/@/KZXQ97K"]
+[Variant "Standard"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[StudyName "Magnus Carlsen - Best Games."]
+[ChapterName "Carlsen Magnus (NOR) - Azmaiparashvili Zurab (GEO)"]
+[ChapterURL "https://lichess.org/study/IrvPYTco/BUvhkgig"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Bf5 7. Qf3 Bg6 8. Bxf6 Qxf6 9. Qxf6 gxf6 10. Nf3 Nd7 11. Nh4 Bb4 12. Rc1 Nb6 13. a3 Bxc3+ 14. Rxc3 Nc8 15. f3 Nd6 16. g3 a5 17. b3?! a4?! 18. b4! Bb1 19. Kf2 Ba2 20. Rc1 Bc4 21. Bh3 Nb5 22. Ra1! O-O?! 23. Ng2 Rfd8? 24. Nf4 Kf8?! 25. Bf5 h6 26. Nh5 Ke7 27. g4 b6 28. Rhe1 Ra7 29. Ng3 Kf8 30. Bc2 c5?! 31. bxc5?! bxc5 32. dxc5 Rc8? 33. Nf5 Rxc5? 34. Reb1! Rc8 35. Rb4 d4?! 36. exd4 Be6 37. Bxa4 Nc3 38. Bc2 h5 39. h3?! hxg4?! 40. hxg4 Na2 41. Rb2! Rxa3?! 42. Rh1 Bxf5 43. Bxf5 Rca8 44. Rb7 Nc3 45. Rh8+ Kg7 46. Rh7+ Kg8 47. Rhxf7 Ra2+ 48. Ke3 Re8+ 49. Kd3 Nd1 50. Rg7+ Kh8 51. Rh7+ Kg8 52. Rhg7+ Kh8 53. Rh7+ Kg8 54. d5 Re3+ 55. Kd4! { Game may have
+continued... } 1-0
+
+

@@ -1,0 +1,228 @@
+[Event "Casual game"]
+[Site "Vienna AUH"]
+[Date "1860.02.05"]
+[White "Wilhelm Steinitz"]
+[Black "Lang"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Lang"]
+[FEN "r1bq1b1r/ppppk2p/2n4n/7Q/3PPR2/2P5/PP4pP/RNB3K1 w - - 0 11"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/K92u9ckD"]
+
+{ Let's start our explorations in chronological order - by examining a brilliant casual game Steinitz played in Vienna back in 1960. I couldn't find much information about the occasion or about Steinitz's opponent - but the game itself features a very pretty combination that is very good evidence of Steinitz's manner of play at the time.
+After the opening struggle in the King's Gambit, Steinitz - having sacrificed a knight and the bishop earlier, has brought out the enemy king in the open and obtained a winning position. On move 11, he continues the onslaught by adding more fuel to the fire. }
+11. Rxf8 { A very nice move, eliminating the defender of the knight on h6 and also weakening Black's dark-squares. It seems as if White doesn't have enough pieces to continue the attack, but Black's king's position is a permanent issue. This is not the only winning move in the position - but it is a fully correct and effective one. } 11... Qxf8 (11... Rxf8 12. Bg5+ { Is also losing-. } 12... Rf6 13. e5 { And White will regain some material with the king still being in the open. }) 12. Bg5+ Ke6?! { This might not be the most resistant, but we really shouldn't criticize the defensive capabilities of players from 1860 too harshly. } (12... Kd6 { Apparently, it is better to go with the king to d6 immediately without provoking d5 as in this case the square on c6 is free for the king. } 13. Na3 Ne5 { The only move not to lose on the spot. Now White has to find the very tough } 14. Nc4+ { Diverting the knight from e5 and preventing the check on f3. } (14. Nb5+ { Now doesn't lead anywhere due to } 14... Kc6 { This is the reason why it is better not to provoke White from playing d5 - c6 is available to the king and actually Black is the one who is winning now. }) (14. dxe5+ Kc6 { Again the king escapes via the c6 square! })) 13. d5+ Kd6 { I think Black wanted to free the e5 square for the knight, but it turns out that the pawn on d5 has a useful role on d5. } 14. Nd2?! { Also not the best move as the knight is needed on b5. } (14. Na3 { Is much stronger, as now both Nb5 and Nc4 are threatened and the first rank is covered. It is not easy to see that after } { [%cal Ga3b5,Ga3c4] } 14... Ne5 15. Nb5+ Kc5 16. Be3+ { White has a forced mate available - but it is also not too shocking that Black can't survive with the king on c5 for too long: } 16... Kxb5 17. a4+ Kc4 (17... Ka6 18. Qe2+) 18. Qe2+ Nd3 19. b3+ Kxc3 20. Qd2+ Kxb3 21. Qxd3+ Kb4 22. Qb5+ Kc3 23. Rc1#) 14... Kc5?? { A losing blunder, trying to escape with the king...somewhere? But now Black ends up getting checkmated. } (14... Ne5 { Would have justified Black's decision to provoke d5 and free the e5 square for the knight. White doesn't have anything better than } 15. Bxh6 { Regaining one piece and keeping the initiative due to the Black's exposed king. But at least Black doesn't get mated immediately. }) 15. Be3+ Kb5 (15... Kd6 { Doesn't get mated, but loses the queen with: } 16. Nc4+ Ke7 17. Bg5+ Qf6) 16. Qe2+ Ka5 17. Nb3+ Ka4 18. Qc4+ Nb4 19. Nc5+ { And here Black resigned as he will get mated very soon. Perhaps not the cleanest combination, but an entertaining and beautiful one nevertheless, very much demonstrating that Steinitz had the proficiency to play in the romantic style in his youth. } 1-0
+
+
+[Event "B.C.A. Grand Tourney"]
+[Site "London ENG"]
+[Date "1862.07.??"]
+[White "Wilhelm Steinitz"]
+[Black "Augustus Mongredien"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Augustus Mongredien"]
+[FEN "r2q1rk1/pbpnb2p/1p4p1/3pN3/3P1Pp1/3BB2R/PPP1Q2P/R5K1 w - - 0 16"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/9pX1Uxbc"]
+
+{ The following game was played in the historic London tournament in 1862 - one of the strongest chess tournaments of that era. Even though Steinitz didn't win a prize and ended up in fifth place, he distinguished himself by playing a few notable games, featuring some stunning combinations, announcing to the chess world that a new talent has appeared on the horizon.
+His game against Austrian master Augustus Mongredien was one of those notable games. After a very aggressive opening, Steinitz has obtained a promising attacking position. We join the game on move 16. Can you find the winning shot Steinitz executed in the game? }
+16. Rxh7 { Boom! With this stunning rook sacrifice, Steinitz destroys the opponent's king position. The sacrifice is fully correct - mainly due to the pawn weaknesses around the black king and due to the fact that a number of Black's pieces is stuck on the queenside, unable to come to the aid of their monarch (while the same can't be said of White's pieces). Note that the prosaic capture on g4 was sufficient to win, but Steinitz's choice is much more memorable and stylish. } { [%csl Rg4,Rg6] } 16... Nxe5 { A logical move, trying to eliminate one of the attacking pieces - the pesky knight on e5. } (16... Kxh7 { Recapturing the rook immediately is not particularly better as now WHite captures the pawn on g6. } 17. Bxg6+ Kh8 (17... Kg7 18. Qxg4) 18. Qxg4 { And the king will not survive for long e.g. } 18... Nf6 19. Qg5) 17. fxe5 { A logical recapture with the f-pawn, opening up the dark-squared bishop and also the f-file for the rook to join the action via f1. } { [%cal Ge3h6,Yf1f8,Ra1f1] } 17... Kxh7 18. Qxg4 { Even though WHite has only three pieces attacking and Black has some forces relatively close to the battleground, they are unable to coordinate successfully and White is completely winning. } { [%cal Rg4g6,Rd3g6] } 18... Rg8? { This move loses on the spot. } (18... Qe8 { Was more resistant, although after } 19. Qh5+ Kg7 20. Qh6+ Kg8 21. Bxg6 Rf7 { The situation is pretty hopeless. Still, White would have been forced to find the accurate } 22. Kh1 { Freeing the g1 square for the rook. As Yasser Seirawan says: Let's bring all the boys to the party. } { [%cal Ga1g1] }) 19. Qh5+ Kg7 20. Qh6+ Kf7 21. Qh7+ Ke6 22. Qh3+ { A very accurate check, preventing the king from escaping via d7. } { [%cal Rh3d7] } 22... Kf7 23. Rf1+ Ke8 24. Qe6 { Four white pieces are participating in the onslaught and Black's position is helpless. There are many ways to win from this point onward. } 24... Rg7 25. Bg5 Qd7 { Allowing a nice checkmate! } 26. Bxg6+ Rxg6 27. Qxg6+ Kd8 28. Rf8+ { [%cal Rg5d8] } 28... Qe8 29. Qxe8# { A very nice culmination to the combination started 13 moves earlier! } 1-0
+
+
+[Event "Bird - Steinitz Match"]
+[Site "London ENG"]
+[Date "1866.09.??"]
+[Round "6"]
+[White "Henry Edward Bird"]
+[Black "Wilhelm Steinitz"]
+[Result "0-1"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Henry Edward Bird - Wilhelm Steinitz"]
+[FEN "2kr3r/ppp2p1p/2Bb1p2/3P4/6b1/5N2/PPP3PP/RNqQK2R b KQ - 0 13"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/kcOPilhm"]
+
+{ In the later part of the 1860s (and 1870s), Steinitz distinguished himself as the best player in the world. However, since the chess tournaments were not organized as regularly back in the day as they are today, in order to demonstrate dominance you had to beat your contemporaries in matches. In the 1860s and 1870s, therefore, Steinitz played a series of matches with leading (and less leading) players of the time, including the one against Henry Bird - the inventor and the biggest proponent of the 1.f4 Bird opening - in 1866.
+Steinitz won that match quite convincingly - but game 6 of the match featured a particularly nice combination. In the diagram position, Black has a forced mate in 8 moves. Can you find it? }
+13... Rde8+! { A beautiful, although not TERRIBLY difficult, concept. Even though he is a piece down, Black doesn't hesitate to also sacrifice the exchange, in order to bring in more pieces into the attack. } (13... Rhe8+ { Is equally good as it basically comes to the same. }) 14. Bxe8 Rxe8+ 15. Kf2 Qe3+ 16. Kf1 Bxf3! { This is the point of the combination. Due to the weakness of the back rank, White can't recapture with the queen and thus has to compromise the king's shelter even further. } 17. gxf3 Bc5 { These kinds of "quiet" (as in - non-forcing) moves are often ones that are very hard to visualize in the advance. This move creates a brutal threat of mate in 1 and it is not surprising White can't do anything about it with all the pieces on the back rank - despite the extra rook! } { [%csl Gf2][%cal Rc5f2] } 18. Kg2 Rg8+ { And due to the mate on the next move after either Kf1 or Kh3, Bird resigned here. A very nice tactical combination! } 0-1
+
+
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1870.07.30"]
+[Round "13"]
+[White "Wilhelm Steinitz"]
+[Black "Louis Paulsen"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Louis Paulsen"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/wcXF8kyD"]
+
+{ Even though Steinitz definitely had a big combinational talent, as we have just seen, in the history of chess he is primarily remembered as an original thinker, who laid down the foundations of the modern chess theory and positional play (although in very primitive and rudimentary form).
+His creativity and original approach to chess can be seen in many shapes and forms when studying his games. But probably the most vivid illustration of his unconventional, out-of-the-box thinking is the following crazy opening variation in the Vienna variation which he unleashed against the American Louis Paulsen in the tournament in Baden Baden in 1870.
+In this theoretical position, Qh4 is threatened, and almost everyone prevented it by developing the knight to f3. However, Steinitz came with an ingenious and creative idea, completely ignoring Black's concept. }
+4. d4! { A stunning and outrageous idea. Steinitz decides to occupy the center at all costs, completely ignoring the idea of Qh4. You might be wondering - hang on, but what happens if Black decides to give a check nevertheless? } 4... Qh4+ 5. Ke2!! { Simply stunning, outrageous idea that was well-ahead of its time. At that time, everyone was playing for swift attacks and the initiative, so king safety was considered to be of paramount importance. Yet, here Steinitz decides to completely violate all opening principles and fundaments of opening theory by moving the king in front of the pieces, losing the castling rights in the process. However, the idea is very modern - that Black will be unable to immediately exploit this positioning of the king since White has good control of the center. White is also trying to make an argument that his next moves will come with the gain of tempo on the queen and that he will be eventually able to consolidate the position and utilize the center to obtain an advantage.
+Even though this idea turned out to be not fully correct, even nowadays very strong players occasionally venture to play this risky variation, which is nowadays known as Steinitz's Gambit. However, very similar idea of violating the opening principles and moving the king very early in the opening is nowadays seen in a number of openings (google: Four Knights Sicilian Ke2 for more info). Thus, as with many Steinitz's ideas - even though the concrete execution was not 100% correct, the core fundamental idea behind it was definitely sound. } 1-0
+
+
+[Event "Baltimore"]
+[Site "Baltimore, MD USA"]
+[Date "1885.02.09"]
+[Round "1"]
+[White "Wilhelm Steinitz"]
+[Black "Alexander G Sellman"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Alexander G Sellman"]
+[FEN "r2q1n1r/1b2bkp1/p3p3/1p1pPp1p/1P1N1P2/P1NPB3/4Q1PP/2R2RK1 w - - 0 20"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/16SGgzE6"]
+
+{ As mentioned earlier, in this study you will not only see brilliant combinations but also some very creative/revolutionary ideas that were very much ahead of the time. In the previous example, we have seen a very original idea in the opening, while in the current example, I would like to demonstrate a middlegame technique from a game against American master Alexander Sellman, played in 1885 (after Steinitz's 9-year hiatus from 1773-1882, but before his 1886 match against Zukertort). I have selected this example because Steinitz's implemented a middlegame technique/principle that is nowadays pretty standard, but that was quite novel and ahead of the time in the 19th century.
+So, we have a position from the French defence where the pawn structure is quite locked and where White is clearly better due to the dark-square control, the powerful knight on d4, and the bad bishop on b7. However, due to the closed nature of the position and the absence of any clear weaknesses/targets in the Black camp, White doesn't have anything very direct at their disposal at the moment, so it is time to improve the position. In this position, Steinitz embarked on the technique of improving the worst-placed piece.
+Can you detect which piece it is and how did Steinitz go about improving it? }
+20. Nb1 { A very instructive positional maneuver. The knight was not doing much on c3, so it gets rerouted to greener pastures on a5/c5 via the b1-d2-b3 route. This slow maneuvering is possible because the position is fairly closed and static in its nature, so White has all the time in the world to improve the placement of the pieces.
+This principle of "improving the worst placed piece" can nowadays be found in many books. But back in the day, I am not 100% sure how standard it was to make this "ugly" move and move the knight back. This reveals Steinitz's deep thinking and understanding of the game. --- It has to be mentioned that this is also among the first two choices of the engine! } { [%csl Ba5,Bc5][%cal Gb1d2,Gd2b3,Gb3a5] } 20... g6 { Unfortunately for Black, due to the passivity of the position and the lack of space, he doesn't have equally useful maneuver and can't really do anything to meet White's maneuvering plan. } 21. Nd2 Nd7 22. N2b3 { [%csl Ga5,Gc5][%cal Gb3a5] } 22... Rc8 23. Na5 { Mission accomplished. The knight is now very annoying on a5 compared to c3 and is disturbing the bishop on b7. In just 3 moves, White has improved the situation tremendously and Steinitz went on to win this game convincingly. } { [%cal Ra5b7] } 1-0
+
+
+[Event "World-ch01 Steinitz-Zukertort +10-5=5"]
+[Site "USA"]
+[Date "1886.01.11"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[Annotator "Vjekoslav Nemec"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Zukertort, Johannes Hermann - Steinitz, William"]
+[FEN "r2qk2r/ppb2pp1/2p2n2/1PPp1b1p/P2Pp2n/2N1P1PP/1B1NBP2/R2QK2R b KQkq - 0 15"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/5XP7hoif"]
+
+{ Continuing our journey through the 1880s - the following position was taken from the very first game of the historic 1886 match between Steinitz and Zukertort. This match was historic as it was the first-ever official match for the title of the World Chess Champion and marks the beginning of the lineage of the classical world champions that lasts to this day. (if you are not familiar with the match background, I can only suggest you watch the following video I made on the topic: https://www.youtube.com/watch?v=zIHjMVukgAU)
+This was, therefore, the first ever game played in an official World Chess Championship match. Zukertort, having the White pieces, played a very bad opening and Steinitz quickly obtained a promising position with attacking chances on the kingside due to the space advantage secured by the pawn on e4. With his last move, Nh4, he forced Zukertort to move the g-pawn forward and chase the knight away. But does the knight really have to go back? Can you find the sequence of moves that Steinitz played that yielded him the decisive advantage? }
+15... Ng2+ { A very powerful move that must have shocked Zukertort! Black aims to sacrifice a piece on the next move. } { [%cal Rg2e3,Rg2e1] } 16. Kf1 Nxe3+ 17. fxe3 Bxg3 { A fully correct piece sacrifice. Black obtains two pawns for the piece, but more importantly - the king on f1 is exposed as the pawn shield is removed. Furthermore, it is very important that White has a lack of space in the center and on the kingside, meaning that the pieces on the queenside can't easily join the defense. } { [%csl Ra1,Rb2,Rc3,Rd2,Rf1] } 0-1
+
+
+[Event "Steinitz - Zukertort World Championship"]
+[Site "New Orleans, LA USA"]
+[Date "1886.03.24"]
+[Round "19"]
+[White "Johannes Zukertort"]
+[Black "Wilhelm Steinitz"]
+[Result "0-1"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Johannes Zukertort - Wilhelm Steinitz"]
+[FEN "1r1qr1k1/4bp1p/2n1b3/p1P2p2/N3p3/P2pPPP1/3N2BP/R1Q2RK1 b - - 0 20"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/EcnQ8OCT"]
+
+{ Let's take a look at another example from the 1886 World Chess Championship match. Even though the battle in the match was extremely hard-fought - by winning games 11, 12 and 13, Steinitz grabbed a decisive lead he never relinquished until the end of the match - especially since Zukertort got tired (or tilted?) and started playing worse and worse as the match was nearing its end.
+Nevertheless, the subsequent struggle featured some very nice and convincing games - and I have personally always been very fond of game number 19. Steinitz, again with the Black pieces, completely outplayed the opponent and obtained a winning position. There are many good moves in the diagram position - but Steinitz chose a very stylish - and also the strongest one. Can you find the move he played? }
+20... Nd4! { A very nice move, exploiting tactical features of the position to improve the position of the knight. Ne2 is threatened, and White can't really capture the knight as the knight on a4 is exposed. This is not only very stylish, but also objectively strong. } { [%csl Rd4,Ra4][%cal Gd4e2,Gd8d4] } 21. exd4 { It was probably better not to capture the knight, but White would have been in a world of trouble all the same. } 21... Qxd4+ 22. Kh1 e3! { This intermediate move is the crux of the combination. Instead of recapturing the knight immediately, Black removes the pawn from e4 and attacks the knight on d2. } (22... Qxa4 { Recapturing the knight immediately is much weaker as after } 23. fxe4 fxe4 24. Nxe4 { The e4 pawn falls and the situation is much more unclear. Black still retains the advantage, say after } 24... Qd4 { but it is a completely different ballgame. }) 23. Nc3 { What else? White tries to give up the knight on d2 for the strong pawn on e3. } 23... Bf6! { Another very strong intermediate move, hitting the knight on c3. } { [%csl Rc3][%cal Rf6c3] } (23... exd2 { To be completely honest, capturing the knight on d2 was also sufficient - but the text move is even stronger. }) 24. Ndb1 { Trying to hold the material, but now all White's pieces are horrible placed - and two pawns on e3 and d3 are too strong. } 24... d2 { The pawns move forward unopposed. Steinitz went on to convert his enormous advantage without any problems! } 0-1
+
+
+[Event "Steinitz - Chigorin World Championship"]
+[Site "Havana CUB"]
+[Date "1892.01.07"]
+[Round "4"]
+[White "Wilhelm Steinitz"]
+[Black "Mikhail Chigorin"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Mikhail Chigorin"]
+[FEN "4rr1k/1ppb3p/2q1n1p1/p7/3b4/1BP1B3/PP3PP1/2KR1Q1R w - - 0 23"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/LPzioWqX"]
+
+{ As mentioned earlier, in his youth, Steinitz was very well known for his combinational, romantic style. And even though he devised a completely new approach to the game later in his life, laying the foundations for the modern school of chess (in a very primitive, rudimentary, form), he never really lost his youthful fervor and inclination toward tactical, aggressive play.
+It is noteworthy that some of his most famous, brilliant combinations actually happened in the very late stages of his life - and to conclude this study/pgn/video, we will take a look at three very noteworthy ones.
+Let's start with Steinitz's famous combination executed in the 4th game of his World Chess Championship match against Russian master Mikhail Chigorin in 1892.
+We join the action on move 23. We can see that we have a very sharp position with the kings on opposite sides of the board. However, it turns out that Black's king is much more unsafe - not only because there are less pawns in front of it - but also because Black was forced to give up the dark-squared bishop on the previous move - an important defender of the dark-squares around the king.
+Of course, White's next move will involve the recapture of the bishop. But there are two ways of doing so. Can you decide whether it is better to capture with the rook or the bishop - and provide some sample lines that demonstrate why one choice is better than the other? }
+23. Rxd4! { The best reply and the beginning of one of the most famous chess combinations of all time. White recaptures the bishop with the rook in order to keep the dark-squared bishop, which will play a decisive role in the upcoming attack, as we will soon see. } (23. Bxd4+ { Recapturing with the bishop is much inferior as after } 23... Nxd4 24. Rxh7+ { Sacrifice doesn't work as there is no dark-squared bishop. } (24. Rxd4 { Should be played instead, when White has only a small avantage. })) 23... Nxd4 24. Rxh7+!! { The point of the combination! White doesn't recapture the knight, but sacrifices a rook to ruin the king's shelter. Even though White only has two bishops and the queen, the attack is deadly! } 24... Kxh7 25. Qh1+ { [%cal Rh1h7] } 25... Kg7 26. Bh6+ { [%cal Rh6f8,Rb3g8] } 26... Kf6 27. Qh4+ { An important check, preventing the king from escaping via e7. It is amazing to see how well the bishops slice the board and prevent the king from escaping. } { [%csl Ge7][%cal Rh4d8] } 27... Ke5 28. Qxd4+ { And here Chigorin resigned, one move before checkmate. } 28... Kf5 29. g4# { A celebrated game and combination that fully deserves to be written in the chess history! } 1-0
+
+
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.08.17"]
+[Round "10"]
+[White "Wilhelm Steinitz"]
+[Black "Curt von Bardeleben"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Curt von Bardeleben"]
+[FEN "r1r5/pp1qnk1p/4Npp1/3p4/6Q1/8/PP3PPP/2R1R1K1 w - - 0 21"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/J5ex7bMn"]
+
+{ Next, let's examine one of Steinitz's virtually most famous combinations (if not THE most famous) - one played against Curt von Bardeleben in the historic Hastings tournament, in 1895. }
+21. Ng5+! { [pgndiagram] A highly attractive finish and one of the most
+remarkable combinations in the history of chess. } { [%csl Rd7][%cal Rg4d7] } 21... Ke8 22. Rxe7+!! { A fantastic blow. At first sight, it seems that White will overextend himself because his back rank is weak. But Steinitz has calculated everything precisely. } 22... Kf8! { The best chance, trying to sidestep everything and exploit the weakness of White's back rank! } { [%cal Rc8c1] } (22... Kxe7 { Taking the rook loses to several responses, for example: } 23. Qb4+ (23. Re1+ { First also works. }) 23... Ke8 24. Re1+ Kd8 25. Ne6+ { And Black has to give up his queen due to mate on f8. And luckily for him, White has Re1 to prevent back rank mate after he takes on e6. } 25... Qxe6 26. Rxe6 Rc1+ 27. Re1 { [%csl Re1][%cal Gb4e1] }) (22... Qxe7 23. Rxc8+ { Taking the rook with the queen (both now, and on subsequent moves, would lose the rook on c8): } 23... Rxc8 24. Qxc8+ Qd8 25. Qxd8+ Kxd8 26. Nf3 { This endgame is completely winning. }) 23. Rf7+! { The combination continues } 23... Kg8 24. Rg7+ { Naturally, now Black can't take the rook on g7 due to capture
+on d7 with check } 24... Kh8 25. Rxh7+ { At this point, several sources make a claim that Bardeleben resigned by leaving the playing hall and not returning, while Steinitz demonstrated to the spectators how the game could have ended. Alas, as usual with chess history, it seems these stories are more a product of fiction and not based on any real sources. Check this following great article on the website chesshistory.com for more details: https://www.chesshistory.com/winter/extra/steinitzvonbardeleben.html } 25... Kg8 26. Rg7+ { The important difference here is that the h-pawn has been removed, which allows White to give a deadly check with the queen along the h-file (it wasn't possible with the pawn on h7 earlier) } 26... Kh8 (26... Kf8 { The king can't go to f8 due to } 27. Nh7+ Kxg7 (27... Ke8 28. Qxd7#) 28. Qxd7+) 27. Qh4+ { Giving this check was the whole point of the rook checks. It is true that now Black can capture the rook on g7, but it leads to a forced mate. } 27... Kxg7 28. Qh7+ Kf8 29. Qh8+ Ke7 30. Qg7+ Ke8 31. Qg8+ Ke7 32. Qf7+ Kd8 33. Qf8+ Qe8 34. Nf7+ Kd7 35. Qd6# { And at the end of the story, everything concludes with an epaulette mate. Absolutely fantastic, mesmerizing combination! } 1-0
+
+
+[Event "St. Petersburg 1895/96"]
+[Site "St. Petersburg RUE"]
+[Date "1896.01.08"]
+[Round "11"]
+[White "Wilhelm Steinitz"]
+[Black "Emanuel Lasker"]
+[Result "1-0"]
+[Annotator "USER"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Wilhelm Steinitz's Top 10 Chess Moves"]
+[ChapterName "Wilhelm Steinitz - Emanuel Lasker"]
+[FEN "r1b2r1k/ppp1q1pp/2n1pb2/2P5/2BPpp2/P3PPB1/1PQ3PP/2KR2NR w - - 0 14"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/Bxyn3Qe8/5Lp9ZNmm"]
+
+{ Last but not least, let's take a look at the combination from one of the last competitions of Steinitz's career - the 1895/1896 tournament in St. Petersburg. After Steinitz lost his title to Lasker in 1894 and Harry Nelson Pillsbury won the Hastings tournament in 1895, it was not 100% clear who the strongest player in the world might be. The tournament in St. Petersburg was organized to settle this dispute and the 5 strongest players of the world were invited: Lasker, Steinitz, Chigorin, Pilsbury and Tarrasch (the latter declining due to work obligations).
+And even though the tournament initially turned out into the race between Lasker and Pillsbury, after their 3rd round encounter (the tournament was a 6-way round robin), Pillsbury started stumbling and ultimately ended up in the third place, allowing Steinitz to overtake him and win the second place behind Lasker!
+And even though Steinitz lost his mini-match to Lasker with -3+1=2, he did beat him in one encounter in a very brilliant fashion. Thus, the entire tournament can be regarded as Steinitz's swan song.
+Moreover, the victory against Lasker was achieved in quite a brilliant manner. We join the game on move 14 and we can see that the position is already a big mess. Lasker, in his typical style, pushed the pawn on f4 on his last move. How should White react here? }
+14. Qxe4 { Brilliant! Steinitz sacrifices the bishop on g3 in order to eliminate a few pawns and weaken the opponent's king. This is not only fully correct, but it is also necessary, as this is the only clear way for White to obtain a serious advantage. } { [%csl Rf4,Gh7][%cal Ge4h7] } (14. Bxf4 { For example, capturing on f4 with the bishop would run into } 14... e5 { With very unclear consequences. It was precisely something like this that Lasker was hoping for, so Steinitz's reply must have come as a cold shower! }) 14... fxg3 15. hxg3 { Threatening mate in 1. } { [%cal Rh1h7,Re4h7] } 15... g6 { Trying to either blunt the b1-h7 diagonal or invite White to take the pawn on g6 and lose some time by moving his queen back and forth! } (15... g5 { Doesn't lose a pawn, but allows } 16. Ne2 { When White has various attacking options - Bd3, Rh6, Rhh1, etc. The position is objectively won! }) 16. Qxg6 { Nevertheless, Steinitz takes on g6, exploiting the pin along the h-file. Now, White has three pawns for the piece and an ongoing initiative as the Black king is very weak. Steinitz went on to convert his advantage, win the game and win an important point that surely propelled him toward the 2nd place! } 1-0
+
+

@@ -1,0 +1,167 @@
+[Event "Sinquefield Cup"]
+[Site "Saint Louis, MO USA"]
+[Date "2017.08.06"]
+[Round "5"]
+[White "Viswanathan Anand"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[WhiteElo "2783"]
+[BlackElo "2807"]
+[Variant "Standard"]
+[ECO "A29"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Bc5"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Fabiano Caruana black's 21st"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/fmd9cy7E"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8. d3 Bb6 9. Bd2 Bg4 10. Rc1 Nxc3 11. Bxc3 Re8 12. b4 Qd6 13. Nd2 Qh6 14. Nc4 Qh5 15. Rc2 Rad8 16. Nxb6 cxb6 17. f3 Be6 18. Qd2 b5 19. f4 Bg4 20. Bxc6 bxc6 21. fxe5 f6 22. exf6 Rxe2 23. f7+ (23. Qxe2 Bxe2 24. Rxe2 Qxe2) (23. a4 Qxh2#) (23. Rf2 Rxd2 24. Rfxd2) 23... Kf8 (23... Qxf7 24. Rxf7 Rxd2 25. Rxg7+ Kf8 26. Rxd2) 24. Bxg7+ (24. Rf2 Rxd2) (24. Qg5 Qxh2#) 24... Kxg7 25. Qc3+ (25. f8=Q+ Rxf8 26. Rxf8 (26. Qc3+ Kg8) 26... Qxh2+) 25... Re5 (25... Kf8 26. Qh8+ Ke7 27. f8=Q+ Rxf8 28. Qxf8+ Ke6 29. Rxe2+ Bxe2) (25... Kh6 26. Rf2 { [%cal Gh5h2] } 26... Rxf2 27. Kxf2) (25... Qe5) 26. Qd4 (26. f8=Q+ Rxf8 27. Rxf8 Kxf8 28. Qxc6) (26. Rcf2 { [%cal Gf2f5] } 26... Rf8 { [%cal Gc3e5] } 27. Rf5 Bxf5 (27... Qxf5 28. Rxf5 Bxf5 29. Qxe5+) 28. Qxe5+ Kxf7) (26. Re1 Rd5 27. Rce2 (27. d4) (27. Rxe5 Qxe5 28. Qxc6 (28. f8=Q+ Kxf8) 28... Qe1+) 27... Bxe2) (26. Qxe5+ Qxe5 27. f8=Q+ Rxf8) (26. Qxc6 Rf8 (26... Re6 27. Qc3+ Kf8) 27. Qf6#) 26... Qg5 (26... Rxd4 27. f8=Q+ Kg6 28. Qf6# (28. Rf6+ Kg5)) (26... Kf8 27. Qxd8+) 27. Rc5 (27. Qxd8 Qxd8) (27. Rxc6 Rxd4 28. f8=Q#) (27. Qxa7 Qe3+) (27. Rf5 Bxf5 (27... Qxf5 28. Qxd8 Re1+ 29. Kg2 Qf1#) 28. Qxe5+) (27. Re1 Rxd4) 27... Rxd4 (27... Qe3+ 28. Qxe3 Rxe3 29. Rg5+) 28. f8=Q+ Kg6 29. Qf7+ { 1-0 Black resigns. } 29... Kh6 30. Rf6+ (30. Rxe5 Qxe5) 30... Qxf6 (30... Qg6 31. Rxg6+ (31. Qxg6+ hxg6) 31... hxg6 32. Rxe5) 31. Qxf6+ Kh5 32. Rxe5+ (32. Qxe5+ Kh6 33. Qg5#) 32... Bf5 33. Rxf5+ Kg4 34. Qg5+ Kh3 35. Qh5+ Rh4 36. Qxh4# 1-0
+
+
+[Event "Tata Steel Group A"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.15"]
+[Round "4"]
+[White "Levon Aronian"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[WhiteElo "2802"]
+[BlackElo "2772"]
+[Variant "Standard"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Levon Aronian - Viswanathan Anand white's 12th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/bs5mCoHd"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bd6 9. O-O O-O 10. Qc2 Bb7 11. a3 Rc8 12. Ng5 c5 (12... Bxh2+ 13. Kh1 Ng4) (12... Ne4 13. Ncxe4) 13. Nxh7 (13. Bxb5 h6 14. Nf3 Bxf3 15. gxf3 cxd4 16. exd4 Nd5) (13. Nxb5 cxd4 (13... Bxh2+ 14. Kxh2 Ng4+ 15. Kg1 cxd4 16. Qe2 Qxg5) 14. Qb1 Bb8) 13... Ng4 14. f4 cxd4 (14... Nxe3 15. Bxe3) (14... g6 15. Bxg6 fxg6 16. Qxg6+ Kh8 17. Nxf8 Qxf8 18. Qxg4) (14... Qh4 15. h3 Qg3 16. hxg4 Qxg2+ 17. Qxg2) (14... Bxf4 15. Rxf4 Qh4 16. h3 Qe1+ 17. Rf1 Qg3 18. hxg4) (14... Nxh2 15. Kxh2 Qh4+ 16. Kg1) 15. exd4 Bc5 (15... Qh4 16. h3 Qg3 17. hxg4) (15... b4 16. axb4) (15... Rxc3 16. bxc3) (15... Qc7) (15... g5 16. Nxg5 Qxg5 17. fxg5 Bxh2+ 18. Kh1) (15... Nxh2 16. Kxh2 Qh4+ 17. Kg1) (15... Bb4 16. axb4) 16. Be2 (16. dxc5 Nxc5 17. h3 (17. Nxf8 Qd4+ 18. Kh1 Nxd3 19. h3) (17. Be2 Qd4+ 18. Kh1 Nf2+ 19. Kg1 Nh3+ 20. Kh1 Qg1+ 21. Rxg1 Nf2#) (17. Rd1 Qb6 (17... Qd4+ 18. Kh1 Nf2+ 19. Kg1 Nh3+ (19... Nfxd3+ 20. Kh1 (20. Kf1)) (19... Nxd1+) (19... Ncxd3 20. Kf1 Qe4 21. Nxe4 Rxc2 22. Nxf2 Rxf2+ 23. Kg1 Rxg2+) 20. Kh1 (20. Kf1) 20... Qg1+ 21. Rxg1 Nf2+ 22. Qxf2) 18. Kf1 Nxd3 19. Rxd3 Be4) 17... Nxd3 (17... Qd4+) 18. Nxf8 (18. Be3 Nxe3) 18... Qd4+ 19. Kh1 Ndf2+ (19... Nxc1 20. Qxc1 (20. Rf3 Bxf3 21. gxf3) 20... Ne3 21. Rf3 (21. Rg1))) 16... Nde5 (16... Bxd4+ 17. Kh1 { [%cal Gg4f2,Gg4e3] } 17... Nf2+ (17... Qb6 18. Bxg4) (17... Bxg2+ 18. Kxg2 Ne3+ 19. Bxe3 Bxe3 20. Nxf8) 18. Kg1 Nh3+ 19. Kh1 Bg1) (16... Qh4 17. Bxg4 Qxg4 18. Nxf8 { [%cal Gc2g2] }) 17. Bxg4 (17. fxe5 Qxd4+ (17... Qd5 18. Nxd5 Bxd4+ { [%csl Gf8][%cal Ge2g4] } 19. Kh1) 18. Kh1 Qg1+ 19. Rxg1 Nf2# { [%csl Gh1,Gh2,Gg2,Gg1] }) (17. dxc5 Qd4+ 18. Kh1 Nf2+ 19. Rxf2 Qxf2 20. Bf3 Qf1#) 17... Bxd4+ (17... Nxg4) 18. Kh1 Nxg4 19. Nxf8 f5 (19... Qh4 20. h3 (20. Qh7+ Kxf8 (20... Qxh7 21. Nxh7 Kxh7)) 20... Qxh3#) 20. Ng6 Qf6 21. h3 Qxg6 22. Qe2 (22. hxg4 Qh6# (22... Qh7# { [%csl Gg2,Gg3,Gg4][%cal Gh7h1] })) 22... Qh5 23. Qd3 Be3 { 0-1 White resigns. } (23... Nf2+ 24. Rxf2 Bxf2 25. Bd2) (23... Kf7 24. Qxd4 Qxh3+ 25. Kg1 Qh2#) 24. Bxe3 (24. Rf3 Bxf3 25. gxf3 (25. Bxe3 Qxh3+) 25... Qxh3#) (24. Qxe3 Nxe3 25. Rg1 Qxh3#) 24... Qxh3+ 25. Kg1 Qxg2# (25... Qh2#) 0-1
+
+
+[Event "Wch U20"]
+[Site "City of Baguio PHI"]
+[Date "1987.07.??"]
+[White "Viswanathan Anand"]
+[Black "Kiril Ninov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Kiril Ninov black's 20th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/sDhunEdX"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6 8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. g4 b5 12. O-O-O O-O 13. g5 Ne8 14. f4 b4 15. Ne2 a5 16. Nbd4 Nxd4 17. Nxd4 Qb6 18. e5 Bb7 19. Rhf1 dxe5 20. fxe5 Rd8 21. Bxh7+ (21. Kb1 Rxd4 22. Qxd4 Qxd4 23. Bxh7+ { [%cal Gd3h7,Gd1d4] }) (21. Qe4 Bxe4) (21. Qh3 { [%cal Gh3h7,Gh3e6] }) 21... Kxh7 22. g6+ Kg8 (22... fxg6 23. Rxf8 { [%cal Gf8h8,Ge3h3] } 23... Bg2 24. Qg5 Rxd4) (22... Kxg6 23. Qh3 { [%cal Gf1g1] } 23... f5 { [%cal Gg6f7] } 24. Rg1+ Kf7 25. Qh5+ Ke7 26. Rxg7+ Rf7 27. Qxf7#) 23. Qh3 Nf6 (23... fxg6 24. Rxf8+ Kxf8 25. Nxe6+ { [%csl Gd8,Gf8][%cal Gh3h8,Gd1f1,Gh3h4] }) 24. exf6 fxg6 25. fxg7 { 1-0 Black resigns. } 25... Kxg7 (25... Rf7 26. Nxe6 { [%cal Gh3h8] } (26. Qh8#)) (25... Rxf1 26. Rxf1 (26. Qh8+ Kf7 27. Rxf1+ Ke7 28. g8=Q)) 26. Nxe6+ 1-0
+
+
+[Event "Morelia-Linares"]
+[Site "Linares ESP"]
+[Date "2007.03.04"]
+[Round "10"]
+[White "Viswanathan Anand"]
+[Black "Magnus Carlsen"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C96"]
+[Opening "Ruy Lopez: Closed, Keres Defense"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Magnus Carlsen black's 26th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/JFITk4OX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. d5 Nb6 13. Nbd2 g6 14. b4 cxb4 15. cxb4 Nac4 16. Nxc4 Nxc4 17. Bb3 Nb6 18. Be3 Bd7 19. Rc1 Rc8 20. Rxc8 Bxc8 21. Qc2 Bd7 22. Rc1 Na8 23. Qd2 Qb8 24. Bg5 Bxg5 25. Nxg5 Rc8 26. Rf1 h6 27. Ne6 Kh7 (27... fxe6 28. dxe6 { [%cal Gb3g8,Ge6d7] } 28... Be8 29. Qxh6 { [%cal Ge6e7] } 29... Rc7 { [%cal Gc7h7] } 30. e7+ { [%cal Gb3g8] } 30... Bf7 (30... Rc4 31. Qf8+ Kh7) 31. Qxg6+ Kh8 32. Qh6+) 28. f4 Qa7+ 29. Kh2 Be8 (29... fxe6 30. dxe6 Be8 31. f5 gxf5 32. exf5 Qd4 33. Qxd4 exd4 34. f6 Nb6 35. e7) 30. f5 gxf5 (30... fxe6 31. dxe6 (31. fxe6 { [%cal Gf1f8,Gd2f2,Gf2f8] }) (31. fxg6+ { [%cal Gd5e6] })) 31. exf5 f6 32. Re1 (32. Qe3) 32... Nc7 33. Rc1 Bd7 34. Rc3 e4 (34... Nxe6 35. dxe6 Rxc3 36. exd7 Qxd7 37. Qxc3) 35. Rg3 Nxe6 36. dxe6 Be8 37. e7 Bh5 (37... Qxe7 38. Bg8+ Kh8 39. Qxh6+ Qh7 40. Qxh7#) 38. Qxd6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Hoogovens Group A"]
+[Site "Wijk aan Zee NED"]
+[Date "1996.01.21"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Boris Gelfand"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Boris Gelfand black's 16th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/PKLUbOfN"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. d3 e6 7. O-O Nge7 8. Qe1 h6 9. Bb3 a6 10. e5 Nf5 11. Kh1 Nfd4 12. Ne4 Nxf3 13. Rxf3 dxe5 14. fxe5 Nxe5 15. Rf1 g5 16. Qg3 (16. Nf6+ Bxf6) (16. Rxf7 Kxf7 (16... Nxf7)) (16. Nd6+ Qxd6) (16. Nxc5) 16... O-O 17. Bxg5 (17. Bd2) (17. Be3) (17. Nxg5 hxg5 18. Qxg5 (18. Bxg5 f6 19. Bh6 Rf7 20. Bxg7 Rxg7 21. Qf2 f5 (21... Rf7 22. Qxc5)) 18... Qxg5 19. Bxg5) 17... hxg5 18. Nxg5 (18. Qxg5 Qxg5) 18... Ng6 (18... Bd7 19. Qh3 Qxg5) 19. Rae1 (19. Qh3 { [%cal Gh3h7] } 19... Qxg5) (19. Qh4 { [%cal Gh4h7] } 19... Nxh4) (19. a3 Be5 20. Qg4 { [%cal Ge5f6,Gg8g7,Gf8h8] }) (19. Rxf7 Rxf7 20. Nxf7 Kxf7) (19. Nxf7 Rxf7 20. Qxg6) 19... Qe7 (19... Be5 20. Rxe5 Nxe5 21. Nxe6+ Kh8 (21... Ng6 22. Nxd8 { [%cal Gg3g6,Gb3f7] } 22... Rxd8 23. Qxg6+) 22. Qg7#) (19... b5 20. Nxf7 Rxf7 21. Rxf7 Kxf7 22. Qf3+ Qf6 23. Qxa8) 20. Rf5 (20. h4 { [%cal Gg3h3,Gh3h7] }) 20... Bf6 (20... exf5 21. Rxe7 Nxe7 22. Qh3 { [%cal Gh3h7] } (22. Qh4 { [%cal Gh4h7] } 22... Re8 (22... Rd8 { [%cal Gb3f7,Gg5f7] } 23. Nxf7 { [%cal Gf7d8,Gh4e7,Gf7g5] }) 23. Bxf7+) 22... Re8 { [%cal Gb3f7] } 23. Bxf7+ Kf8 24. Qh5 Rd8 25. Ne6+ Bxe6 26. Bxe6) (20... b6 21. Qh3 { [%cal Gh3h7] } 21... Rd8 22. Qh7+ Kf8 23. Rxf7+ Qxf7 24. Nxf7 Kxf7 { [%cal Gh7g6] }) 21. Nxe6 (21. Qh3 Bxg5 { [%cal Gh3h7,Gg5h7] }) 21... fxe6 (21... Qxe6 22. Bxe6) (21... Bxe6 22. Bxe6 (22. Rxe6 fxe6 23. Qxg6+ Qg7 24. Bxe6+ Rf7 25. Bxf7+ Kf8 26. Qxf6)) (21... Re8) 22. Rxe6 (22. Qxg6+ Qg7 (22... Bg7) 23. Qh5 (23. Bxe6+ Bxe6 24. Rxe6 (24. Qxg7+ Kxg7 25. Rxe6) 24... Qxg6)) 22... Kg7 (22... Bxe6 23. Qxg6+ { [%cal Gb3e6] } (23. Bxe6+ Qxe6 24. Qxg6+) 23... Qg7 24. Bxe6+ Kh8 (24... Rf7 25. Bxf7+) 25. Rh5+ { [%csl Gg8,Gg7,Gh7] } 25... Qh7 26. Qxh7#) 23. Rxe7+ Bxe7 24. Rxf8 Bxf8 25. h4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Anand - Kramnik World Championship Match"]
+[Site "Bonn GER"]
+[Date "2008.10.17"]
+[Round "3"]
+[White "Vladimir Kramnik"]
+[Black "Viswanathan Anand"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "D49"]
+[Opening "Semi-Slav Defense: Meran Variation, Blumenfeld Variation"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Vladimir Kramnik - Viswanathan Anand white's 14th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/GbKiM4Ov"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Qe2 Bb7 15. Bxb5 Bd6 16. Rd1 Rg8 17. g3 Rg4 18. Bf4 Bxf4 19. Nxd4 h5 20. Nxe6 fxe6 21. Rxd7 Kf8 22. Qd3 Rg7 23. Rxg7 Kxg7 24. gxf4 Rd8 25. Qe2 Kh6 26. Kf1 Rg8 27. a4 Bg2+ 28. Ke1 Bh3 29. Ra3 Rg1+ 30. Kd2 Qd4+ 31. Kc2 Bg4 32. f3 Bf5+ 33. Bd3 Bh3 34. a5 Rg2 35. a6 Rxe2+ 36. Bxe2 Bf5+ 37. Kb3 Qe3+ 38. Ka2 Qxe2 39. a7 Qc4+ 40. Ka1 Qf1+ 41. Ka2 Bb1+ { 0-1 White resigns. } 42. Kb3 Qxf3+ 43. Ka4 Qxf4+ 44. Kb5 Be4 0-1
+
+
+[Event "Kasparov - Anand PCA World Championship Match"]
+[Site "New York, NY USA"]
+[Date "1995.09.25"]
+[Round "9"]
+[White "Viswanathan Anand"]
+[Black "Garry Kasparov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B84"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Garry Kasparov black's 26th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/MZXndsKp"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. a4 Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bd7 13. Nb3 Na5 14. Nxa5 Qxa5 15. Qd3 Rad8 16. Rfd1 Bc6 17. b4 Qc7 18. b5 Bd7 19. Rab1 axb5 20. Nxb5 Bxb5 21. Qxb5 Ra8 22. c4 e5 23. Bb6 Qc8 24. fxe5 dxe5 25. a5 Bf8 26. h3 Qe6 27. Rd5 Nxd5 28. exd5 Qg6 29. c5 e4 30. Be2 Re5 31. Qd7 Rg5 32. Rg1 e3 33. d6 Rg3 34. Qxb7 Qe6 35. Kh2 { 1-0 Black resigns. } 35... Rg6 1-0
+
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1989.01.27"]
+[Round "12"]
+[White "Viswanathan Anand"]
+[Black "Joel Benjamin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B63"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Joel Benjamin black's 11th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/tpMaInwS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. Kb1 d5 12. Bxf6 (12. exd5 Nxd5 { [%cal Gg5e7] } (12... exd5) 13. Bxe7 Ndxe7 { [%csl Ge6][%cal Gd8d2,Ge6e5] } 14. Qe1 e5) 12... dxe4 (12... Bxf6 { [%cal Gf6c3] } 13. exd5 exd5 (13... Bxc3 14. Qxc3 exd5) 14. Nxd5) 13. Bxe7 { [%cal Gd8d2] } (13. Qe1 { [%cal Gd8d1] } 13... Bxf6) 13... Rxd2 14. Nxd2 exf3 (14... Nxe7 15. Nc4 { [%cal Gc4b6] } 15... Qc7 16. Nb5 { [%cal Gc7d8] } 16... Qf4 (16... Qb8 17. Rd8#) (16... Nd5 17. Nxc7 Nxc7 18. Rd8+) 17. Rd8#) 15. gxf3 e5 16. Bh4 Be6 17. Nde4 Nd4 18. Bg2 Rc8 19. Bf2 f5 20. f4 fxe4 21. fxe5 Rc4 22. Rhe1 Rb4 23. Kc1 Bg4 24. Nd5 Qc5 25. Nxb4 Bxd1 26. Kxd1 e3 27. Rxe3 Nf5 28. Bd5+ Kf8 29. Rf3 Qxb4 30. Rxf5+ Ke8 31. e6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Dortmund Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2003.08.07"]
+[Round "7"]
+[White "Viswanathan Anand"]
+[Black "Viktor Antonovich Bologan"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2650"]
+[Variant "Standard"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation, Modern Main Line"]
+[StudyName "Great players - Viswanathan Anand"]
+[ChapterName "Viswanathan Anand - Viktor Antonovich Bologan black's 14th"]
+[Annotator "https://lichess.org/@/C4L_PeterJ"]
+[ChapterURL "https://lichess.org/study/RDTaiFaj/wgXYPM8o"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8. Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Qc7 11. O-O b6 12. Qg4 g5 13. Qh3 Rg8 14. Re1 Bf8 (14... g4 15. Qxh6 gxf3 16. Rxe6+ fxe6 17. Qxe6+ Kf8 18. Bh6+ Rg7 19. Qf5+ Ke7 20. Bxg7) 15. Qf5 (15. Rxe6+ fxe6 (15... Kd8 16. Re1 Ne5 17. Bf5 g4 18. Qh4+ Be7 19. Qh5 Nxf3+ 20. gxf3 gxf3+ 21. Kh1 Rg2) 16. Qxe6+) 15... Bg7 16. h4 Kf8 17. Qh3 Rh8 18. hxg5 hxg5 19. Qg4 c5 20. Bxg5 cxd4 21. Rad1 Bb7 22. Rxe6 fxe6 23. Be7+ Kxe7 24. Qxg7+ Kd6 25. Nxd4 Qc5 26. Bf5 Qe5 27. Nf3+ Qd5 28. Qg3+ Ke7 29. Rxd5 Bxd5 30. Qg5+ Kd6 31. Qf4+ Ke7 32. Be4 Rh5 33. Nh4 Rg8 34. Ng6+ Kd8 35. Qf7 Re8 36. Bd3 { 1-0 Black resigns. } 1-0
+
+

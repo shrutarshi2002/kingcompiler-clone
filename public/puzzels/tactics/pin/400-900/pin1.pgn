@@ -1,0 +1,20 @@
+[Event "PIN: pins - bishop"]
+[Date "2020.04.11"]
+[White "pins"]
+[Black "bishop"]
+[Result "1-0"]
+[FEN "7k/8/6p1/4rp1p/7P/6P1/3B1PK1/8 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "PIN"]
+[ChapterName "pins - bishop"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/P1aYdzIe/PuMoZNQo"]
+[ChapterMode "gamebook"]
+
+{ [%csl Ge5,Gh8][%cal Ga1h8] }
+1. Bc3 { 1-0 White wins. } { [%csl Ge5][%cal Gc3h8] } 1... Kg8 2. Bxe5 1-0
+
+

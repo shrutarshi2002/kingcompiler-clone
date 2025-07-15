@@ -1,0 +1,19 @@
+[Event "KQ vs K"]
+[FEN "8/8/8/8/8/8/5K2/6Qk w - - 0 1"]
+1. Qg2#
+
+[Event "KR vs K"]
+[FEN "8/8/8/8/8/8/5K2/6Rk w - - 0 1"]
+1. Rg1#
+
+[Event "KP vs K"]
+[FEN "8/8/8/8/8/8/5K2/6P1 w - - 0 1"]
+1. Kg3
+
+[Event "KBN vs K"]
+[FEN "8/8/8/8/8/8/5K2/6BN w - - 0 1"]
+1. Nf3#
+
+[Event "KBB vs K"]
+[FEN "8/8/8/8/8/8/5K2/6BB w - - 0 1"]
+1. Bg2# 

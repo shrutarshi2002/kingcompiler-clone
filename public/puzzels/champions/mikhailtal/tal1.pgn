@@ -1,0 +1,272 @@
+[Event "Mikhail Tal: Tal - Smyslov"]
+[White "Mikhail Tal"]
+[Black "Smyslov"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Smyslov"]
+[UTCDate "2023.02.05"]
+[UTCTime "16:16:56"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/qyLZuhhW"]
+
+1. e4 { [%eval 0.36] } 1... c6 { [%eval 0.37] } 2. d3 { [%eval 0.25] } 2... d5 { [%eval 0.32] } 3. Nd2 { [%eval 0.0] } 3... e5 { [%eval 0.0] } 4. Ngf3 { [%eval 0.0] } 4... Nd7?! { [%eval 0.59] } { Inaccuracy. Bd6 was best. } (4... Bd6 5. d4 exd4 6. Bd3 Ne7 7. Nxd4 O-O 8. O-O Nd7 9. c3) 5. d4 { [%eval 0.5] } 5... dxe4 { [%eval 0.93] } 6. Nxe4 { [%eval 0.75] } 6... exd4 { [%eval 0.93] } 7. Qxd4 { [%eval 0.92] } 7... Ngf6 { [%eval 0.75] } 8. Bg5 { [%eval 0.65] } 8... Be7 { [%eval 0.9] } 9. O-O-O?! { [%eval 0.31] } { Inaccuracy. Nd6+ was best. } (9. Nd6+) 9... O-O { [%eval 0.27] } 10. Nd6 { [%eval 0.19] } 10... Qa5 { [%eval 0.57] } 11. Bc4 { [%eval 0.49] } 11... b5 { [%eval 0.89] } 12. Bd2?! { [%eval 0.0] } { Inaccuracy. Bxf7+ was best. } (12. Bxf7+ Rxf7 13. Nxf7 Kxf7 14. Rhe1 Qxa2 15. Rxe7+ Kxe7 16. Bxf6+ gxf6 17. Qe4+ Qe6 18. Qxh7+ Kd8) 12... Qa6 { [%eval 0.0] } 13. Nf5 { [%eval 0.0] } 13... Bd8 { [%eval 0.0] } 14. Qh4 { [%eval 0.0] } 14... bxc4 { [%eval 0.0] } 15. Qg5 { [%eval 0.0] } 15... Nh5 { [%eval 0.07] } 16. Nh6+ { [%eval 0.0] } 16... Kh8 { [%eval 0.04] } 17. Qxh5 { [%eval 0.11] } 17... Qxa2 { [%eval 0.06] } 18. Bc3 { [%eval 0.14] } 18... Nf6?? { [%eval 4.22] } { Blunder. Bf6 was best. } (18... Bf6 19. Ng5 Bxg5+ 20. Qxg5 f6 21. Qf4 Nc5 22. Nf7+ Kg8 23. Nd6 Na4 24. Qxc4+ Qxc4 25. Nxc4) 19. Qxf7 { [%eval 4.06] } 19... Qa1+ { [%eval 3.88] } 20. Kd2 { [%eval 4.15] } 20... Rxf7 { [%eval 4.25] } 21. Nxf7+ { [%eval 4.14] } 21... Kg8 { [%eval 4.26] } 22. Rxa1 { [%eval 4.24] } 22... Kxf7 { [%eval 4.21] } 23. Ne5+ { [%eval 3.98] } 23... Ke6 { [%eval 4.91] } 24. Nxc6 { [%eval 4.04] } 24... Ne4+ { [%eval 4.33] } 25. Ke3 { [%eval 4.14] } 25... Bb6+ { [%eval 4.35] } 26. Bd4 { [%eval 4.68] } *
+
+
+[Event "Mikhail Tal: Thorbergsson - Tal"]
+[White "Thorbergsson"]
+[Black "Mikhail Tal"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E77"]
+[Opening "King's Indian Defense: Four Pawns Attack, Normal Attack"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Thorbergsson - Tal"]
+[UTCDate "2023.02.05"]
+[UTCTime "16:26:12"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/ofVlLMim"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.28] } 2. c4 { [%eval 0.16] } 2... g6 { [%eval 0.3] } 3. Nc3 { [%eval 0.31] } 3... Bg7 { [%eval 0.7] } 4. e4 { [%eval 0.67] } 4... O-O { [%eval 0.4] } 5. f4 { [%eval 0.12] } 5... d6 { [%eval 0.14] } 6. Nf3 { [%eval 0.13] } 6... c5 { [%eval 0.0] } 7. d5 { [%eval 0.0] } 7... e6 { [%eval 0.0] } 8. Be2 { [%eval 0.36] } 8... exd5 { [%eval 0.18] } 9. exd5 { [%eval -0.29] } 9... b5?! { [%eval 0.29] } { Inaccuracy. Bf5 was best. } (9... Bf5) 10. Nxb5 { [%eval 0.17] } 10... Ne4 { [%eval 0.23] } 11. O-O { [%eval 0.31] } 11... a6 { [%eval 0.42] } 12. Na3?! { [%eval -0.24] } { Inaccuracy. Nc3 was best. } (12. Nc3) 12... Ra7 { [%eval -0.04] } 13. Bd3 { [%eval -0.29] } 13... Re7 { [%eval -0.08] } 14. Nc2 { [%eval -0.01] } 14... Rfe8 { [%eval -0.03] } 15. Re1 { [%eval -0.45] } 15... Nd7 { [%eval -0.5] } 16. Ne3 { [%eval -0.62] } 16... Ndf6 { [%eval -0.63] } 17. Qc2 { [%eval -0.6] } 17... Nh5 { [%eval -0.51] } 18. g3 { [%eval -0.54] } 18... Bd4?! { [%eval 0.01] } { Inaccuracy. Bh3 was best. } (18... Bh3 19. Bxe4) 19. Nxd4 { [%eval 0.06] } 19... cxd4 { [%eval 0.09] } 20. Ng2 { [%eval 0.14] } 20... Ng5 { [%eval 0.09] } 21. Rxe7 { [%eval -0.04] } 21... Nh3+ { [%eval 0.1] } 22. Kf1 { [%eval 0.02] } 22... Rxe7 { [%eval 0.1] } 23. Bd2?! { [%eval -0.73] } { Inaccuracy. f5 was best. } (23. f5) 23... Nf6 { [%eval -0.62] } 24. Nh4? { [%eval -1.91] } { Mistake. f5 was best. } (24. f5 Ng4 25. Nf4 Nxh2+ 26. Kg2 Nxf4+ 27. Bxf4 Ng4 28. fxg6 hxg6 29. Qd2 Re3 30. Bxe3 Nxe3+) 24... Ng4 { [%eval -1.75] } 25. Nf3 { [%eval -2.08] } 25... Re3 { [%eval -1.66] } 26. Kg2 { [%eval -2.2] } 26... Qe7 { [%eval -1.91] } 27. Re1 { [%eval -2.14] } 27... Nxf4+ { [%eval -2.12] } 28. gxf4 { [%eval -2.36] } 28... Rxe1 { [%eval -2.34] } 29. Nxe1 { [%eval -2.37] } 29... Qh4 { [%eval -2.14] } 30. Bc1 { [%eval -2.65] } 30... Qxe1 { [%eval -2.53] } 31. h3 { [%eval -2.86] } 31... Nh6 { [%eval -2.98] } 32. f5? { [%eval -4.8] } { Mistake. Qd2 was best. } (32. Qd2 Qh4 33. f5 Nxf5 34. Qf2 Ne3+ 35. Bxe3 Qxh3+ 36. Kg1 dxe3 37. Qf4 h5 38. b4 Bg4) 32... Nxf5 { [%eval -4.75] } 33. Bf4 { [%eval -4.8] } 33... Nh4+ { [%eval -5.33] } 34. Kh2 { [%eval -3.61] } 34... Nf3+ { [%eval -3.71] } 35. Kg2 { [%eval -3.84] } 35... Bxh3+ { [%eval -4.83] } 36. Kxf3 { [%eval -4.75] } 36... Qg1 { [%eval -5.65] } 37. Bxg6 { [%eval -5.69] } 37... Qg4+ { [%eval -5.56] } 38. Kf2 { [%eval -6.35] } 38... Qxf4+ { [%eval -6.19] } 39. Kg1?? { [%eval #-9] } { Checkmate is now unavoidable. Ke1 was best. } (39. Ke1 hxg6 40. Qe2 Kg7 41. b3 Qc1+ 42. Kf2 Bf5 43. Qf3 Qd2+ 44. Qe2 Qh6 45. Kf3 a5) 39... hxg6?? { [%eval -6.71] } { Lost forced checkmate sequence. Qg3+ was best. } (39... Qg3+ 40. Kh1 hxg6 41. b3 d3 42. Qd2 Bg4 43. Qg2 Bf3 44. Qxf3 Qxf3+ 45. Kg1 d2 46. Kh2) *
+
+
+[Event "Mikhail Tal: Tal - Spassky"]
+[White "Mikhail Tal"]
+[Black "Spassky"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Spassky"]
+[UTCDate "2023.02.05"]
+[UTCTime "16:57:14"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/xyXQf1TV"]
+
+1. e4 { [%eval 0.36] } 1... e5 { [%eval 0.32] } 2. Nf3 { [%eval 0.29] } 2... Nc6 { [%eval 0.29] } 3. Bb5 { [%eval 0.2] } 3... a6 { [%eval 0.37] } 4. Ba4 { [%eval 0.31] } 4... Nf6 { [%eval 0.37] } 5. O-O { [%eval 0.29] } 5... Be7 { [%eval 0.36] } 6. Re1 { [%eval 0.46] } 6... b5 { [%eval 0.33] } 7. Bb3 { [%eval 0.36] } 7... d6 { [%eval 0.33] } 8. c3 { [%eval 0.52] } 8... O-O { [%eval 0.44] } 9. h3 { [%eval 0.5] } 9... Nb8 { [%eval 0.45] } 10. d4 { [%eval 0.43] } 10... Nbd7 { [%eval 0.37] } 11. Nbd2 { [%eval 0.45] } 11... Bb7 { [%eval 0.44] } 12. Bc2 { [%eval 0.39] } 12... Re8 { [%eval 0.54] } 13. Nf1 { [%eval 0.43] } 13... Bf8 { [%eval 0.44] } 14. Ng3 { [%eval 0.44] } 14... g6 { [%eval 0.45] } 15. a4 { [%eval 0.44] } 15... c5 { [%eval 0.34] } 16. d5 { [%eval 0.47] } 16... c4 { [%eval 0.42] } 17. Bg5 { [%eval 0.44] } 17... h6 { [%eval 0.45] } 18. Be3 { [%eval 0.49] } 18... Rb8 { [%eval 0.7] } 19. Qd2 { [%eval 0.5] } 19... h5 { [%eval 0.5] } 20. Ng5 { [%eval 0.35] } 20... Nh7 { [%eval 0.78] } 21. Nxh7 { [%eval 0.8] } 21... Kxh7 { [%eval 0.8] } 22. Rf1 { [%eval 0.75] } 22... Kg8 { [%eval 0.83] } 23. Kh1 { [%eval 1.0] } 23... Bg7 { [%eval 0.92] } 24. axb5 { [%eval 0.68] } 24... axb5 { [%eval 0.67] } 25. f4 { [%eval 0.63] } 25... exf4 { [%eval 0.67] } 26. Bxf4 { [%eval 0.55] } 26... Qe7 { [%eval 0.61] } 27. Bg5 { [%eval 0.61] } 27... Qe5 { [%eval 0.87] } 28. Rf3 { [%eval 0.81] } 28... Ra8 { [%eval 1.27] } 29. Raf1 { [%eval 1.22] } 29... Rf8?! { [%eval 2.27] } { Inaccuracy. Bc8 was best. } (29... Bc8 30. Ne2) 30. Nxh5 { [%eval 1.96] } 30... gxh5 { [%eval 2.27] } 31. Rf5 { [%eval 2.39] } 31... Qe8? { [%eval 4.62] } { Mistake. Qg3 was best. } (31... Qg3 32. R1f3 Ra1+ 33. Bd1 Qxf3 34. gxf3 f6 35. Bf4 b4 36. Kg2 bxc3 37. bxc3 Rfa8 38. Kg3) 32. e5 { [%eval 4.5] } 32... dxe5 { [%eval 4.56] } 33. Bh6 { [%eval 4.3] } 33... Ra6 { [%eval 4.38] } 34. Bxg7 { [%eval 4.64] } 34... Kxg7 { [%eval 4.61] } 35. d6 { [%eval 4.39] } 35... f6 { [%eval 4.57] } 36. Rg5+ { [%eval 5.11] } 36... Kf7 { [%eval 4.42] } 37. Bg6+ { [%eval 4.52] } 37... Ke6 { [%eval 5.2] } 38. Bf5+ { [%eval 5.31] } 38... Kf7 { [%eval 5.23] } 39. Qd1 { [%eval 5.36] } 39... Rh8 { [%eval 5.32] } 40. Bg6+ { [%eval 5.37] } 40... Ke6 { [%eval 5.73] } 41. Bxe8 { [%eval 5.57] } 41... Rxe8 { [%eval 6.01] } 42. Qxh5 { [%eval 6.01] } 42... Rd8 { [%eval 5.97] } 43. Rg7 { [%eval 5.91] } 43... Kxd6 { [%eval 6.17] } 44. Qf7 { [%eval 5.98] } *
+
+
+[Event "Mikhail Tal: Botvinnik - Tal"]
+[White "Botvinnik"]
+[Black "Mikhail Tal"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E69"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Main Line"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Botvinnik - Tal"]
+[UTCDate "2023.02.05"]
+[UTCTime "18:42:07"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/ExXWVJoa"]
+
+1. c4 { [%eval 0.23] } 1... Nf6 { [%eval 0.29] } 2. Nf3 { [%eval 0.29] } 2... g6 { [%eval 0.23] } 3. g3 { [%eval 0.2] } 3... Bg7 { [%eval 0.22] } 4. Bg2 { [%eval 0.23] } 4... O-O { [%eval 0.21] } 5. d4 { [%eval 0.21] } 5... d6 { [%eval 0.43] } 6. Nc3 { [%eval 0.27] } 6... Nbd7 { [%eval 0.62] } 7. O-O { [%eval 0.7] } 7... e5 { [%eval 0.71] } 8. e4 { [%eval 0.95] } 8... c6 { [%eval 0.81] } 9. h3 { [%eval 0.99] } 9... Qb6 { [%eval 1.25] } 10. d5?! { [%eval 0.61] } { Inaccuracy. c5 was best. } (10. c5 dxc5 11. dxe5 Ne8 12. Na4 Qc7 13. e6 fxe6 14. Ng5 Ne5 15. Nxc5 Qe7 16. Nd3 Nxd3) 10... cxd5 { [%eval 0.67] } 11. cxd5 { [%eval 0.65] } 11... Nc5 { [%eval 0.77] } 12. Ne1 { [%eval 0.52] } 12... Bd7 { [%eval 0.43] } 13. Nd3 { [%eval 0.51] } 13... Nxd3 { [%eval 0.69] } 14. Qxd3 { [%eval 0.37] } 14... Rfc8 { [%eval 0.87] } 15. Rb1 { [%eval 0.4] } 15... Nh5 { [%eval 0.73] } 16. Be3 { [%eval 0.7] } 16... Qb4 { [%eval 0.69] } 17. Qe2 { [%eval 0.63] } 17... Rc4?! { [%eval 1.32] } { Inaccuracy. a6 was best. } (17... a6 18. Rfc1 Qa5 19. b4 Qd8 20. b5 axb5 21. Nxb5 Rxc1+ 22. Rxc1 Bf8 23. Rc3 Nf6 24. Rb3) 18. Rfc1 { [%eval 1.14] } 18... Rac8 { [%eval 1.6] } 19. Kh2?! { [%eval 1.02] } { Inaccuracy. Bf1 was best. } (19. Bf1 Nf6 20. a3 Qb3 21. Qd1 Qxd1 22. Rxd1 R4c7 23. Bxa7 Bh6 24. Rd3 b5 25. Bb6 Rb7) 19... f5 { [%eval 0.87] } 20. exf5 { [%eval 1.11] } 20... Bxf5 { [%eval 1.19] } 21. Ra1 { [%eval 1.04] } 21... Nf4?! { [%eval 1.98] } { Inaccuracy. Nf6 was best. } (21... Nf6 22. g4 Bd7 23. Bf1 a6 24. a3 Qb3 25. Qd1 Qxd1 26. Rxd1 Rd4 27. Bxd4 exd4 28. Ne2) 22. gxf4 { [%eval 1.69] } 22... exf4 { [%eval 1.57] } 23. Bd2?? { [%eval -0.58] } { Blunder. a3 was best. } (23. a3) 23... Qxb2? { [%eval 0.75] } { Mistake. Be5 was best. } (23... Be5) 24. Rab1 { [%eval 0.79] } 24... f3?? { [%eval 2.6] } { Blunder. Bxb1 was best. } (24... Bxb1) 25. Rxb2?? { [%eval -4.5] } { Blunder. Bxf3 was best. } (25. Bxf3) 25... fxe2 { [%eval -4.37] } 26. Rb3 { [%eval -5.07] } 26... Rd4 { [%eval -5.26] } 27. Be1 { [%eval -6.5] } 27... Be5+ { [%eval -6.29] } 28. Kg1 { [%eval -6.53] } 28... Bf4?! { [%eval -4.56] } { Inaccuracy. Rxc3 was best. } (28... Rxc3 29. Rbxc3 Rd1 30. Rc7 Bb2 31. f4 Rxc1 32. Rxc1 Bxc1 33. Kf2 Bd3 34. Bf3 Bc4 35. Bxe2) 29. Nxe2 { [%eval -3.8] } 29... Rxc1 { [%eval -4.38] } 30. Nxd4 { [%eval -5.29] } 30... Rxe1+ { [%eval -4.83] } 31. Bf1 { [%eval -4.7] } 31... Be4 { [%eval -5.3] } 32. Ne2 { [%eval -5.76] } 32... Be5 { [%eval -5.3] } 33. f4 { [%eval -5.62] } 33... Bf6 { [%eval -5.19] } 34. Rxb7 { [%eval -5.42] } 34... Bxd5 { [%eval -5.62] } 35. Rc7 { [%eval -5.4] } 35... Bxa2 { [%eval -5.33] } 36. Rxa7?! { [%eval -7.01] } { Inaccuracy. Rc6 was best. } (36. Rc6 Bh4 37. f5 d5 38. fxg6 Bc4 39. gxh7+ Kxh7 40. Kg2 Bxe2 41. Bxe2 Rxe2+ 42. Kf3 Re8) 36... Bc4 { [%eval -7.12] } 37. Ra8+ { [%eval -6.69] } 37... Kf7 { [%eval -6.5] } 38. Ra7+ { [%eval -6.92] } 38... Ke6 { [%eval -6.34] } 39. Ra3 { [%eval -6.52] } 39... d5 { [%eval -5.13] } 40. Kf2?! { [%eval -7.03] } { Inaccuracy. Kg2 was best. } (40. Kg2 Kd6 41. Ng3 Bh4 42. f5 Kc5 43. Bxc4 dxc4 44. f6 Bxf6 45. Kf3 c3 46. Ne4+ Kb4) 40... Bh4+ { [%eval -6.64] } 41. Kg2 { [%eval -6.8] } 41... Kd6 { [%eval -7.34] } 42. Ng3 { [%eval -6.96] } 42... Bxg3 { [%eval -6.54] } 43. Bxc4 { [%eval -7.16] } 43... dxc4 { [%eval -6.99] } 44. Kxg3 { [%eval -7.24] } 44... Kd5 { [%eval -6.91] } 45. Ra7 { [%eval -7.22] } 45... c3 { [%eval -7.03] } 46. Rc7 { [%eval -7.42] } 46... Kd4 { [%eval -7.44] } 47. Rd7+ { [%eval -7.9] } *
+
+
+[Event "Mikhail Tal: Tal - Simagin"]
+[White "Mikhail Tal"]
+[Black "Simagin"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Simagin"]
+[UTCDate "2023.02.05"]
+[UTCTime "20:41:31"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/aGRLrzCs"]
+
+1. e4 { [%eval 0.36] } 1... c6 { [%eval 0.37] } 2. d4 { [%eval 0.41] } 2... d6 { [%eval 0.7] } 3. Nc3 { [%eval 0.57] } 3... Nf6 { [%eval 0.76] } 4. f4 { [%eval 0.74] } 4... Qb6 { [%eval 1.25] } 5. Nf3 { [%eval 1.1] } 5... Bg4 { [%eval 1.47] } 6. Be2 { [%eval 1.29] } 6... Nbd7 { [%eval 1.81] } 7. e5 { [%eval 1.34] } 7... Nd5 { [%eval 1.73] } 8. O-O?! { [%eval 0.99] } { Inaccuracy. Ne4 was best. } (8. Ne4 h6 9. c4 Bxf3 10. gxf3 Nc7 11. Be3 d5 12. c5 Qxb2) 8... Nxc3 { [%eval 1.25] } 9. bxc3 { [%eval 1.13] } 9... e6 { [%eval 1.24] } 10. Ng5 { [%eval 1.4] } 10... Bxe2 { [%eval 1.12] } 11. Qxe2 { [%eval 1.22] } 11... h6 { [%eval 1.08] } 12. Nxf7 { [%eval 0.68] } 12... Kxf7 { [%eval 1.33] } 13. f5 { [%eval 0.96] } 13... dxe5?? { [%eval 3.07] } { Blunder. Kg8 was best. } (13... Kg8 14. exd6) 14. fxe6+? { [%eval 1.55] } { Mistake. Qh5+ was best. } (14. Qh5+ Ke7 15. Rb1 Nf6 16. Qg6 Qc7 17. fxe6 b6 18. Rxf6 gxf6 19. Qf7+ Kd8 20. Qxf6+ Kc8) 14... Kxe6 { [%eval 1.99] } 15. Rb1?! { [%eval 1.24] } { Inaccuracy. Be3 was best. } (15. Be3) 15... Qxb1 { [%eval 1.3] } 16. Qc4+ { [%eval 1.28] } 16... Kd6? { [%eval 2.78] } { Mistake. Ke7 was best. } (16... Ke7 17. Ba3+) 17. Ba3+ { [%eval 2.91] } 17... Kc7 { [%eval 2.87] } 18. Rxb1 { [%eval 3.05] } 18... Bxa3 { [%eval 3.05] } 19. Qb3 { [%eval 2.85] } 19... Be7?! { [%eval 4.25] } { Inaccuracy. b6 was best. } (19... b6 20. Qxa3 Rhe8 21. Rf1 Re6 22. Rf7 a5 23. c4 exd4 24. Qg3+ Rd6 25. Re7 Rd8 26. Qxg7) 20. Qxb7+ { [%eval 4.34] } 20... Kd6 { [%eval 4.38] } 21. dxe5+?! { [%eval 3.0] } { Inaccuracy. Rd1 was best. } (21. Rd1 e4 22. d5 Ne5 23. dxc6+ Ke6 24. Qb3+ Kf5 25. Rf1+ Kg6 26. Qd5 Kh7 27. Qxe5 Rhe8) 21... Nxe5 { [%eval 3.01] } 22. Rd1+ { [%eval 3.1] } 22... Ke6 { [%eval 3.03] } 23. Qb3+ { [%eval 2.95] } 23... Kf5 { [%eval 3.03] } 24. Rf1+ { [%eval 3.02] } 24... Ke4?! { [%eval 4.23] } { Inaccuracy. Kg6 was best. } (24... Kg6 25. Qe6+ Bf6 26. Qf5+ Kf7 27. Qxe5 Rhd8 28. g3 Kg8 29. Qc5 Kh8 30. Kg2 Rac8 31. a4) 25. Re1+?! { [%eval 3.0] } { Inaccuracy. Qe6 was best. } (25. Qe6 Bc5+ 26. Kh1 Rhe8 27. Re1+ Be3 28. Qh3 Nc4 29. Qd7 Rad8 30. Qxc6+ Ke5 31. Qc5+ Ke6) 25... Kf5 { [%eval 2.96] } 26. g4+?! { [%eval 2.13] } { Inaccuracy. Rf1+ was best. } (26. Rf1+ Kg6 27. Qe6+ Bf6 28. Qf5+ Kf7 29. Qxe5 Rhe8 30. Qh5+ Kf8 31. g3 Rad8 32. Qc5+ Kg8) 26... Kf6 { [%eval 2.34] } 27. Rf1+ { [%eval 2.37] } 27... Kg6 { [%eval 2.17] } 28. Qe6+ { [%eval 2.32] } 28... Kh7 { [%eval 2.14] } 29. Qxe5 { [%eval 2.24] } 29... Rhe8 { [%eval 2.23] } 30. Rf7 { [%eval 2.42] } 30... Bf8 { [%eval 2.27] } 31. Qf5+ { [%eval 2.05] } 31... Kg8 { [%eval 2.14] } 32. Kf2?! { [%eval 0.97] } { Inaccuracy. Qf1 was best. } (32. Qf1 Be7 33. Qc4 Kh8 34. Qd4 Bf6 35. Rxf6 gxf6 36. Qxf6+ Kh7 37. Qf7+ Kh8 38. Qg6 Re2) 32... Bc5+ { [%eval 0.88] } 33. Kg3 { [%eval 1.48] } 33... Re3+ { [%eval 0.98] } 34. Kh4 { [%eval 1.54] } 34... Rae8 { [%eval 1.03] } 35. Rxg7+ { [%eval 0.76] } 35... Kxg7 { [%eval 0.78] } 36. Qxc5 { [%eval 1.09] } 36... R8e6?! { [%eval 1.86] } { Inaccuracy. Rf3 was best. } (36... Rf3 37. Qxa7+ Kg6 38. Qg1 Ree3 39. Qg2 Rxc3 40. a4 Kg7 41. h3 Rfe3 42. a5 Ra3 43. Qh2) 37. Qxa7+ { [%eval 1.63] } 37... Kg6 { [%eval 1.69] } 38. Qa8 { [%eval 1.74] } 38... Kf6? { [%eval 3.44] } { Mistake. Kg7 was best. } (38... Kg7 39. Qa7+) 39. a4?! { [%eval 2.37] } { Inaccuracy. Qf8+ was best. } (39. Qf8+ Kg6 40. Qg8+ Kf6 41. a4 Re8 42. Qh7 Re2 43. h3 R2e5 44. Qxh6+ Kf7 45. Qf4+ Kg7) 39... Ke5? { [%eval 3.97] } { Mistake. Kg7 was best. } (39... Kg7 40. Qa7+ Kg6 41. Qb8 Kg7 42. Qc7+ Re7 43. Qd6 Kh7 44. Qf6 h5 45. Kxh5 Rh3+ 46. Kg5) 40. a5 { [%eval 4.01] } 40... Kd5?! { [%eval 5.37] } { Inaccuracy. Kf6 was best. } (40... Kf6 41. Qf8+ Kg6 42. Qg8+ Kf6 43. a6 Re8 44. Qh7 R3e7 45. Qxh6+ Ke5 46. Qxc6 Kf4 47. Qf6+) 41. Qd8+ { [%eval 5.13] } 41... Ke4 { [%eval 5.34] } 42. a6 { [%eval 5.4] } 42... Kf3 { [%eval 5.24] } 43. a7 { [%eval 5.49] } 43... Re2?! { [%eval 8.14] } { Inaccuracy. Kg2 was best. } (43... Kg2 44. Qd2+ Re2 45. Qd3 R6e3 46. a8=Q Rxd3 47. cxd3 Kf2 48. Qa7+ c5 49. c4 Kf3 50. Qa8+) 44. Qd3+?! { [%eval 5.39] } { Inaccuracy. Qf8+ was best. } (44. Qf8+ Kg2 45. a8=Q R2e3 46. g5 Rf3 47. Qg7 Rh3+ 48. Kg4 h5+ 49. Kf5 Rd6 50. Qe8 Rf3+) 44... R6e3 { [%eval 5.39] } 45. Qxe3+ { [%eval 5.36] } *
+
+
+[Event "Mikhail Tal: Tal - Speelman"]
+[White "Mikhail Tal"]
+[Black "Speelman"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Speelman"]
+[UTCDate "2023.02.06"]
+[UTCTime "06:11:55"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/jsfzL4S5"]
+
+1. e4 { [%eval 0.36] } 1... d6 { [%eval 0.75] } 2. d4 { [%eval 0.4] } 2... g6 { [%eval 0.67] } 3. Nf3 { [%eval 0.62] } 3... Bg7 { [%eval 0.68] } 4. Be2 { [%eval 0.65] } 4... Nf6 { [%eval 0.34] } 5. Nc3 { [%eval 0.33] } 5... O-O { [%eval 0.65] } 6. O-O { [%eval 0.63] } 6... c5 { [%eval 0.75] } 7. d5 { [%eval 0.72] } 7... Na6 { [%eval 0.6] } 8. Re1 { [%eval 0.94] } 8... Nc7 { [%eval 1.09] } 9. Bf4?! { [%eval 0.05] } { Inaccuracy. h3 was best. } (9. h3 e6 10. dxe6 Nxe6 11. Bc4 a6 12. a4 b6 13. Qd3 Bb7 14. Rd1 Nd4 15. Bg5 h6) 9... b5 { [%eval 0.05] } 10. Nxb5 { [%eval 0.24] } 10... Nxe4 { [%eval 0.12] } 11. Nxc7 { [%eval 0.1] } 11... Qxc7 { [%eval 0.22] } 12. Bc4 { [%eval 0.39] } 12... Nf6 { [%eval 0.19] } 13. h3 { [%eval -0.01] } 13... Re8 { [%eval 0.32] } 14. Rb1 { [%eval 0.2] } 14... a5 { [%eval 0.5] } 15. Qd2 { [%eval 0.0] } 15... Qb6?! { [%eval 0.57] } { Inaccuracy. a4 was best. } (15... a4 16. b3 axb3 17. axb3 Qa5 18. Qd1 Bf5 19. Nh4 Bc8) 16. Re3?! { [%eval -0.12] } { Inaccuracy. b3 was best. } (16. b3) 16... Ba6 { [%eval -0.37] } 17. Bxa6 { [%eval -0.4] } 17... Qxa6 { [%eval -0.52] } 18. Rbe1 { [%eval -0.53] } 18... Kf8 { [%eval -0.2] } 19. Ng5 { [%eval -0.71] } 19... Qb7? { [%eval 0.43] } { Mistake. Qb5 was best. } (19... Qb5) 20. c4 { [%eval 0.5] } 20... Qb4?! { [%eval 1.22] } { Inaccuracy. a4 was best. } (20... a4 21. R3e2) 21. Qe2 { [%eval 0.73] } 21... h6?? { [%eval 3.55] } { Blunder. Nxd5 was best. } (21... Nxd5 22. cxd5 Qxf4 23. Ne6+ fxe6 24. Rf3 Qxf3 25. Qxf3+ Kg8 26. Rxe6 Bxb2 27. h4 Rf8 28. Qg4) 22. Nxf7 { [%eval 3.52] } 22... Kxf7 { [%eval 3.39] } 23. Rb3 { [%eval 3.66] } 23... Qa4 { [%eval 4.05] } 24. Qe6+?? { [%eval 1.82] } { Blunder. Rb7 was best. } (24. Rb7 Rab8) 24... Kf8 { [%eval 2.01] } 25. Rb7 { [%eval 1.57] } 25... Qxc4?? { [%eval 5.72] } { Blunder. Ng8 was best. } (25... Ng8 26. Bxd6 Bf6 27. Re4 Qd1+ 28. Kh2 g5 29. Bc7 Kg7 30. f4 a4 31. Be5 Qh5 32. fxg5) 26. Bxd6 { [%eval 5.69] } 26... Ng8 { [%eval 6.13] } 27. Re3 { [%eval 5.81] } 27... Bf6 { [%eval 6.06] } 28. Rf3 { [%eval 5.84] } 28... Kg7 { [%eval 6.27] } 29. Bxe7 { [%eval 8.0] } 29... Rxe7 { [%eval 8.55] } 30. Rxe7+ { [%eval 8.28] } 30... Nxe7 { [%eval 9.08] } 31. Qxf6+ { [%eval 6.98] } 31... Kg8 { [%eval 8.86] } 32. Qe6+ { [%eval 6.9] } 32... Kh8 { [%eval 6.84] } 33. Qxe7 { [%eval 5.91] } 33... Qxd5 { [%eval 5.84] } 34. Rf7 { [%eval 5.91] } *
+
+
+[Event "Mikhail Tal: Tal - Larsen"]
+[White "Mikhail Tal"]
+[Black "Larsen"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B82"]
+[Opening "Sicilian Defense: Scheveningen Variation, Tal Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Larsen"]
+[UTCDate "2023.02.06"]
+[UTCTime "05:47:12"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/cnqd9Xbj"]
+
+1. e4 { [%eval 0.36] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... Nc6 { [%eval 0.0] } 3. d4 { [%eval 0.33] } 3... cxd4 { [%eval 0.38] } 4. Nxd4 { [%eval 0.29] } 4... e6 { [%eval 0.5] } 5. Nc3 { [%eval 0.33] } 5... d6 { [%eval 0.57] } 6. Be3 { [%eval 0.76] } 6... Nf6 { [%eval 0.49] } 7. f4 { [%eval 0.64] } 7... Be7 { [%eval 0.44] } 8. Qf3 { [%eval 0.77] } 8... O-O { [%eval 1.09] } 9. O-O-O { [%eval 1.01] } 9... Qc7 { [%eval 0.59] } 10. Ndb5 { [%eval 1.12] } 10... Qb8 { [%eval 0.97] } 11. g4 { [%eval 1.1] } 11... a6 { [%eval 1.12] } 12. Nd4 { [%eval 1.15] } 12... Nxd4 { [%eval 1.18] } 13. Bxd4 { [%eval 1.18] } 13... b5 { [%eval 0.99] } 14. g5 { [%eval 1.05] } 14... Nd7 { [%eval 1.08] } 15. Bd3 { [%eval 0.9] } 15... b4 { [%eval 0.97] } 16. Nd5?? { [%eval -1.19] } { Blunder. Ne2 was best. } (16. Ne2) 16... exd5 { [%eval -0.54] } 17. exd5 { [%eval -1.51] } 17... f5?? { [%eval 0.66] } { Blunder. g6 was best. } (17... g6 18. Rhe1) 18. Rde1? { [%eval -0.45] } { Mistake. gxf6 was best. } (18. gxf6) 18... Rf7?? { [%eval 2.87] } { Blunder. Bd8 was best. } (18... Bd8 19. Qh5) 19. h4 { [%eval 2.43] } 19... Bb7 { [%eval 3.06] } 20. Bxf5 { [%eval 2.44] } 20... Rxf5 { [%eval 2.55] } 21. Rxe7 { [%eval 2.29] } 21... Ne5 { [%eval 2.73] } 22. Qe4 { [%eval 2.66] } 22... Qf8 { [%eval 3.05] } 23. fxe5 { [%eval 2.68] } 23... Rf4 { [%eval 3.35] } 24. Qe3 { [%eval 3.23] } 24... Rf3 { [%eval 3.76] } 25. Qe2 { [%eval 3.5] } 25... Qxe7 { [%eval 3.43] } 26. Qxf3 { [%eval 3.98] } 26... dxe5 { [%eval 3.52] } 27. Re1 { [%eval 3.89] } 27... Rd8 { [%eval 4.04] } 28. Rxe5 { [%eval 3.38] } 28... Qd6? { [%eval 6.62] } { Mistake. Qf7 was best. } (28... Qf7) 29. Qf4 { [%eval 6.45] } 29... Rf8 { [%eval 6.54] } 30. Qe4 { [%eval 6.39] } 30... b3 { [%eval 8.38] } 31. axb3 { [%eval 8.23] } 31... Rf1+ { [%eval 8.4] } 32. Kd2 { [%eval 8.39] } 32... Qb4+ { [%eval 9.58] } 33. c3 { [%eval 9.44] } 33... Qd6 { [%eval 9.75] } 34. Bc5 { [%eval 7.59] } 34... Qxc5 { [%eval 7.43] } 35. Re8+ { [%eval 6.44] } 35... Rf8 { [%eval 7.58] } 36. Qe6+ { [%eval 6.46] } 36... Kh8 { [%eval 6.4] } 37. Qf7 { [%eval 6.54] } *
+
+
+[Event "Mikhail Tal: Bobotsov - Tal"]
+[White "Bobotsov"]
+[Black "Mikhail Tal"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E81"]
+[Opening "King's Indian Defense: Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Bobotsov - Tal"]
+[UTCDate "2023.02.06"]
+[UTCTime "19:25:42"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/xdzJuxYd"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.28] } 2. c4 { [%eval 0.16] } 2... g6 { [%eval 0.3] } 3. Nc3 { [%eval 0.31] } 3... Bg7 { [%eval 0.7] } 4. e4 { [%eval 0.67] } 4... d6 { [%eval 0.65] } 5. f3 { [%eval 0.5] } 5... O-O { [%eval 0.47] } 6. Nge2 { [%eval 0.14] } 6... c5 { [%eval 0.39] } 7. Be3 { [%eval 0.22] } 7... Nbd7 { [%eval 0.7] } 8. Qd2 { [%eval 0.73] } 8... a6 { [%eval 0.68] } 9. O-O-O { [%eval 0.41] } 9... Qa5 { [%eval 0.45] } 10. Kb1 { [%eval 0.4] } 10... b5 { [%eval 0.36] } 11. Nd5?! { [%eval -0.25] } { Inaccuracy. dxc5 was best. } (11. dxc5 dxc5) 11... Nxd5 { [%eval -0.43] } 12. Qxa5 { [%eval -0.46] } 12... Nxe3 { [%eval -0.4] } 13. Rc1 { [%eval -0.52] } 13... Nxc4 { [%eval -0.61] } 14. Rxc4 { [%eval -0.78] } 14... bxc4 { [%eval -0.62] } 15. Nc1?! { [%eval -1.46] } { Inaccuracy. Nf4 was best. } (15. Nf4) 15... Rb8 { [%eval -1.59] } 16. Bxc4 { [%eval -1.78] } 16... Nb6?! { [%eval -1.07] } { Inaccuracy. Bxd4 was best. } (16... Bxd4 17. b3 Nb6 18. Bxa6 Ra8 19. Qxb6 Bxa6 20. Rd1 Bf6 21. Rd5 Rfb8 22. Qc7 Bc4 23. Rd2) 17. Bb3 { [%eval -1.48] } 17... Bxd4 { [%eval -1.37] } 18. Qd2?? { [%eval -3.73] } { Blunder. Ne2 was best. } (18. Ne2 Be5) 18... Bg7 { [%eval -3.94] } 19. Ne2 { [%eval -3.95] } 19... c4 { [%eval -3.83] } 20. Bc2 { [%eval -4.08] } 20... c3 { [%eval -4.11] } 21. Qd3 { [%eval -4.34] } 21... cxb2 { [%eval -3.85] } 22. Nd4 { [%eval -4.45] } 22... Bd7 { [%eval -4.72] } 23. Rd1 { [%eval -4.97] } 23... Rfc8?! { [%eval -3.22] } { Inaccuracy. a5 was best. } (23... a5 24. f4 Rfc8 25. g4 Bxg4 26. Rg1 Bd7 27. f5 Na4 28. Ne2 Rc5 29. Qd2 Rbc8 30. fxg6) 24. Bb3? { [%eval -5.65] } { Mistake. Qxa6 was best. } (24. Qxa6 Rc7 25. Bb3 Rc1+ 26. Rxc1 bxc1=Q+ 27. Kxc1 Bxd4 28. Kd1 Ra8 29. Qb7 Kf8 30. h3 Rc8) 24... Na4 { [%eval -5.81] } 25. Bxa4 { [%eval -5.59] } 25... Bxa4 { [%eval -6.17] } 26. Nb3 { [%eval -5.94] } 26... Rc3 { [%eval -5.94] } 27. Qxa6 { [%eval -6.29] } 27... Bxb3 { [%eval -6.26] } 28. axb3 { [%eval -6.26] } 28... Rbc8 { [%eval -6.37] } 29. Qa4?? { [%eval #-3] } { Checkmate is now unavoidable. Qxc8+ was best. } (29. Qxc8+ Rxc8 30. f4 Rb8 31. e5 dxe5 32. Kxb2 exf4+ 33. Ka3 Ra8+ 34. Kb4 Be5 35. Kc4 Rc8+) 29... Rc1+ { [%eval #-2] } 30. Rxc1 { [%eval #-2] } 30... Rxc1+ { [%eval #-1] } *
+
+
+[Event "Mikhail Tal: Tal - Vesiukov"]
+[White "Mikhail Tal"]
+[Black "Vesiukov"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation, Modern Variation, Kasparov Attack"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Vesiukov"]
+[UTCDate "2023.02.06"]
+[UTCTime "20:43:36"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/RisWALh2"]
+
+1. e4 { [%eval 0.36] } 1... c6 { [%eval 0.37] } 2. Nc3 { [%eval 0.34] } 2... d5 { [%eval 0.24] } 3. d4 { [%eval 0.27] } 3... dxe4 { [%eval 0.33] } 4. Nxe4 { [%eval 0.34] } 4... Nd7 { [%eval 0.4] } 5. Nf3 { [%eval 0.51] } 5... Ngf6 { [%eval 0.2] } 6. Ng3 { [%eval 0.2] } 6... e6 { [%eval 0.0] } 7. Bd3 { [%eval 0.0] } 7... c5 { [%eval 0.0] } 8. O-O { [%eval 0.26] } 8... cxd4 { [%eval 0.48] } 9. Nxd4 { [%eval 0.45] } 9... Bc5 { [%eval 0.35] } 10. Nf3 { [%eval 0.0] } 10... O-O { [%eval -0.04] } 11. Qe2 { [%eval 0.0] } 11... b6 { [%eval 0.0] } 12. Bf4 { [%eval 0.1] } 12... Bb7 { [%eval 0.01] } 13. Rad1 { [%eval 0.03] } 13... Nd5 { [%eval 0.07] } 14. Bg5 { [%eval 0.04] } 14... Qc7 { [%eval 0.04] } 15. Nh5 { [%eval -0.03] } 15... Kh8 { [%eval 0.39] } 16. Be4 { [%eval 0.29] } 16... f6 { [%eval 0.36] } 17. Bh4 { [%eval 0.21] } 17... Bd6?! { [%eval 0.86] } { Inaccuracy. f5 was best. } (17... f5) 18. c4 { [%eval 0.75] } 18... Ba6 { [%eval 0.78] } 19. Nxg7 { [%eval 0.64] } 19... Kxg7 { [%eval 0.6] } 20. Nd4 { [%eval 0.65] } 20... Nc5 { [%eval 0.83] } 21. Qg4+?! { [%eval 0.05] } { Inaccuracy. Nxe6+ was best. } (21. Nxe6+) 21... Kh8 { [%eval 0.07] } 22. Nxe6 { [%eval 0.03] } 22... Nxe6 { [%eval 0.18] } 23. Qxe6 { [%eval 0.03] } 23... Rae8 { [%eval 0.07] } 24. Qxd5 { [%eval 0.04] } 24... Bxh2+ { [%eval 0.16] } 25. Kh1 { [%eval 0.03] } 25... Qf4?? { [%eval 1.87] } { Blunder. f5 was best. } (25... f5 26. Bf3 Bxc4 27. Qc6 Re6 28. Qxc7 Bxc7 29. Rfe1 Rh6 30. Rd4 Bd8 31. g3 Bxa2 32. Ra1) 26. Qh5 { [%eval 2.0] } 26... Qxe4 { [%eval 1.92] } 27. Rfe1 { [%eval 2.0] } 27... Qg6 { [%eval 1.84] } 28. Qxg6?? { [%eval 0.04] } { Blunder. Bxf6+ was best. } (28. Bxf6+ Qxf6) 28... hxg6? { [%eval 1.22] } { Mistake. Rxe1+ was best. } (28... Rxe1+ 29. Kxh2 hxg6 30. Rxe1 g5 31. Bg3 Bxc4 32. f3 Rf7 33. a4 Rh7+ 34. Kg1 Rd7 35. Re4) 29. Bxf6+ { [%eval 1.18] } 29... Kg8 { [%eval 1.25] } 30. Rxe8 { [%eval 1.3] } 30... Rxe8 { [%eval 1.24] } 31. Kxh2 { [%eval 1.16] } 31... Bxc4 { [%eval 1.11] } 32. Rd7 { [%eval 1.19] } 32... Re6 { [%eval 1.14] } 33. Bc3 { [%eval 1.22] } 33... Bxa2 { [%eval 1.04] } 34. Rxa7 { [%eval 1.12] } 34... Bc4 { [%eval 1.16] } 35. Kg3 { [%eval 1.08] } 35... Bd5 { [%eval 1.18] } 36. f3 { [%eval 1.04] } 36... Kf8 { [%eval 1.18] } 37. Bd4 { [%eval 1.06] } 37... b5 { [%eval 1.22] } 38. Kf4 { [%eval 1.03] } 38... Bc4 { [%eval 1.43] } 39. Kg5 { [%eval 1.57] } 39... Ke8 { [%eval 1.61] } 40. Ra8+ { [%eval 1.45] } 40... Kf7 { [%eval 1.51] } 41. Ra7+ { [%eval 1.41] } 41... Ke8 { [%eval 1.42] } 42. b4 { [%eval 1.4] } 42... Bd5 { [%eval 1.67] } 43. Ra3 { [%eval 1.6] } 43... Kf7 { [%eval 1.42] } 44. g4 { [%eval 1.62] } 44... Re2 { [%eval 1.59] } 45. Bc5 { [%eval 1.62] } 45... Re5+ { [%eval 1.52] } 46. Kh6 { [%eval 1.7] } 46... Re6 { [%eval 1.75] } 47. Rd3 { [%eval 1.73] } 47... Bc6 { [%eval 1.7] } 48. Rd8 { [%eval 1.39] } 48... Re8 { [%eval 1.5] } 49. Rd4 { [%eval 1.53] } 49... Re6 { [%eval 1.2] } 50. f4 { [%eval 1.29] } 50... Ke8 { [%eval 1.71] } 51. Kg7 { [%eval 1.69] } 51... Be4 { [%eval 2.88] } 52. Bb6 { [%eval 5.14] } 52... Bf3 { [%eval 6.06] } 53. Rd8+ { [%eval 5.5] } 53... Ke7 { [%eval 5.78] } 54. Rd3 { [%eval 6.1] } 54... Be2 { [%eval 6.22] } 55. Bd8+ { [%eval 6.23] } 55... Ke8 { [%eval 6.79] } 56. Rd2 { [%eval 6.28] } 56... Re3 { [%eval 6.6] } 57. Bg5 { [%eval 6.58] } 57... Bd3 { [%eval 6.56] } 58. f5 { [%eval 6.16] } *
+
+
+[Event "Mikhail Tal: Tal - Petrosian"]
+[White "Mikhail Tal"]
+[Black "Petrosian"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Chigorin Line"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Petrosian"]
+[UTCDate "2023.02.07"]
+[UTCTime "05:52:06"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/zp4stMMX"]
+
+1. e4 { [%eval 0.36] } 1... g6 { [%eval 0.71] } 2. Nf3 { [%eval 0.5] } 2... Bg7 { [%eval 0.32] } 3. d4 { [%eval 0.61] } 3... d6 { [%eval 0.68] } 4. Nc3 { [%eval 0.52] } 4... Nf6 { [%eval 0.64] } 5. Be2 { [%eval 0.33] } 5... O-O { [%eval 0.65] } 6. O-O { [%eval 0.63] } 6... Nc6 { [%eval 0.66] } 7. d5 { [%eval 0.47] } 7... Nb8 { [%eval 0.4] } 8. Re1 { [%eval 0.62] } 8... e6 { [%eval 0.54] } 9. dxe6 { [%eval 0.53] } 9... Bxe6 { [%eval 0.49] } 10. Bf4 { [%eval 0.67] } 10... h6 { [%eval 0.44] } 11. Nd4 { [%eval 0.21] } 11... Bd7 { [%eval 0.66] } 12. Qd2 { [%eval 0.52] } 12... Kh7 { [%eval 0.55] } 13. e5 { [%eval 0.73] } 13... dxe5 { [%eval 0.67] } 14. Bxe5 { [%eval 0.78] } 14... Ne4?! { [%eval 1.89] } { Inaccuracy. Nc6 was best. } (14... Nc6 15. Nxc6) 15. Nxe4 { [%eval 1.9] } 15... Bxe5 { [%eval 1.62] } 16. Nf3 { [%eval 2.08] } 16... Bg7 { [%eval 2.4] } 17. Rad1 { [%eval 2.78] } 17... Qc8 { [%eval 2.52] } 18. Bc4 { [%eval 2.77] } 18... Be8 { [%eval 2.63] } 19. Neg5+ { [%eval 2.8] } 19... hxg5?? { [%eval 5.6] } { Blunder. Kh8 was best. } (19... Kh8 20. Qf4 Nc6 21. Rxe8 Qxe8 22. Nxf7+ Rxf7 23. Bxf7 Qe7 24. Bxg6 Rf8 25. Qe4 Bxb2 26. Qxe7) 20. Nxg5+ { [%eval 6.09] } 20... Kg8 { [%eval 6.0] } 21. Qf4 { [%eval 5.83] } 21... Nd7?? { [%eval #15] } { Checkmate is now unavoidable. Qf5 was best. } (21... Qf5 22. Qh4 Qxg5 23. Qxg5 b5 24. Bd5 c6 25. Bb3 a5 26. Qxg6 Bd7 27. Qg5 a4) 22. Rxd7 { [%eval #14] } 22... Bxd7 { [%eval 7.37] } 23. Bxf7+ { [%eval #13] } *
+
+
+[Event "Mikhail Tal: Gurgenidze - Tal"]
+[White "Gurgenidze"]
+[Black "Mikhail Tal"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A78"]
+[Opening "Benoni Defense: Classical Variation, Czerniak Defense"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Gurgenidze - Tal"]
+[UTCDate "2023.02.07"]
+[UTCTime "13:14:37"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/aYsu0G6G"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.28] } 2. c4 { [%eval 0.16] } 2... c5?! { [%eval 0.93] } { Inaccuracy. e6 was best. } (2... e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4) 3. d5 { [%eval 0.75] } 3... e6 { [%eval 0.6] } 4. Nc3 { [%eval 0.48] } 4... exd5 { [%eval 0.97] } 5. cxd5 { [%eval 0.29] } 5... d6 { [%eval 0.89] } 6. Nf3 { [%eval 0.86] } 6... g6 { [%eval 0.65] } 7. e4 { [%eval 0.6] } 7... Bg7 { [%eval 0.75] } 8. Be2 { [%eval 0.6] } 8... O-O { [%eval 0.77] } 9. O-O { [%eval 0.69] } 9... Re8 { [%eval 0.77] } 10. Nd2 { [%eval 0.87] } 10... Na6 { [%eval 0.6] } 11. Re1 { [%eval 0.53] } 11... Nc7 { [%eval 0.59] } 12. a4 { [%eval 0.6] } 12... b6 { [%eval 0.89] } 13. Qc2 { [%eval 0.45] } 13... Ng4?! { [%eval 1.49] } { Inaccuracy. Rb8 was best. } (13... Rb8 14. Nc4 Ba6 15. Bf4 Bxc4 16. Bxc4 a6 17. Qd3 b5 18. axb5 axb5 19. Nxb5 Nxb5 20. Bxb5) 14. h3?! { [%eval 0.4] } { Inaccuracy. Bxg4 was best. } (14. Bxg4) 14... Nxf2 { [%eval 0.32] } 15. Kxf2?? { [%eval -1.77] } { Blunder. Nf3 was best. } (15. Nf3) 15... Qh4+ { [%eval -1.92] } 16. Kf1 { [%eval -1.95] } 16... Bd4 { [%eval -2.02] } 17. Nd1 { [%eval -1.78] } 17... Qxh3 { [%eval -1.83] } 18. Bf3 { [%eval -1.89] } 18... Qh2 { [%eval -1.71] } 19. Ne3 { [%eval -2.01] } 19... f5 { [%eval -2.45] } 20. Ndc4?! { [%eval -3.4] } { Inaccuracy. Ke2 was best. } (20. Ke2 Bxe3 21. Kxe3 Nxd5+ 22. Ke2 Nb4 23. Qb3+ d5 24. Kd1 Ba6 25. Nf1 Qe5 26. Ne3 fxe4) 20... fxe4 { [%eval -3.02] } 21. Bxe4 { [%eval -3.3] } 21... Ba6 { [%eval -3.25] } 22. Bf3 { [%eval -3.34] } 22... Re5 { [%eval -2.9] } 23. Ra3 { [%eval -2.64] } 23... Rae8 { [%eval -3.05] } 24. Bd2? { [%eval -5.16] } { Mistake. b4 was best. } (24. b4 cxb4) 24... Nxd5 { [%eval -5.19] } 25. Bxd5+ { [%eval -5.05] } 25... Rxd5 { [%eval -6.16] } 26. Ke2 { [%eval -5.99] } 26... Bxe3?! { [%eval -4.69] } { Inaccuracy. Qh5+ was best. } (26... Qh5+ 27. Kf2 Rg5 28. Kg1 Bb7 29. Bc3 Bxg2 30. Qxg2 Rxg2+ 31. Kxg2 Qg5+ 32. Kf2 d5 33. Bxd4) 27. Rxe3?! { [%eval -6.24] } { Inaccuracy. Kd1 was best. } (27. Kd1 Qh5+ 28. Kc1 Bxd2+ 29. Qxd2 Rxe1+ 30. Qxe1 Qg5+ 31. Nd2 Re5 32. Qf2 Be2 33. a5 b5) 27... Bxc4+ { [%eval -4.95] } *
+
+
+[Event "Mikhail Tal: Tal - Hecht"]
+[White "Mikhail Tal"]
+[Black "Hecht"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Hecht"]
+[UTCDate "2023.02.07"]
+[UTCTime "13:39:47"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/0nUWjzGM"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.28] } 2. c4 { [%eval 0.16] } 2... e6 { [%eval 0.23] } 3. Nf3 { [%eval 0.0] } 3... b6 { [%eval 0.29] } 4. Nc3 { [%eval 0.24] } 4... Bb4 { [%eval 0.12] } 5. Bg5 { [%eval 0.0] } 5... Bb7 { [%eval 0.0] } 6. e3 { [%eval 0.0] } 6... h6 { [%eval 0.0] } 7. Bh4 { [%eval 0.0] } 7... Bxc3+ { [%eval 0.0] } 8. bxc3 { [%eval -0.03] } 8... d6 { [%eval -0.06] } 9. Nd2 { [%eval 0.0] } 9... e5 { [%eval 0.4] } 10. f3 { [%eval 0.36] } 10... Qe7 { [%eval 0.35] } 11. e4 { [%eval 0.25] } 11... Nbd7 { [%eval 0.31] } 12. Bd3 { [%eval 0.14] } 12... Nf8 { [%eval 0.29] } 13. c5?! { [%eval -0.3] } { Inaccuracy. Bf2 was best. } (13. Bf2 Ne6 14. Nf1 Nf4 15. Ne3 Nxd3+ 16. Qxd3 Nh5 17. Qc2 Nf4 18. O-O O-O 19. a4 a5) 13... dxc5 { [%eval -0.35] } 14. dxe5 { [%eval -0.56] } 14... Qxe5 { [%eval -0.7] } 15. Qa4+ { [%eval -1.2] } 15... c6?? { [%eval 0.56] } { Blunder. N8d7 was best. } (15... N8d7 16. Bg3) 16. O-O { [%eval 0.49] } 16... Ng6 { [%eval 0.58] } 17. Nc4 { [%eval 0.67] } 17... Qe6 { [%eval 0.5] } 18. e5 { [%eval 0.57] } 18... b5 { [%eval 0.39] } 19. exf6 { [%eval 0.33] } 19... bxa4?! { [%eval 1.24] } { Inaccuracy. O-O was best. } (19... O-O 20. Qc2) 20. fxg7 { [%eval 1.5] } 20... Rg8 { [%eval 0.56] } 21. Bf5 { [%eval 0.3] } 21... Nxh4 { [%eval 0.44] } 22. Bxe6 { [%eval 0.34] } 22... Ba6 { [%eval 0.3] } 23. Nd6+ { [%eval 0.46] } 23... Ke7 { [%eval 0.36] } 24. Bc4 { [%eval 0.39] } 24... Rxg7 { [%eval 0.37] } 25. g3 { [%eval 0.32] } 25... Kxd6 { [%eval 0.23] } 26. Bxa6 { [%eval 0.4] } 26... Nf5 { [%eval 0.66] } 27. Rab1 { [%eval 0.26] } 27... f6? { [%eval 1.59] } { Mistake. Ne3 was best. } (27... Ne3 28. Rf2 Nd5 29. Rd2 Ke7 30. Rb7+ Kf8 31. Bc4 Nb6 32. Bf1 f6 33. Rxg7 Kxg7 34. Rd6) 28. Rfd1+ { [%eval 1.77] } 28... Ke7 { [%eval 1.69] } 29. Re1+ { [%eval 1.71] } 29... Kd6 { [%eval 1.59] } 30. Kf2?! { [%eval 0.83] } { Inaccuracy. Red1+ was best. } (30. Red1+ Ke7) 30... c4? { [%eval 2.13] } { Mistake. Rd7 was best. } (30... Rd7) 31. g4?! { [%eval 1.27] } { Inaccuracy. Rb4 was best. } (31. Rb4 Ne7 32. Bxc4 Nd5 33. Bxd5 cxd5 34. Rxa4 Rb7 35. Rf4 Rf8 36. g4 h5 37. Re2 Rg7) 31... Ne7 { [%eval 1.34] } 32. Rb7?! { [%eval 0.61] } { Inaccuracy. Rbd1+ was best. } (32. Rbd1+ Nd5) 32... Rag8 { [%eval 0.45] } 33. Bxc4 { [%eval 0.47] } 33... Nd5 { [%eval 0.49] } 34. Bxd5 { [%eval 0.55] } 34... cxd5 { [%eval 0.43] } 35. Rb4 { [%eval 0.09] } 35... Rc8? { [%eval 1.28] } { Mistake. f5 was best. } (35... f5 36. h3 h5 37. Rg1 a3 38. Ra4 hxg4 39. hxg4 fxg4 40. Rgxg4 Rxg4 41. fxg4 Ke5 42. Ke3) 36. Rxa4 { [%eval 1.24] } 36... Rxc3 { [%eval 1.03] } 37. Ra6+ { [%eval 1.18] } 37... Kc5 { [%eval 1.2] } 38. Rxf6 { [%eval 1.09] } 38... h5 { [%eval 0.85] } 39. h3 { [%eval 1.19] } 39... hxg4 { [%eval 1.31] } 40. hxg4 { [%eval 1.47] } 40... Rh7? { [%eval 2.77] } { Mistake. a5 was best. } (40... a5 41. Kg3) 41. g5 { [%eval 2.67] } 41... Rh5?! { [%eval 3.64] } { Inaccuracy. Rc2+ was best. } (41... Rc2+ 42. Kg3 Rch2 43. Rg1 Rh1 44. Rxh1 Rxh1 45. f4 d4 46. Rf8 Rg1+ 47. Kf2 Rg4 48. Kf3) 42. Rf5 { [%eval 3.73] } 42... Rc2+ { [%eval 3.44] } 43. Kg3 { [%eval 3.77] } 43... Kc4 { [%eval 3.88] } 44. Ree5 { [%eval 4.08] } 44... d4 { [%eval 4.48] } 45. g6 { [%eval 4.33] } 45... Rh1 { [%eval 4.05] } 46. Rc5+ { [%eval 4.63] } 46... Kd3 { [%eval 4.67] } 47. Rxc2 { [%eval 4.82] } 47... Kxc2 { [%eval 4.77] } 48. Kf4 { [%eval 4.82] } 48... Rg1?! { [%eval 6.73] } { Inaccuracy. Rh8 was best. } (48... Rh8 49. Rc5+) 49. Rg5 { [%eval 7.02] } *
+
+
+[Event "Mikhail Tal: Tal - Keller"]
+[White "Mikhail Tal"]
+[Black "Keller"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D44"]
+[Opening "Semi-Slav Defense: Botvinnik Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Tal - Keller"]
+[UTCDate "2023.02.08"]
+[UTCTime "06:03:53"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/Pq5fKhtW"]
+
+1. Nf3 { [%eval 0.36] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.29] } 2... e6 { [%eval 0.22] } 3. Nc3 { [%eval 0.31] } 3... d5 { [%eval 0.19] } 4. d4 { [%eval 0.0] } 4... c6 { [%eval 0.2] } 5. Bg5 { [%eval 0.12] } 5... dxc4?! { [%eval 0.77] } { Inaccuracy. h6 was best. } (5... h6 6. Bxf6 Qxf6 7. e3 g6 8. Bd3 dxc4 9. Bxc4 Bg7 10. O-O) 6. e4 { [%eval 0.75] } 6... b5 { [%eval 0.46] } 7. a4 { [%eval 0.0] } 7... Qb6 { [%eval 0.0] } 8. Bxf6 { [%eval -0.35] } 8... gxf6 { [%eval -0.25] } 9. Be2 { [%eval -0.51] } 9... a6 { [%eval -0.35] } 10. O-O { [%eval -0.63] } 10... Bb7 { [%eval -0.53] } 11. d5 { [%eval -0.68] } 11... cxd5?! { [%eval 0.18] } { Inaccuracy. Nd7 was best. } (11... Nd7) 12. exd5 { [%eval 0.15] } 12... b4?! { [%eval 0.85] } { Inaccuracy. Nd7 was best. } (12... Nd7 13. axb5 axb5 14. Rxa8+ Bxa8 15. Nd4 Bc5 16. Ndxb5 Ne5 17. Bxc4 Nxc4 18. Qa4 O-O 19. Qxc4) 13. a5 { [%eval 1.38] } 13... Qc7 { [%eval 1.37] } 14. dxe6 { [%eval 1.62] } 14... bxc3 { [%eval 1.79] } 15. Nd4 { [%eval 1.75] } 15... Rg8 { [%eval 1.69] } 16. Qa4+ { [%eval 1.94] } 16... Kd8 { [%eval 2.18] } 17. g3 { [%eval 1.97] } 17... Bd5 { [%eval 1.72] } 18. Rfd1?? { [%eval -0.9] } { Blunder. Rad1 was best. } (18. Rad1 Rg5) 18... Kc8?? { [%eval 4.18] } { Blunder. cxb2 was best. } (18... cxb2 19. Rab1) 19. bxc3?? { [%eval 0.42] } { Blunder. Qe8+ was best. } (19. Qe8+ Kb7 20. bxc3 Nc6 21. exf7 Rg5 22. Ne6 Bxe6 23. Qxe6 Rd8 24. Bf3 Rd3 25. Qe8 Rxf3) 19... Bc5 { [%eval 0.23] } 20. e7 { [%eval -0.14] } 20... Nc6?! { [%eval 0.78] } { Inaccuracy. Bxe7 was best. } (20... Bxe7 21. Nf5 Be6 22. Nd4 Bd7 23. Qc2 Ra7 24. Qxh7 Rf8 25. Rab1 Bd6 26. h4 Qxa5 27. Bxc4) 21. Bg4+ { [%eval 0.85] } 21... Kb7 { [%eval 0.74] } 22. Nb5?? { [%eval -1.81] } { Blunder. Nf5 was best. } (22. Nf5 Be6) 22... Qe5 { [%eval -1.84] } 23. Re1 { [%eval -2.58] } 23... Be4?? { [%eval 0.62] } { Blunder. Qg5 was best. } (23... Qg5) 24. Rab1 { [%eval 0.64] } 24... Rxg4 { [%eval 0.46] } 25. Rxe4 { [%eval 0.66] } 25... Qxe4 { [%eval 0.78] } 26. Nd6+ { [%eval 0.44] } 26... Kc7 { [%eval 0.59] } 27. Nxe4 { [%eval 0.5] } 27... Rxe4 { [%eval 0.61] } 28. Qd1?! { [%eval -0.01] } { Inaccuracy. Kg2 was best. } (28. Kg2 f5 29. f3 Re2+ 30. Kh3 Re5 31. Qxc4 Bxe7 32. Rb6 Bc5 33. Rxa6 Rxa6 34. Qxa6 f4) 28... Re5?? { [%eval 5.65] } { Blunder. Bxe7 was best. } (28... Bxe7 29. Qd5 Re5 30. Qxf7 h5 31. f4 Rf8 32. Qxc4 Rxa5 33. Re1 Bd6 34. h4 Rc5 35. Qxa6) 29. Rb7+ { [%eval 5.48] } 29... Kxb7 { [%eval 5.45] } 30. Qd7+ { [%eval 5.46] } 30... Kb8 { [%eval 5.29] } 31. e8=Q+ { [%eval 5.21] } 31... Rxe8 { [%eval 5.16] } 32. Qxe8+ { [%eval 5.29] } 32... Kb7 { [%eval 5.75] } 33. Qd7+ { [%eval 5.83] } 33... Kb8 { [%eval 5.83] } 34. Qxc6 { [%eval 5.7] } *
+
+
+[Event "Mikhail Tal: Mikhail Tal - Koblencs"]
+[White "Mikhail Tal"]
+[Black "Koblencs"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B63"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Mikhail Tal - Koblencs"]
+[UTCDate "2023.02.08"]
+[UTCTime "19:51:12"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/xfZZFrTo"]
+
+1. e4 { [%eval 0.36] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.25] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.27] } 4... Nf6 { [%eval 0.3] } 5. Nc3 { [%eval 0.21] } 5... Nc6 { [%eval 0.47] } 6. Bg5 { [%eval 0.0] } 6... e6 { [%eval 0.23] } 7. Qd2 { [%eval 0.09] } 7... Be7 { [%eval 0.6] } 8. O-O-O { [%eval 0.35] } 8... O-O { [%eval 0.44] } 9. Nb3 { [%eval 0.56] } 9... Qb6 { [%eval 0.67] } 10. f3 { [%eval 0.35] } 10... a6 { [%eval 0.61] } 11. g4 { [%eval 0.41] } 11... Rd8 { [%eval 0.7] } 12. Be3 { [%eval 0.63] } 12... Qc7 { [%eval 0.68] } 13. h4?! { [%eval 0.0] } { Inaccuracy. Qf2 was best. } (13. Qf2 Nd7 14. h4 b5 15. g5 Nce5 16. Kb1 b4 17. Na4 Rb8 18. h5 Qc6 19. Rg1 Qxa4) 13... b5?! { [%eval 0.56] } { Inaccuracy. d5 was best. } (13... d5 14. Qf2 dxe4 15. Rxd8+ Qxd8 16. g5 Nd5 17. Nxd5 exd5 18. fxe4 dxe4 19. Bg2 Qd5 20. Rd1) 14. g5 { [%eval 0.57] } 14... Nd7 { [%eval 0.7] } 15. g6?! { [%eval 0.06] } { Inaccuracy. Qf2 was best. } (15. Qf2 Rb8) 15... hxg6?? { [%eval 1.78] } { Blunder. fxg6 was best. } (15... fxg6) 16. h5 { [%eval 1.49] } 16... gxh5 { [%eval 1.73] } 17. Rxh5 { [%eval 1.28] } 17... Nf6? { [%eval 2.57] } { Mistake. Bf6 was best. } (17... Bf6 18. Qh2 g6 19. Rh3 b4 20. Ne2 e5 21. f4 Bg7 22. f5 Nf6 23. Bh6 a5 24. Nd2) 18. Rh1 { [%eval 2.42] } 18... d5?! { [%eval 3.68] } { Inaccuracy. Ne5 was best. } (18... Ne5 19. Qh2 Ng6 20. Bd3 b4 21. Na4 Rb8 22. f4 Kf8 23. Kb1 Ke8 24. Rdg1 Rb5 25. Qe2) 19. e5?! { [%eval 2.32] } { Inaccuracy. Bf4 was best. } (19. Bf4 Bd6 20. Bxd6 Qxd6 21. f4 Ng4 22. e5 Qc7 23. Bd3 f5 24. exf6 Nxf6 25. Rdg1 Kf7) 19... Nxe5 { [%eval 2.38] } 20. Bf4?? { [%eval -1.46] } { Blunder. Qh2 was best. } (20. Qh2) 20... Bd6 { [%eval -1.6] } 21. Qh2 { [%eval -1.57] } 21... Kf8 { [%eval -1.22] } 22. Qh8+?? { [%eval -3.76] } { Blunder. Kb1 was best. } (22. Kb1) 22... Ng8?? { [%eval 1.22] } { Blunder. Ke7 was best. } (22... Ke7) 23. Rh7 { [%eval 0.75] } 23... f5 { [%eval 0.91] } 24. Bh6 { [%eval 0.17] } 24... Rd7 { [%eval 1.09] } 25. Bxb5 { [%eval 1.22] } 25... Rf7?? { [%eval 3.63] } { Blunder. Ng6 was best. } (25... Ng6 26. Nd4 Nxh8 27. Nxe6+ Kf7 28. Nxc7 Rxc7 29. Rxg7+ Kf8 30. Rxc7+ Nxh6 31. Bc6 Rb8 32. Ra7) 26. Rg1 { [%eval 3.85] } 26... Ra7 { [%eval 2.97] } 27. Nd4? { [%eval 1.21] } { Mistake. Be8 was best. } (27. Be8 Re7) 27... Ng4 { [%eval 2.26] } 28. fxg4 { [%eval 1.75] } 28... Be5?? { [%eval 6.08] } { Blunder. Bf4+ was best. } (28... Bf4+) 29. Nc6?? { [%eval 2.4] } { Blunder. Nf3 was best. } (29. Nf3 axb5 30. Nh4 Ke8 31. Ng6 Rf8 32. Nxf8 Kxf8 33. gxf5 exf5 34. Bxg7+ Bxg7 35. Rhxg7 Qxg7) 29... Bxc3?? { [%eval 7.64] } { Blunder. axb5 was best. } (29... axb5 30. Nxe5) 30. Be3?? { [%eval 0.0] } { Blunder. bxc3 was best. } (30. bxc3 f4 31. Rxg7 Rxg7 32. Rf1 e5 33. Nxe5 Qxe5 34. Bxf4 Qxf4+ 35. Rxf4+ Raf7 36. Rxf7+ Rxf7) 30... d4 { [%eval 1.06] } 31. Rgh1 { [%eval 4.69] } 31... Rd7?! { [%eval 6.29] } { Inaccuracy. Re7 was best. } (31... Re7 32. Bg5) 32. Bg5?? { [%eval 0.0] } { Blunder. gxf5 was best. } (32. gxf5 Rd5) 32... axb5 { [%eval 0.0] } 33. R1h6 { [%eval 0.0] } 33... d3?? { [%eval 5.69] } { Blunder. Qxc6 was best. } (33... Qxc6 34. Rf6+ gxf6 35. Bh6+ Rg7 36. Bxg7+ Ke7 37. Bxf6+ Kd6 38. Be5+ Kd5 39. Rxa7 Bxb2+ 40. Kb1) 34. bxc3 { [%eval 5.97] } 34... d2+ { [%eval 6.14] } 35. Kd1 { [%eval 5.68] } 35... Qxc6?! { [%eval 8.36] } { Inaccuracy. Rb7 was best. } (35... Rb7 36. Rxe6 Rf7 37. Ne7 Qxe7 38. Bxe7+ Rbxe7 39. Rxe7 Rxe7 40. Rh1 Be6 41. Kxd2 fxg4 42. Rf1+) 36. Rf6+ { [%eval 8.97] } 36... Rf7 { [%eval 17.55] } 37. Qxg7+ { [%eval 17.55] } *
+
+
+[Event "Mikhail Tal: Albero - Mikhail Tal"]
+[White "Albero"]
+[Black "Mikhail Tal"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Albero - Mikhail Tal"]
+[UTCDate "2023.02.09"]
+[UTCTime "19:50:08"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/iz0ks9zc"]
+
+1. c4 { [%eval 0.23] } 1... e5 { [%eval 0.25] } 2. Nc3 { [%eval 0.12] } 2... d6 { [%eval 0.4] } 3. g3 { [%eval 0.16] } 3... f5 { [%eval 0.47] } 4. d4 { [%eval 0.15] } 4... e4? { [%eval 1.48] } { Mistake. Be7 was best. } (4... Be7 5. Bh3 Na6 6. dxe5 dxe5 7. Qxd8+ Bxd8 8. Nf3 Bf6 9. e4) 5. f3 { [%eval 1.26] } 5... Nf6 { [%eval 1.55] } 6. Bg2 { [%eval 0.93] } 6... exf3 { [%eval 1.13] } 7. Nxf3 { [%eval 1.69] } 7... g6 { [%eval 1.34] } 8. O-O { [%eval 1.46] } 8... Bg7 { [%eval 1.67] } 9. e4 { [%eval 1.37] } 9... fxe4 { [%eval 1.28] } 10. Ng5?! { [%eval 0.64] } { Inaccuracy. Nh4 was best. } (10. Nh4 O-O 11. Bg5 Qe8 12. Qd2 c6 13. Rfe1 Bf5 14. g4 Bxg4 15. Nxe4 Qd8 16. h3 Bh5) 10... O-O { [%eval 0.66] } 11. Ngxe4?! { [%eval 0.0] } { Inaccuracy. Ncxe4 was best. } (11. Ncxe4 Nc6 12. Bd2 Bf5 13. Rxf5 gxf5 14. Ne6 Qd7 15. Nxf8 Rxf8 16. Nxf6+ Bxf6 17. Qb3 Bxd4+) 11... Nxe4 { [%eval 0.17] } 12. Rxf8+ { [%eval -0.08] } 12... Qxf8 { [%eval 0.0] } 13. Nxe4 { [%eval -0.13] } 13... Nc6 { [%eval -0.17] } 14. Be3 { [%eval -0.09] } 14... Bf5 { [%eval -0.07] } 15. Qd2 { [%eval -0.15] } 15... Re8 { [%eval -0.09] } 16. Ng5 { [%eval -0.04] } 16... Rxe3 { [%eval -0.54] } 17. Bd5+ { [%eval -0.43] } 17... Kh8 { [%eval -1.05] } 18. Nf7+ { [%eval -0.42] } 18... Qxf7 { [%eval -0.71] } 19. Bxf7 { [%eval -0.42] } 19... Rd3 { [%eval -0.91] } 20. Qe2 { [%eval -0.5] } 20... Bxd4+ { [%eval -0.56] } 21. Kg2 { [%eval -0.91] } 21... Ne5 { [%eval -0.45] } 22. Rd1 { [%eval -0.74] } 22... Re3 { [%eval -0.61] } 23. Qf1?? { [%eval -5.35] } { Blunder. Qd2 was best. } (23. Qd2 Be4+ 24. Kh3 Nf3 25. Qf2 Ng5+ 26. Kh4 Rd3 27. Qe2 Nf3+ 28. Kh3 Rxd1 29. Qxd1 Ng5+) 23... Be4+ { [%eval -5.48] } 24. Kh3 { [%eval -5.54] } 24... Rf3 { [%eval -5.33] } 25. Qe2 { [%eval -5.37] } 25... Bf5+ { [%eval -5.35] } *
+
+
+[Event "Mikhail Tal: Mikhail Tal - Lautier"]
+[White "Mikhail Tal"]
+[Black "Lautier"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A46"]
+[Opening "Indian Defense: Knights Variation"]
+[StudyName "Mikhail Tal"]
+[ChapterName "Mikhail Tal - Lautier"]
+[UTCDate "2023.02.09"]
+[UTCTime "20:12:18"]
+[Annotator "https://lichess.org/@/Pollo_Imola"]
+[ChapterURL "https://lichess.org/study/t36LqlMW/WzHidE5Y"]
+
+1. d4 { [%eval 0.0] } 1... Nf6 { [%eval 0.28] } 2. Nf3 { [%eval 0.12] } 2... e6 { [%eval 0.38] } 3. g3 { [%eval 0.14] } 3... b5 { [%eval -0.13] } 4. Bg2 { [%eval 0.18] } 4... Bb7 { [%eval 0.25] } 5. O-O { [%eval 0.15] } 5... c5 { [%eval 0.21] } 6. Bg5 { [%eval 0.24] } 6... Qb6?! { [%eval 0.79] } { Inaccuracy. cxd4 was best. } (6... cxd4 7. Bxf6 Qxf6 8. Nxd4 Bxg2 9. Kxg2 Nc6 10. Nxb5 Rb8 11. N1c3) 7. a4 { [%eval 0.76] } 7... a6 { [%eval 0.96] } 8. Nc3?! { [%eval 0.02] } { Inaccuracy. Bxf6 was best. } (8. Bxf6 gxf6 9. c3 cxd4 10. cxd4 Bg7 11. Nc3 f5 12. e3 O-O) 8... Ne4?! { [%eval 0.74] } { Inaccuracy. cxd4 was best. } (8... cxd4) 9. Nxe4 { [%eval 0.8] } 9... Bxe4 { [%eval 0.8] } 10. axb5 { [%eval 0.79] } 10... Qxb5 { [%eval 1.22] } 11. Qd2?! { [%eval 0.64] } { Inaccuracy. c4 was best. } (11. c4 Qxb2) 11... f6 { [%eval 0.73] } 12. Bf4 { [%eval 0.71] } 12... Qb7 { [%eval 0.73] } 13. c4 { [%eval 0.68] } 13... cxd4 { [%eval 0.74] } 14. Qxd4 { [%eval 0.77] } 14... e5?? { [%eval 2.88] } { Blunder. Bb4 was best. } (14... Bb4) 15. Bxe5 { [%eval 2.27] } 15... fxe5 { [%eval 2.76] } 16. Qxe5+ { [%eval 3.09] } 16... Be7 { [%eval 2.51] } 17. Nd4?! { [%eval 1.41] } { Inaccuracy. Ra3 was best. } (17. Ra3 Bc6 18. Re3 O-O 19. Qxe7 Qxb2 20. Ng5 Bxg2 21. Kxg2 Qf6 22. Qe4 Qc6 23. Rd1 Qxe4+) 17... Bxg2 { [%eval 1.58] } 18. Nf5 { [%eval 1.0] } 18... Qb4 { [%eval 1.5] } 19. Kxg2? { [%eval 0.26] } { Mistake. Nxg7+ was best. } (19. Nxg7+ Kf7 20. Nh5 Rf8 21. Kxg2 Qc5 22. Qg7+ Ke8 23. Qxh7 Nc6 24. b3 Kd8 25. Nf4 Qf5) 19... Nc6 { [%eval 0.44] } 20. Qxg7 { [%eval 0.35] } 20... O-O-O { [%eval 0.47] } 21. Rxa6 { [%eval 1.01] } 21... Qb7 { [%eval 1.16] } 22. Rfa1 { [%eval 1.01] } 22... Nb4+?! { [%eval 2.13] } { Inaccuracy. Bc5 was best. } (22... Bc5 23. Kh3 Rhf8 24. Qg5 Qxb2 25. Ng7 Bb6 26. Qb5 Qxb5 27. cxb5 Bd4 28. R1a4 Nb4 29. Rxb4) 23. Kg1 { [%eval 2.27] } 23... Nxa6 { [%eval 2.47] } 24. Qxe7 { [%eval 2.51] } 24... Qb6 { [%eval 2.46] } 25. Qa3 { [%eval 2.47] } 25... Rhf8 { [%eval 2.52] } 26. Nd6+ { [%eval 2.36] } 26... Kc7 { [%eval 2.36] } 27. Qxa6 { [%eval 2.44] } 27... Ra8?! { [%eval 3.25] } { Inaccuracy. Qxf2+ was best. } (27... Qxf2+ 28. Kh1 Qb6 29. Nb5+ Kc6 30. Qa3 Ra8 31. Qd6+ Kb7 32. Qxd7+ Kb8 33. Rxa8+ Kxa8 34. Nc7+) 28. Qxb6+ { [%eval 3.52] } 28... Kxb6 { [%eval 3.65] } 29. Rd1 { [%eval 3.33] } 29... Ra2 { [%eval 3.61] } 30. Rd2 { [%eval 3.63] } 30... Kc6 { [%eval 4.27] } 31. f3 { [%eval 4.0] } 31... Rfa8 { [%eval 4.05] } 32. Nb5 { [%eval 3.73] } 32... R8a4 { [%eval 3.06] } 33. Rc2?! { [%eval 2.1] } { Inaccuracy. Nc3 was best. } (33. Nc3 Ra1+ 34. Kg2 Rxc4 35. e4 d6 36. Kh3 Rb4 37. Kg4 Ra7 38. Nd5 Rb3 39. Rc2+ Kd7) 33... Kc5? { [%eval 3.77] } { Mistake. Rb4 was best. } (33... Rb4 34. Nc3 Raxb2 35. Nd5 R4b3 36. Rxb2 Rxb2 37. Kf2 Kc5 38. Nf6 Kxc4 39. Nxd7 Kd4 40. Nf6) 34. Nc3 { [%eval 3.73] } 34... Ra1+ { [%eval 3.91] } 35. Kf2 { [%eval 3.93] } 35... Rxc4?! { [%eval 5.5] } { Inaccuracy. Rb4 was best. } (35... Rb4 36. h4 Kd4 37. Rd2+ Kxc4 38. Rxd7 h5 39. Rd2 Rb8 40. Ne4 Rb6 41. Ke3 Ra8 42. Rd4+) 36. Rd2? { [%eval 2.96] } { Mistake. b3 was best. } (36. b3 Rd4 37. Ke3 d6 38. Nb5+ Kxb5 39. Kxd4 Rg1 40. Ke3 Rg2 41. Rd2 Kc5 42. b4+ Kxb4) 36... Ra7 { [%eval 3.29] } 37. e4 { [%eval 3.09] } 37... Kc6 { [%eval 3.32] } 38. Ke3 { [%eval 3.0] } 38... Rb7 { [%eval 2.96] } 39. Rc2?! { [%eval 2.17] } { Inaccuracy. Nd5 was best. } (39. Nd5 d6 40. g4 Rc1 41. b4 h6 42. h4 Rh1 43. Rc2+ Kd7 44. h5 Ke6 45. b5 Re1+) 39... d6 { [%eval 2.18] } 40. Kd3 { [%eval 1.88] } 40... Rc5 { [%eval 2.26] } 41. f4 { [%eval 1.78] } 41... Rb4 { [%eval 2.3] } 42. g4 { [%eval 2.32] } 42... Kd7 { [%eval 2.17] } 43. g5 { [%eval 2.49] } 43... Ke6 { [%eval 2.92] } 44. h4?! { [%eval 2.0] } { Inaccuracy. Rd2 was best. } (44. Rd2 Kf7 45. Ke3 Rc6 46. f5 Rcb6 47. Nd1 Rb3+ 48. Kf4 Kf8 49. h4 Kf7 50. Rd4 R3b4) 44... d5? { [%eval 3.47] } { Mistake. Rcc4 was best. } (44... Rcc4 45. Rf2 Rd4+ 46. Kc2 Rbc4 47. f5+ Kf7 48. Kb1 Rd3 49. h5 Rh3 50. g6+ Kf8 51. Rg2) 45. Nxd5 { [%eval 3.58] } 45... Rxc2 { [%eval 3.58] } 46. Nxb4 { [%eval 3.29] } 46... Rxb2 { [%eval 3.8] } 47. Nc2 { [%eval 3.07] } 47... Rb3+ { [%eval 3.2] } 48. Kc4? { [%eval 1.69] } { Mistake. Ke2 was best. } (48. Ke2) 48... Rh3 { [%eval 1.27] } 49. Nd4+ { [%eval 1.8] } 49... Kf7 { [%eval 1.79] } 50. f5? { [%eval 0.42] } { Mistake. Nf5 was best. } (50. Nf5) 50... Rxh4 { [%eval 0.65] } 51. Kd5 { [%eval 0.7] } 51... Rg4 { [%eval 0.8] } 52. Nf3 { [%eval 0.78] } 52... Rg3 { [%eval 0.64] } 53. Ne5+ { [%eval 1.49] } 53... Kg8?! { [%eval 2.14] } { Inaccuracy. Ke8 was best. } (53... Ke8) 54. f6 { [%eval 3.49] } 54... Rxg5?? { [%eval 7.36] } { Blunder. Re3 was best. } (54... Re3 55. Nc6) 55. Ke6 { [%eval 7.98] } 55... Rg1 { [%eval 7.44] } 56. f7+ { [%eval 7.83] } 56... Kg7 { [%eval 7.26] } 57. Nd7 { [%eval 7.71] } 57... Rf1 { [%eval 8.27] } 58. f8=Q+ { [%eval 7.69] } 58... Rxf8 { [%eval 8.47] } 59. Nxf8 { [%eval 8.51] } 59... h6 { [%eval 7.95] } 60. Nd7 { [%eval 13.14] } 60... h5 { [%eval 13.63] } 61. Ne5 { [%eval 13.46] } 61... h4 { [%eval 13.44] } 62. Nf3 { [%eval 13.63] } *
+
+

@@ -1,0 +1,607 @@
+[Event "Ding Liren's Best Games: Game 1: Liren - Sandyeep (2002)"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 1: Liren - Sandyeep (2002)"]
+[FEN "r4rk1/1bq1ppbp/pp1p1np1/2n5/P3PP2/2NB1N2/1PPB2PP/R3QR1K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.07.27"]
+[UTCTime "22:08:48"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/lkD5tCaX"]
+
+1. f5!? { [%eval -0.26] } (1. b4 Nxd3 2. cxd3) 1... d5!? { [%eval -0.03] } 2. e5 { [%eval -0.12] } 2... Nfe4 { [%eval 0.0] } 3. Bf4 { [%eval -0.44] } 3... e6 { [%eval -0.02] } 4. Qh4!? { [%eval -0.51] } 4... exf5?! { [%eval 0.19] } { Inaccuracy. gxf5 was best. } (4... gxf5 5. Ne2 Qd8 6. Qh3 f6 7. Ned4 a5 8. exf6 Qxf6 9. Ne5) 5. e6 { [%eval 0.08] } 5... Qc8?? { [%eval 1.94] } { Blunder. Qc6 was best. } (5... Qc6 6. Bxe4 dxe4 7. Ng5 h5 8. exf7+ Rxf7 9. Nxf7 Kxf7 10. Be3) 6. Bxe4?! { [%eval 0.95] } { Inaccuracy. Nxe4 was best. } (6. Nxe4 Nxe4 7. Bxe4 dxe4 8. Ng5 h6 9. exf7+ Rxf7 10. Nxf7 Kxf7) 6... Nxe4 { [%eval 1.35] } 7. Nxe4 { [%eval 2.07] } 7... dxe4 { [%eval 2.2] } 8. Ng5 { [%eval 2.2] } 8... h6 { [%eval 2.21] } 9. exf7+ { [%eval 2.19] } 9... Kh8? { [%eval 3.76] } { Mistake. Rxf7 was best. } (9... Rxf7 10. Nxf7 Kxf7 11. Bxh6 Qh8 12. Qf4 Qxh6 13. Qc7+ Kg8 14. Qxb7 Re8 15. Qd7) 10. Be5! { [%eval 3.72] } 10... h5 { [%eval 4.6] } 11. Qf4! { [%eval 4.58] } 11... Qc6?? { [%eval #12] } { Checkmate is now unavoidable. Qc5 was best. } (11... Qc5 12. Bxg7+ Kxg7 13. Ne6+ Kh7 14. Nxc5 bxc5 15. Qc7 Bd5 16. Qxc5 Rad8 17. Qe7) 12. Ne6! { [%eval #11] } 12... Rxf7 { [%eval #15] } 13. Qh6+ { [%eval #10] } 13... Kg8 { [%eval #10] } 14. Bxg7 { [%eval #9] } 14... Rd7 { [%eval #9] } 15. Qxg6 { [%eval #8] } { 1-0 White wins. } *
+
+
+[Event "Ding Liren's Best Games: Game Fragment 1: Liren - Hua (2009)"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 1: Liren - Hua (2009)"]
+[FEN "r1b2rk1/pp3pbp/3q2p1/2pPp3/2P1PP2/1R6/P2QB1PP/2B1K2R w Kq - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.07.27"]
+[UTCTime "22:21:26"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/ocGJVsDm"]
+
+1. f5! { [%eval 0.92] } 1... gxf5 { [%eval 0.97] } 2. exf5 { [%eval 0.95] } 2... Bxf5 { [%eval 0.93] } 3. O-O { [%eval 0.97] } 3... Bg6 { [%eval 1.06] } 4. h4 { [%eval 1.04] } { Refer to Game 21. } *
+
+
+[Event "Aeroflot Open A"]
+[Site "Moscow RUS"]
+[Date "2011.02.11"]
+[White "Krikor Sevag Mekhitarian"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E98"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 2: Mekhitarian - Liren (2011)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/H9hAXxVo"]
+
+1. d4 { [%eval 0.16] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.21] } 2... g6 { [%eval 0.25] } 3. Nc3 { [%eval 0.21] } 3... Bg7 { [%eval 0.51] } 4. e4 { [%eval 0.56] } 4... d6 { [%eval 0.46] } 5. Nf3 { [%eval 0.49] } 5... O-O { [%eval 0.47] } 6. Be2 { [%eval 0.48] } 6... e5 { [%eval 0.47] } 7. O-O { [%eval 0.53] } 7... Nc6 { [%eval 0.63] } 8. d5 { [%eval 0.62] } 8... Ne7 { [%eval 0.72] } 9. Ne1 { [%eval 0.64] } 9... Ne8 { [%eval 0.77] } 10. Nd3 { [%eval 0.63] } 10... f5 { [%eval 0.66] } 11. Bd2 { [%eval 0.36] } 11... c5 { [%eval 0.67] } 12. Rb1 { [%eval 0.4] } 12... Nf6 { [%eval 0.72] } 13. f3 { [%eval 0.75] } 13... f4 { [%eval 0.75] } 14. b4 { [%eval 0.85] } 14... b6 { [%eval 0.89] } 15. bxc5 { [%eval 0.56] } 15... bxc5 { [%eval 0.61] } 16. Qa4 { [%eval 0.57] } 16... g5 { [%eval 0.75] } 17. Nf2 { [%eval 0.6] } 17... h5 { [%eval 0.65] } 18. h3 { [%eval 0.62] } 18... Rf7 { [%eval 0.74] } 19. Rb3 { [%eval 0.74] } 19... Bf8 { [%eval 0.75] } 20. Rfb1 { [%eval 0.79] } 20... g4! { [%eval 0.93] } 21. fxg4 { [%eval 0.89] } 21... hxg4 { [%eval 0.95] } 22. hxg4 { [%eval 0.96] } 22... Bd7 { [%eval 0.83] } 23. Qa6 { [%eval 0.96] } 23... Rg7! { [%eval 0.88] } 24. Nb5 { [%eval 0.93] } (24. Qxd6?? Nc6 { Traps the queen. }) 24... Nc8 { [%eval 0.92] } 25. Ba5?! { [%eval 0.0] } { Inaccuracy. Nc7 was best. } (25. Nc7 Qxc7 26. Ba5 Nb6 27. Bxb6 Qc8 28. Qxc8 Bxc8 29. Ba5 Nxg4 30. Bxg4 Bxg4 31. Nxg4 Rxg4 32. Kf1) 25... Nb6 { [%eval 0.0] } 26. Nxa7? { [%eval -1.31] } { Mistake. R1b2 was best. } (26. R1b2) 26... Nxg4 { [%eval -1.56] } 27. Nxg4 { [%eval -1.5] } 27... Qg5 { [%eval -1.41] } 28. Bxb6?? { [%eval -3.5] } { Blunder. Nf6+ was best. } (28. Nf6+ Qxf6) 28... Bxg4 { [%eval -3.17] } 29. Bf1?! { [%eval -4.04] } { Inaccuracy. Bxg4 was best. } (29. Bxg4 Qxg4 30. R1b2 Be7 31. Bxc5 f3 32. Qb7 Rf8 33. Nc8 Bh4 34. Qxg7+ Kxg7) 29... Be2 { [%eval -4.17] } 30. R3b2 { [%eval -4.7] } 30... f3 { [%eval -4.3] } 31. Qa3 { [%eval -4.78] } 31... Rb8?! { [%eval -3.71] } { Inaccuracy. fxg2 was best. } (31... fxg2 32. Bxe2 Qh4 33. Bf3 Qh1+ 34. Kf2 g1=Q+ 35. Rxg1 Qxg1+ 36. Ke2 Rh7 37. Qe3) 32. Nb5 { [%eval -3.7] } 32... Rxb6 { [%eval -3.76] } 33. Qc3?! { [%eval -5.62] } { Inaccuracy. Rxe2 was best. } (33. Rxe2 fxe2 34. Qf3 exf1=R+ 35. Rxf1 Rb8 36. Qh3 Be7 37. Rf3 Rh7 38. Qg3 Qxg3) 33... Rbb7 { [%eval -5.03] } 34. Qd2?? { [%eval #-4] } { Checkmate is now unavoidable. Rxe2 was best. } (34. Rxe2 fxe2 35. Qh3 Rh7 36. Qd3 exf1=Q+ 37. Rxf1 Rbf7 38. Rf5 Qh4 39. Qe2 Qh1+) 34... Qxg2+ { [%eval #-3] } { 0-1 Black wins. } 0-1
+
+
+[Event "Reykjavik Open 2013"]
+[Site "Reykjavik ISL"]
+[Date "2013.02.22"]
+[White "Ding Liren"]
+[Black "Frode Olav Olsen Urkedal"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 3: Liren - Urkedal (2013)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/MXLGVmrU"]
+
+1. d4 { [%eval 0.16] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.21] } 2... e6 { [%eval 0.11] } 3. Nf3 { [%eval 0.12] } 3... d5 { [%eval 0.17] } 4. Nc3 { [%eval 0.08] } 4... Bb4 { [%eval 0.12] } 5. cxd5 { [%eval 0.03] } 5... exd5 { [%eval 0.14] } 6. Bg5 { [%eval 0.0] } 6... h6 { [%eval 0.1] } 7. Bh4 { [%eval 0.15] } 7... c5 { [%eval 0.12] } 8. e3 { [%eval 0.2] } 8... O-O { [%eval 0.39] } 9. Be2 { [%eval 0.13] } 9... g5 { [%eval 0.34] } 10. Bg3 { [%eval 0.24] } 10... Ne4 { [%eval 0.24] } 11. Rc1 { [%eval 0.29] } 11... c4 { [%eval 0.3] } 12. O-O { [%eval -0.06] } 12... Bxc3 { [%eval 0.03] } 13. bxc3 { [%eval -0.07] } 13... Qa5 { [%eval 0.06] } 14. Ne5?! { [%eval -0.65] } { Inaccuracy. h4 was best. } (14. h4 Nc6 15. Ne5 Nxe5 16. dxe5 Nxc3 17. Qe1 Nxe2+ 18. Qxe2 Bf5 19. hxg5 Bd3) 14... Qxa2?? { [%eval 1.95] } { Blunder. f6 was best. } (14... f6) 15. Bf3 { [%eval 2.03] } 15... Nf6 { [%eval 2.24] } 16. h4 { [%eval 1.7] } 16... Qa6 { [%eval 2.28] } 17. hxg5 { [%eval 2.55] } 17... hxg5 { [%eval 2.65] } 18. e4!! { [%eval 2.7] } 18... dxe4 { [%eval 2.72] } 19. Be2 { [%eval 2.55] } 19... b5 { [%eval 3.1] } 20. f4! { [%eval 3.13] } 20... Nh7 { [%eval 3.56] } 21. fxg5 { [%eval 3.41] } 21... Nxg5 { [%eval 3.39] } 22. Bf4 { [%eval 3.29] } 22... Qh6 { [%eval 3.46] } 23. Bg4! { [%eval 3.33] } 23... Na6?! { [%eval 4.36] } { Inaccuracy. Nc6 was best. } (23... Nc6 24. Nxc6 Qxc6 25. Bxg5 Qg6 26. Bxc8 Qxg5 27. Rf5 Qh4 28. Rh5 Qf4 29. Qg4+) 24. Bxc8 { [%eval 4.39] } 24... Raxc8 { [%eval 4.15] } 25. Ng4 { [%eval 3.96] } 25... Qg6 { [%eval 3.55] } 26. Bxg5 { [%eval 3.78] } 26... Qxg5 { [%eval 3.92] } 27. Rf5! { [%eval 3.83] [%csl Gh6][%cal Gg4h6] } 27... Qg6 { [%eval 4.53] } 28. Qd2! { [%eval 4.36] } (28. Rf6 Qg5) 28... f6 { [%eval 4.66] } 29. Qf4 { [%eval 4.35] [%csl Gf6] } 29... Kg7 { [%eval 4.46] } 30. Rf1 { [%eval 3.89] } 30... Rc6?! { [%eval 5.58] } { Inaccuracy. Nc7 was best. } (30... Nc7 31. Ne5 Nd5 32. Nxg6 Nxf4 33. Nxf4 Rb8 34. d5 Kf7 35. Ne6 Rg8 36. Rxf6+) 31. d5! { [%eval 5.78] } 31... Rb6 { [%eval 5.56] } 32. d6 { [%eval 5.21] } { 1-0 White wins. } 1-0
+
+
+[Event "Ding Liren's Best Games: Game Fragment 2: Deshun - Liren (2009)"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 2: Deshun - Liren (2009)"]
+[FEN "r1bq1rk1/5pbp/p1pp1np1/2B5/1pB1P3/1N3P2/PP1Q2PP/1K1R3R b - - 2 17"]
+[SetUp "1"]
+[UTCDate "2024.07.28"]
+[UTCTime "22:51:31"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/SHUJwAmi"]
+
+17... d5!! 18. Bxf8 Qxf8 19. exd5 cxd5 20. Bxd5 Bf5+ 21. Ka1 Rc8 *
+
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.10"]
+[White "Kirill Alekseenko"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 4: Alekseenko - Liren (2019)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/P29Dt0EG"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.11] } 2... Nc6 { [%eval 0.19] } 3. Bc4 { [%eval 0.14] } 3... Bc5 { [%eval 0.13] } 4. c3 { [%eval 0.07] } 4... Nf6 { [%eval 0.21] } 5. d3 { [%eval 0.13] } 5... d6 { [%eval 0.11] } 6. O-O { [%eval 0.11] } 6... O-O { [%eval 0.17] } 7. Re1 { [%eval 0.14] } 7... a6 { [%eval 0.23] } 8. a4 { [%eval 0.26] } 8... Ba7 { [%eval 0.13] } 9. Nbd2 { [%eval -0.21] } 9... Ng4 { [%eval -0.25] } 10. Re2 { [%eval -0.31] } 10... Kh8 { [%eval -0.34] } 11. h3 { [%eval -0.46] } 11... f5 { [%eval -0.41] } 12. Nf1 { [%eval -0.86] } 12... fxe4 { [%eval -0.84] } 13. dxe4 { [%eval -0.62] } 13... Nh6 { [%eval -0.29] } 14. Re1 { [%eval -0.38] } 14... Qf6 { [%eval -0.41] } 15. Ng3 { [%eval -0.42] } 15... Bxh3 { [%eval 0.0] } 16. Bg5 { [%eval 0.0] } 16... Qg6 { [%eval 0.0] } 17. gxh3 { [%eval -0.15] } 17... Rxf3 { [%eval -0.11] } 18. Qxf3 { [%eval -0.2] } 18... Qxg5 { [%eval -0.19] } 19. Kh2 { [%eval -0.17] } 19... Ne7 { [%eval -0.2] } 20. Rg1 { [%eval -0.2] } 20... Ng6?! { [%eval 0.7] } { Inaccuracy. Qh4 was best. } (20... Qh4 21. Raf1) 21. Nf5 { [%eval 0.7] } 21... Qf6 { [%eval 0.84] } 22. Nxh6?! { [%eval 0.0] } { Inaccuracy. Rg3 was best. } (22. Rg3 Nxf5 23. exf5 Rf8 24. Qxb7 Bxf2 25. Rf3 Bh4 26. Rg1 Nf4 27. Qxc7 d5) 22... Qxf3 { [%eval -0.05] } 23. Nf7+ { [%eval -0.04] } 23... Qxf7 { [%eval 0.0] } 24. Bxf7 { [%eval -0.02] } 24... Nf4 { [%eval 0.0] } 25. a5 { [%eval -0.26] } 25... Rf8 { [%eval -0.15] } 26. Bd5 { [%eval -0.19] } 26... c6 { [%eval -0.27] } 27. Bc4 { [%eval -0.32] } 27... Rf6 { [%eval -0.04] } 28. Raf1 { [%eval 0.0] } 28... g6 { [%eval 0.0] } 29. Rg3 { [%eval 0.04] } 29... d5 { [%eval -0.08] } 30. Bd3 { [%eval -0.13] } 30... Nh5 { [%eval -0.17] } 31. Rg4 { [%eval -0.33] } 31... Nf4 { [%eval -0.08] } 32. Bc2 { [%eval -0.04] } 32... Kg7 { [%eval -0.09] } 33. h4 { [%eval -0.36] } 33... h5 { [%eval -0.12] } 34. Rg3 { [%eval 0.0] } 34... Ne2 { [%eval 0.05] } 35. Rg5 { [%eval 0.08] } 35... d4?! { [%eval 0.83] } { Inaccuracy. dxe4 was best. } (35... dxe4 36. Bxe4) 36. Bd1?! { [%eval 0.0] } { Inaccuracy. Bd3 was best. } (36. Bd3 Nf4 37. Bc4 Kf8 38. Rd1 d3 39. Rd2 Ke7 40. Bxd3 Rd6 41. Rg3 c5) 36... d3 { [%eval 0.0] } 37. f3?? { [%eval -2.68] } { Blunder. Bxe2 was best. } (37. Bxe2 dxe2 38. Re1 Rxf2+ 39. Rg2 Rf4 40. Kg3 Bc5 41. Rgxe2 Rg4+ 42. Kh3 Be7) 37... Rf4?? { [%eval 1.0] } { Blunder. Be3 was best. } (37... Be3 38. Rg2 Bf4+ 39. Kh3 Nc1 40. Rgf2 Rd6 41. Kg2 c5 42. Kh1 c4 43. Ba4) 38. Kh3?! { [%eval 0.0] } { Inaccuracy. Kg2 was best. } (38. Kg2) 38... Kf6 { [%eval 0.0] } 39. Rg2 { [%eval 0.0] } 39... Nc1 { [%eval 0.0] } 40. Re1 { [%eval 0.0] } 40... Bc5 { [%eval 0.0] } 41. Rd2 { [%eval 0.0] } 41... Kg7 { [%eval 0.0] } 42. Ba4 { [%eval 0.0] } 42... Rxf3+ { [%eval 0.0] } 43. Kg2 { [%eval 0.0] } 43... Be3 { [%eval 0.52] } 44. Kxf3?! { [%eval -0.37] } { Inaccuracy. Rxc1 was best. } (44. Rxc1 Rf4) 44... Bxd2 { [%eval -0.41] } 45. Rd1 { [%eval -0.47] } 45... Bf4 { [%eval -0.45] } 46. b4 { [%eval -0.7] } 46... d2 { [%eval -0.83] } 47. c4 { [%eval -0.82] } 47... Na2 { [%eval -1.13] } 48. Ra1 { [%eval -0.75] } 48... Nc3 { [%eval -0.6] } 49. Bc2 { [%eval -0.56] } 49... Kf6 { [%eval -0.09] } 50. Ra3 { [%eval -0.05] } 50... d1=Q+ { [%eval 0.0] } 51. Bxd1 { [%eval 0.0] } 51... Nxd1 { [%eval -0.06] } 52. Rd3 { [%eval -0.01] } 52... Ne3 { [%eval -0.02] } 53. Rd6+? { [%eval -1.25] } { Mistake. Rd7 was best. } (53. Rd7) 53... Ke7 { [%eval -1.13] } 54. Rxg6 { [%eval -1.05] } 54... Nxc4?! { [%eval -0.02] } { Inaccuracy. Kf7 was best. } (54... Kf7 55. Rd6 Ke7 56. Rg6 Kf8 57. b5 Nc2 58. Ke2 Nd4+ 59. Kd3 Kf7 60. Rd6) 55. Rg7+ { [%eval -0.06] } 55... Kd6 { [%eval -0.12] } 56. Rxb7?? { [%eval -2.68] } { Blunder. Ke2 was best. } (56. Ke2) 56... Nd2+ { [%eval -2.45] } 57. Ke2?! { [%eval -3.41] } { Inaccuracy. Kg2 was best. } (57. Kg2 Nxe4) 57... Nxe4 { [%eval -2.91] } 58. Ra7?! { [%eval -4.17] } { Inaccuracy. Rh7 was best. } (58. Rh7 Nc3+ 59. Kd3 Nd5 60. Rxh5 Nxb4+ 61. Kc4 Nd5 62. Rh8 e4 63. h5 Ne3+) 58... Nc3+ { [%eval -4.05] } 59. Kd3 { [%eval -3.72] } 59... Nd5 { [%eval -3.34] } 60. Ke4?! { [%eval -4.83] } { Inaccuracy. Ra8 was best. } (60. Ra8 Nxb4+ 61. Kc4 c5 62. Rf8 Be3 63. Rf6+ Ke7 64. Rf5 Bd4 65. Rxh5 e4) 60... Nxb4 { [%eval -4.77] } 61. Rh7?! { [%eval -6.07] } { Inaccuracy. Rf7 was best. } (61. Rf7 Bg3 62. Rf6+ Kc5 63. Rf5 Nd5 64. Kf3 Bxh4 65. Rxe5 Bd8 66. Ke4 Bc7) 61... c5 { [%eval -5.8] } 62. Rxh5 { [%eval -7.19] } 62... c4 { [%eval -6.92] } { 0-1 Black wins. } 0-1
+
+
+[Event "TCh-CHN Men"]
+[Site "Suzhou, Jiangsu CHN"]
+[Date "2001.04.03"]
+[Round "8"]
+[White "Ding Liren"]
+[Black "Huang Yicheng"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Damiano Variation, Kholmov Gambit"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 5: Liren - Huang (2001)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/buY75dz3"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.11] } 2... Nf6 { [%eval 0.3] } 3. Nxe5 { [%eval 0.3] } 3... Nxe4 { [%eval 0.53] } 4. Qe2 { [%eval 0.51] } 4... Qe7 { [%eval 0.65] } 5. Qxe4 { [%eval 0.42] } 5... d6 { [%eval 0.71] } 6. d4 { [%eval 0.67] } 6... dxe5 { [%eval 0.49] } 7. dxe5 { [%eval 0.62] } 7... Nc6 { [%eval 0.47] } 8. f4 { [%eval 0.14] } 8... Be6 { [%eval 0.39] } 9. Bd3 { [%eval 0.11] } 9... Qh4+?! { [%eval 0.73] } { Inaccuracy. Nb4 was best. } (9... Nb4 10. Nc3) 10. g3 { [%eval 0.75] } 10... Qd8?! { [%eval 1.6] } { Inaccuracy. Qh3 was best. } (10... Qh3 11. f5 Bd7 12. Nc3 O-O-O 13. Bg5 Re8 14. O-O-O Rxe5 15. Qa4 Qh5 16. Bf4) 11. Nc3 { [%eval 1.68] } 11... g6? { [%eval 3.07] } { Mistake. Qd4 was best. } (11... Qd4 12. Qxd4) 12. Bb5?! { [%eval 2.22] } { Inaccuracy. Be3 was best. } (12. Be3 Bb4 13. O-O-O Bxc3 14. Bb5 Bd7 15. e6 fxe6 16. bxc3 O-O 17. Bc5 Rf7) 12... Qd7 { [%eval 2.21] } 13. Be3 { [%eval 2.25] } 13... Bf5?! { [%eval 3.57] } { Inaccuracy. a6 was best. } (13... a6 14. Bxc6 Qxc6 15. Qxc6+ bxc6 16. O-O-O a5 17. Ne4 Be7 18. Rhe1 h5 19. Bc5) 14. Qa4 { [%eval 3.61] } 14... Bb4 { [%eval 3.67] } 15. Rd1 { [%eval 3.46] } 15... Bxc3+ { [%eval 3.73] } 16. bxc3 { [%eval 3.8] } 16... Qe6 { [%eval 3.67] } 17. Bc5 { [%eval 3.5] } 17... Bh3?! { [%eval 4.45] } { Inaccuracy. Rd8 was best. } (17... Rd8 18. O-O) 18. Kf2? { [%eval 2.47] } { Mistake. Bc4 was best. } (18. Bc4) 18... Bg4?? { [%eval 5.15] } { Blunder. g5 was best. } (18... g5 19. Bd6 Qc8 20. Ba3 Qe6 21. fxg5 h6 22. Qf4 a6 23. Ba4 hxg5 24. Qxg5) 19. Rd2?? { [%eval 1.46] } { Blunder. Bc4 was best. } (19. Bc4 Qf5 20. Ba6 Qc8 21. Rb1 Qd7 22. Bxb7 Ne7 23. Qxd7+ Kxd7 24. Bxa8 Rxa8) 19... Rd8 { [%eval 1.6] } 20. Rxd8+ { [%eval 1.09] } 20... Kxd8 { [%eval 1.04] } 21. Rb1!? { [%eval 0.4] } { Inaccuracy. Bc4 was best. } (21. Bc4 Qd7 22. Bd4 Be6 23. Bd3 Bd5 24. Rb1 Qh3 25. Rxb7 Qxh2+ 26. Ke1 a6) 21... Qd5 { [%eval 0.43] } 22. Bxa7 { [%eval 0.53] } 22... Qf3+? { [%eval 1.99] } { Mistake. Nxa7 was best. } (22... Nxa7) 23. Kg1 { [%eval 2.19] } 23... Nxa7 { [%eval 2.49] } 24. Qd4+ { [%eval 2.42] } 24... Ke7? { [%eval 4.29] } { Mistake. Kc8 was best. } (24... Kc8 25. e6 Rd8 26. Bd7+ Kb8 27. e7 Rxd7 28. e8=Q+ Nc8 29. Qf2 Rd1+ 30. Rxd1) 25. Rf1 { [%eval 4.12] } 25... Nxb5 { [%eval 4.33] } 26. Qc5+ { [%eval 4.17] } 26... Kd7 { [%eval 4.33] } 27. Rxf3 { [%eval 4.32] } 27... Bxf3 { [%eval 4.3] } 28. Qxb5+ { [%eval 4.15] } 28... Bc6 { [%eval 4.5] } 29. Qc4 { [%eval 4.39] } 29... Ke7 { [%eval 4.47] } 30. Kf2 { [%eval 4.09] } 30... Rd8 { [%eval 3.98] } 31. Ke1 { [%eval 3.97] } 31... Rd7 { [%eval 4.06] } 32. a4 { [%eval 3.95] } 32... Rd5 { [%eval 4.59] } 33. a5 { [%eval 4.32] } 33... Rb5?! { [%eval 5.48] } { Inaccuracy. Kd7 was best. } (33... Kd7 34. a6 bxa6 35. Qxa6 Rb5 36. Qa2 Ke7 37. Qc4 Rb6 38. g4 Bd7 39. Qxc7) 34. a6 { [%eval 5.44] } 34... Rb1+ { [%eval 5.21] } 35. Kf2 { [%eval 5.27] } { 1-0 White wins. } 1-0
+
+
+[Event "TCh-CHN 2015"]
+[Site "China CHN"]
+[Date "2015.07.25"]
+[White "Vladimir Malakhov"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed, Martinez Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 6: Malakhov - Liren (2015)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/Rcr1qj5f"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.11] } 2... Nc6 { [%eval 0.19] } 3. Bb5 { [%eval 0.19] } 3... a6 { [%eval 0.38] } 4. Ba4 { [%eval 0.14] } 4... Nf6 { [%eval 0.18] } 5. O-O { [%eval 0.21] } 5... Be7 { [%eval 0.46] } 6. d3 { [%eval 0.15] } 6... b5 { [%eval 0.27] } 7. Bb3 { [%eval 0.13] } 7... O-O { [%eval 0.24] } 8. Nc3 { [%eval 0.21] } 8... d6 { [%eval 0.18] } 9. a3 { [%eval 0.22] } 9... Nb8 { [%eval 0.25] } 10. Ne2 { [%eval 0.02] } 10... c5 { [%eval 0.0] } 11. Ng3 { [%eval 0.04] } 11... Nc6 { [%eval 0.03] } 12. c3 { [%eval 0.08] } 12... Be6 { [%eval 0.05] } 13. Bxe6 { [%eval 0.07] } 13... fxe6 { [%eval 0.05] } 14. b4 { [%eval 0.05] } 14... Qd7 { [%eval 0.07] } 15. Qb3 { [%eval -0.02] } 15... Rab8 { [%eval 0.0] } 16. h3 { [%eval -0.04] } 16... Rfc8 { [%eval 0.03] } 17. Be3 { [%eval 0.02] } 17... a5 { [%eval 0.03] } 18. bxc5 { [%eval 0.0] } 18... dxc5 { [%eval 0.28] } 19. a4 { [%eval 0.25] } 19... b4 { [%eval 0.25] } 20. cxb4 { [%eval 0.07] } 20... cxb4 { [%eval 0.61] } 21. Rac1 { [%eval 0.57] } 21... h6 { [%eval 0.37] } 22. Rc4 { [%eval 0.57] } 22... Kh7 { [%eval 0.96] } 23. Rfc1 { [%eval 0.8] } 23... Bd6 { [%eval 1.09] } 24. Nf1 { [%eval 1.19] } 24... Ne7 { [%eval 1.19] } 25. N1d2 { [%eval 1.1] } 25... Rc6 { [%eval 1.12] } 26. Qb2 { [%eval 0.88] } 26... Rxc4 { [%eval 1.18] } 27. Nxc4 { [%eval 1.02] } 27... Nc6 { [%eval 1.01] } 28. Qc2 { [%eval 1.09] } 28... b3 { [%eval 1.21] } 29. Qb2 { [%eval 0.68] } 29... Bc7 { [%eval 0.68] } 30. Rc3?! { [%eval 0.0] } { Inaccuracy. Qc3 was best. } (30. Qc3) 30... Nd4! { [%eval 0.0] } 31. Bxd4 { [%eval -0.1] } 31... exd4 { [%eval -0.14] } 32. Rxb3 { [%eval -0.18] } 32... Qxa4 { [%eval -0.2] } 33. Nxd4 { [%eval -0.39] } 33... Rxb3 { [%eval -0.44] } 34. Nxb3 { [%eval -0.46] } 34... Nxe4 { [%eval -0.5] } 35. Ne3?! { [%eval -1.21] } { Inaccuracy. Qb1 was best. } (35. Qb1) 35... Qb4! { [%eval -1.23] } 36. Qc2? { [%eval -3.02] } { Mistake. Nc2 was best. } (36. Nc2 Qc3 37. Qxc3 Nxc3 38. Kf1 a4 39. Nd2 Bf4 40. Ke1 Bg5 41. g3 Kg6) 36... a4 { [%eval -2.93] } 37. Nc1? { [%eval -4.98] } { Mistake. Nc5 was best. } (37. Nc5 Qxc5 38. dxe4 Qxc2 39. Nxc2 Bd6 40. Kf1 a3 41. Ke2 a2 42. Kd3 Be5) 37... Qe1+ { [%eval -5.02] } 38. Nf1 { [%eval -4.89] } 38... Nc3 { [%eval -4.74] } 39. d4+ { [%eval -5.03] } 39... Kh8 { [%eval -5.0] } 40. Qg6 { [%eval -4.58] } 40... Qxc1 { [%eval -4.44] } 41. Qxe6 { [%eval -4.55] } 41... Qf4 { [%eval -4.24] } 42. g3?! { [%eval -5.4] } { Inaccuracy. Qc4 was best. } (42. Qc4 Ba5 43. Ng3 Qc7 44. Qe6 a3 45. Qe8+ Kh7 46. Ne4 Nxe4 47. Qxe4+ g6) 42... Qxd4 { [%eval -4.81] } 43. Ne3 { [%eval -5.32] } 43... a3 { [%eval -5.39] } 44. Nf5 { [%eval -5.57] } 44... Qe5 { [%eval -5.19] } { 0-1 Black wins. } 0-1
+
+
+[Event "FIDE World Cup 2019"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2019.09.10"]
+[White "Ding Liren"]
+[Black "Sergei Movsesian"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A29"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 7: Liren - Movsesian (2019)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/pE5DuKpg"]
+
+1. c4 { [%eval 0.12] } 1... e5 { [%eval 0.12] } 2. g3 { [%eval 0.14] } 2... Nf6 { [%eval 0.19] } 3. Bg2 { [%eval 0.1] } 3... d5 { [%eval 0.2] } 4. cxd5 { [%eval 0.13] } 4... Nxd5 { [%eval 0.18] } 5. Nf3 { [%eval 0.24] } 5... Nc6 { [%eval 0.27] } 6. O-O { [%eval 0.15] } 6... Nb6 { [%eval 0.17] } 7. b3 { [%eval 0.13] } 7... Bd6 { [%eval 0.18] } 8. Bb2 { [%eval 0.15] } 8... O-O { [%eval 0.22] } 9. d3 { [%eval 0.09] } 9... Qe7 { [%eval 0.2] } 10. Nbd2 { [%eval 0.1] } 10... Ba3 { [%eval 0.41] } 11. Bxa3 { [%eval 0.32] } 11... Qxa3 { [%eval 0.43] } 12. Qc1 { [%eval 0.43] } 12... Qe7 { [%eval 0.38] } 13. Qb2 { [%eval 0.43] } 13... Bg4 { [%eval 0.51] } 14. Rac1 { [%eval 0.49] } 14... Rad8 { [%eval 0.42] } 15. Rfe1 { [%eval 0.27] } 15... Rfe8 { [%eval 0.17] } 16. a3 { [%eval 0.25] } 16... a5 { [%eval 0.23] } 17. b4 { [%eval 0.18] } 17... axb4 { [%eval 0.22] } 18. axb4 { [%eval 0.2] } 18... Nd4?! { [%eval 1.15] } { Inaccuracy. Na7 was best. } (18... Na7 19. Qa1 Nb5 20. Rc5 Rd5 21. Nh4 Rxc5 22. bxc5 Qxc5 23. Bxb7 Qc3 24. Nhf3) 19. Nxd4 { [%eval 0.91] } 19... exd4 { [%eval 0.94] } 20. Bxb7! { [%eval 0.91] } 20... Na4 { [%eval 0.91] } 21. Qc2 { [%eval 1.21] } 21... Nc3 { [%eval 0.92] } 22. Bf3 { [%eval 0.96] } 22... h5 { [%eval 1.01] } 23. Bxg4 { [%eval 1.18] } 23... hxg4 { [%eval 1.2] } 24. Nb3 { [%eval 1.1] } 24... c5?? { [%eval 3.01] } { Blunder. Qf6 was best. } (24... Qf6) 25. bxc5! { [%eval 3.0] } 25... Nxe2+?! { [%eval 4.53] } { Inaccuracy. Rd5 was best. } (25... Rd5 26. e4 Rxc5 27. Nxc5 Qxc5 28. Qd2 Qh5 29. Qf4 Re5 30. h4 gxh3 31. Kh2) 26. Kf1 { [%eval 4.38] } 26... Qf6 { [%eval 5.23] } 27. Rxe2 { [%eval 5.14] } 27... Qf3?! { [%eval 6.64] } { Inaccuracy. Rf8 was best. } (27... Rf8 28. Kg1 Rd5 29. c6 Rc8 30. Ree1 Rh5 31. Qe2 Rc7 32. h4 Rf5 33. Qe8+) 28. Rxe8+ { [%eval 6.59] } 28... Rxe8 { [%eval 6.55] } 29. Kg1 { [%eval 6.38] } 29... Re2 { [%eval 7.13] } 30. Qxe2 { [%eval 7.02] } 30... Qxe2 { [%eval 6.86] } 31. c6 { [%eval 6.85] } { 1-0 White wins. } 1-0
+
+
+[Event "TCh-CHN Men"]
+[Site "Suzhou, Jiangsu CHN"]
+[Date "2001.03.28"]
+[Round "3"]
+[White "Ding Liren"]
+[Black "Zhang Jianhua"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation, Lion's Claw, with Bc4 and h6"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 8: Liren - Jianhua (2001)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/utfKzCPE"]
+
+1. e4 { [%eval 0.15] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.17] } 2... d6 { [%eval 0.53] } 3. d4 { [%eval 0.58] } 3... Nf6 { [%eval 0.59] } 4. Nc3 { [%eval 0.48] } 4... Nbd7 { [%eval 0.44] } 5. Bc4 { [%eval 0.39] } 5... h6 { [%eval 0.43] } 6. O-O { [%eval 0.48] } 6... Be7 { [%eval 0.49] } 7. Qe2 { [%eval 0.35] } 7... O-O { [%eval 0.34] } 8. Be3 { [%eval 0.2] } 8... a6 { [%eval 0.54] } 9. a4 { [%eval 0.4] } 9... c6 { [%eval 0.63] } 10. dxe5! { [%eval 0.51] } 10... Nxe5 { [%eval 0.51] } 11. Nxe5 { [%eval 0.64] } 11... dxe5 { [%eval 0.68] } 12. a5 { [%eval 0.57] } 12... c5? { [%eval 1.74] } { Mistake. Bb4 was best. } (12... Bb4 13. Bb6 Qe7 14. Na4 Bg4 15. f3 Be6) 13. Rfd1 { [%eval 1.55] } 13... Qc7 { [%eval 1.61] } 14. f3 { [%eval 1.3] } 14... b6?! { [%eval 2.18] } { Inaccuracy. Bd7 was best. } (14... Bd7 15. Kh1 Rfd8 16. b3 Bc6 17. Rf1 Nh5 18. Qf2 Rac8 19. h4 g5 20. Rg1) 15. axb6 { [%eval 2.09] } 15... Qxb6 { [%eval 2.1] } 16. b3 { [%eval 1.96] } 16... Bb7 { [%eval 2.26] } 17. Ra2 { [%eval 2.24] } 17... Rfd8 { [%eval 2.27] } 18. Rda1 { [%eval 2.3] } 18... a5 { [%eval 2.25] } 19. Qe1 { [%eval 2.37] [%csl Ga5][%cal Ge1a5] } 19... Bc6 { [%eval 2.34] } 20. Na4 { [%eval 2.23] [%cal Ga4b2] } 20... Bxa4 { [%eval 2.55] } 21. Rxa4 { [%eval 2.64] } 21... Rd7 { [%eval 2.88] } 22. Rxa5 { [%eval 2.76] } 22... Raa7?! { [%eval 3.61] } { Inaccuracy. Rxa5 was best. } (22... Rxa5 23. Rxa5 Qd8 24. Ra1 Ne8 25. Bb5 Rc7 26. Qa5 Nd6 27. Bf1 Kh7 28. Rd1) 23. Rxa7 { [%eval 2.88] } 23... Rxa7 { [%eval 2.79] } 24. Qc3 { [%eval 2.78] } 24... Bd6 { [%eval 3.08] } 25. Qb2 { [%eval 2.72] } 25... Bb8 { [%eval 2.92] } 26. Rxa7 { [%eval 2.95] } 26... Qxa7 { [%eval 2.9] } 27. b4 { [%eval 2.98] } 27... Bd6 { [%eval 3.23] } 28. b5 { [%eval 2.83] } 28... Qb6?! { [%eval 3.87] } { Inaccuracy. Nd7 was best. } (28... Nd7 29. h4 Nb6 30. Qa2 Qe7 31. Bd5 g5 32. Qa5 Qd8 33. hxg5 hxg5 34. Qd2) 29. Qa3 { [%eval 3.75] } 29... g5 { [%eval 3.81] } 30. Qa6 { [%eval 4.07] } 30... Nd7?! { [%eval 5.24] } { Inaccuracy. Bc7 was best. } (30... Bc7 31. h4 gxh4 32. Qc8+ Kg7 33. Qh3 Qd6 34. Qxh4 Nh7 35. Qh5 Ng5 36. Bxg5) 31. Qc8+ { [%eval 5.07] } 31... Nf8 { [%eval 4.77] } 32. Qe8 { [%eval 4.25] } 32... Qa7 { [%eval 4.23] } 33. b6 { [%eval 4.22] } 33... Qe7 { [%eval 5.23] } 34. Qxe7 { [%eval 5.17] } 34... Bxe7 { [%eval 5.06] } 35. Bb5 { [%eval 4.6] } (35. Kf1 Nd7 36. b7 Kf8) 35... Ne6 { [%eval 4.64] } 36. b7 { [%eval 4.79] } 36... Bd6 { [%eval 4.64] } 37. Bc4 { [%eval 4.75] } 37... Nd8 { [%eval 4.97] } 38. Bd5 { [%eval 4.88] } 38... c4 { [%eval 5.46] } 39. Ba7 { [%eval 5.33] } 39... Nxb7 { [%eval 5.65] } 40. Bxb7 { [%eval 5.54] } 40... Kg7 { [%eval 5.59] } 41. Kf2 { [%eval 5.43] } 41... Kf6 { [%eval 5.69] } 42. Ke3 { [%eval 5.98] } 42... c3 { [%eval 6.54] } 43. Kd3 { [%eval 6.48] } 43... Bb4 { [%eval 6.45] } 44. Kc4 { [%eval 6.37] } 44... Ba5 { [%eval 7.12] } 45. g4 { [%eval 6.65] } 45... Kg6 { [%eval 7.12] } 46. Kb5 { [%eval 7.02] } 46... Bc7 { [%eval 6.78] } 47. Kb4 { [%eval 7.18] } 47... h5 { [%eval 6.93] } 48. h3 { [%eval 6.65] } 48... h4 { [%eval 8.25] } 49. Kxc3 { [%eval 8.1] } 49... Kf6 { [%eval 8.61] } 50. Kb4 { [%eval 8.35] } 50... Ke6 { [%eval 9.49] } 51. c4 { [%eval 8.78] } 51... Bd6+ { [%eval 9.96] } 52. c5 { [%eval 10.33] } 52... Be7 { [%eval 9.81] } 53. Kb5 { [%eval 9.05] } 53... Kd7? { [%eval #10] } { Checkmate is now unavoidable. Bf8 was best. } (53... Bf8 54. Bb6 Bxc5 55. Bc8+ Kd6 56. Bxc5+ Kc7 57. Bf5 Kb7 58. Bd6 Ka7 59. Kc6) 54. c6+ { [%eval #9] } 54... Kc7 { [%eval #7] } 55. Bc5?! { [%eval 30.61] } { Lost forced checkmate sequence. Bb6+ was best. } (55. Bb6+ Kd6 56. c7 Ke6 57. c8=Q+ Kf6 58. Qg8 Ke6 59. Bc8+ Kd6 60. Qxf7 Bd8) 55... Bf6?! { [%eval #5] } { Checkmate is now unavoidable. Bxc5 was best. } (55... Bxc5) 56. Bb6+ { [%eval #4] } 56... Kb8 { [%eval #3] } 57. Ka6 { [%eval #2] } 57... Bd8 { [%eval #2] } 58. Bxd8 { [%eval #1] } 58... f5 { [%eval #1] } 59. c7# { 1-0 White wins. } 1-0
+
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.17"]
+[White "Ding Liren"]
+[Black "Dmitry Jakovenko"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 9: Liren - Jakovenko (2019)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/HawOBzzr"]
+
+1. c4 { [%eval 0.12] } 1... Nf6 { [%eval 0.21] } 2. Nc3 { [%eval 0.08] } 2... c5 { [%eval 0.24] } 3. g3 { [%eval 0.12] } 3... e6 { [%eval 0.23] } 4. Nf3 { [%eval 0.22] } 4... b6 { [%eval 0.37] } 5. e4 { [%eval 0.32] } 5... Bb7 { [%eval 0.26] } 6. Qe2 { [%eval 0.01] } 6... Nc6 { [%eval 0.0] } 7. Bg2 { [%eval 0.1] } 7... d6 { [%eval 0.03] } 8. O-O { [%eval -0.13] } 8... Nd7 { [%eval -0.13] } 9. d3 { [%eval -0.16] } 9... g6 { [%eval -0.12] } 10. Bg5 { [%eval -0.12] } 10... Be7 { [%eval -0.18] } 11. Bxe7 { [%eval -0.24] } 11... Qxe7 { [%eval -0.28] } 12. d4 { [%eval -0.33] } 12... cxd4 { [%eval -0.23] } 13. Nb5 { [%eval -0.17] } 13... O-O { [%eval 0.28] } 14. Nfxd4 { [%eval 0.27] } 14... Nxd4 { [%eval 0.34] } 15. Nxd4 { [%eval 0.33] } 15... a6 { [%eval 0.31] } 16. Rfd1 { [%eval 0.34] } 16... Rac8 { [%eval 0.34] } 17. Rd2 { [%eval 0.38] } 17... Rfd8 { [%eval 0.42] } 18. Rad1 { [%eval 0.43] } 18... Ne5 { [%eval 0.62] } 19. b3 { [%eval 0.68] } 19... Qc7 { [%eval 0.83] } 20. Nc2 { [%eval 0.81] } 20... Qc5 { [%eval 0.78] } 21. Qe3 { [%eval 0.86] } 21... Nc6 { [%eval 0.63] } 22. a4 { [%eval 0.27] } 22... Kf8? { [%eval 1.53] } { Mistake. Qxe3 was best. } (22... Qxe3 23. Nxe3 Na5 24. Rxd6 Rxd6 25. Rxd6 Nxb3 26. Rxb6 Nc5 27. a5 Bxe4 28. Ng4) 23. Qh6+ { [%eval 1.43] } 23... Kg8 { [%eval 1.2] } 24. Rd5! { [%eval 1.28] } 24... exd5 { [%eval 1.2] } 25. Rxd5 { [%eval 1.68] } 25... Ne5 { [%eval 1.54] } 26. Rxc5 { [%eval 1.54] } 26... dxc5 { [%eval 1.62] } 27. Ne3 { [%eval 1.71] } 27... Rd3 { [%eval 1.56] } 28. h4 { [%eval 1.42] } 28... Rxb3 { [%eval 1.27] } 29. h5! { [%eval 1.34] } 29... Rf8? { [%eval 2.9] } { Mistake. Re8 was best. } (29... Re8 30. Qg5) 30. Qf4 { [%eval 3.42] } 30... f6 { [%eval 3.38] } 31. Ng4! { [%eval 3.09] } 31... Nxg4 { [%eval 3.57] } 32. Qxg4 { [%eval 3.3] } 32... Rb1+ { [%eval 3.57] } 33. Kh2 { [%eval 3.65] } 33... Bc8 { [%eval 3.44] } 34. Qf4 { [%eval 3.36] } 34... Be6 { [%eval 3.74] } 35. Qd6 { [%eval 3.82] } 35... Bxc4 { [%eval 3.74] } 36. h6 { [%eval 3.67] } 36... Rb4 { [%eval 3.83] } 37. f4 { [%eval 3.42] } 37... Ba2 { [%eval 3.77] } 38. e5 { [%eval 3.97] } 38... fxe5 { [%eval 4.97] } 39. Qxe5 { [%eval 4.87] } 39... Rf7 { [%eval 4.75] } 40. Bc6 { [%eval 4.72] } 40... Rd4 { [%eval 4.86] } 41. Be8 { [%eval 4.9] } 41... Rb7?? { [%eval #4] } { Checkmate is now unavoidable. Bc4 was best. } (41... Bc4 42. Bxf7+ Kxf7 43. Qc7+ Ke6 44. g4 Bd3 45. Qxh7 Rxf4 46. Qg8+ Ke7 47. Kg3) 42. Bd7 { [%eval #3] } { 1-0 White wins. } 1-0
+
+
+[Event "Du Te Cup 2017"]
+[Site "Shenzhen CHN"]
+[Date "2017.03.25"]
+[White "Ding Liren"]
+[Black "Peter Svidler"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 10: Liren - Svidler (2017)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/nVT1DI6S"]
+
+1. c4 { [%eval 0.12] } 1... c6 { [%eval 0.23] } 2. Nf3 { [%eval 0.26] } 2... d5 { [%eval 0.28] } 3. d4 { [%eval 0.18] } 3... Nf6 { [%eval 0.27] } 4. e3 { [%eval 0.28] } 4... a6 { [%eval 0.3] } 5. Nc3 { [%eval 0.27] } 5... b5 { [%eval 0.44] } 6. b3 { [%eval 0.37] } 6... Bg4 { [%eval 0.45] } 7. a4 { [%eval 0.34] } 7... bxc4 { [%eval 0.37] } 8. bxc4 { [%eval 0.38] } 8... Nbd7 { [%eval 0.38] } 9. a5 { [%eval 0.33] } 9... e5 { [%eval 0.16] } 10. Be2 { [%eval 0.16] } 10... Bxf3 { [%eval 0.24] } 11. Bxf3 { [%eval 0.22] } 11... Bb4 { [%eval 0.28] } 12. Bd2 { [%eval 0.08] } 12... O-O { [%eval 0.1] } 13. O-O { [%eval 0.08] } 13... dxc4 { [%eval 0.13] } 14. Qe2 { [%eval 0.08] } 14... exd4 { [%eval 0.08] } 15. exd4 { [%eval 0.05] } 15... Bxa5 { [%eval 0.07] } 16. Qxc4 { [%eval 0.02] } 16... Rc8 { [%eval 0.0] } 17. Qxa6 { [%eval -0.02] } 17... Bb6 { [%eval 0.05] } 18. Be3 { [%eval 0.05] } 18... c5 { [%eval 0.08] } 19. Na4 { [%eval 0.06] } 19... cxd4 { [%eval 0.05] } 20. Nxb6 { [%eval 0.07] } 20... Qxb6 { [%eval 0.09] } 21. Qxb6 { [%eval 0.05] } 21... Nxb6 { [%eval 0.07] } 22. Bxd4 { [%eval 0.06] } 22... Nc4 { [%eval 0.09] } 23. Rfd1 { [%eval 0.01] } 23... Rfe8 { [%eval 0.09] } 24. g3 { [%eval 0.1] } 24... h6 { [%eval 0.05] } 25. Kg2 { [%eval 0.04] } 25... Ne5 { [%eval 0.08] } 26. Be2 { [%eval 0.03] } 26... Re6 { [%eval 0.14] } 27. h3 { [%eval 0.12] } 27... Nc6 { [%eval 0.14] } 28. Ba6 { [%eval 0.11] } 28... Rd8 { [%eval 0.14] } 29. Be3 { [%eval 0.1] } 29... Rxd1 { [%eval 0.19] } 30. Rxd1 { [%eval 0.14] } 30... Ne5 { [%eval 0.18] } 31. Bb5 { [%eval 0.26] } 31... g5 { [%eval 0.46] } 32. Rc1 { [%eval 0.2] } 32... Rd6 { [%eval 0.16] } 33. Rc8+ { [%eval 0.16] } 33... Kg7 { [%eval 0.13] } 34. Ba4 { [%eval 0.2] } 34... Ra6 { [%eval 0.37] } 35. Bb3 { [%eval 0.33] } 35... Rc6 { [%eval 0.38] } 36. Ra8 { [%eval 0.2] } 36... Rc3 { [%eval 0.16] } 37. Ba2 { [%eval 0.19] } 37... Rc2?! { [%eval 0.99] } { Inaccuracy. Rd3 was best. } (37... Rd3) 38. Ra7 { [%eval 0.92] } 38... Nc4?? { [%eval 3.3] } { Blunder. Rc6 was best. } (38... Rc6 39. Bd4 Nc4 40. Bb3 Kg6 41. Ba1 Ne4 42. g4 Ncd6 43. f3 Nf6 44. Ba4) 39. Bd4 { [%eval 3.28] } 39... Nd6 { [%eval 3.17] } 40. Rd7 { [%eval 3.1] } 40... Nb5?! { [%eval 4.49] } { Inaccuracy. Nc4 was best. } (40... Nc4 41. Bxc4) 41. Rxf7+ { [%eval 4.4] } 41... Kg8 { [%eval 4.44] } 42. Bxf6 { [%eval 4.51] } 42... Rxa2 { [%eval 4.43] } 43. Rg7+ { [%eval 4.42] } 43... Kf8 { [%eval 4.47] } 44. Rb7 { [%eval 4.37] } { 1-0 White wins. } 1-0
+
+
+[Event "Tata Steel Chess Masters 2023"]
+[Site "Chess.com"]
+[Date "2023.01.14"]
+[Round "01"]
+[White "Gukesh D"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2811"]
+[TimeControl "6000+30"]
+[Variant "Standard"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 11: Gukesh - Liren (2023)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/DLN8JSy8"]
+
+1. d4 { [%eval 0.16] [%clk 1:40:03] } 1... Nf6 { [%eval 0.17] [%clk 1:40:31] } 2. c4 { [%eval 0.18] [%clk 1:39:39] } 2... e6 { [%eval 0.11] [%clk 1:40:53] } 3. Nf3 { [%eval 0.12] [%clk 1:39:04] } 3... b6 { [%eval 0.23] [%clk 1:40:52] } 4. g3 { [%eval 0.25] [%clk 1:37:34] } 4... Ba6 { [%eval 0.17] [%clk 1:41:14] } 5. b3 { [%eval 0.14] [%clk 1:37:49] } 5... Bb4+ { [%eval 0.17] [%clk 1:41:33] } 6. Bd2 { [%eval 0.18] [%clk 1:38:10] } 6... Be7 { [%eval 0.2] [%clk 1:41:56] } 7. Bg2 { [%eval 0.2] [%clk 1:38:05] } 7... O-O { [%eval 0.24] [%clk 1:41:29] } 8. O-O { [%eval 0.28] [%clk 1:29:25] } 8... d5 { [%eval 0.38] [%clk 1:41:31] } 9. Nc3 { [%eval 0.2] [%clk 1:27:48] } 9... c6 { [%eval 0.08] [%clk 1:37:23] } 10. Bf4 { [%eval 0.14] [%clk 1:10:18] } 10... Nbd7 { [%eval 0.32] [%clk 1:31:38] } 11. cxd5 { [%eval -0.08] [%clk 1:04:57] } 11... exd5 { [%eval 0.23] [%clk 1:27:16] } 12. Ne1 { [%eval -0.24] [%clk 0:55:38] } 12... Re8 { [%eval -0.23] [%clk 1:25:57] } 13. Nd3 { [%eval -0.15] [%clk 0:54:44] } 13... Nf8 { [%eval -0.21] [%clk 1:24:28] } 14. Bg5 { [%eval -0.38] [%clk 0:53:02] } 14... Ne6 { [%eval -0.09] [%clk 1:10:23] } 15. Bxf6 { [%eval -0.14] [%clk 0:53:23] } 15... Bxf6 { [%eval -0.12] [%clk 1:10:48] } 16. e3 { [%eval -0.17] [%clk 0:53:48] } 16... Nc5 { [%eval -0.03] [%clk 0:58:14] } 17. dxc5 { [%eval -0.07] [%clk 0:53:05] } 17... Bxc3 { [%eval -0.16] [%clk 0:58:35] } 18. Rc1 { [%eval -0.14] [%clk 0:53:32] } 18... Qf6 { [%eval -0.14] [%clk 0:58:59] } 19. Qc2 { [%eval 0.0] [%clk 0:49:00] } 19... d4! { [%eval -0.02] [%clk 0:59:23] } 20. cxb6 { [%eval -0.06] [%clk 0:44:09] } 20... axb6 { [%eval -0.16] [%clk 0:59:28] } 21. Rfd1 { [%eval -0.18] [%clk 0:43:45] } 21... Rad8 { [%eval 0.0] [%clk 0:58:50] } 22. exd4 { [%eval 0.0] [%clk 0:39:25] } 22... Bxd4 { [%eval -0.02] [%clk 0:59:00] } 23. Nf4?! { [%eval -0.84] } { Inaccuracy. Bxc6 was best. } { [%clk 0:20:41] } (23. Bxc6) 23... g5! { [%eval -0.68] [%clk 0:41:12] } 24. Nh5 { [%eval -0.73] [%clk 0:18:07] } 24... Qh6 { [%eval -0.64] [%clk 0:40:18] } 25. Bf3 { [%eval -1.12] [%clk 0:13:22] } 25... c5 { [%eval -1.12] [%clk 0:40:35] } 26. g4 { [%eval -1.17] [%clk 0:11:48] } 26... f5 { [%eval -1.06] [%clk 0:30:38] } 27. Ng3 { [%eval -1.24] [%clk 0:05:56] } 27... fxg4 { [%eval -1.38] [%clk 0:29:37] } 28. Nf5 { [%eval -1.64] [%clk 0:04:31] } 28... Qf6 { [%eval -1.65] [%clk 0:10:29] } 29. Be4 { [%eval -1.68] [%clk 0:04:55] } 29... h5?! { [%eval -1.04] } { Inaccuracy. Qe5 was best. } { [%clk 0:08:39] } (29... Qe5) 30. b4 { [%eval -0.87] [%clk 0:03:08] } 30... Kf8 { [%eval -0.55] [%clk 0:07:25] } 31. a3? { [%eval -2.11] } { Mistake. a4 was best. } { [%clk 0:01:29] } (31. a4 cxb4) 31... h4 { [%eval -2.17] [%clk 0:06:58] } 32. Re1? { [%eval -4.44] } { Mistake. Nxd4 was best. } { [%clk 0:00:53] } (32. Nxd4 Rxd4) 32... Rxe4! { [%eval -4.33] [%clk 0:03:37] } 33. Qxe4 { [%eval -4.32] [%clk 0:00:35] } 33... Bd3 { [%eval -4.22] [%clk 0:04:03] } 34. Qe6 { [%eval -4.78] [%clk 0:00:34] } 34... Qxe6 { [%eval -4.63] [%clk 0:03:55] } 35. Rxe6 { [%eval -4.72] [%clk 0:01:02] } 35... Bxf5 { [%eval -4.56] [%clk 0:04:20] } 36. Rxb6 { [%eval -4.64] [%clk 0:01:27] } 36... g3 { [%eval -4.38] [%clk 0:03:46] } 37. hxg3 { [%eval -4.44] [%clk 0:01:53] } 37... hxg3 { [%eval -4.49] [%clk 0:04:13] } 38. bxc5 { [%eval -4.41] [%clk 0:02:01] } 38... Bh3 { [%eval -4.34] } { 0-1 Black wins. } { [%clk 0:03:01] } 39. Kh1 gxf2 40. Kh2 f1=Q 41. Rxf1+ Bxf1 0-1
+
+
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.15"]
+[White "Ding Liren"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D44"]
+[Opening "Semi-Slav Defense: Botvinnik Variation, Lilienthal Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 12: Liren - Yangyi (2016)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/PpaOr78j"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... e6 { [%eval 0.11] } 3. Nf3 { [%eval 0.12] } 3... d5 { [%eval 0.17] } 4. Nc3 { [%eval 0.1] } 4... c6 { [%eval 0.3] } 5. Bg5 { [%eval 0.14] } 5... dxc4 { [%eval 0.37] } 6. e4 { [%eval 0.39] } 6... b5 { [%eval 0.47] } 7. e5 { [%eval 0.56] } 7... h6 { [%eval 0.43] } 8. Bh4 { [%eval 0.78] } 8... g5 { [%eval 0.77] } 9. Nxg5 { [%eval 0.76] } 9... hxg5 { [%eval 0.76] } 10. Bxg5 { [%eval 0.69] } 10... Nbd7 { [%eval 0.52] } 11. g3 { [%eval 0.57] } 11... Bb7 { [%eval 0.56] } 12. Bg2 { [%eval 0.58] } 12... Qb6 { [%eval 0.7] } 13. exf6 { [%eval 0.91] } 13... O-O-O { [%eval 0.36] } 14. O-O { [%eval 0.51] } 14... c5 { [%eval 0.54] } 15. d5 { [%eval 0.56] } 15... b4 { [%eval 0.63] } 16. Na4 { [%eval 0.63] } 16... Qb5 { [%eval 0.8] } 17. a3 { [%eval 0.65] } 17... Nb8 { [%eval 0.55] } 18. axb4 { [%eval 0.68] } 18... cxb4 { [%eval 0.73] } 19. Qg4 { [%eval 0.57] } 19... Bxd5 { [%eval 0.52] } 20. Rfc1 { [%eval 0.83] } 20... Nc6 { [%eval 0.47] } 21. Bxd5 { [%eval 0.52] } 21... Rxd5 { [%eval 0.51] } 22. Rxc4 { [%eval 0.59] } 22... Rxg5 { [%eval 0.57] } 23. Qd4 { [%eval 0.45] } 23... Kb8 { [%eval 0.46] } 24. Rxc6 { [%eval 0.42] } 24... Rxg3+ { [%eval 0.5] } 25. fxg3 { [%eval 0.6] } 25... Qxc6 { [%eval 0.44] } 26. Rd1 { [%eval 0.46] } 26... Qc7 { [%eval 0.44] } 27. b3 { [%eval 0.42] } 27... Kc8 { [%eval 0.43] } 28. Qe4 { [%eval 0.37] } 28... Kb8 { [%eval 0.39] } 29. Qd4 { [%eval 0.41] } 29... Kc8 { [%eval 0.42] } 30. Qe4 { [%eval 0.41] } 30... Kb8 { [%eval 0.14] } 31. Qd3 { [%eval 0.21] } 31... Bc5+ { [%eval 0.25] } 32. Nxc5 { [%eval 0.28] } 32... Qxc5+ { [%eval 0.37] } 33. Qd4 { [%eval 0.3] } 33... Qc3 { [%eval 0.31] } 34. Qf4+ { [%eval 0.15] } 34... Ka8?! { [%eval 0.84] } { Inaccuracy. e5 was best. } (34... e5) 35. Qe4+?! { [%eval 0.26] } { Inaccuracy. Rd7 was best. } (35. Rd7) 35... Kb8 { [%eval 0.3] } 36. Rd4!? { [%eval 0.27] } 36... Qc1+ { [%eval 0.37] } 37. Kg2 { [%eval 0.39] } 37... Qb2+ { [%eval 0.57] } 38. Kf3 { [%eval 0.25] } 38... Qc3+ { [%eval 0.3] } 39. Kg4 { [%eval 0.35] } 39... Rg8+ { [%eval 0.36] } 40. Kh4 { [%eval 0.46] } 40... Rh8+ { [%eval 0.87] } 41. Kg5! { [%eval 0.72] } 41... Qc1+?! { [%eval 1.29] } { Inaccuracy. a5 was best. } (41... a5 42. Qf4+) 42. Qf4+ { [%eval 1.51] } 42... Qxf4+ { [%eval 1.39] } 43. Kxf4 { [%eval 1.36] } 43... Rxh2?! { [%eval 2.03] } { Inaccuracy. Kc7 was best. } (43... Kc7) 44. Rxb4+ { [%eval 2.0] } 44... Kc7 { [%eval 1.78] } 45. Kg5! { [%eval 1.72] } 45... Rh8 { [%eval 2.07] } 46. g4 { [%eval 1.74] } 46... Rg8+?! { [%eval 2.48] } { Inaccuracy. Rh3 was best. } (46... Rh3 47. Rc4+) 47. Kf4 { [%eval 2.53] } 47... Rd8 { [%eval 2.63] } 48. Ra4 { [%eval 2.94] } 48... Kb6 { [%eval 2.72] } 49. Ra1 { [%eval 2.64] } 49... a5 { [%eval 3.01] } 50. Rh1 { [%eval 2.91] } 50... Kc5 { [%eval 3.67] } 51. Rh7 { [%eval 3.47] } 51... Rd7 { [%eval 3.89] } 52. g5 { [%eval 3.53] } 52... Kd6 { [%eval 3.65] } 53. Rh3 { [%eval 3.73] } 53... e5+ { [%eval 4.09] } 54. Kf5 { [%eval 4.04] } 54... e4 { [%eval 3.88] } 55. Kxe4 { [%eval 3.79] } 55... Ke6?! { [%eval 4.83] } { Inaccuracy. Rb7 was best. } (55... Rb7 56. Re3 Rc7 57. Rd3+ Ke6 58. Rd5 Rc1 59. Re5+ Kd6 60. Rxa5 Re1+ 61. Kd3) 56. Rh8 { [%eval 4.41] } 56... Rb7 { [%eval 5.13] } 57. Re8+ { [%eval 4.97] } 57... Kd6 { [%eval 4.6] } 58. Kf5 { [%eval 5.06] } 58... Rb5+ { [%eval 5.29] } 59. Kg4 { [%eval 5.36] } 59... Rb4+ { [%eval 5.21] } 60. Kh5 { [%eval 5.19] } 60... Rxb3 { [%eval 5.1] } 61. Re7 { [%eval 4.94] } 61... Rh3+ { [%eval 5.0] } 62. Kg4 { [%eval 5.05] } 62... Rh7 { [%eval 5.07] } 63. Ra7 { [%eval 5.42] } 63... Ke6 { [%eval 5.39] } 64. Ra6+ { [%eval 5.16] } 64... Kd7 { [%eval 5.62] } 65. g6 { [%eval 5.66] } { 1-0 White wins. } 1-0
+
+
+[Event "2016 Chinese Chess League Division A"]
+[Site "Shenzhen, China"]
+[Round "9"]
+[White "Ding, Liren"]
+[Black "Zhao, Chenxi"]
+[Result "1-0"]
+[Board "11"]
+[Variant "Standard"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 13: Liren - Chenxi (2016)"]
+[UTCDate "2024.08.28"]
+[UTCTime "23:09:48"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/99qzWUeH"]
+
+1. Nf3 { [%eval 0.17] } 1... Nf6 { [%eval 0.18] } 2. c4 { [%eval 0.23] } 2... g6 { [%eval 0.31] } 3. Nc3 { [%eval 0.26] } 3... Bg7 { [%eval 0.42] } 4. e4 { [%eval 0.54] } 4... d6 { [%eval 0.51] } 5. d4 { [%eval 0.49] } 5... O-O { [%eval 0.47] } 6. h3 { [%eval 0.42] } 6... c6 { [%eval 0.67] } 7. Bg5 { [%eval 0.35] } 7... a6 { [%eval 0.8] } 8. Bd3 { [%eval 0.75] } 8... b5 { [%eval 0.82] } 9. O-O { [%eval 0.82] } 9... b4?! { [%eval 1.84] } { Inaccuracy. Nbd7 was best. } (9... Nbd7 10. Qc2 Qc7 11. Rfe1 e5 12. dxe5 Nxe5 13. Nxe5 dxe5 14. cxb5 cxb5 15. a4) 10. Na4 { [%eval 1.71] } 10... Nfd7 { [%eval 2.14] } 11. c5 { [%eval 2.28] } 11... dxc5 { [%eval 2.28] } 12. dxc5 { [%eval 2.32] } 12... a5 { [%eval 2.19] } 13. Qe2 { [%eval 2.28] } 13... h6 { [%eval 2.25] } 14. Bh4 { [%eval 1.75] } 14... Ne5?! { [%eval 2.84] } { Inaccuracy. g5 was best. } (14... g5 15. Bg3 e5 16. Rfd1 Qe7 17. Rac1 Ra7 18. Qe3 Ba6 19. Nb6 Bxd3 20. Rxd3) 15. Nxe5 { [%eval 2.89] } 15... Bxe5 { [%eval 2.78] } 16. Nb6 { [%eval 2.54] } 16... Ra7 { [%eval 2.53] } 17. Rad1 { [%eval 2.73] } 17... Qc7 { [%eval 2.64] } 18. Bc4 { [%eval 2.59] } 18... e6 { [%eval 2.75] } 19. Rd3 { [%eval 2.78] } 19... Nd7 { [%eval 2.98] } 20. Nxd7 { [%eval 2.81] } 20... Bxd7 { [%eval 2.69] } 21. Rfd1 { [%eval 2.37] } 21... Bc8 { [%eval 2.4] } 22. Bd8 { [%eval 2.45] } 22... Qb8 { [%eval 2.33] } 23. Bb6 { [%eval 2.23] } 23... Ra8 { [%eval 2.17] } 24. Rd8 { [%eval 2.1] } 24... Bf6 { [%eval 2.55] } 25. Rxf8+ { [%eval 2.51] } 25... Kxf8 { [%eval 2.11] } 26. Rd6?! { [%eval 1.5] } { Inaccuracy. Bd8 was best. } (26. Bd8 Bg7 27. Bh4 Kg8 28. Qf3 Qa7 29. Rd8+ Kh7 30. Re8 Ba6 31. Re7 Qxe7) 26... Be7 { [%eval 1.4] } 27. Qe3 { [%eval 1.53] } 27... Bxd6?! { [%eval 2.48] } { Inaccuracy. Kg8 was best. } (27... Kg8 28. e5 Bxd6 29. cxd6 Bd7 30. Be2 c5 31. Qxc5 a4 32. Bf3 Ra6 33. Bc7) 28. cxd6 { [%eval 2.44] } 28... Kg8 { [%eval 2.3] } 29. Bc5 { [%eval 2.44] } 29... Bd7 { [%eval 2.45] } 30. Qxh6 { [%eval 2.3] } 30... Qf8 { [%eval 2.3] } 31. Qg5 { [%eval 2.02] } 31... Qg7 { [%eval 2.3] } 32. e5 { [%eval 2.32] } 32... a4 { [%eval 2.88] } 33. Bxb4 { [%eval 2.91] } 33... Rb8 { [%eval 2.87] } 34. Bc3 { [%eval 2.83] } 34... c5 { [%eval 2.88] } 35. Qe7? { [%eval 1.26] } { Mistake. Be2 was best. } (35. Be2 Qh8 36. a3 Re8 37. Bd1 Kg7 38. Qf6+ Kg8 39. Qf4 Ra8 40. Bf3 Rb8) 35... a3 { [%eval 1.26] } 36. Qxd7 { [%eval 1.08] } 36... axb2 { [%eval 1.37] } 37. Bxb2 { [%eval 1.47] } 37... Rxb2 { [%eval 1.18] } 38. Qc8+ { [%eval 1.08] } 38... Kh7?! { [%eval 1.83] } { Inaccuracy. Qf8 was best. } (38... Qf8 39. d7) 39. Qxc5 { [%eval 1.96] } 39... Qh6 { [%eval 1.83] } 40. Qe3?! { [%eval 0.69] } { Inaccuracy. Qd4 was best. } (40. Qd4) 40... Qh4?! { [%eval 1.57] } { Inaccuracy. Qxe3 was best. } (40... Qxe3 41. fxe3) 41. g4 { [%eval 1.49] } 41... Qd8 { [%eval 1.92] } 42. Qa7 { [%eval 2.02] } 42... Kg8 { [%eval 1.89] } 43. a4 { [%eval 1.75] } 43... Rb1+ { [%eval 2.19] } 44. Kh2? { [%eval 0.46] } { Mistake. Kg2 was best. } (44. Kg2) 44... Qg5 { [%eval 0.71] } 45. Qe3?! { [%eval 0.12] } { Inaccuracy. Kg2 was best. } (45. Kg2 Qf4 46. Bd3 Rd1 47. Qa8+ Kg7 48. Qe4 Qd2 49. Bb5 Re1 50. Qf3 Rxe5) 45... Qd8?? { [%eval 2.73] } { Blunder. Qxe3 was best. } (45... Qxe3 46. fxe3) 46. Bb5?! { [%eval 2.05] } { Inaccuracy. Bd3 was best. } (46. Bd3 Rb2 47. Qd4 Rb3 48. Bf1 Qa5 49. d7 Qd8 50. Bb5 Rb1 51. Bd3 Rb3) 46... Qa8 { [%eval 2.57] } 47. d7 { [%eval 2.28] } 47... Qd5?! { [%eval 3.45] } { Inaccuracy. Rh1+ was best. } (47... Rh1+ 48. Kg3) 48. Bc6 { [%eval 3.18] } 48... Qd1 { [%eval 3.96] } 49. Kg3! { [%eval 3.91] } 49... Kg7?! { [%eval 5.33] } { Inaccuracy. Rb8 was best. } (49... Rb8 50. Kh4) 50. Qf4 { [%eval 5.05] } 50... Rb3+ { [%eval 5.0] } 51. Kh4 { [%eval 4.83] } 51... Rd3?! { [%eval 8.04] } { Inaccuracy. Kg8 was best. } (51... Kg8 52. a5 Rc3 53. Qg5 Rd3 54. a6 Kh7 55. Qe7 Qd2 56. Qxf7+ Kh6 57. Qf8+) 52. Kg5?! { [%eval 5.19] } { Inaccuracy. Qf6+ was best. } (52. Qf6+ Kg8 53. Kg5 Qc1+ 54. f4 Qxc6 55. d8=R+ Rxd8 56. Kh6 Kf8 57. Qxd8+ Qe8) 52... Kg8?! { [%eval 7.89] } { Inaccuracy. Rxd7 was best. } (52... Rxd7 53. Bxd7 Qxd7 54. Qf6+ Kh7 55. a5 Qe8 56. h4 Qf8 57. h5 gxh5 58. gxh5) 53. Qf6 { [%eval 7.77] } 53... Qc1+ { [%eval 7.73] } 54. f4 { [%eval 7.48] } 54... Qd2 { [%eval 7.54] } 55. h4 { [%eval 7.37] } 55... Rd4? { [%eval #5] } { Checkmate is now unavoidable. Rxd7 was best. } (55... Rxd7 56. Kh6 Kf8 57. Bxd7 Qxd7 58. a5 Ke8 59. Kg7 Qa7 60. g5 Qd7 61. a6) 56. Kh6 { [%eval #4] } { 1-0 White wins. } 1-0
+
+
+[Event "2015 Chinese Chess League Division A"]
+[Site "Shenzhen, China"]
+[Date "????.??.??"]
+[Round "15.21"]
+[White "Ni, Hua"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 14: Hua - Liren (2015)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/gZOUDyUQ"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... g6 { [%eval 0.25] } 3. Nc3 { [%eval 0.21] } 3... Bg7 { [%eval 0.51] } 4. e4 { [%eval 0.56] } 4... d6 { [%eval 0.51] } 5. Nf3 { [%eval 0.49] } 5... O-O { [%eval 0.47] } 6. h3 { [%eval 0.42] } 6... e5 { [%eval 0.36] } 7. d5 { [%eval 0.38] } 7... Nh5 { [%eval 0.37] } 8. g3 { [%eval 0.59] } 8... f5 { [%eval 0.63] } 9. exf5 { [%eval 0.58] } 9... gxf5 { [%eval 0.52] } 10. Ng5 { [%eval 0.53] } 10... Qe8 { [%eval 0.75] } 11. Be2 { [%eval 0.7] } 11... Nf6 { [%eval 0.75] } 12. Be3 { [%eval 0.31] } 12... Na6?! { [%eval 0.91] } { Inaccuracy. f4 was best. } (12... f4 13. gxf4 exf4 14. Bxf4 Ne4 15. Ngxe4 Rxf4 16. Qd3 Na6 17. Rg1 Qe5 18. Ng5) 13. Qd2 { [%eval 0.74] } 13... Nc5 { [%eval 0.88] } 14. O-O-O { [%eval 0.66] } 14... h6 { [%eval 0.67] } 15. Nf3 { [%eval 0.5] } 15... Nce4 { [%eval 0.16] } 16. Nxe4 { [%eval 0.19] } 16... Nxe4 { [%eval 0.3] } 17. Qc2 { [%eval 0.34] } 17... c6 { [%eval 0.47] } 18. dxc6 { [%eval -0.01] } 18... bxc6 { [%eval 0.0] } 19. g4 { [%eval 0.0] } 19... d5 { [%eval 0.0] } 20. Nh4?! { [%eval -0.97] } { Inaccuracy. gxf5 was best. } (20. gxf5 Bxf5 21. Nh4 Bh7 22. Rhg1 Ng5 23. Qd2 Ne4) 20... d4?! { [%eval 0.0] } { Inaccuracy. f4 was best. } (20... f4) 21. gxf5 { [%eval 0.0] } 21... Nc5! { [%eval 0.0] } 22. Rhg1 { [%eval 0.0] } 22... dxe3 { [%eval 0.08] } 23. Rxg7+ { [%eval 0.0] } 23... Kxg7 { [%eval 0.0] } 24. Rg1+ { [%eval -0.41] } 24... Kf6 { [%eval -0.55] } 25. Rg6+ { [%eval -0.24] } 25... Ke7 { [%eval 0.0] } 26. Qc3 { [%eval -0.01] } 26... Bxf5 { [%eval 0.0] } 27. Qxe5+?? { [%eval -2.34] } { Blunder. Rg7+ was best. } (27. Rg7+ Kf6 28. Nxf5 exf2 29. Qf3 Ne6 30. Rh7 Nf4 31. Rxh6+ Kxf5 32. Qg4+ Ke4) 27... Kd8 { [%eval -2.24] } 28. Qxc5 { [%eval -2.36] } 28... Bxg6 { [%eval -2.2] } 29. Nxg6?! { [%eval -3.56] } { Inaccuracy. Qd6+ was best. } (29. Qd6+ Qd7 30. Qxf8+ Kc7 31. Qf4+ Kb7 32. Qxe3 Re8 33. Bg4 Qd3 34. Qxd3 Bxd3) 29... Rxf2 { [%eval -3.74] } 30. Ne5 { [%eval -3.73] } 30... Rxe2 { [%eval -3.97] } 31. Nxc6+ { [%eval -3.93] } 31... Kd7 { [%eval -3.93] } 32. Ne5+ { [%eval -3.35] } 32... Ke6 { [%eval -3.79] } 33. Qd5+ { [%eval -3.75] } 33... Ke7 { [%eval -3.59] } 34. Nc6+?! { [%eval -5.39] } { Inaccuracy. Qc5+ was best. } (34. Qc5+ Ke6 35. Qd5+ Kf5 36. Ng4+ Kf4 37. Qd6+ Kf3 38. Qd1 Qe4 39. Nh2+ Kf4) 34... Kf8 { [%eval -5.14] } 35. Qd6+ { [%eval -5.88] } 35... Kg7 { [%eval -6.06] } 36. Qd4+ { [%eval -6.05] } 36... Kh7 { [%eval -5.86] } 37. Qd3+ { [%eval -5.94] } 37... Qg6 { [%eval -5.82] } { 0-1 Black wins. } 38. Qxe2 { [%csl Gc6] } 0-1
+
+
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.21"]
+[White "Ding Liren"]
+[Black "Sergey Karjakin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 4: Liren - Karjakin (2016)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/C1U340Db"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... e6 { [%eval 0.11] } 3. Nf3 { [%eval 0.12] } 3... b6 { [%eval 0.23] } 4. g3 { [%eval 0.24] } 4... Ba6 { [%eval 0.17] } 5. b3 { [%eval 0.14] } 5... Bb4+ { [%eval 0.17] } 6. Bd2 { [%eval 0.16] } 6... Be7 { [%eval 0.16] } 7. Nc3 { [%eval 0.18] } 7... c6 { [%eval 0.38] } 8. e4 { [%eval 0.47] } 8... d5 { [%eval 0.44] } 9. Bd3 { [%eval 0.38] } 9... dxe4 { [%eval 0.43] } 10. Nxe4 { [%eval 0.38] } 10... Bb7 { [%eval 0.65] } 11. Qe2 { [%eval 0.63] } 11... Nbd7 { [%eval 0.61] } 12. O-O-O { [%eval 0.49] } 12... Nxe4?! { [%eval 1.05] } { Inaccuracy. c5 was best. } (12... c5 13. Bc3) 13. Bxe4 { [%eval 1.05] } 13... Nf6 { [%eval 1.06] } 14. Bc2 { [%eval 1.19] } 14... a5 { [%eval 1.34] } 15. Rhe1 { [%eval 1.27] } 15... b5 { [%eval 1.33] } 16. c5 { [%eval 1.44] } 16... b4 { [%eval 1.45] } 17. g4 { [%eval 1.33] } 17... Ba6 { [%eval 1.66] } 18. Qe5 { [%eval 2.19] } 18... O-O { [%eval 2.07] } 19. g5 { [%eval 2.12] } 19... Nh5 { [%eval 1.9] } 20. Qe4 { [%eval 2.1] } 20... g6 { [%eval 1.89] } 21. Qxc6?! { [%eval 1.29] } { Inaccuracy. h4 was best. } (21. h4 Bb5 22. Ne5 Qc7 23. Re3 Rad8 24. Rf3 f5 25. gxf6 Nxf6 26. Qf4 Nd5) 21... Ra7 { [%eval 1.32] } 22. Be4 { [%eval 0.85] } 22... Bb7 { [%eval 0.94] } 23. Qb6 { [%eval 0.88] } 23... Qxb6 { [%eval 0.81] } 24. cxb6 { [%eval 0.9] } 24... Bxe4 { [%eval 0.94] } 25. Rxe4 { [%eval 1.04] } 25... Rb7 { [%eval 0.86] } 26. Be3 { [%eval 0.47] } 26... Rc8+ { [%eval 0.85] } 27. Kb1 { [%eval 0.74] } 27... Rxb6 { [%eval 0.83] } 28. d5! { [%eval 0.87] } 28... Rd6 { [%eval 0.88] } 29. Rd2 { [%eval 0.84] } 29... Kf8 { [%eval 0.73] } 30. dxe6 { [%eval 0.81] } 30... Rxe6 { [%eval 0.87] } 31. Rxe6 { [%eval 0.86] } 31... fxe6 { [%eval 0.88] } 32. Rc2 { [%eval 0.85] } 32... Rd8 { [%eval 1.02] } 33. Nd4 { [%eval 0.96] } 33... Ng7 { [%eval 1.1] } 34. Nc6 { [%eval 1.14] } 34... Rd1+ { [%eval 1.28] } 35. Rc1 { [%eval 1.28] } 35... Rd5 { [%eval 1.2] } 36. Nxe7 { [%eval 1.12] } 36... Kxe7 { [%eval 1.09] } 37. Rc7+ { [%eval 1.09] } 37... Kf8 { [%eval 1.09] } 38. Rc5 { [%eval 0.81] } 38... Ke7 { [%eval 1.02] } 39. Rxd5?! { [%eval 0.06] } { Inaccuracy. Rc7+ was best. } (39. Rc7+) 39... exd5 { [%eval 0.1] } 40. Bb6 { [%eval 0.14] } 40... Kd6? { [%eval 1.79] } { Mistake. Ne6 was best. } (40... Ne6 { [%cal Ge6g5] }) 41. Bxa5 { [%eval 1.76] } 41... Kc5 { [%eval 1.75] } 42. Bd8 { [%eval 1.6] } 42... Nf5 { [%eval 1.54] } 43. Kc2 { [%eval 1.98] } 43... Nd4+ { [%eval 1.87] } 44. Kd3 { [%eval 1.81] } 44... Nf5 { [%eval 1.73] } 45. Bc7 { [%eval 1.55] } 45... Kc6 { [%eval 1.86] } 46. Bf4 { [%eval 1.71] } 46... Kc5 { [%eval 1.79] } 47. Be3+ { [%eval 1.7] } 47... Kb5 { [%eval 1.96] } 48. Ke2 { [%eval 1.92] } 48... Nh4?! { [%eval 2.65] } { Inaccuracy. Kc6 was best. } (48... Kc6 49. Kf3 Ne7 50. Bc1 Kc5 51. Ke3 Nc6 52. a3 Kb5 53. a4+ Kc5 54. Kd3) 49. Bd2 { [%eval 2.49] } 49... Nf5 { [%eval 2.53] } 50. Kf3 { [%eval 2.22] } 50... Nd4+?! { [%eval 3.27] } { Inaccuracy. Nd6 was best. } (50... Nd6 51. Kf4) 51. Kf4 { [%eval 3.3] } 51... Nc6 { [%eval 3.35] } 52. Be3 { [%eval 3.17] } 52... Ka6 { [%eval 3.13] } 53. Bc5 { [%eval 3.31] } 53... Kb5 { [%eval 3.25] } 54. Bd6 { [%eval 3.05] } 54... Ka5?! { [%eval 4.51] } { Inaccuracy. Kb6 was best. } (54... Kb6 55. Ke3 Kb7 56. Kd3 Kc8 57. f4 Kd7 58. Bc5 Kc7 59. Ke3 Kd7 60. Kf3) 55. Ke3 { [%eval 4.11] } { 1-0 White wins. } 1-0
+
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.13"]
+[White "Ding Liren"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 5: Liren - Hao (2017)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/4DJFJqPo"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... e6 { [%eval 0.11] } 3. g3 { [%eval 0.16] } 3... d5 { [%eval 0.27] } 4. Bg2 { [%eval 0.18] } 4... Be7 { [%eval 0.22] } 5. Nf3 { [%eval 0.16] } 5... O-O { [%eval 0.28] } 6. O-O { [%eval 0.17] } 6... dxc4 { [%eval 0.16] } 7. Qc2 { [%eval 0.15] } 7... a6 { [%eval 0.27] } (7... b5 8. a4 c6 9. axb5 cxb5) 8. a4 { [%eval 0.35] } 8... Bd7 { [%eval 0.29] } 9. Qxc4 { [%eval 0.13] } 9... Bc6 { [%eval 0.19] } 10. Bg5 { [%eval 0.15] } 10... h6 { [%eval 0.33] } 11. Bxf6 { [%eval 0.24] } 11... Bxf6 { [%eval 0.28] } 12. Nc3 { [%eval 0.14] } 12... Bxf3 { [%eval 0.06] } 13. Bxf3 { [%eval 0.19] } 13... c6 { [%eval 0.46] } 14. e3 { [%eval 0.45] } 14... a5 { [%eval 0.38] } 15. b4 { [%eval 0.37] } 15... axb4 { [%eval 0.39] } 16. Qxb4 { [%eval 0.47] } 16... Ra7 { [%eval 0.37] } 17. a5 { [%eval 0.35] } 17... Na6 { [%eval 0.45] } 18. Qb6 { [%eval 0.62] } 18... Qa8 { [%eval 0.39] } 19. Ne4 { [%eval 0.31] } 19... Bd8 { [%eval 0.34] } 20. Qb2 { [%eval 0.33] } 20... Nb8 { [%eval 0.87] } 21. Nd6 { [%eval 0.77] } 21... Bxa5 { [%eval 0.88] } 22. Nxb7?! { [%eval 0.05] } { Inaccuracy. Rfb1 was best. } (22. Rfb1 b6) 22... Qxb7 { [%eval 0.24] } 23. Qxb7 { [%eval 0.31] } 23... Rxb7 { [%eval 0.33] } 24. Rxa5 { [%eval 0.28] } 24... Rc8 { [%eval 0.23] } 25. Rc1 { [%eval 0.21] } 25... Rbc7 { [%eval 0.22] } 26. Ra8 { [%eval 0.24] } 26... Kf8 { [%eval 0.25] } 27. h4 { [%eval 0.3] } 27... Ke7 { [%eval 0.22] } 28. h5! { [%eval 0.04] } 28... Kd6 { [%eval 0.05] } 29. e4! { [%eval 0.13] } 29... Ke7 { [%eval 0.1] } 30. e5 { [%eval 0.53] } 30... Rd8 { [%eval 0.76] } 31. Kg2 { [%eval 0.32] } 31... Rb7 { [%eval 0.82] } 32. Rc4 { [%eval 0.63] } 32... f6 { [%eval 0.85] } 33. Be4 { [%eval 0.94] } 33... fxe5 { [%eval 1.35] } 34. dxe5 { [%eval 1.39] } 34... Rb2 { [%eval 1.76] } 35. Bg6 { [%eval 1.87] } 35... Nd7 { [%eval 2.36] } 36. Ra7 { [%eval 2.28] } 36... Re2 { [%eval 2.28] } 37. Re4 { [%eval 2.16] } 37... Rxe4 { [%eval 2.21] } 38. Bxe4 { [%eval 2.34] } 38... Rc8 { [%eval 2.33] } 39. f4 { [%eval 2.19] } 39... Kd8 { [%eval 2.23] } 40. Kf3 { [%eval 1.48] } 40... c5 { [%eval 1.47] } 41. Ke3 { [%eval 1.48] } 41... Rc7 { [%eval 1.76] } 42. Ra8+ { [%eval 1.56] } 42... Rc8 { [%eval 2.21] } 43. Ra6 { [%eval 2.13] } 43... Ke7 { [%eval 1.95] } 44. Ra7 { [%eval 1.63] } 44... c4 { [%eval 1.56] } 45. Kd2 { [%eval 2.41] } 45... c3+ { [%eval 2.34] } 46. Kc2 { [%eval 1.75] } 46... Kd8 { [%eval 1.62] } 47. Bd3 { [%eval 1.58] } 47... Rc5?! { [%eval 2.26] } { Inaccuracy. Rc7 was best. } (47... Rc7 48. Ra6 Ke7 49. Ra3 Nb6 50. Rxc3 Rxc3+ 51. Kxc3 Nd7 52. Bc4 Nf8 53. Bb5) 48. Ra8+ { [%eval 2.31] } 48... Ke7 { [%eval 2.15] } 49. Ra7 { [%eval 2.36] } 49... Kd8 { [%eval 2.18] } 50. Ra3 { [%eval 2.34] } 50... Nb6 { [%eval 2.65] } 51. Rxc3 { [%eval 2.51] } 51... Rxc3+ { [%eval 2.67] } 52. Kxc3 { [%eval 2.33] } 52... Nd5+? { [%eval 4.14] } { Mistake. Nd7 was best. } (52... Nd7 53. Bb5) 53. Kd4 { [%eval 3.73] } 53... Ke7?! { [%eval 4.81] } { Inaccuracy. Kd7 was best. } (53... Kd7 54. Bc4) 54. Be4 { [%eval 4.7] } 54... Nb4 { [%eval 5.57] } 55. Kc5 { [%eval 6.2] } 55... Na2 { [%eval 5.83] } 56. Kc4 { [%eval 5.96] } 56... Nc1 { [%eval 5.84] } 57. Bd3 { [%eval 5.81] } { 1-0 White wins. } 1-0
+
+
+[Event "12th World Teams 2019"]
+[Site "Astana KAZ"]
+[Date "2019.03.05"]
+[White "Ding Liren"]
+[Black "Michael Adams"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 6: Liren - Adams (2019)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/FUA65QEC"]
+
+1. Nf3 { [%eval 0.17] } 1... d5 { [%eval 0.18] } 2. g3 { [%eval 0.08] } 2... Nf6 { [%eval 0.21] } 3. Bg2 { [%eval 0.13] } 3... c5 { [%eval 0.24] } 4. O-O { [%eval 0.13] } 4... g6 { [%eval 0.14] } 5. d4 { [%eval 0.12] } 5... cxd4 { [%eval 0.07] } 6. Nxd4 { [%eval 0.17] } 6... Bg7 { [%eval 0.17] } 7. Nb3 { [%eval 0.0] } 7... O-O { [%eval 0.06] } 8. Nc3 { [%eval 0.1] } 8... e6 { [%eval 0.13] } 9. e4 { [%eval 0.15] } 9... Nc6 { [%eval 0.06] } 10. exd5 { [%eval 0.05] } 10... exd5 { [%eval 0.07] } 11. Bg5 { [%eval 0.07] } 11... h6 { [%eval 0.12] } 12. Be3 { [%eval 0.1] } 12... Re8 { [%eval 0.01] } 13. Qd2 { [%eval 0.04] } 13... Ng4 { [%eval 0.07] } 14. Bc5 { [%eval 0.07] } 14... Be6 { [%eval 0.49] } 15. Nxd5 { [%eval 0.53] } 15... Bxb2 { [%eval 0.55] } 16. Rad1 { [%eval 0.57] } 16... Bxd5 { [%eval 0.77] } 17. Bxd5 { [%eval 0.81] } 17... Qg5 { [%eval 0.74] } 18. Qxg5 { [%eval 0.43] } 18... hxg5 { [%eval 0.45] } 19. c4 { [%eval 0.09] } 19... Rac8 { [%eval 0.12] } 20. h3 { [%eval 0.15] } 20... Nf6 { [%eval 0.17] } 21. Be3 { [%eval 0.13] } 21... g4 { [%eval 0.08] } 22. Bg2 { [%eval 0.16] } 22... gxh3 { [%eval 0.09] } 23. Bxh3 { [%eval 0.09] } 23... Rc7 { [%eval 0.09] } 24. Kg2 { [%eval 0.05] } 24... Ne5 { [%eval -0.05] } 25. c5 { [%eval 0.01] } 25... Kg7 { [%eval 0.05] } 26. Bf4 { [%eval 0.09] } 26... Rce7 { [%eval 0.08] } 27. Rd2 { [%eval 0.08] } 27... Ba3 { [%eval 0.11] } 28. Rd4 { [%eval 0.11] } 28... Nc6 { [%eval 0.08] } 29. Ra4 { [%eval 0.11] } 29... Bb4 { [%eval 0.13] } 30. Bd6 { [%eval 0.0] } 30... Re2 { [%eval 0.0] } 31. Nd4!! { [%eval 0.0] } 31... Nxd4 { [%eval 0.0] } 32. Rxb4 { [%eval -0.07] } 32... Nc2 { [%eval -0.08] } 33. Rxb7 { [%eval -0.04] } 33... Ne3+ { [%eval 0.0] } 34. Kf3 { [%eval 0.0] } 34... Nxf1 { [%eval 0.0] } 35. Bxf1 { [%eval 0.0] } 35... Rc2 { [%eval 0.0] } 36. Bb5 { [%eval 0.0] } 36... Re6 { [%eval 0.0] } 37. Rxa7 { [%eval 0.0] } 37... Ne4 { [%eval 0.02] } 38. Bd7 { [%eval 0.0] } 38... Rxf2+ { [%eval 0.37] } 39. Ke3 { [%eval 0.45] } 39... Rff6 { [%eval 0.36] } 40. Bxe6 { [%eval 0.36] } 40... Rxe6 { [%eval 0.45] } 41. Bc7 { [%eval 0.3] } 41... Nxc5+ { [%eval 0.43] } 42. Kd4 { [%eval 0.35] } 42... Na6 { [%eval 0.87] } 43. Be5+ { [%eval 0.94] } 43... Kf8 { [%eval 0.97] } 44. a3 { [%eval 0.95] } 44... Ke8? { [%eval 2.56] } { Mistake. Nc5 was best. } (44... Nc5 45. Bf4 Ne4 46. a4 g5 47. Bc7 Nd6 48. Kc5 Ne4+ 49. Kc4 Nd6+ 50. Bxd6+) 45. Kd5?? { [%eval 0.34] } { Blunder. Bf4 was best. } (45. Bf4 Rb6 46. Kd5 Kf8 47. a4 Kg8 48. Be3 Re6 49. Bd4 g5 50. Kc4 f5) 45... Nc5 { [%eval 0.33] } 46. a4 { [%eval 0.22] } 46... Nd7 { [%eval 0.2] } 47. Bc7 { [%eval 0.43] } 47... Nf6+ { [%eval 0.41] } 48. Kc4 { [%eval 0.45] } 48... Rc6+ { [%eval 0.58] } 49. Kb5 { [%eval 0.64] } 49... Rc2 { [%eval 0.72] } 50. a5 { [%eval 0.72] } 50... Kd7?? { [%eval 3.79] } { Blunder. Rb2+ was best. } (50... Rb2+) 51. Be5+ { [%eval 3.77] } 51... Ke6 { [%eval 3.43] } 52. Rc7 { [%eval 3.26] } 52... Ra2?! { [%eval 4.22] } { Inaccuracy. Rxc7 was best. } (52... Rxc7 53. Bxc7 Kd7 54. Bf4 Nd5 55. Be5 Nc7+ 56. Kb6 Nd5+ 57. Kc5 Ne7 58. a6) 53. Bxf6 { [%eval 4.08] } 53... Kxf6 { [%eval 3.96] } 54. a6 { [%eval 3.76] } 54... Rb2+?! { [%eval 5.1] } { Inaccuracy. Ke6 was best. } (54... Ke6 55. a7 f6 56. Rc6+ Kd5 57. Ra6 Rb2+ 58. Ka5 Kc5 59. Rc6+ Kxc6 60. a8=Q+) 55. Kc6 { [%eval 5.0] } 55... Ra2 { [%eval 4.82] } 56. a7 { [%eval 4.43] } 56... Kg5 { [%eval 5.13] } 57. Rxf7 { [%eval 4.84] } 57... Kg4 { [%eval 4.95] } 58. Rg7 { [%eval 5.09] } 58... g5 { [%eval 5.05] } 59. Kb7 { [%eval 5.24] } { 1-0 White wins. } 1-0
+
+
+[Event "ch-CHN 2012"]
+[Site "Xinghua CHN"]
+[Date "2012.04.03"]
+[White "Zhou Jianchao"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E84"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Main Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 7: Jianchao - Liren (2012)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/xItOS3Y0"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... g6 { [%eval 0.25] } 3. Nc3 { [%eval 0.21] } 3... Bg7 { [%eval 0.51] } 4. e4 { [%eval 0.56] } 4... d6 { [%eval 0.51] } 5. f3 { [%eval 0.33] } 5... O-O { [%eval 0.37] } 6. Be3 { [%eval 0.3] } 6... Nc6 { [%eval 0.44] } 7. Nge2 { [%eval 0.58] } 7... a6 { [%eval 0.49] } 8. Qd2 { [%eval 0.68] } 8... Rb8 { [%eval 0.75] } 9. Rc1 { [%eval 0.62] } 9... e6 { [%eval 0.74] } 10. b3 { [%eval 0.77] } 10... Nd7 { [%eval 0.69] } 11. h4 { [%eval 0.72] } 11... h5 { [%eval 0.8] } 12. d5 { [%eval 0.48] } 12... Nce5 { [%eval 0.63] } 13. Nf4 { [%eval 0.48] } 13... Nf6 { [%eval 0.85] } 14. Be2 { [%eval 0.82] } 14... c5 { [%eval 0.86] } 15. dxe6 { [%eval 0.8] } 15... Bxe6 { [%eval 0.83] } 16. Rd1 { [%eval 0.66] } 16... Qa5 { [%eval 0.81] } 17. Na4 { [%eval 0.63] } 17... Qxd2+ { [%eval 0.63] } 18. Rxd2 { [%eval 0.72] } 18... Rfd8 { [%eval 0.94] } 19. Nb6 { [%eval 0.99] } 19... Nc6 { [%eval 0.7] } 20. Kf2 { [%eval 0.73] } 20... Nd4 { [%eval 0.84] } 21. b4 { [%eval 0.71] } 21... Nd7 { [%eval 0.68] } 22. bxc5 { [%eval 0.65] } 22... dxc5 { [%eval 0.66] } 23. Rb1 { [%eval 0.74] } 23... Ne5?! { [%eval 1.83] } { Inaccuracy. Nxb6 was best. } (23... Nxb6 24. Rxb6) 24. Nxe6 { [%eval 1.7] } 24... fxe6 { [%eval 1.47] } 25. f4 { [%eval 1.42] } 25... Nec6 { [%eval 1.29] } 26. e5 { [%eval 1.08] } 26... Bf8 { [%eval 1.46] } 27. g3?! { [%eval 0.4] } { Inaccuracy. Bd3 was best. } (27. Bd3) 27... Kf7? { [%eval 1.53] } { Mistake. Nxe2 was best. } (27... Nxe2) 28. Bd3 { [%eval 1.51] } 28... Ne7 { [%eval 1.55] } 29. Na4 { [%eval 1.4] } 29... Nef5 { [%eval 1.21] } 30. Bxf5 { [%eval 1.5] } 30... Nxf5? { [%eval 3.04] } { Mistake. gxf5 was best. } (30... gxf5 31. Rb6) 31. Rxd8 { [%eval 2.98] } 31... Rxd8 { [%eval 2.96] } 32. Rxb7+ { [%eval 3.06] } 32... Kg8 { [%eval 3.14] } 33. Nb2 { [%eval 3.09] } 33... Be7 { [%eval 3.3] } 34. Rb3 { [%eval 2.69] } 34... Kf7 { [%eval 2.82] } 35. Nd3 { [%eval 2.59] } 35... Rd7 { [%eval 2.81] } 36. Kf3 { [%eval 2.73] } 36... a5 { [%eval 2.51] } 37. a4 { [%eval 2.24] } 37... Rd4 { [%eval 2.32] } 38. Nb2 { [%eval 2.5] } 38... Rd7 { [%eval 2.3] } 39. Rb5 { [%eval 2.32] } 39... Bd8 { [%eval 2.49] } 40. Rb3 { [%eval 2.58] } 40... Be7 { [%eval 2.43] } 41. Rb5 { [%eval 2.48] } 41... Bd8 { [%eval 2.15] } 42. Bxc5 { [%eval 1.83] } 42... Rd2 { [%eval 1.81] } 43. Bf2 { [%eval 1.76] } 43... Rc2 { [%eval 1.72] } 44. c5 { [%eval 1.45] } 44... Rc3+ { [%eval 1.66] } 45. Kg2 { [%eval 1.67] } 45... Ke8 { [%eval 1.53] } 46. Nd1 { [%eval 1.54] } 46... Rc4 { [%eval 1.21] } 47. Nb2 { [%eval 1.2] } 47... Rc3 { [%eval 1.33] } 48. Nd1 { [%eval 1.23] } 48... Rc4 { [%eval 1.31] } 49. Ne3 { [%eval 1.37] } 49... Rxa4 { [%eval 1.45] } 50. Nxf5 { [%eval 1.2] } 50... gxf5 { [%eval 1.27] } 51. c6?! { [%eval 0.2] } { Inaccuracy. Rb8 was best. } (51. Rb8 Rc4 52. Kf3 a4 53. Ra8 Kd7 54. Ke2 Rc2+ 55. Ke1 Kc7 56. Be3 a3) 51... Rc4 { [%eval 0.38] } 52. Bc5 { [%eval 0.0] } 52... a4 { [%eval 0.0] } 53. Kf1 { [%eval -0.15] } 53... Rc3 { [%eval -0.17] } 54. Bb6?? { [%eval -3.43] } { Blunder. Kg2 was best. } (54. Kg2 a3) 54... Rb3 { [%eval -3.63] } 55. Rc5 { [%eval -3.65] } 55... Rxb6 { [%eval -3.55] } 56. c7 { [%eval -3.59] } 56... Bxc7 { [%eval -3.24] } 57. Rxc7 { [%eval -3.5] } 57... Ra6 { [%eval -3.24] } 58. Rc2? { [%eval -5.22] } { Mistake. Ke2 was best. } (58. Ke2 a3 59. Rc1 a2 60. Ra1 Ra3 61. Kd1 Kd7 62. Kc2 Kc6 63. Kb2 Rxg3) 58... a3 { [%eval -4.98] } 59. Ra2 { [%eval -5.01] } 59... Kd7 { [%eval -5.47] } 60. Ke2 { [%eval -5.26] } 60... Kc6 { [%eval -5.32] } 61. Kd2 { [%eval -5.35] } 61... Kd5 { [%eval -5.22] } 62. Kd3 { [%eval -5.47] } 62... Ra8 { [%eval -5.35] } 63. Kc2 { [%eval -5.6] } 63... Ke4 { [%eval -5.47] } 64. Kb1 { [%eval -5.25] } 64... Kf3 { [%eval -5.36] } 65. Rd2 { [%eval -5.31] } 65... Kxg3 { [%eval -5.25] } 66. Rd6 { [%eval -5.15] } 66... Re8 { [%eval -4.99] } { 0-1 Black wins. } 0-1
+
+
+[Event "IND-CHN Summit 2015"]
+[Site "Hyderabad IND"]
+[Date "2015.03.10"]
+[White "S P Sethuraman"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 15: Sethuraman - Liren (2015)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/b6t2OAoE"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.21] } 2... Nc6 { [%eval 0.17] } 3. Bb5 { [%eval 0.13] } 3... a6 { [%eval 0.25] } 4. Ba4 { [%eval 0.15] } 4... Nf6 { [%eval 0.2] } 5. O-O { [%eval 0.21] } 5... Be7 { [%eval 0.21] } 6. Re1 { [%eval 0.24] } 6... b5 { [%eval 0.31] } 7. Bb3 { [%eval 0.2] } 7... d6 { [%eval 0.23] } 8. c3 { [%eval 0.37] } 8... O-O { [%eval 0.4] } 9. h3 { [%eval 0.38] } 9... Nb8 { [%eval 0.4] } 10. d4 { [%eval 0.32] } 10... Nbd7 { [%eval 0.33] } 11. Nbd2 { [%eval 0.35] } 11... Bb7 { [%eval 0.35] } 12. Bc2 { [%eval 0.38] } 12... Re8 { [%eval 0.44] } 13. Nf1 { [%eval 0.43] } 13... Bf8 { [%eval 0.5] } 14. Ng3 { [%eval 0.47] } 14... g6 { [%eval 0.45] } 15. b3 { [%eval 0.3] } 15... c6 { [%eval 0.66] } 16. Bg5 { [%eval 0.7] } 16... Bg7 { [%eval 0.74] } 17. Qd2 { [%eval 0.72] } 17... Nf8 { [%eval 0.75] } 18. Rad1 { [%eval 0.53] } 18... Qc7 { [%eval 0.59] } 19. Bh6 { [%eval 0.56] } 19... Ne6 { [%eval 0.66] } 20. b4 { [%eval 0.56] } 20... a5 { [%eval 0.74] } 21. Bb3 { [%eval 0.7] } 21... Bc8 { [%eval 0.63] } 22. a3 { [%eval 0.38] } 22... axb4 { [%eval 0.48] } 23. axb4 { [%eval 0.49] } 23... Ra3 { [%eval 0.64] } 24. Rb1 { [%eval 0.52] } 24... Nf8 { [%eval 0.72] } 25. Nh4?! { [%eval 0.0] } { Inaccuracy. Qc1 was best. } (25. Qc1 Ra8) 25... Be6 { [%eval 0.0] } 26. Bxg7 { [%eval 0.0] } 26... Kxg7 { [%eval 0.02] } 27. Bc2 { [%eval -0.25] } 27... h6 { [%eval -0.3] } 28. Rf1 { [%eval -0.46] } 28... Qe7 { [%eval -0.08] } 29. Rbe1 { [%eval -0.02] } 29... N8d7?! { [%eval 0.95] } { Inaccuracy. Rea8 was best. } (29... Rea8 30. Bb1) 30. f4 { [%eval 0.94] } 30... exf4 { [%eval 0.89] } 31. Rxf4 { [%eval 0.98] } 31... Ra2?! { [%eval 1.98] } { Inaccuracy. Qd8 was best. } (31... Qd8 32. Ref1) 32. d5 { [%eval 2.14] } 32... cxd5 { [%eval 2.06] } 33. exd5 { [%eval 1.94] } 33... Rxc2 { [%eval 2.03] } 34. Qxc2 { [%eval 2.17] } 34... Nxd5 { [%eval 2.11] } 35. Rg4 { [%eval 1.83] } 35... Kh8 { [%eval 1.69] } 36. Qd2?! { [%eval 1.1] } { Inaccuracy. Nxg6+ was best. } (36. Nxg6+ fxg6) 36... Kh7 { [%eval 1.09] } 37. Nf3 { [%eval 1.12] } 37... Ne5 { [%eval 1.13] } 38. Nxe5 { [%eval 1.02] } 38... dxe5 { [%eval 1.15] } 39. Rxe5 { [%eval 1.1] } 39... Qc7 { [%eval 1.09] } 40. Rge4 { [%eval 0.71] } 40... Rd8 { [%eval 0.73] } 41. Ne2 { [%eval 0.43] } 41... f5?! { [%eval 1.35] } { Inaccuracy. Rd7 was best. } (41... Rd7 42. Nd4 Nxc3 43. Re3 Qb6 44. Qxc3 Rxd4 45. Rc5 Rd1+ 46. Re1 Rd7 47. Qf3) 42. Rxe6?! { [%eval 0.25] } { Inaccuracy. Re3 was best. } (42. Re3 Bf7) 42... fxe4 { [%eval 0.22] } 43. Rxe4 { [%eval 0.16] } 43... Nxb4 { [%eval 0.12] } 44. Nd4 { [%eval 0.31] } 44... Nc6 { [%eval 0.47] } 45. Qe3 { [%eval 0.51] } 45... Rd7 { [%eval 0.4] } 46. Ne6 { [%eval 0.23] } 46... Rd1+ { [%eval 0.23] } 47. Kf2 { [%eval 0.25] } 47... Qf7+ { [%eval 0.19] } 48. Rf4 { [%eval 0.11] } 48... Qe7 { [%eval 0.08] } 49. Re4 { [%eval 0.1] } 49... Qf6+ { [%eval 0.09] } 50. Rf4 { [%eval 0.1] } 50... Qe7 { [%eval 0.08] } 51. h4 { [%eval 0.0] } 51... Rd6 { [%eval 0.08] } 52. Re4 { [%eval 0.09] } 52... Qf7+ { [%eval 0.17] } 53. Kg1 { [%eval 0.28] } 53... Qf6 { [%eval 0.12] } 54. Kh2 { [%eval 0.16] } 54... Rd5 { [%eval 0.22] } 55. Qb6 { [%eval 0.11] } 55... Ne5 { [%eval 0.14] } 56. Ng5+ { [%eval 0.19] } 56... Kg7 { [%eval 0.22] } 57. Ne6+ { [%eval 0.26] } 57... Kh7 { [%eval 0.24] } 58. Rf4 { [%eval 0.0] } 58... Qe7 { [%eval 0.0] } 59. Nf8+ { [%eval 0.0] } 59... Kg7 { [%eval 0.0] } 60. Ne6+ { [%eval 0.0] } 60... Kh7 { [%eval 0.0] } 61. Nf8+ { [%eval 0.0] } 61... Kg7 { [%eval 0.0] } 62. h5?? { [%eval -4.31] } { Blunder. Ne6+ was best. } (62. Ne6+ Kh7) 62... Ng4+ { [%eval -4.55] } 63. Rxg4 { [%eval -4.52] } 63... Rxh5+ { [%eval -4.53] } 64. Kg3 { [%eval -4.26] } 64... Qe1+ { [%eval -4.3] } 65. Qf2 { [%eval -4.5] } 65... Qxc3+ { [%eval -4.47] } 66. Qf3 { [%eval -4.42] } 66... Qe1+ { [%eval -4.36] } 67. Qf2 { [%eval -4.3] } 67... Qxf2+ { [%eval -4.52] } 68. Kxf2 { [%eval -4.36] } 68... Rf5+ { [%eval -4.35] } 69. Ke3 { [%eval -4.26] } 69... Rxf8 { [%eval -4.22] } 70. Rb4 { [%eval -4.22] } 70... Rb8 { [%eval -4.14] } 71. g4 { [%eval -4.88] } 71... Kf6 { [%eval -4.83] } 72. Kf4 { [%eval -4.77] } 72... Rb6 { [%eval -4.51] } 73. g5+ { [%eval -5.36] } 73... hxg5+ { [%eval -5.3] } 74. Kg4 { [%eval -5.23] } 74... Ke5 { [%eval -5.1] } { 0-1 Black wins. } 0-1
+
+
+[Event "2020-candidates-chess-tournament"]
+[Date "2020.03.19"]
+[White "Ding Liren"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Wiesbaden Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 8: Liren - Caruana (2020)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/eCJkOqUx"]
+
+1. d4 { [%eval 0.17] } 1... d5 { [%eval 0.23] } 2. c4 { [%eval 0.19] } 2... c6 { [%eval 0.21] } 3. Nf3 { [%eval 0.19] } 3... Nf6 { [%eval 0.27] } 4. Nc3 { [%eval 0.16] } 4... dxc4 { [%eval 0.27] } 5. a4 { [%eval 0.2] } 5... Bf5 { [%eval 0.26] } 6. Ne5 { [%eval 0.28] } 6... e6 { [%eval 0.52] } 7. f3 { [%eval 0.42] } 7... Bb4 { [%eval 0.46] } 8. Nxc4 { [%eval 0.43] } 8... O-O { [%eval 0.42] } 9. Kf2 { [%eval 0.48] } 9... e5 { [%eval 0.75] } 10. Nxe5 { [%eval 0.73] } 10... Bc2 { [%eval 0.71] } 11. Qd2 { [%eval 0.68] } 11... c5 { [%eval 0.58] } 12. d5 { [%eval 0.54] } 12... Bb3 { [%eval 0.64] } 13. e4 { [%eval 0.64] } 13... Re8 { [%eval 0.68] } 14. Qf4 { [%eval 0.81] } 14... c4 { [%eval 0.52] } 15. Nxc4 { [%eval 0.24] } 15... Nbd7 { [%eval 0.42] } 16. Be3 { [%eval 0.27] } 16... Nf8 { [%eval 0.26] } 17. Bd4 { [%eval 0.65] } 17... Ng6? { [%eval 1.91] } { Mistake. Rc8 was best. } (17... Rc8 18. Ne3) 18. Qf5? { [%eval 0.21] } { Mistake. Qc1 was best. } (18. Qc1 Rc8 19. Nd2 Bxd5 20. exd5 Nh4 21. Nb3 Nxd5 22. Qd2 Nf5 23. Rd1 Re6) 18... Bxc4 { [%eval 0.2] } 19. Bxc4 { [%eval 0.23] } 19... Qc7 { [%eval 0.1] } 20. Be2 { [%eval 0.19] } 20... Bc5 { [%eval 0.19] } 21. Bxc5 { [%eval 0.19] } 21... Qxc5+ { [%eval 0.25] } 22. Kf1 { [%eval 0.33] } 22... h6 { [%eval 0.82] } 23. Rd1 { [%eval 0.58] } 23... Qb6 { [%eval 0.94] } 24. Rd2 { [%eval 1.0] } 24... Qe3 { [%eval 0.87] } 25. Rc2 { [%eval 0.84] } 25... a6 { [%eval 0.89] } 26. Qh3 { [%eval 0.89] } 26... b5 { [%eval 1.01] } 27. Qg3 { [%eval 0.97] } 27... b4?! { [%eval 1.84] } { Inaccuracy. Rec8 was best. } (27... Rec8 28. Qf2) 28. Nd1 { [%eval 1.79] } 28... Qb3 { [%eval 1.77] } 29. Rd2 { [%eval 1.64] } 29... Qxa4?! { [%eval 2.3] } { Inaccuracy. Rac8 was best. } (29... Rac8 30. Qf2 Rc1 31. g3 Rec8 32. Qd4 R8c2 33. Rxc2 Rxc2 34. a5 Nd7 35. f4) 30. Qf2 { [%eval 1.92] } 30... Qd7 { [%eval 2.23] } 31. g3 { [%eval 2.06] } 31... Qh3+ { [%eval 2.11] } 32. Kg1 { [%eval 2.06] } 32... a5 { [%eval 2.3] } 33. Qd4 { [%eval 2.27] } 33... Nh5?! { [%eval 2.99] } { Inaccuracy. Rac8 was best. } (33... Rac8) 34. Nf2 { [%eval 2.89] } 34... Qd7 { [%eval 2.84] } 35. f4 { [%eval 2.82] } 35... Nhxf4 { [%eval 2.82] } 36. gxf4 { [%eval 2.76] } 36... Nxf4 { [%eval 2.59] } 37. Kf1 { [%eval 2.95] } 37... Qd6 { [%eval 3.11] } 38. Rg1 { [%eval 3.06] } 38... f6 { [%eval 3.1] } 39. Bb5 { [%eval 2.74] } 39... Re7 { [%eval 3.27] } 40. b3 { [%eval 2.59] } 40... Rf8?! { [%eval 3.32] } { Inaccuracy. Rc7 was best. } (40... Rc7 41. Bc6 Rd8 42. Qc4 Kh8 43. Rd1 Rdc8 44. Rg3 Nh5 45. Kg2 Nxg3 46. hxg3) 41. Rc2 { [%eval 3.39] } 41... Ne6 { [%eval 3.94] } 42. Qe3 { [%eval 4.02] } 42... Ng5 { [%eval 3.83] } 43. h4 { [%eval 3.89] } 43... Nf7 { [%eval 3.85] } 44. Rc6 { [%eval 3.74] } 44... Qb8 { [%eval 3.48] } 45. Qc5 { [%eval 3.28] } 45... Qd8?! { [%eval 4.39] } { Inaccuracy. Rd7 was best. } (45... Rd7 46. Rb6 Rc7 47. Rxb8 Rxc5 48. Rb7 g5 49. Nd3 Rc2 50. Rb6 Ra2 51. Bc4) 46. Rxf6 { [%eval 4.01] } 46... Kh8 { [%eval 3.89] } 47. Rf5 { [%eval 3.87] } 47... Rc7 { [%eval 3.95] } 48. Bc6 { [%eval 3.97] } 48... a4 { [%eval 4.06] } 49. bxa4 { [%eval 3.84] } 49... b3 { [%eval 4.33] } 50. Rg3 { [%eval 4.21] } 50... b2 { [%eval 4.64] } 51. Rb3 { [%eval 4.5] } 51... Nd6 { [%eval 5.11] } 52. Rxf8+ { [%eval 5.1] } 52... Qxf8 { [%eval 4.9] } 53. Rxb2 { [%eval 4.91] } 53... Qf4 { [%eval 4.37] } 54. Rb8+ { [%eval 4.6] } 54... Kh7 { [%eval 4.6] } 55. Qc2 { [%eval 4.58] } 55... Re7?! { [%eval 5.9] } { Inaccuracy. Qxh4 was best. } (55... Qxh4 56. Rf8 g6 57. Qc3 Rg7 58. Rf3 Rc7 59. Qe5 Qd8 60. Qg3 Rg7 61. e5) 56. e5+ { [%eval 5.63] } 56... Nf5 { [%eval 5.67] } 57. Qe4 { [%eval 5.41] } 57... Qc1+ { [%eval 5.58] } 58. Kg2 { [%eval 5.43] } 58... g6 { [%eval 5.21] } 59. Rb3 { [%eval 5.28] } { 1-0 White wins. } 1-0
+
+
+[Event "8th Danzhou Super GM 2017"]
+[Site "Danzhou CHN"]
+[Date "2017.07.17"]
+[White "Vladimir Malakhov"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 16: Malakhov - Liren (2017)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/0gDxRrNL"]
+
+1. e4 { [%eval 0.18] } 1... e5 { [%eval 0.21] } 2. Nf3 { [%eval 0.19] } 2... Nc6 { [%eval 0.17] } 3. Bc4 { [%eval 0.08] } 3... Nf6 { [%eval 0.15] } 4. d3 { [%eval 0.09] } 4... Bc5 { [%eval 0.14] } 5. O-O { [%eval 0.17] } 5... O-O { [%eval 0.26] } 6. h3 { [%eval 0.1] } 6... d6 { [%eval 0.16] } 7. c3 { [%eval 0.15] } 7... a5 { [%eval 0.14] } 8. a4 { [%eval 0.08] } 8... Be6 { [%eval 0.09] } 9. Bxe6 { [%eval 0.08] } 9... fxe6 { [%eval 0.21] } 10. Nbd2 { [%eval -0.15] } 10... Qe8 { [%eval -0.02] } 11. Nc4 { [%eval -0.03] } 11... Qg6 { [%eval 0.13] } 12. Be3 { [%eval 0.15] } 12... Bxe3 { [%eval 0.22] } 13. Nxe3?! { [%eval -0.35] } { Inaccuracy. fxe3 was best. } (13. fxe3 d5) 13... Nh5 { [%eval 0.0] } 14. Nh4 { [%eval -0.04] } 14... Qg5 { [%eval -0.04] } 15. Nf3 { [%eval -0.01] } 15... Qg6 { [%eval -0.06] } 16. Nh4 { [%eval -0.12] } 16... Qh6 { [%eval 0.01] } 17. Ng4 { [%eval 0.08] } 17... Qg5 { [%eval 0.03] } 18. Nf3 { [%eval 0.04] } 18... Qg6 { [%eval 0.02] } 19. g3 { [%eval -0.01] } 19... Nf6 { [%eval 0.03] } 20. Nh4 { [%eval 0.13] } 20... Qe8 { [%eval 0.11] } 21. Kg2 { [%eval 0.19] } 21... Nd7 { [%eval 0.22] } 22. Nf3 { [%eval 0.12] } 22... Qg6 { [%eval 0.26] } 23. Qc2 { [%eval 0.08] } 23... Rf7 { [%eval 0.29] } 24. Rae1 { [%eval 0.23] } 24... Raf8 { [%eval 0.22] } 25. Ngh2 { [%eval 0.11] } 25... Nc5 { [%eval 0.18] } 26. Re3 { [%eval 0.19] } 26... b6 { [%eval 0.35] } 27. Qd1 { [%eval 0.33] } 27... h6 { [%eval 0.21] } 28. Nh4 { [%eval 0.05] } 28... Qh7 { [%eval 0.05] } 29. Qc2 { [%eval -0.15] } 29... d5 { [%eval -0.12] } 30. N4f3 { [%eval -0.18] } 30... d4 { [%eval -0.2] } 31. Re2 { [%eval -0.12] } 31... Qg6 { [%eval -0.15] } 32. Ne1 { [%eval -0.39] } 32... Rd7 { [%eval -0.55] } 33. Nhf3 { [%eval -0.53] } 33... Qh5 { [%eval -0.52] } 34. Nh2 { [%eval -1.06] } 34... Rfd8 { [%eval -1.03] } 35. c4?! { [%eval -1.84] } { Inaccuracy. Nhf3 was best. } (35. Nhf3 dxc3) 35... Rf8 { [%eval -1.82] } 36. b3 { [%eval -1.95] } 36... Rdf7 { [%eval -1.91] } 37. Rd2 { [%eval -1.99] } 37... Nb4 { [%eval -1.91] } 38. Qb1 { [%eval -1.9] } 38... Qg5 { [%eval -1.69] } 39. Rb2 { [%eval -1.65] } 39... Rf6?! { [%eval -0.71] } { Inaccuracy. h5 was best. } (39... h5) 40. Qd1 { [%eval -0.97] } 40... Rg6 { [%eval -0.67] } 41. Nhf3?! { [%eval -1.33] } { Inaccuracy. Qe2 was best. } (41. Qe2) 41... Qh5 { [%eval -1.33] } 42. Rd2 { [%eval -1.48] } 42... Kh7 { [%eval -1.28] } 43. Rh1 { [%eval -1.26] } 43... Rgf6 { [%eval -1.4] } 44. Rf1 { [%eval -1.46] } 44... Nc6 { [%eval -1.44] } 45. Rb2 { [%eval -1.27] } 45... Kg8 { [%eval -1.27] } 46. Qe2 { [%eval -1.28] } 46... Nb4 { [%eval -1.32] } 47. g4 { [%eval -1.44] } 47... Qe8 { [%eval -1.8] } 48. Nxe5 { [%eval -1.59] } 48... Qd8 { [%eval -1.65] } 49. N5f3?? { [%eval -4.07] } { Blunder. Kg1 was best. } (49. Kg1 Qd6) 49... Rxf3 { [%eval -3.85] } { 0-1 Black wins. } 50. Nxf3 Ncxd3 (50... Nbxd3 51. Qc2) 0-1
+
+
+[Event "Du Te Cup 2017"]
+[Site "Shenzhen CHN"]
+[Date "2017.03.29"]
+[White "Ding Liren"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Keres Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game Fragment 9: Liren - Yangyi (2017)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/Un0V8xer"]
+
+1. Nf3 { [%eval 0.17] } 1... d5 { [%eval 0.18] } 2. g3 { [%eval 0.08] } 2... Bg4 { [%eval 0.14] } 3. Bg2 { [%eval 0.14] } 3... c6 { [%eval 0.21] } 4. O-O { [%eval 0.22] } 4... Nd7 { [%eval 0.18] } 5. h3 { [%eval 0.15] } 5... Bxf3 { [%eval 0.14] } 6. Bxf3 { [%eval 0.23] } 6... Ngf6 { [%eval 0.27] } 7. d3 { [%eval 0.13] } 7... e5 { [%eval 0.29] } 8. e4 { [%eval 0.14] } 8... dxe4 { [%eval 0.19] } 9. dxe4 { [%eval 0.22] } 9... Bc5 { [%eval 0.33] } 10. Nd2 { [%eval 0.37] } 10... O-O { [%eval 0.33] } 11. a4 { [%eval 0.34] } 11... a5 { [%eval 0.3] } 12. Qe2 { [%eval 0.32] } 12... Qe7 { [%eval 0.46] } 13. Rd1 { [%eval 0.47] } 13... Rfd8 { [%eval 0.62] } 14. Nc4 { [%eval 0.6] } 14... b6 { [%eval 0.91] } 15. Kg2 { [%eval 0.94] } 15... h6 { [%eval 0.96] } 16. Rd3 { [%eval 0.75] } 16... Qe6 { [%eval 0.64] } 17. b3 { [%eval 0.76] } 17... Bd4 { [%eval 1.12] } 18. c3 { [%eval 0.84] } 18... Bc5 { [%eval 0.79] } 19. Qd1 { [%eval 0.51] } 19... Be7 { [%eval 0.51] } 20. Be3 { [%eval 0.54] } 20... Nc5 { [%eval 0.57] } 21. Rxd8+ { [%eval 0.6] } 21... Rxd8 { [%eval 0.48] } 22. Qc2 { [%eval 0.5] } 22... Bf8 { [%eval 0.64] } 23. Rb1 { [%eval 0.47] } 23... Rb8 { [%eval 0.5] } 24. Rd1! { [%eval 0.5] } 24... Ncd7 { [%eval 0.8] } 25. Be2! { [%eval 0.75] } 25... Nc5?! { [%eval 1.41] } { Inaccuracy. Bc5 was best. } (25... Bc5) 26. f3 { [%eval 1.36] } 26... Ncd7 { [%eval 1.47] } 27. Bf2! { [%eval 1.61] } 27... g6 { [%eval 1.39] } 28. Be1 { [%eval 1.24] } 28... h5 { [%eval 1.18] } 29. h4 { [%eval 1.2] } 29... Ra8 { [%eval 1.29] } 30. b4 { [%eval 1.25] } 30... axb4 { [%eval 1.8] } 31. cxb4 { [%eval 1.72] } 31... b5 { [%eval 1.83] } 32. Na5 { [%eval 1.67] } 32... bxa4 { [%eval 1.78] } 33. Bc4 { [%eval 1.72] } 33... Qe8 { [%eval 1.75] } 34. Nxc6 { [%eval 1.83] } 34... a3 { [%eval 1.82] } 35. b5 { [%eval 1.9] } 35... Nb6 { [%eval 2.05] } 36. Ba2 { [%eval 2.17] } 36... Nfd7 { [%eval 2.08] } 37. Ba5 { [%eval 2.04] } 37... Bc5 { [%eval 2.03] } 38. Rd3 { [%eval 2.03] } 38... Kg7 { [%eval 2.11] } 39. Bc3 { [%eval 2.03] } 39... Kh7 { [%eval 2.04] } 40. Qd2 { [%eval 2.01] } 40... Bf8 { [%eval 2.12] } 41. Ba5 { [%eval 2.28] } 41... Kg7 { [%eval 2.63] } 42. g4 { [%eval 2.74] } 42... Be7 { [%eval 3.42] } 43. gxh5 { [%eval 3.35] } 43... Bxh4 { [%eval 3.39] } 44. hxg6 { [%eval 3.76] } 44... fxg6 { [%eval 3.99] } 45. Rd6 { [%eval 3.8] } 45... Bf6 { [%eval 3.81] } 46. Re6 { [%eval 3.82] } 46... Qf8 { [%eval 4.9] } 47. Bb4 { [%eval 4.58] } 47... Qh8 { [%eval 4.82] } 48. Nxe5 { [%eval 4.78] } 48... Nxe5 { [%eval 4.59] } 49. Rxf6 { [%eval 4.87] } 49... Qh5?! { [%eval 7.39] } { Inaccuracy. Qh6 was best. } (49... Qh6 50. Bf8+ Rxf8 51. Qxh6+ Kxh6 52. Rxf8 Nd3 53. Rb8 Na4 54. Ra8 Nc3 55. b6) 50. Bc3 { [%eval 7.24] } 50... Ra7 { [%eval 7.34] } 51. Qf4 { [%eval 6.71] } { 1-0 White wins. } 1-0
+
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[White "Ding Liren"]
+[Black "Shakhriyar Mamedyarov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D70"]
+[Opening "Neo-Grünfeld Defense: Goglidze Attack"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 17: Liren - Mamedyarov (2019)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/fstnZiwp"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... g6 { [%eval 0.25] } 3. f3 { [%eval 0.32] } 3... d5 { [%eval 0.47] } 4. cxd5 { [%eval 0.42] } 4... Nxd5 { [%eval 0.53] } 5. e4 { [%eval 0.29] } 5... Nb6 { [%eval 0.32] } 6. Nc3 { [%eval 0.37] } 6... Bg7 { [%eval 0.31] } 7. Be3 { [%eval 0.22] } 7... O-O { [%eval 0.3] } 8. Qd2 { [%eval 0.63] } 8... e5 { [%eval 0.65] } 9. d5 { [%eval 0.74] } 9... c6 { [%eval 0.67] } 10. h4 { [%eval 0.65] } 10... cxd5 { [%eval 0.66] } 11. exd5 { [%eval 0.59] } 11... N8d7 { [%eval 0.59] } 12. h5 { [%eval 0.88] } 12... Nf6 { [%eval 1.0] } 13. hxg6 { [%eval 0.87] } 13... fxg6 { [%eval 0.74] } 14. O-O-O { [%eval 0.74] } 14... Bd7 { [%eval 0.53] } 15. Kb1 { [%eval 0.57] } 15... Rc8 { [%eval 0.55] } 16. d6 { [%eval 0.59] } 16... e4 { [%eval 0.6] } 17. fxe4 { [%eval 0.84] } 17... Ng4 { [%eval 0.7] } 18. Bg5 { [%eval 0.82] } 18... Qe8 { [%eval 0.92] } 19. Nf3 { [%eval 0.39] } 19... Rf7?! { [%eval 0.99] } { Inaccuracy. Rxc3 was best. } (19... Rxc3 20. bxc3) 20. Qe1 { [%eval 0.84] } 20... Rc5 { [%eval 0.86] } 21. Bd2 { [%eval 0.44] } 21... Be6 { [%eval 0.49] } 22. e5 { [%eval 0.62] } 22... Bxe5 { [%eval 0.81] } 23. Bd3 { [%eval 1.16] } 23... Na4?! { [%eval 2.12] } { Inaccuracy. Qd7 was best. } (23... Qd7 24. Ka1) 24. Nxe5 { [%eval 2.04] } 24... Rxe5 { [%eval 2.08] } 25. Qh4?! { [%eval 1.16] } { Inaccuracy. Qg3 was best. } (25. Qg3) 25... Rh5 { [%eval 1.18] } 26. Qg3 { [%eval 1.11] } 26... Nxc3+? { [%eval 2.68] } { Mistake. Rxh1 was best. } (26... Rxh1) 27. Bxc3 { [%eval 3.08] } 27... Qa4 { [%eval 3.02] } 28. d7 { [%eval 3.02] } 28... Rd5 { [%eval 3.33] } 29. Bc2 { [%eval 3.48] } 29... Qxd7 { [%eval 3.94] } 30. Bb3 { [%eval 3.81] } 30... Rxd1+ { [%eval 3.8] } 31. Rxd1 { [%eval 3.74] } 31... Qc8 { [%eval 3.73] } 32. Qh4 { [%eval 3.88] } 32... Nf6 { [%eval 4.26] } 33. Rd6 { [%eval 4.1] } 33... Bxb3 { [%eval 3.73] } 34. Rxf6 { [%eval 3.34] } { 1-0 White wins. } 1-0
+
+
+[Event "Wch U10"]
+[Site "Heraklio"]
+[Date "2002.11.21"]
+[Round "7.2"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "0"]
+[BlackElo "2102"]
+[Variant "Standard"]
+[ECO "B05"]
+[Opening "Alekhine Defense: Modern Variation, Flohr Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 18: Liren - Caruana (2002)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/qpwp4uEm"]
+
+1. e4 { [%eval 0.18] } 1... Nf6 { [%eval 0.54] } 2. e5 { [%eval 0.52] } 2... Nd5 { [%eval 0.57] } 3. d4 { [%eval 0.54] } 3... d6 { [%eval 0.51] } 4. Nf3 { [%eval 0.39] } 4... Bg4 { [%eval 0.77] } 5. Be2 { [%eval 0.84] } 5... c6 { [%eval 0.83] } 6. O-O { [%eval 0.45] } 6... Bxf3 { [%eval 0.43] } 7. Bxf3 { [%eval 0.43] } 7... dxe5 { [%eval 0.5] } 8. dxe5 { [%eval 0.54] } 8... e6 { [%eval 0.55] } 9. c4 { [%eval 0.48] } 9... Ne7 { [%eval 0.56] } 10. Qxd8+ { [%eval 0.28] } 10... Kxd8 { [%eval 0.2] } 11. Be4 { [%eval 0.09] } 11... Nd7 { [%eval 0.07] } 12. f4 { [%eval -0.16] } 12... Kc7 { [%eval -0.09] } 13. Nc3 { [%eval -0.2] } 13... g6 { [%eval 0.15] } 14. Be3 { [%eval 0.18] } 14... Nf5 { [%eval 0.17] } 15. Bf2 { [%eval 0.19] } 15... Bc5 { [%eval 0.19] } 16. Rfe1 { [%eval -0.06] } 16... Bxf2+ { [%eval 0.19] } 17. Kxf2 { [%eval 0.15] } 17... Nc5 { [%eval 0.26] } 18. g4 { [%eval 0.0] } 18... Nd4?? { [%eval 1.7] } { Blunder. Ne7 was best. } (18... Ne7 19. Rad1 h5 20. g5 Rhd8 21. Bc2 a5 22. b3 Nf5 23. Bb1 Rab8 24. Ke2) 19. Rad1 { [%eval 1.67] } 19... Rad8 { [%eval 1.61] } 20. Rd2 { [%eval 1.77] } 20... Rd7?! { [%eval 2.94] } { Inaccuracy. Na6 was best. } (20... Na6 21. Red1) 21. Red1 { [%eval 2.85] } 21... Rhd8 { [%eval 2.72] } 22. Bb1 { [%eval 2.12] } 22... Na6 { [%eval 2.23] } 23. Ne4 { [%eval 2.29] } 23... c5 { [%eval 2.04] } 24. Nf6 { [%eval 1.95] } 24... Re7 { [%eval 1.67] } 25. a3 { [%eval 1.46] } 25... Nb8 { [%eval 1.4] } 26. Ke3?! { [%eval 0.75] } { Inaccuracy. Rd3 was best. } (26. Rd3 h6) 26... Nbc6?! { [%eval 1.86] } { Inaccuracy. Nd7 was best. } (26... Nd7) 27. b4 { [%eval 1.57] } 27... g5?! { [%eval 2.79] } { Inaccuracy. b6 was best. } (27... b6) 28. Bxh7 { [%eval 2.77] } 28... gxf4+ { [%eval 3.41] } 29. Kxf4 { [%eval 3.23] } 29... Nxe5?! { [%eval 4.43] } { Inaccuracy. b6 was best. } (29... b6 30. Be4 Rh8 31. Bxc6 Nxc6 32. b5 Nd4 33. Kg3 a6 34. a4 Kc8 35. h4) 30. Rxd4 { [%eval 4.39] } 30... Ng6+ { [%eval 4.51] } (30... cxd4) 31. Bxg6 { [%eval 4.45] } 31... e5+ { [%eval 4.32] } 32. Kf3 { [%eval 4.13] } 32... cxd4 { [%eval 4.93] } 33. Bf5 { [%eval 4.92] } 33... Kb8 { [%eval 5.19] } 34. h4 { [%eval 5.19] } 34... Rd6 { [%eval 5.81] } 35. Ne4 { [%eval 4.9] } 35... Rh6 { [%eval 5.07] } 36. h5 { [%eval 5.12] } 36... Kc7 { [%eval 5.17] } 37. Ng3 { [%eval 5.03] } 37... f6 { [%eval 5.1] } 38. Bg6 { [%eval 4.9] } 38... Rh8 { [%eval 5.35] } 39. Ke4 { [%eval 5.34] } 39... Re6 { [%eval 5.17] } 40. Nf5 { [%eval 4.92] } 40... Ra6 { [%eval 5.17] } 41. Rd3 { [%eval 5.25] } 41... Rc6 { [%eval 5.46] } 42. Bf7 { [%eval 5.09] } 42... Rh7 { [%eval 5.63] } 43. Bd5 { [%eval 5.61] } 43... Ra6 { [%eval 5.54] } 44. h6 { [%eval 5.47] } 44... Ra4 { [%eval 6.29] } 45. Bg8 { [%eval 6.26] } 45... Rh8 { [%eval 6.56] } 46. h7 { [%eval 6.43] } 46... Kd7 { [%eval 6.46] } 47. Nh6 { [%eval 6.43] } 47... Ke7 { [%eval 6.28] } 48. Nf7 { [%eval 6.28] } 48... Rxh7 { [%eval 5.95] } 49. Bxh7 { [%eval 5.91] } 49... Kxf7 { [%eval 6.29] } 50. Bf5 { [%eval 5.99] } { 1-0 White wins. } 1-0
+
+
+[Event "ch-CHN"]
+[Site "Beijing CHN"]
+[Date "2008.06.02"]
+[White "Ding Liren"]
+[Black "Liang Chong"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D24"]
+[Opening "Queen's Gambit Accepted"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 19: Liren - Chong (2008)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/rIoGw07P"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.17] } 2... e6 { [%eval 0.11] } 3. Nf3 { [%eval 0.12] } 3... d5 { [%eval 0.17] } 4. Nc3 { [%eval 0.1] } 4... dxc4 { [%eval 0.19] } 5. e4 { [%eval 0.22] } 5... Bb4 { [%eval 0.35] } 6. Bg5 { [%eval 0.16] } 6... c5 { [%eval 0.22] } 7. Bxc4 { [%eval 0.14] } 7... cxd4 { [%eval 0.17] } 8. Nxd4 { [%eval 0.31] } 8... Qa5 { [%eval 0.23] } 9. Bxf6 { [%eval 0.29] } 9... gxf6 { [%eval 0.69] } 10. O-O { [%eval 0.62] } 10... a6 { [%eval 0.94] } 11. Rc1 { [%eval 1.01] } 11... Bd7?! { [%eval 1.63] } { Inaccuracy. O-O was best. } (11... O-O) 12. Nf5? { [%eval 0.44] } { Mistake. a3 was best. } (12. a3 Bxc3 13. Rxc3 Nc6 14. Nb3 Qc7 15. Qf3 Ke7 16. Qe3 Rac8 17. f4 e5) 12... exf5?? { [%eval 2.36] } { Blunder. Nc6 was best. } (12... Nc6 13. Nd6+ Bxd6 14. Qxd6 Qe5 15. Qd2 Qg5 16. Qe2 Nd4 17. Qd3 Rg8 18. g3) 13. Nd5 { [%eval 2.51] } 13... Bc6?! { [%eval 3.89] } { Inaccuracy. fxe4 was best. } (13... fxe4 14. Qd4 Be7 15. Rfd1 Kf8 16. Nxf6 Ba4 17. Nd7+ Kg8 18. Qxe4 Qg5 19. Ne5) 14. Nxf6+ { [%eval 3.8] } 14... Ke7 { [%eval 3.8] } 15. Qh5 { [%eval 3.42] } 15... Rf8 { [%eval 3.39] } 16. Qh4 { [%eval 2.73] } 16... Kd8 { [%eval 2.8] } 17. Nd5+ { [%eval 2.88] } 17... Kc8 { [%eval 2.75] } 18. a3 { [%eval 2.54] } 18... Bd6 { [%eval 2.96] } 19. e5 { [%eval 2.96] } 19... Bxe5?! { [%eval 4.4] } { Inaccuracy. Bxd5 was best. } (19... Bxd5 20. Bxd5+) 20. Ne7+ { [%eval 4.39] } 20... Kc7 { [%eval 4.34] } 21. b4 { [%eval 4.31] } 21... Qb6 { [%eval 4.57] } 22. Nd5+ { [%eval 4.42] } 22... Bxd5 { [%eval 4.35] } 23. Bxd5+ { [%eval 4.07] } 23... Kd7?! { [%eval 5.17] } { Inaccuracy. Nc6 was best. } (23... Nc6 24. Qe7+ Kb8 25. Qxf8+ Ka7 26. Qxf7 Nd4 27. Rfe1 Bd6 28. Rcd1 Rb8 29. Rd3) 24. Rfd1 { [%eval 5.17] } 24... Bd6 { [%eval 5.18] } 25. Qh6 { [%eval 5.16] } 25... Rc8?! { [%eval 8.47] } { Inaccuracy. Re8 was best. } (25... Re8 26. Bxb7 Ra7 27. Bc6+ Qxc6 28. Rxc6 Kxc6 29. Qxd6+ Kb7 30. Qc5 Ka8 31. h3) 26. Be6+ { [%eval 6.59] } 26... fxe6?? { [%eval #6] } { Checkmate is now unavoidable. Ke7 was best. } (26... Ke7 27. Bxc8 Nd7 28. Re1+ Be5 29. Rxe5+ Nxe5 30. Qxb6 Rxc8 31. Qxb7+ Kf6 32. Qxc8) 27. Qg7+ { [%eval #5] } { 1-0 White wins. } 27... Kd8 (27... Ke8 28. Rxc8+ Qd8) 28. Qf8+ Kd7 1-0
+
+
+[Event "zt 3.5 Men"]
+[Site "Beijing CHN"]
+[Date "2009.04.22"]
+[White "Xiu Deshun"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E86"]
+[Opening "King's Indian Defense: Sämisch Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 20: Deshun - Liren (2009)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/BJWJCLXN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 c6 8. Qd2 Nbd7 9. O-O-O a6 10. Kb1 b5 11. Nc1 exd4 12. Bxd4 b4 13. Na4 Qa5 14. Nb6 Nxb6 15. Nb3 Nxc4 16. Bxc4 Qd8 17. Bc5 d5 18. Bxf8 Qxf8 19. exd5 cxd5 20. Bxd5 Bf5+ 21. Ka1 Rc8 22. Bb7 Rc7 23. Bxa6 Rc2 24. Qd8 Nd5 25. Qxd5 Bxb2+ 26. Kb1 Bc3 27. Rd3 Rb2+ 28. Kc1 Qh6+ 29. Kd1 Rb1+ 30. Kc2 Rxh1 31. Qd8+ Kg7 32. Nc5 Qc1+ 33. Kb3 Qa3+ 34. Kc4 Qxa2+ 35. Kb5 Bxd3+ 36. Qxd3 Qd2 37. Qe4 Re1 38. Qb7 Re5 { 0-1 Black wins. } 0-1
+
+
+[Event "ch-CHN"]
+[Site "Xinghua Jiangsu CHN"]
+[Date "2009.06.01"]
+[White "Ding Liren"]
+[Black "Ni Hua"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation, Modern Exchange Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 21: Liren - Hua (2009)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/igQKv8FF"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. Nf3 { [%eval 0.11] } 2... g6 { [%eval 0.22] } 3. c4 { [%eval 0.15] } 3... Bg7 { [%eval 0.31] } 4. Nc3 { [%eval 0.3] } 4... d5 { [%eval 0.35] } 5. cxd5 { [%eval 0.21] } 5... Nxd5 { [%eval 0.22] } 6. e4 { [%eval 0.2] } 6... Nxc3 { [%eval 0.35] } 7. bxc3 { [%eval 0.16] } 7... c5 { [%eval 0.26] } 8. Rb1 { [%eval 0.28] } 8... O-O { [%eval 0.31] } 9. Be2 { [%eval 0.35] } 9... Nc6 { [%eval 0.28] } 10. d5 { [%eval 0.28] } 10... Ne5 { [%eval 0.39] } 11. Nxe5 { [%eval 0.33] } 11... Bxe5 { [%eval 0.22] } 12. Rb3 { [%eval 0.2] } 12... Qd6 { [%eval 0.5] } 13. Qd2 { [%eval 0.48] } 13... e6 { [%eval 1.01] } 14. f4 { [%eval 0.92] } 14... Bg7 { [%eval 0.92] } 15. c4 { [%eval 0.95] } 15... e5 { [%eval 0.95] } 16. f5! { [%eval 0.88] } 16... gxf5 { [%eval 0.75] } 17. exf5 { [%eval 1.03] } 17... Bxf5 { [%eval 1.0] } 18. O-O { [%eval 0.96] } 18... Bg6 { [%eval 1.09] } 19. h4 { [%eval 0.99] } 19... h5?! { [%eval 1.69] } { Inaccuracy. h6 was best. } (19... h6) 20. Qg5 { [%eval 1.54] } 20... e4 { [%eval 1.9] } 21. Bxh5 { [%eval 1.56] } 21... Rae8?! { [%eval 2.41] } { Inaccuracy. Qe5 was best. } (21... Qe5 22. Bd1 Qxg5 23. Bxg5 Bd4+ 24. Kh2 f6 25. Bh6 Rf7 26. Rg3 Kh7 27. Be3) 22. Be2 { [%eval 2.39] } 22... Qe7 { [%eval 2.35] } 23. h5 { [%eval 2.7] } 23... Bh7 { [%eval 2.56] } 24. Rg3 { [%eval 2.17] } 24... Qxg5 { [%eval 2.0] } 25. Bxg5 { [%eval 1.83] } 25... Bd4+ { [%eval 2.28] } 26. Kh2 { [%eval 2.15] } 26... Be5?! { [%eval 2.98] } { Inaccuracy. Kh8 was best. } (26... Kh8 27. Bh6 e3 28. Bxf8 Rxf8 29. Kh3 f6 30. Rg4 b5 31. cxb5 Rd8 32. Bc4) 27. Bf6+ { [%eval 3.13] } 27... Bxg3+ { [%eval 2.85] } 28. Kxg3 { [%eval 3.01] } 28... e3 { [%eval 3.28] } 29. Rf4 { [%eval 2.77] } 29... Bc2 { [%eval 2.52] } 30. Kf3 { [%eval 2.54] } 30... Kh7 { [%eval 2.68] } 31. g4 { [%eval 2.75] } 31... Kg8 { [%eval 2.75] } 32. g5 { [%eval 2.51] } 32... a6 { [%eval 2.75] } 33. h6 { [%eval 2.59] } 33... Bg6?? { [%eval 6.23] } { Blunder. Bh7 was best. } (33... Bh7 34. Kg3) 34. h7+ { [%eval 6.14] } 34... Bxh7 { [%eval 5.9] } 35. Rh4 { [%eval 5.61] } { 1-0 White wins. } 1-0
+
+
+[Event "ch-CHN"]
+[Site "Xinghua Jiangsu CHN"]
+[Date "2009.06.05"]
+[White "Ding Liren"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Accelerated Meran Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 22: Liren - Hao (2009)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/lPp4yJNl"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. Nf3 { [%eval 0.11] } 2... e6 { [%eval 0.14] } 3. c4 { [%eval 0.12] } 3... d5 { [%eval 0.17] } 4. Nc3 { [%eval 0.1] } 4... c6 { [%eval 0.19] } 5. e3 { [%eval 0.2] } 5... a6 { [%eval 0.32] } 6. c5 { [%eval 0.12] } 6... Nbd7 { [%eval 0.17] } 7. b4 { [%eval 0.15] } 7... g6 { [%eval 0.45] } 8. Bd3 { [%eval 0.14] } 8... Bg7 { [%eval 0.47] } 9. O-O { [%eval 0.55] } 9... O-O { [%eval 0.53] } 10. Na4 { [%eval 0.6] } 10... Re8 { [%eval 0.59] } 11. Bb2 { [%eval 0.57] } 11... e5 { [%eval 0.96] } 12. dxe5 { [%eval 0.97] } 12... Ng4 { [%eval 1.0] } 13. e6 { [%eval 0.89] } 13... fxe6 { [%eval 1.1] } 14. Bxg7 { [%eval 0.87] } 14... Kxg7 { [%eval 0.81] } 15. e4 { [%eval 0.78] } 15... Rf8?! { [%eval 1.59] } { Inaccuracy. e5 was best. } (15... e5 16. a3) 16. h3 { [%eval 1.54] } 16... Ngf6 { [%eval 2.08] } 17. Re1 { [%eval 2.09] } 17... Nh5 { [%eval 2.05] } 18. Bf1 { [%eval 2.11] } 18... Qf6 { [%eval 2.08] } 19. exd5 { [%eval 1.63] } 19... exd5 { [%eval 1.53] } 20. Qd4 { [%eval 1.03] } 20... Kg8 { [%eval 1.09] } 21. Qxf6 { [%eval 1.04] } 21... Ndxf6 { [%eval 1.34] } 22. Nb6 { [%eval 1.2] } 22... Rb8 { [%eval 1.34] } 23. Re7 { [%eval 0.85] } 23... Ng7?! { [%eval 1.62] } { Inaccuracy. Nf4 was best. } (23... Nf4 24. Rae1 Bf5 25. Nd4 Rbe8 26. Nxf5 gxf5 27. R1e3 Rb8 28. R7e5 Ne4 29. Rf3) 24. Rae1 { [%eval 1.73] } 24... Ne4 { [%eval 1.78] } 25. R1xe4 { [%eval 1.34] } 25... dxe4 { [%eval 1.29] } 26. Ng5 { [%eval 1.28] } 26... Rf5 { [%eval 1.74] } 27. Bc4+ { [%eval 1.98] } 27... Kf8 { [%eval 1.95] } 28. Rc7 { [%eval 1.89] } 28... Rxg5 { [%eval 1.88] } 29. Nxc8 { [%eval 1.83] } 29... Rf5 { [%eval 1.59] } 30. Nd6 { [%eval 1.29] } 30... Rf4?! { [%eval 2.11] } { Inaccuracy. Rf6 was best. } (30... Rf6 31. g3 b6 32. Nxe4 Rf5 33. cxb6 Rxb6 34. a3 c5 35. Nxc5 Rd6 36. f4) 31. g3 { [%eval 2.07] } 31... Rf3 { [%eval 2.03] } 32. Nxe4 { [%eval 2.44] } 32... h6 { [%eval 2.41] } 33. Kg2 { [%eval 2.34] } 33... Rf5 { [%eval 2.35] } 34. h4 { [%eval 2.08] } 34... Rd8?! { [%eval 3.07] } { Inaccuracy. b6 was best. } (34... b6 35. Rxc6 bxc5 36. bxc5 Re5 37. Rf6+ Ke8 38. f3 Nf5 39. Rxg6 Ke7 40. Kh3) 35. Rxb7 { [%eval 3.03] } 35... Rd4 { [%eval 3.03] } 36. Nd6 { [%eval 3.04] } 36... Rf6 { [%eval 2.91] } 37. Rb8+ { [%eval 2.84] } 37... Ke7 { [%eval 2.6] } 38. Nc8+ { [%eval 2.69] } 38... Kd7 { [%eval 2.89] } 39. Nb6+ { [%eval 2.89] } 39... Kc7 { [%eval 3.09] } 40. Ra8 { [%eval 2.98] } 40... Ne6 { [%eval 3.06] } 41. Bxa6?! { [%eval 1.99] } { Inaccuracy. Re8 was best. } (41. Re8 Re4 42. Re7+ Kd8 43. Rd7+ Ke8 44. Rd6 Re1 45. Bxa6 Ke7 46. Bc4 Rc1) 41... Rf8 { [%eval 1.86] } 42. Bc8 { [%eval 1.63] } 42... Nd8?? { [%eval 4.12] } { Blunder. Rf6 was best. } (42... Rf6) 43. Bd7 { [%eval 3.91] } 43... Kb7 { [%eval 3.85] } 44. Rc8 { [%eval 4.02] } 44... Rxd7?! { [%eval 5.29] } { Inaccuracy. Rd2 was best. } (44... Rd2 45. Bxc6+ Nxc6 46. Rxf8 Nxb4 47. Nc4 Rxa2 48. Ne5 Rc2 49. Nxg6 Rxc5 50. Nf4) 45. Nxd7 { [%eval 5.15] } 45... Re8 { [%eval 5.42] } 46. Nb6 { [%eval 5.33] } 46... g5 { [%eval 5.38] } 47. hxg5 { [%eval 5.48] } 47... hxg5 { [%eval 5.49] } 48. a4 { [%eval 5.16] } 48... g4 { [%eval 5.87] } 49. Ra8 { [%eval 5.79] } { 1-0 White wins. } 1-0
+
+
+[Event "1st GM"]
+[Site "Danzhou CHN"]
+[Date "2010.06.12"]
+[White "Zhou Weiqi"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "D78"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Original Defense"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 23: Weiqi - Liren (2010)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/iQj18D7Z"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. Nf3 { [%eval 0.11] } 2... g6 { [%eval 0.22] } 3. g3 { [%eval 0.17] } 3... Bg7 { [%eval 0.21] } 4. Bg2 { [%eval 0.17] } 4... O-O { [%eval 0.16] } 5. O-O { [%eval 0.09] } 5... d5 { [%eval 0.11] } 6. c4 { [%eval 0.12] } 6... c6 { [%eval 0.17] } 7. b3 { [%eval 0.0] } 7... dxc4 { [%eval 0.04] } 8. bxc4 { [%eval 0.08] } 8... c5 { [%eval 0.08] } 9. Bb2 { [%eval 0.14] } 9... Qb6 { [%eval 0.14] } 10. Qb3 { [%eval 0.07] } 10... Ne4 { [%eval 0.05] } 11. e3 { [%eval 0.0] } 11... Nc6 { [%eval 0.0] } 12. Ne5 { [%eval 0.24] } 12... Nd6 { [%eval 0.26] } 13. Nd2 { [%eval 0.0] } 13... cxd4 { [%eval -0.06] } 14. exd4 { [%eval -0.05] } 14... Be6 { [%eval -0.09] } 15. Rfc1 { [%eval -0.2] } 15... Rfc8 { [%eval -0.12] } 16. c5 { [%eval -0.09] } 16... Bxb3 { [%eval -0.12] } 17. cxb6 { [%eval -0.19] } 17... Ba4 { [%eval -0.12] } 18. bxa7 { [%eval -0.06] } 18... Rxa7 { [%eval -0.09] } 19. Ndc4 { [%eval -0.08] } 19... Nxc4 { [%eval -0.09] } 20. Rxc4 { [%eval -0.09] } 20... Rd8 { [%eval -0.06] } 21. Nxc6 { [%eval -0.08] } 21... bxc6 { [%eval -0.09] } 22. Bxc6 { [%eval 0.0] } 22... Bxc6 { [%eval 0.0] } 23. Rxc6 { [%eval 0.0] } 23... Bxd4 { [%eval -0.06] } 24. Bxd4 { [%eval -0.08] } 24... Rxd4 { [%eval -0.09] } 25. Rc3 { [%eval -0.14] } 25... g5! { [%eval -0.16] } 26. h3 { [%eval -0.14] } 26... h5 { [%eval -0.14] } 27. a3 { [%eval -0.17] } 27... f6 { [%eval -0.15] } 28. Kg2 { [%eval -0.17] } 28... Kf7 { [%eval -0.18] } 29. Rb3 { [%eval -0.14] } 29... Rda4 { [%eval -0.14] } 30. Rc3 { [%eval -0.15] } 30... R7a6 { [%eval -0.16] } 31. Rb3 { [%eval -0.09] } 31... f5 { [%eval -0.07] } 32. Rc3 { [%eval -0.07] } 32... h4 { [%eval -0.11] } 33. Ra2 { [%eval -0.17] } 33... hxg3 { [%eval -0.12] } 34. fxg3? { [%eval -0.63] } 34... Kf6 { [%eval -0.66] } 35. Kf2 { [%eval -0.82] } 35... e5 { [%eval -0.8] } 36. Kf3 { [%eval -1.08] } 36... e4+ { [%eval -1.1] } 37. Ke3 { [%eval -1.08] } 37... R6a5 { [%eval -0.84] } 38. Kf2 { [%eval -1.11] } 38... Ke5 { [%eval -1.04] } 39. Rb3 { [%eval -1.06] } 39... Rd4 { [%eval -1.17] } 40. Rb8 { [%eval -1.07] } 40... Rd3 { [%eval -1.27] } 41. a4 { [%eval -1.11] } 41... f4 { [%eval -1.05] } 42. Re8+?! { [%eval -2.1] } { Inaccuracy. gxf4+ was best. } (42. gxf4+) 42... Kd4 { [%eval -2.0] } 43. gxf4 { [%eval -2.11] } 43... gxf4 { [%eval -2.06] } 44. Rd8+ { [%eval -2.59] } 44... Kc4?! { [%eval -1.81] } { Inaccuracy. Rd5 was best. } (44... Rd5 45. Rh8 Rf3+ 46. Ke1 Rg5 47. Rd8+ Kc4 48. Rc2+ Kb3 49. Rf2 Rg1+ 50. Ke2) 45. Rc8+ { [%eval -1.66] } 45... Kb3 { [%eval -1.82] } 46. Rcc2? { [%eval -3.91] } { Mistake. Re2 was best. } (46. Re2 Re5) 46... Rg5 { [%eval -3.7] } 47. Rab2+ { [%eval -3.69] } 47... Ka3 { [%eval -3.83] } 48. Ra2+ { [%eval -3.85] } 48... Kb4 { [%eval -3.74] } 49. a5 { [%eval -4.67] } 49... Rf3+ { [%eval -5.47] } 50. Ke1 { [%eval -5.51] } 50... Rg1+ { [%eval -5.51] } 51. Ke2 { [%eval -5.73] } 51... Re3+ { [%eval -5.61] } 52. Kd2 { [%eval -6.45] } 52... Rd3+ { [%eval -6.29] } 53. Ke2 { [%eval -5.83] } 53... f3+ { [%eval -5.57] } 54. Kf2 { [%eval -5.51] } 54... Rg2+ { [%eval -5.8] } 55. Ke1 { [%eval -5.61] } 55... Rxc2 { [%eval -5.28] } 56. Rxc2 { [%eval -5.38] } 56... e3 { [%eval -5.54] } 57. Rc1? { [%eval -14.27] } { Mistake. h4 was best. } (57. h4 f2+ 58. Rxf2 exf2+ 59. Kxf2 Kc5 60. h5 Kd6 61. h6 Rh3 62. a6 Rxh6) 57... Rd2 { [%eval -10.45] } 58. Rb1+ { [%eval -9.89] } 58... Kxa5 { [%eval -16.27] } 59. Kf1 { [%eval -11.7] } 59... Rf2+ { [%eval #-12] } 60. Kg1 { [%eval #-12] } 60... Rg2+ { [%eval #-11] } 61. Kh1 { [%eval #-20] } 61... Rg8 { [%eval -8.77] } { 0-1 Black wins. } 0-1
+
+
+[Event "TCh-CHN"]
+[Site "Guangzhou CHN"]
+[Date "2010.09.11"]
+[White "Ding Liren"]
+[Black "Zhao Jun"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 24: Liren - Jun (2010)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/vFZlHKCO"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. Nf3 { [%eval 0.11] } 2... g6 { [%eval 0.22] } 3. c4 { [%eval 0.15] } 3... Bg7 { [%eval 0.31] } 4. Nc3 { [%eval 0.17] } 4... O-O { [%eval 0.52] } 5. e4 { [%eval 0.4] } 5... d6 { [%eval 0.44] } 6. Be2 { [%eval 0.45] } 6... e5 { [%eval 0.4] } 7. O-O { [%eval 0.4] } 7... Na6 { [%eval 0.82] } 8. Be3 { [%eval 0.47] } 8... c6 { [%eval 0.62] } 9. d5 { [%eval 0.69] } 9... Ng4 { [%eval 0.73] } 10. Bg5 { [%eval 0.73] } 10... f6 { [%eval 0.7] } 11. Bh4 { [%eval 0.7] } 11... c5 { [%eval 0.65] } 12. a3 { [%eval 0.65] } 12... Qe7 { [%eval 0.68] } 13. Ne1 { [%eval 0.59] } 13... h5 { [%eval 0.82] } 14. Nc2 { [%eval 0.67] } 14... Nh6 { [%eval 0.7] } 15. f3 { [%eval 0.69] } 15... Bd7 { [%eval 0.76] } 16. b4 { [%eval 0.79] } 16... b6 { [%eval 0.63] } 17. Rb1 { [%eval 0.66] } 17... Nf7 { [%eval 0.7] } 18. bxc5?! { [%eval 0.05] } { Inaccuracy. Bd3 was best. } (18. Bd3 Bh6) 18... Nxc5 { [%eval 0.07] } 19. Nb4 { [%eval 0.09] } 19... Rfc8 { [%eval 0.46] } 20. Bf2 { [%eval 0.28] } 20... Bh6 { [%eval 0.31] } 21. Nb5 { [%eval 0.26] } 21... Nd8 { [%eval 0.32] } 22. Bxc5 { [%eval -0.01] } 22... bxc5 { [%eval 0.05] } 23. Na6 { [%eval 0.09] } 23... Be8 { [%eval 0.55] } 24. Qe1 { [%eval 0.35] } 24... Bf8 { [%eval 0.66] } 25. Qa5 { [%eval 0.66] } 25... Nb7 { [%eval 0.72] } 26. Qc3 { [%eval 0.7] } 26... Nd8 { [%eval 0.88] } 27. Rb3 { [%eval 0.86] } 27... Bh6 { [%eval 0.83] } 28. Rfb1 { [%eval 0.78] } 28... f5 { [%eval 0.92] } 29. Qc2 { [%eval 0.96] } 29... f4 { [%eval 0.95] } 30. R3b2 { [%eval 0.76] } 30... Bf8 { [%eval 1.0] } 31. Qd2 { [%eval 0.89] } 31... g5 { [%eval 1.26] } 32. h3 { [%eval 1.2] } 32... Nb7?? { [%eval 3.25] } { Blunder. Qd7 was best. } (32... Qd7 33. Qa5 Nb7 34. Qe1 Nd8 35. Bd1 Qe7 36. Qa5 Nb7 37. Qd2 Nd8 38. a4) 33. Qe1?? { [%eval 1.24] } { Blunder. Nbc7 was best. } (33. Nbc7) 33... Nd8 { [%eval 1.07] } 34. Bd1 { [%eval 1.16] } 34... Bg6?! { [%eval 1.8] } { Inaccuracy. Bg7 was best. } (34... Bg7 35. Qa5 Nb7 36. Qc3 Nd8 37. a4 Kh7 38. Kf1 Bg6 39. Qa5 Nb7 40. Qd2) 35. Kf1 { [%eval 1.75] } 35... Be8 { [%eval 1.68] } 36. Nc3 { [%eval 1.62] } { 1-0 White wins. } 1-0
+
+
+[Event "Aeroflot Open A"]
+[Site "Moscow RUS"]
+[Date "2011.02.13"]
+[White "Gata Kamsky"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 25: Kamsky - Liren (2011)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/6JaHWhw6"]
+
+1. e4 { [%eval 0.18] } 1... e6 { [%eval 0.28] } 2. d4 { [%eval 0.28] } 2... d5 { [%eval 0.33] } 3. Nc3 { [%eval 0.28] } 3... Nf6 { [%eval 0.32] } 4. e5 { [%eval 0.35] } 4... Nfd7 { [%eval 0.29] } 5. f4 { [%eval 0.37] } 5... c5 { [%eval 0.32] } 6. Nf3 { [%eval 0.33] } 6... Nc6 { [%eval 0.36] } 7. Ne2 { [%eval 0.0] } 7... Be7 { [%eval 0.0] } 8. c3 { [%eval 0.15] } 8... O-O { [%eval 0.13] } 9. Be3 { [%eval 0.13] } 9... f6 { [%eval 0.12] } 10. g3 { [%eval 0.18] } 10... Qb6 { [%eval 0.17] } 11. Qd2 { [%eval -0.2] } 11... fxe5?! { [%eval 0.45] } { Inaccuracy. cxd4 was best. } (11... cxd4 12. Nexd4) 12. dxe5 { [%eval 0.51] } 12... Rd8 { [%eval 0.48] } 13. Bh3?! { [%eval -0.16] } { Inaccuracy. Rd1 was best. } (13. Rd1 Qa6) 13... d4 { [%eval -0.13] } 14. Bf2 { [%eval -0.12] } 14... d3?! { [%eval 0.61] } { Inaccuracy. dxc3 was best. } (14... dxc3 15. Qxc3 Nf8 16. Nc1 Nb4 17. O-O Nd5 18. Qc2 Bd7 19. a3 Qa6 20. Nd2) 15. Nc1 { [%eval 0.66] } 15... Nf8 { [%eval 0.82] } 16. b3?! { [%eval 0.23] } { Inaccuracy. O-O was best. } (16. O-O) 16... Qa6 { [%eval 0.25] } 17. a4 { [%eval 0.34] } 17... b5 { [%eval 0.28] } 18. O-O { [%eval 0.39] } 18... Bb7 { [%eval 0.27] } 19. Ra2?! { [%eval -0.59] } { Inaccuracy. axb5 was best. } (19. axb5 Qxa1) 19... b4 { [%eval -0.72] } 20. c4 { [%eval -0.94] } 20... Na5 { [%eval -0.88] } 21. Be3 { [%eval -0.97] } 21... Nxc4 { [%eval -1.11] } 22. bxc4 { [%eval -1.11] } 22... Qxc4 { [%eval -1.12] } 23. f5 { [%eval -1.18] } 23... exf5 { [%eval -1.23] } 24. Bxf5 { [%eval -0.95] } 24... Qd5?! { [%eval 0.0] } { Inaccuracy. Be4 was best. } (24... Be4) 25. Bxd3 { [%eval -0.01] } 25... c4 { [%eval -0.04] } 26. Bb1 { [%eval -0.01] } 26... Qc6 { [%eval -0.07] } 27. Qe1? { [%eval -1.58] } { Mistake. Qg2 was best. } (27. Qg2) 27... Ng6 { [%eval -1.4] } 28. Raf2?! { [%eval -2.0] } { Inaccuracy. Bxg6 was best. } (28. Bxg6) 28... Nxe5 { [%eval -2.7] } 29. Ne2 { [%eval -2.5] } 29... Rd3? { [%eval -0.96] } { Mistake. Bf6 was best. } (29... Bf6 30. h3 b3 31. Kh2 Nxf3+ 32. Rxf3 c3 33. Bf5 Re8 34. Nf4 Kh8 35. Nh5) 30. Ned4 { [%eval -1.05] } 30... Qd5 { [%eval -1.2] } 31. Bxd3? { [%eval -2.7] } { Mistake. h3 was best. } (31. h3 Bc5) 31... Nxd3 { [%eval -2.59] } 32. Qd2 { [%eval -2.97] } 32... Nxf2 { [%eval -2.9] } 33. Rxf2 { [%eval -3.0] } 33... Rf8 { [%eval -3.21] } 34. h4 { [%eval -3.64] } 34... c3 { [%eval -3.57] } 35. Qd3 { [%eval -3.58] } 35... Bc5 { [%eval -3.15] } 36. Bf4 { [%eval -3.59] } 36... Rd8 { [%eval -2.89] } 37. Be5? { [%eval -5.58] } { Mistake. Be3 was best. } (37. Be3 Rf8 38. a5 a6 39. Kf1 h6 40. Ng1 Rd8 41. Nge2 Qh1+ 42. Ng1 Bd5) 37... Re8 { [%eval -5.59] } 38. Bf4 { [%eval -6.18] } 38... Re1+ { [%eval -6.42] } 39. Rf1 { [%eval -6.42] } 39... Qxf3 { [%eval -6.37] } 40. Qxf3 { [%eval -6.21] } 40... Bxd4+ { [%eval -5.96] } { 0-1 Black wins. } 0-1
+
+
+[Event "ch-CHN 2012"]
+[Site "Xinghua CHN"]
+[Date "2012.03.27"]
+[White "Ding Liren"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 26: Liren - Yue (2012)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/A9N1Q17p"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.16] } 2... e6 { [%eval 0.11] } 3. Nf3 { [%eval 0.12] } 3... d5 { [%eval 0.17] } 4. Nc3 { [%eval 0.1] } 4... Be7 { [%eval 0.29] } 5. Bf4 { [%eval 0.19] } 5... O-O { [%eval 0.33] } 6. a3 { [%eval 0.13] } 6... dxc4 { [%eval 0.24] } 7. e3 { [%eval 0.11] } 7... Nd5 { [%eval 0.18] } 8. Bxc4 { [%eval 0.09] } 8... Nxf4 { [%eval 0.14] } 9. exf4 { [%eval 0.1] } 9... c5 { [%eval 0.08] } 10. dxc5 { [%eval 0.16] } 10... Qc7 { [%eval 0.26] } 11. g3 { [%eval 0.05] } 11... Qxc5 { [%eval 0.23] } 12. Qe2 { [%eval 0.19] } 12... Nd7 { [%eval 0.28] } 13. O-O { [%eval 0.32] } 13... Qh5 { [%eval 0.32] } 14. Rfd1 { [%eval 0.39] } 14... Rd8 { [%eval 0.67] } 15. Nd5 { [%eval 0.84] } 15... Bd6 { [%eval 0.79] } 16. Ne3 { [%eval 0.58] } 16... Nf8 { [%eval 0.66] } 17. Ne5 { [%eval 0.26] } 17... Qxe2 { [%eval 0.28] } 18. Bxe2 { [%eval 0.31] } 18... Be7 { [%eval 0.27] } 19. Bf3 { [%eval 0.23] } 19... Rxd1+ { [%eval 0.28] } 20. Rxd1 { [%eval 0.31] } 20... Rb8 { [%eval 0.25] } 21. Rc1 { [%eval 0.24] } 21... Bd8 { [%eval 0.59] } 22. N3c4 { [%eval 0.46] } 22... f6 { [%eval 0.84] } 23. Nf7 { [%eval 0.88] } 23... Be7?! { [%eval 2.0] } { Inaccuracy. Kxf7 was best. } (23... Kxf7 24. Nd6+ Kg8 25. Rxc8 Rxc8 26. Nxc8 a5 27. Bxb7 Nd7 28. Nd6 Nc5 29. Bc6) 24. Ncd6 { [%eval 2.05] } 24... Bd7 { [%eval 2.07] } 25. Rc7 { [%eval 1.83] } 25... b5 { [%eval 1.9] } 26. f5?! { [%eval 1.1] } { Inaccuracy. Rxa7 was best. } (26. Rxa7 Rb6 27. Nc8 Bxc8 28. Rxe7 b4 29. a4 Bd7 30. b3 Bxa4 31. bxa4 b3) 26... exf5 { [%eval 1.0] } 27. Rxa7 { [%eval 0.66] } 27... h6 { [%eval 0.67] } 28. Bd5 { [%eval 0.68] } 28... Kh7 { [%eval 0.77] } 29. Rc7 { [%eval 0.76] } 29... Kg6?! { [%eval 1.7] } { Inaccuracy. b4 was best. } (29... b4 30. a4 Bxd6 31. Nxd6 Bxa4 32. Nxf5 Bd7 33. Be4 Kh8 34. f4 Rd8 35. Nd4) 30. Nb7?! { [%eval 0.75] } { Inaccuracy. Bb7 was best. } (30. Bb7) 30... h5 { [%eval 1.02] } 31. b4 { [%eval 0.53] } 31... h4 { [%eval 0.6] } 32. f4 { [%eval 0.31] } 32... Ra8 { [%eval 0.34] } 33. Na5 { [%eval 0.34] } 33... Ra6 { [%eval 0.3] } 34. Kf2 { [%eval 0.3] } 34... hxg3+?! { [%eval 0.91] } { Inaccuracy. Bd6 was best. } (34... Bd6) 35. hxg3 { [%eval 1.02] } 35... Rb6?! { [%eval 1.79] } { Inaccuracy. Bd6 was best. } (35... Bd6 36. Nxd6) 36. Rb7?? { [%eval 0.0] } { Blunder. Ra7 was best. } (36. Ra7) 36... Ra6?! { [%eval 0.85] } { Inaccuracy. Rxb7 was best. } (36... Rxb7 37. Nxb7 Be6 38. Bxe6 Nxe6 39. Nfd6 Nd4 40. Nc8 Kf7 41. Ke3 Nc2+ 42. Kd3) 37. Rc7 { [%eval 0.99] } 37... Rb6?! { [%eval 1.74] } { Inaccuracy. Bd6 was best. } (37... Bd6 38. Nxd6 Rxd6 39. Rc5 Ne6 40. Nb7 Nxc5 41. Nxd6 Ne4+ 42. Nxe4 fxe4 43. Bxe4+) 38. Ke3?! { [%eval 0.85] } { Inaccuracy. Ra7 was best. } (38. Ra7 Kh7) 38... Be6?! { [%eval 1.46] } { Inaccuracy. Ra6 was best. } (38... Ra6) 39. Nc6 { [%eval 1.57] } 39... Rxc6 { [%eval 1.49] } 40. Nh8+ { [%eval 1.32] } 40... Kh7 { [%eval 1.57] } 41. Bxc6 { [%eval 2.8] } 41... Bd6 { [%eval 2.59] } 42. Rb7 { [%eval 2.45] } 42... Kxh8 { [%eval 2.45] } 43. Rxb5 { [%eval 2.19] } 43... g5 { [%eval 2.51] } 44. Bd5 { [%eval 2.51] } 44... Kg7 { [%eval 2.23] } 45. Bxe6 { [%eval 2.04] } 45... Nxe6 { [%eval 2.21] } 46. Rb6 { [%eval 2.34] } 46... gxf4+ { [%eval 1.77] } 47. gxf4? { [%eval 0.36] } { Mistake. Kf2 was best. } (47. Kf2) 47... Bxf4+ { [%eval 0.78] } 48. Kf3 { [%eval 0.34] } 48... Nc7 { [%eval 0.26] } 49. a4 { [%eval 0.26] } 49... Bh2 { [%eval 0.41] } 50. a5 { [%eval 0.47] } 50... Nd5?? { [%eval 4.38] } { Blunder. Kf8 was best. } (50... Kf8) 51. Rb5 { [%eval 4.04] } 51... Ne7 { [%eval 4.06] } 52. a6 { [%eval 3.95] } 52... Bg1 { [%eval 3.91] } 53. Rb7 { [%eval 3.78] } 53... Kf8 { [%eval 4.03] } 54. b5 { [%eval 4.04] } 54... Nd5 { [%eval 4.08] } 55. Rd7 { [%eval 3.94] } 55... Nc3 { [%eval 4.05] } 56. Kg2 { [%eval 4.08] } 56... Bb6 { [%eval 4.0] } 57. Rd6 { [%eval 3.48] } 57... Na4 { [%eval 3.47] } 58. Rd7 { [%eval 3.31] } 58... Nc3 { [%eval 3.86] } 59. Rb7 { [%eval 3.59] } 59... Nd5 { [%eval 3.29] } 60. Kf1?? { [%eval 0.33] } { Blunder. a7 was best. } (60. a7) 60... Ke8 { [%eval 0.37] } 61. Ke2 { [%eval 0.44] } 61... f4?? { [%eval 3.9] } { Blunder. Kd8 was best. } (61... Kd8) 62. Kd3 { [%eval 3.87] } 62... f3 { [%eval 3.86] } 63. a7 { [%eval 3.8] } 63... Bxa7 { [%eval 3.98] } 64. Rxa7 { [%eval 3.8] } 64... f2 { [%eval 4.75] } 65. Ra1 { [%eval 4.1] } 65... Kd7 { [%eval 4.76] } 66. Rf1 { [%eval 5.06] } 66... Nf4+ { [%eval 5.09] } 67. Kc4 { [%eval 5.03] } 67... Nh3 { [%eval 5.02] } 68. Kc5 { [%eval 4.97] } 68... Kc7 { [%eval 5.62] } 69. b6+ { [%eval 5.64] } 69... Kb7 { [%eval 5.61] } 70. Kb5 { [%eval 5.32] } 70... f5 { [%eval 5.1] } 71. Ka5 { [%eval 5.65] } 71... f4 { [%eval 5.97] } 72. Kb5 { [%eval 5.22] } 72... Ng5 { [%eval 6.6] } 73. Rxf2 { [%eval 5.55] } 73... Ne6 { [%eval 7.6] } 74. Rd2 { [%eval 6.85] } 74... f3 { [%eval 7.49] } 75. Rd7+ { [%eval 7.23] } 75... Kc8 { [%eval 6.83] } 76. Rf7 { [%eval 7.3] } 76... Kb8 { [%eval 7.43] } 77. Rf6 { [%eval 6.43] } 77... Nd4+?? { [%eval #11] } { Checkmate is now unavoidable. Nd8 was best. } (77... Nd8 78. Ka6 Kc8 79. Rxf3 Kd7 80. Rf6 Nc6 81. b7 Nb4+ 82. Kb5 Nd5 83. Rf7+) 78. Ka6 { [%eval #10] } { 1-0 White wins. } 1-0
+
+
+[Event "ch-CHN 2012"]
+[Site "Xinghua CHN"]
+[Date "2012.04.03"]
+[White "Zhou Jianchao"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E84"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Main Line"]
+[StudyName "Ding Liren's Best Games"]
+[ChapterName "Game 27: Jianchao - Ding (2012)"]
+[Annotator "https://lichess.org/@/bpdias"]
+[ChapterURL "https://lichess.org/study/oyGwHZDK/HH6JzWJe"]
+
+1. d4 { [%eval 0.17] } 1... Nf6 { [%eval 0.17] } 2. c4 { [%eval 0.16] } 2... g6 { [%eval 0.25] } 3. Nc3 { [%eval 0.21] } 3... Bg7 { [%eval 0.51] } 4. e4 { [%eval 0.56] } 4... d6 { [%eval 0.41] } 5. f3 { [%eval 0.26] } 5... O-O { [%eval 0.37] } 6. Be3 { [%eval 0.3] } 6... Nc6 { [%eval 0.54] } 7. Nge2 { [%eval 0.42] } 7... a6 { [%eval 0.53] } 8. Qd2 { [%eval 0.61] } 8... Rb8 { [%eval 0.63] } 9. Rc1 { [%eval 0.72] } 9... e6 { [%eval 0.66] } 10. b3 { [%eval 0.61] } 10... Nd7 { [%eval 0.63] } 11. h4 { [%eval 0.63] } 11... h5 { [%eval 0.68] } 12. d5 { [%eval 0.54] } 12... Nce5 { [%eval 0.65] } 13. Nf4 { [%eval 0.53] } 13... Nf6 { [%eval 0.76] } 14. Be2 { [%eval 0.74] } 14... c5 { [%eval 0.82] } 15. dxe6 { [%eval 0.76] } 15... Bxe6 { [%eval 0.87] } 16. Rd1 { [%eval 0.58] } 16... Qa5 { [%eval 0.72] } 17. Na4 { [%eval 0.67] } 17... Qxd2+ { [%eval 0.74] } 18. Rxd2 { [%eval 0.61] } 18... Rfd8 { [%eval 1.04] } 19. Nb6 { [%eval 0.86] } 19... Nc6 { [%eval 0.85] } 20. Kf2 { [%eval 0.75] } 20... Nd4 { [%eval 0.83] } 21. b4 { [%eval 0.63] } 21... Nd7 { [%eval 0.63] } 22. bxc5 { [%eval 0.65] } 22... dxc5 { [%eval 0.68] } 23. Rb1 { [%eval 0.7] } 23... Ne5?! { [%eval 1.82] } { Inaccuracy. Nxb6 was best. } (23... Nxb6) 24. Nxe6 { [%eval 1.78] } 24... fxe6 { [%eval 1.38] } 25. f4 { [%eval 1.33] } 25... Nec6 { [%eval 1.24] } 26. e5 { [%eval 1.09] } 26... Bf8 { [%eval 1.37] } 27. g3?! { [%eval 0.42] } { Inaccuracy. Bd3 was best. } (27. Bd3) 27... Kf7?! { [%eval 1.24] } { Inaccuracy. Nxe2 was best. } (27... Nxe2 28. Kxe2 Rxd2+ 29. Kxd2 Rd8+ 30. Ke2 Na5 31. Bf2 Kf7 32. Na4 Rd7 33. Rc1) 28. Bd3 { [%eval 1.3] } 28... Ne7 { [%eval 1.25] } 29. Na4 { [%eval 1.35] } 29... Nef5 { [%eval 1.17] } 30. Bxf5 { [%eval 1.23] } 30... Nxf5?? { [%eval 3.18] } { Blunder. gxf5 was best. } (30... gxf5 31. Rb6 Rd7 32. Rdb2 Rc7 33. Rxa6 Be7 34. Rab6 Rd7 35. Nc3 Bd8 36. Ra6) 31. Rxd8 { [%eval 3.01] } 31... Rxd8 { [%eval 2.93] } 32. Rxb7+ { [%eval 2.92] } 32... Kg8 { [%eval 3.11] } 33. Nb2 { [%eval 3.05] } 33... Be7 { [%eval 3.33] } 34. Rb3 { [%eval 2.72] } 34... Kf7 { [%eval 2.69] } 35. Nd3 { [%eval 2.65] } 35... Rd7 { [%eval 2.62] } 36. Kf3 { [%eval 2.46] } 36... a5 { [%eval 2.82] } 37. a4 { [%eval 2.29] } 37... Rd4 { [%eval 2.25] } 38. Nb2 { [%eval 2.4] } 38... Rd7 { [%eval 2.27] } 39. Rb5 { [%eval 2.34] } 39... Bd8 { [%eval 2.41] } 40. Rb3 { [%eval 2.24] } 40... Be7 { [%eval 2.35] } 41. Rb5 { [%eval 2.2] } 41... Bd8 { [%eval 1.92] } 42. Bxc5 { [%eval 1.75] } 42... Rd2 { [%eval 1.7] } 43. Bf2 { [%eval 1.59] } 43... Rc2 { [%eval 1.61] } 44. c5 { [%eval 1.6] } 44... Rc3+ { [%eval 2.04] } 45. Kg2 { [%eval 1.61] } 45... Ke8 { [%eval 1.41] } 46. Nd1 { [%eval 1.43] } 46... Rc4 { [%eval 1.26] } 47. Nb2 { [%eval 1.44] } 47... Rc3 { [%eval 1.55] } 48. Nd1 { [%eval 1.42] } 48... Rc4 { [%eval 1.18] } 49. Ne3 { [%eval 1.34] } 49... Rxa4 { [%eval 1.22] } 50. Nxf5 { [%eval 1.09] } 50... gxf5 { [%eval 1.31] } 51. c6? { [%eval 0.18] } { Mistake. Rb8 was best. } (51. Rb8) 51... Rc4 { [%eval 0.48] } 52. Bc5 { [%eval 0.0] } 52... a4 { [%eval 0.0] } 53. Kf1 { [%eval -0.2] } 53... Rc3 { [%eval -0.29] } 54. Bb6?? { [%eval -3.37] } { Blunder. Kg2 was best. } (54. Kg2 a3) 54... Rb3 { [%eval -3.95] } 55. Rc5 { [%eval -4.27] } 55... Rxb6 { [%eval -4.06] } 56. c7 { [%eval -3.67] } 56... Bxc7 { [%eval -3.18] } 57. Rxc7 { [%eval -3.45] } 57... Ra6 { [%eval -3.65] } 58. Rc2?! { [%eval -5.22] } { Inaccuracy. Ke2 was best. } (58. Ke2 a3) 58... a3 { [%eval -5.06] } 59. Ra2 { [%eval -5.01] } 59... Kd7 { [%eval -5.3] } 60. Ke2 { [%eval -5.26] } 60... Kc6 { [%eval -5.22] } 61. Kd2 { [%eval -5.21] } 61... Kd5 { [%eval -5.16] } 62. Kd3 { [%eval -5.3] } 62... Ra8 { [%eval -5.2] } 63. Kc2 { [%eval -5.47] } 63... Ke4 { [%eval -5.25] } 64. Kb1 { [%eval -5.23] } 64... Kf3 { [%eval -5.37] } 65. Rd2 { [%eval -5.26] } 65... Kxg3 { [%eval -5.24] } 66. Rd6 { [%eval -5.01] } 66... Re8 { [%eval -4.82] } { 0-1 Black wins. } 0-1
+
+

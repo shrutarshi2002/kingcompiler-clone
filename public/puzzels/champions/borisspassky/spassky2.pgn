@@ -1,0 +1,99 @@
+[Event "Bundesliga 1982/83"]
+[Site "Hamburg (Germany)"]
+[Date "1982.??.??"]
+[White "Spassky Boris V (FRA)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2700"]
+[Variant "Standard"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted: Fischer Defense"]
+[StudyName "King's Gambit!! Boris  Spassky✌"]
+[ChapterName "Spassky Boris V (FRA) - Karpov Anatoly (RUS)"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/5imkdiIL/Q26RKqxn"]
+
+1. e4 e5 2. f4 { one of the rare players to play the king gambit in tournaments, boris spassky plays with Karpov } 2... exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. O-O Bg7 7. g3 g4 8. Nh4 f3 9. Nc3 Nc6 10. Be3 Nf6 11. Qd2 Nxe4 12. Nxe4 d5 13. Nc3 dxc4 14. Rae1 O-O 15. d5 Ne7 16. Bxh6 Ng6 17. Nxg6 fxg6 18. Bxg7 Kxg7 19. Qd4+ Qf6 20. Re7+ Kg8 21. Qxf6 Rxf6 22. Rxc7 Bf5 23. Rxc4 Re8 24. h3 Bxc2 25. Rd4 gxh3 26. Kh2 f2 27. Kxh3?? { it's blunder.After Re1 move Spassky had to give his rook to the bishop } 27... Re1 28. Kg2 Rxf1 29. Kxf1 Rf3 30. Rd2 Bd3+ 31. Rxd3 Rxd3 32. Kxf2 Kf7 33. g4 Rd2+ 34. Ke3 Rxb2 35. Kd4 Ke7 36. Ke5 Rg2 37. d6+ Kd8 38. Kf4 Kd7 39. Ne4 Rxa2 40. Ke5 { Spassky is losing! but at the end of the match you will see that we should never give up } 40... Ra5+ 41. Kf6 b5?? { bad mistake from karpov } 42. Nc5+ Kxd6 43. Nb7+ Kc7 44. Nxa5 Kb6 45. Nb3 a5 46. Kxg6 a4 47. Nd2 Kc5 48. Kf5 Kb4 49. g5 a3 50. g6 a2 51. g7 a1=Q 52. g8=Q { equal position } 52... Qd4 53. Ne4 Ka3 54. Qa8+ Kb2 55. Qa6 b4 56. Qe2+ Ka3 57. Nd2 b3 58. Nb1+ Kb4 59. Qe1+ Ka4 60. Nc3+ Ka5 61. Ne2+ Qb4 62. Qa1+ Kb6 63. Qb2 Qc5+ 64. Kf4 Qc4+ 65. Ke3 Qc5+ 66. Nd4 Qe7+ 67. Kd3 Qb4 68. Nxb3 Qb5+ 69. Ke4 Qb4+ 70. Ke3 Qe7+ 71. Kd3 Qh7+ 72. Kc3 Qh3+ 73. Kb4 Qd7 74. Qf2+ Kc7 75. Nc5 Qe7 76. Qg3+ Kc6 77. Qg2+ Kb6 78. Qg6+ Kc7 79. Kb5 Qe2+ 80. Nd3 Qe7 81. Qc6+ Kd8 82. Qa8+ Kc7 83. Qa7+ Kd8?? { and karpov is making the worst mistake of this match! } 84. Qb8+ { 1-0 Black resigns. } 84... Kd7 85. Nc5+ Qxc5+ 86. Kxc5 1-0
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1959.??.??"]
+[White "Spassky Boris V (FRA)"]
+[Black "Furman Semen (RUS)"]
+[Result "1-0"]
+[WhiteElo "2548"]
+[BlackElo "2550"]
+[Variant "Standard"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted: Mason-Keres Gambit"]
+[StudyName "King's Gambit!! Boris  Spassky✌"]
+[ChapterName "Spassky Boris V (FRA) - Furman Semen (RUS)"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/5imkdiIL/42frggyS"]
+
+1. e4 e5 2. f4 { year: 1959 } 2... exf4 3. Nc3 { Spassky allows Qh4 in this match by making Nc3 instead of Nf3 } 3... Qh4+ 4. Ke2 d5?! 5. Nxd5 Bd6 6. Nf3 Bg4 7. d4 Nc6 8. e5 O-O-O 9. Bxf4 Nge7 10. c4 Nf5 { black wants to attack the king by sacrificing his bishop } 11. exd6 Nfxd4+?? { it's a blunder. Ncxd4 was the correct move } 12. Kd3 Qh5 13. Be2 Ne6 14. Bg3 cxd6 15. b4 Rhe8 16. Re1 Nc7 17. Kc3 Qh6 18. Qc1 Nxd5+ 19. cxd5 Re3+ 20. Bd3 Qf6+ 21. Kc2 Rxe1 22. Bxe1 Bxf3 23. dxc6 Bxc6 24. Bc3 Qf2+ 25. Qd2 Ba4+ 26. Kb2 Qh4 27. Bxg7 Kb8 28. g3 Qg4 29. Bf6 Rc8 30. Rc1 Re8 31. b5 { 1-0 Black resigns. } 31... Qh5 32. Qa5 Qxh2+ 33. Ka1 Ka8 34. Qxa4 1-0
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1960.??.??"]
+[Round "16"]
+[White "Spassky Boris V (FRA)"]
+[Black "Bronstein David I (RUS)"]
+[Result "1-0"]
+[WhiteElo "2548"]
+[BlackElo "2432"]
+[Variant "Standard"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Modern Defense"]
+[StudyName "King's Gambit!! Boris  Spassky✌"]
+[ChapterName "Spassky Boris V (FRA) - Bronstein David I (RUS)"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/5imkdiIL/m72PpBx6"]
+
+1. e4 e5 2. f4 { A game played in 1960 } 2... exf4 3. Nf3 d5 4. exd5 Bd6 5. Nc3 Ne7 6. d4 O-O 7. Bd3 Nd7 8. O-O h6 9. Ne4 Nxd5 10. c4 Ne3 11. Bxe3 fxe3 12. c5 Be7 13. Bc2 Re8?! { white will start a dangerous attack after Qd3 } 14. Qd3 e2? { black makes a mistake with move e2, correct move is Qxe2 but Spassky chose a different continuation } 15. Nd6 Nf8?? { another bad mistake. } (15... exf1=Q+ 16. Rxf1 Bxd6 17. Qh7+ Kf8 18. cxd6 { Position after exf1 would not be that easy for white }) 16. Nxf7 exf1=Q+ 17. Rxf1 Bf5 18. Qxf5 Qd7 19. Qf4 Bf6 20. N3e5 Qe7 { Bronstein made too many mistakes and the defense became impossible } 21. Bb3 Bxe5 22. Nxe5+ Kh7 23. Qe4+ { 1-0 Black resigns. } 23... g6 24. Rxf8 Qxf8 25. Qxg6+ Kh8 26. Nf7+ 1-0
+
+
+[Event "It"]
+[Site "Mar del Plata (Argentina)"]
+[Date "1960.??.??"]
+[White "Spassky Boris V (FRA)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1-0"]
+[WhiteElo "2548"]
+[BlackElo "2780"]
+[Variant "Standard"]
+[ECO "C39"]
+[Opening "King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, Rubinstein Variation"]
+[StudyName "King's Gambit!! Boris  Spassky✌"]
+[ChapterName "Spassky Boris V (FRA) - Fischer Robert J (USA)"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/5imkdiIL/59G2tgy8"]
+
+1. e4 e5 2. f4 { maybe many of you know this game
+In the world championship, Spassky started 1-0 as Bobby Fischer did not make it to the first game.
+This is the 2nd of 6 matches played. } 2... exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 8. Bxf4 Bg7 9. Nc3 Nxc3 10. bxc3 c5 11. Be2 cxd4 12. O-O Nc6 13. Bxg4 O-O 14. Bxc8 Rxc8 15. Qg4 { fischer's position is not bad and he has 1 extra pawn! but it won't go on like this } 15... f5 16. Qg3 dxc3 17. Rae1 Kh8 18. Kh1 Rg8 19. Bxd6 Bf8 20. Be5+ Nxe5 21. Qxe5+ Rg7 22. Rxf5 Qxh4+ 23. Kg1 Qg4 24. Rf2 Be7 25. Re4 Qg5 26. Qd4 Rf8?? { fischer is making an amateur mistake! } 27. Re5 { After this move, Fischer lost his bishop. } 27... Rd8 28. Qe4 Qh4 29. Rf4 { 1-0 Black resigns. } { But don't feel sorry for Fischer! fischer won the other 4 matches and became the world champion } 29... Qg3 30. Rxe7 1-0
+
+
+[Event "Tournament (cand.) (cat.14)"]
+[Site "Montpellier (France)"]
+[Date "1985.??.??"]
+[White "Spassky Boris V (FRA)"]
+[Black "Seirawan Yasser (USA)"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2570"]
+[Variant "Standard"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted: Bonsch-Osmolovsky Variation"]
+[StudyName "King's Gambit!! Boris  Spassky✌"]
+[ChapterName "Spassky Boris V (FRA) - Seirawan Yasser (USA)"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/5imkdiIL/XpHhpkuw"]
+
+1. e4 e5 2. f4 { WhiteElo: 2590
+BlackElo: 2570 } 2... exf4 3. Nf3 Ne7?! { an interesting continuation } 4. d4 d5 5. Nc3 dxe4 6. Nxe4 Ng6 7. h4 Qe7 8. Kf2 Bg4 (8... Qxe4 9. Bb5+ c6 10. Re1) 9. h5 Nh4 10. Bxf4 { Although white's king security seems bad, black cannot attack the king } 10... Nc6 { Spassky would win a piece with rxh4 } 11. Bb5? O-O-O?! 12. Bxc6 bxc6 { now white can attack the king } 13. Qd3 Nxf3 14. gxf3 Bf5 15. Qa6+ Kb8 16. Nc5 Bc8 17. Qxc6 Rxd4 18. Rae1 Rxf4 { Qvd8 alternate move } 19. Qb5+ Ka8 20. Qc6+ Kb8 21. Rxe7 Bxe7 22. Rd1 Rf6 23. Nd7+ Bxd7 24. Qxd7 Rd8 25. Qb5+ Kc8 26. Rxd8+ Bxd8 27. Qa4 g5 28. Qxa7 Rf4 29. Qa6+ { defeat is inevitable } 29... Kb8 30. Qd3 Be7 31. Qxh7 g4 32. Kg3 { 1-0 Black resigns. } 1-0
+
+

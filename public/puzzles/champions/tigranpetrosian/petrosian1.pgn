@@ -1,0 +1,240 @@
+[Event "URS-ch19 Final"]
+[Site "Moscow"]
+[Date "1951.11.11"]
+[Round "1"]
+[White "Petrosian, Tigran V"]
+[Black "Kopylov, Nikolai Georgievich"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E43"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Kopylov, Nikolai Georgievich"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/tIwKJSWG"]
+
+1. d4 { Eine Verlustpartie in einem starken Turnier, aber sie war einfach zu
+gut. } 1... Nf6 2. c4 e6 3. Nc3 Bb4 { Eine Zeit in der die
+Nimzo-Variante, großen Aufwind hatte. } { [%cal Re8g8] } 4. e3 { [%csl Gc3][%cal Gg1e2] } 4... b6 { spielt man heutzutage seltener. Eher wird die
+kurze Rochade gespielt. } { [%csl Yd7,Ye6][%cal Rc8b7,Rb7f3] } (4... O-O 5. Bd3 d5 6. Nf3 { ist eine normale Variante. }) 5. Nf3 Bb7 6. Bd3 { [%cal Ge8g8,Gf6e4,Gf7f5,Ye4c3] } 6... c5 (6... O-O) (6... Ne4 { sind die Hauptvarianten. }) 7. O-O O-O { [%csl Rb4][%cal Gc3a4] } 8. a3 (8. Na4! { die aktuelle Variante. } 8... cxd4 9. a3 (9. exd4) 9... Be7 10. exd4) 8... cxd4 9. Na4 Be7 10. exd4 Qc7 (10... d6 { [%cal Gb8d7,Ge6e5] } 11. b4 Nbd7 12. Bb2 Re8 13. Rc1 $14) 11. b4! Ng4 12. g3 { auch einer unserer Autoren, Rainer Buhmann,
+spielte diese Variante. } 12... f5 { was ist der beste Zug? } { [%csl Ra8,Rb8,Rc7] } (12... d6 13. Bb2 Nd7 14. Rc1 Rac8 15. Nc3 Qb8 16. Re1 Qa8 17. Nd2 Ngf6 18. Bf1 Rfe8 19. Bh3 Bf8 20. Ne2 Rc7 21. Nf4 e5 22. Nd3 a5 23. Qb3 Ne4 24. Nxe4 Bxe4 25. f4 a4 26. Qd1 exd4 27. Nf2 Bb7 28. Qxd4 d5 29. cxd5 Rxe1+ 30. Rxe1 Bxd5 31. Ng4 Qc6 32. Ne3 Be6 33. Rc1 Qd6 34. Rxc7 Qxc7 35. Bxe6 fxe6 36. Qe4 Qd6 37. Bd4 b5 38. f5 e5 39. Bc3 Be7 40. h4 Bf6 41. Qd5+ Qxd5 42. Nxd5 Bd8 43. Kf2 Bb6+ 44. Kf3 h5 45. Bd2 Kf7 46. Be3 Bd4 47. Nc7 Bb2 48. Nxb5 Ke7 49. Ke2 Kf6 50. Nd6 g6 51. Nc4 Ba1 52. fxg6 Kxg6 53. b5 Kf5 54. Nb6 Nxb6 55. Bxb6 Ke4 56. Bc5 Kd5 57. b6 Kc6 58. Kd3 Bb2 59. Ke4 Bc3 60. g4 hxg4 61. h5 g3 62. Kf3 e4+ 63. Kxe4 g2 64. b7 Kxb7 65. h6 Kc6 66. Be3 Bd2 67. h7 Bxe3 68. h8=Q g1=Q 69. Qa8+ Kb5 70. Qe8+ Ka5 71. Qd8+ Bb6 72. Qd2+ Ka6 73. Qd3+ Ka5 74. Qd2+ Ka6 75. Qd3+ Kb7 76. Qd7+ Kb8 77. Qe8+ Kc7 78. Qe7+ Kc6 79. Qe6+ Kb5 80. Qd7+ { 1/2-1/2 (80) Buhmann,
+R (2587)-Saduakassova,D (2470) Caleta 2018 }) 13. Re1 { langsam, wie sollte
+Schwarz reagieren ? } (13. Bf4 Qc6 { [%csl Rc6][%cal Rc6g2,Rg2h1] } 14. d5!! exd5 15. b5 Qf6 16. h3 Nh6 17. Bg5 Qf7 18. Bxe7 Qxe7 19. Re1 Qf7 20. c5 $18) 13... f4? (13... Bxf3! 14. Qxf3 Nc6 { schnell Figuren entwickeln! } 15. d5 Nd4 { [%cal Gg4e5] } 16. Qd1 Ne5 17. Be2 Nxe2+ 18. Qxe2 Qxc4 19. Qxe5 Bf6 20. Qf4 Qc2 (20... Bxa1 21. Qxc4 $18) 21. Bb2 Bxb2 22. Nxb2 Qxb2 23. Rac1) 14. Bxf4 Rxf4 15. gxf4 Qxf4 { Petrosian ging als einer der größten
+Verteidiger aller Zeiten in die Geschichtsbücher ein, in dieser Partie war er
+noch in der Ausbildung. } { [%cal Rb7f3,Rf4h2] } 16. d5 { [%csl Rb7] } 16... exd5 { was ist hier korrekt? } 17. Rxe7 { Was ist der beste Zug? } (17. Nc3! dxc4 (17... d4 18. Be4) 18. Be4 { [%csl Ra8,Rb7,Rb8] } 18... Bxe4 19. Rxe4 Qf5 20. Qd5+! $18) 17... Nc6! 18. Re1 Rf8 { was ist der beste Zug? } 19. Be4!! dxe4 20. Qd5+ Kh8 21. Qxe4 Qf6 (21... Qxe4 22. Rxe4 { [%csl Ge4][%cal Ge4g4,Ge4e8] } 22... Nxb4!! { [%cal Rb7e4,Re4f3] } 23. Rxg4 Bxf3 24. Rg3 Nc2 25. Ra2 Nd4 26. Nc3 Rc8) (21... Qxf3 22. Qxf3 Rxf3 23. Re8+) 22. Qxg4 Nd8 { [%csl Rb7][%cal Rb7g2] } 23. Qg3 Bxf3 24. Rac1 Ne6 25. Nc3 Nd4 26. Re3 { wie sollte es weitergehen? } 26... Bc6?! { und jetzt? } (26... h5! 27. Ne4 Qf5 28. Nd6 Qf6 29. Ne4) 27. Nd5! Qf7 28. Rce1 b5! 29. Re7 Qg8! { [%csl Rc6] } 30. Kf1 (30. R7e3! Bxd5 31. cxd5 Nf5 32. Qg2 Nxe3 33. Rxe3) 30... bxc4 { Petrosian findet nicht die beste Fortsetzung, diese verliert. Was
+hätte er stattdessen machen sollen? } 31. Ne3 (31. R1e5! d6 32. Rh5 Nf5 33. Qg4 Qxd5 (33... Nxe7 34. Nxe7) 34. Rxf5 Qd3+ 35. Ke1 Qb1+ 36. Ke2 Qd3+ 37. Ke1) 31... c3! 32. Rc1 c2? (32... Bb5+! 33. Ke1 Nf3+ 34. Kd1 Qb3+ $19) 33. Nxc2 (33. Rxc2! Bb5+ 34. Ke1 Nf3+ 35. Kd1 Ba4 36. Kc1 Nd4 37. Rb2 Rc8+ 38. Kb1 Bb5 39. Nd5 Nf5 40. Qf3 Nxe7 41. Nxe7 Rf8 42. Qe3 $15) 33... Qc4+ 34. Ke1 Nf3+ { 0-1 Black wins. } 0-1
+
+
+[Event "Interzonal-02"]
+[Site "Saltsjobaden"]
+[Date "1952.09.22"]
+[Round "5"]
+[White "Petrosian, Tigran V"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A47"]
+[Opening "Pseudo Queen's Indian Defense"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Golombek, Harry"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/dMnkl9s6"]
+
+1. Nf3 Nf6 2. d4 b6 3. Bg5 { Petrosian spielt schlau, eine Variante mit der
+sein Gegner vermutlich nicht gerechnet hat. } 3... Bb7 4. e3 (4. Nbd2! { mit der
+Idee e4 durchzusetzen. } 4... e6 (4... c5 5. e3 $14) 5. e4 h6 6. Bxf6 Qxf6) 4... c5 5. Bd3 (5. Bxf6! gxf6 6. d5 { [%cal Rd8b6,Rb6a5] } 6... f5 7. Nc3 Bg7 8. Qd3 e6 9. O-O-O $14) 5... Nc6 6. c3 e6 7. Nbd2 Be7 8. O-O d5 9. Qe2 { Eine Art Londoner
+System, mit einem Läufer auf g5. } 9... O-O 10. Rad1! { [%cal Gd1d8] } 10... Qc7 11. Bf4 Bd6 12. Bxd6 Qxd6 { Was ist der richtige Zug? } 13. e4!! dxe4 14. Nxe4 Nxe4 15. Bxe4 (15. Qxe4! { vermutlich noch ein bisschen besser. } 15... g6 16. dxc5 Qxc5 17. Qh4 $14 { [%csl Rh7][%cal Gf3g5,Gh4h6,Gh6h7] }) 15... Qe7 { zu langsam } (15... Rad8 16. dxc5 Qxc5 17. h4 { [%cal Ge4h7,Gf3g5] } 17... h6 18. b4 Qe7 (18... Qxc3 19. Rc1) 19. a3 $14) 16. dxc5 bxc5 { Als London-Spieler
+ist das genau eine Stellung haben möchte. } { [%csl Ra7,Rc5][%cal Gf3e5] } 17. Rd2 Rfd8 18. Rfd1 Rxd2 19. Rxd2 Rd8 20. Rxd8+ Qxd8 $14 { Wie ist dieses Endspiel einzuschätzen? } 21. g3 g6 22. Qe3 (22. Qb5! Qb6 23. Qxb6 axb6 24. Nd2 f5 25. Bxc6 Bxc6 26. Nc4 b5 27. Ne5 $16) 22... Qd1+ 23. Kg2 Qd6 24. Nd2 Na5 25. Bxb7 (25. b3! Kg7 26. Kf1 Bc6 27. Ke1 $14) 25... Nxb7 26. Ne4 Qe7 { Was ist der beste Zug? } 27. h4! { [%cal Gh4h5,Gh5h6] } 27... Kg7 28. c4 a5 (28... h6 29. Qc3+ f6 30. g4 e5 $16) 29. Qc3+ f6 30. b3 e5 31. Qe3 Qc7 { was ist der beste Zug? } 32. Qd3 (32. g4! Qd7 33. g5 f5 34. Nf6 Qd4 35. Qf3 Nd8 36. Qd5! $18) 32... Qc6 (32... f5! { einziger Weg } 33. Ng5 Qc6+ 34. Kf1 h6 35. Nf3 e4 36. Ne5 exd3 37. Nxc6 Kf6 38. f4 $14) 33. Qd5 Qxd5 34. cxd5 Kf7 35. Nd2 f5 36. Nc4 Kf6 37. f3 e4 38. fxe4 fxe4 39. g4 h5 40. Kg3 hxg4 41. Kxg4 { 1-0 White wins. } 1-0
+
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.10.04"]
+[Round "19"]
+[White "Petrosian, Tigran V"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Gligoric, Svetozar"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/tZyyCz8a"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 (7... c6 8. g4 cxd5 9. cxd5 h5 10. g5 Ne8 { ist eine andere Variante }) 8. Qd2 (8. g4 Nf4 { [%csl Gf4][%cal Ge5f4,Rg7c3] }) 8... f5 9. O-O-O { Nicht häufig, dass Weiß in
+diesen Stellungen lang rochiert, dumm ist es aber auch nicht. } 9... f4 (9... Na6 { sieht logischer aus. }) 10. Bf2 Bf6 { [%csl Gd6,Ge5,Gf4][%cal Rf6h4,Ga7a6,Gc7c6] } 11. Nge2 (11. Bh4) 11... Bh4 12. Bg1 (12. Bxh4 Qxh4 13. Nb5 Qd8 14. c5 a6 15. Qa5 { eine interessante Alterantive. } { [%csl Rc7][%cal Rc5d6,Ra5a8,Ga6b5] }) 12... g5 { [%cal Gc7h2,Gg2b7] } 13. c5! g4! 14. Kb1! { [%cal Gc1c7,Gh6c1] } 14... gxf3 15. gxf3 Na6 16. c6! { ebenfalls ein starker Zug, Schwarz steht heftig
+unter Druck! } 16... Nf6 (16... Kh8 { Schwarz muss nun genau
+spielen. } { [%cal Rc4g8,Rg1g8] }) (16... b6 { [%csl Ra6][%cal Ga6c5,Gc3b5,Gb5c7] }) (16... bxc6 17. dxc6 { [%csl Ra6][%cal Gc3d5] }) 17. cxb7 Bxb7 18. Ng3 { warum? } (18. Nxf4! exf4 19. Bd4 { [%csl Ra6,Ra8,Rb7,Rg8,Yh4][%cal Gh1g1,Gg1g8,Gd4h8] }) 18... Bc8! { starker Verteidigungszug. } 19. Nge2 Nc5 (19... Nb8 { überraschenderweise der
+beste Zug. }) 20. Bxc5 dxc5 21. Nc1! { [%csl Rc5,Gf1][%cal Gc1b3,Gc3a4] } 21... Qe7 22. Nb3 Bd7 23. Qg2+ Kh8 24. Qg1 Ne8 25. Qxc5 Nd6 26. Rc1 Be8 27. Bh3 a5 { ein guter Versuch, Gegenspiel zu suchen, doch Petrosian lässt sich nicht
+davon beeindrucken. } 28. Nxa5 Bf2 { was ist der beste Zug? } 29. Qxf2! Rxa5 30. Rhg1 Bg6 31. Bf1 Rb8 32. Rc2 Nf7 33. h4 Nd6 34. Bd3 Rb4 35. Rgc1 Rd4 36. Bf1 Qd8 { [%csl Ra2][%cal Rg6b1,Rb8b1,Rc3a2] } 37. Ne2?? { Wie hätte Schwarz jetzt
+Remis machen können? } (37. Ka1 $18 { [%cal Ga2a3] }) 37... Rda4 (37... Rxe4!! 38. h5! (38. fxe4? Nxe4 { [%cal Ge4d2,Rc2d2,Gb1a1,Ga5a2,Gd8a8] } 39. Qe1 (39. Qh2 Nd2+ 40. Ka1 Rxa2+ 41. Kxa2 Qa8#) 39... Qxd5 { [%csl Ga5][%cal Gd5a2] } 40. a3 Nd2+ 41. Ka1 Nb3+ 42. Kb1 Nxc1 43. Kxc1 Bxc2 44. Nc3 Qb3 45. Bb5 Rxb5 46. Nxb5 Qxb5 47. Kxc2 $19) 38... Bf5 39. Bh3 Rea4 40. Nc3 Bxh3 41. Nxa4 Rxa4 42. Qe1 Nf7) 38. Nc3 Rd4 39. b3 Qb8 40. h5 Bxh5 41. Qh4 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch26 Final"]
+[Site "Tbilisi"]
+[Date "1959.01.28"]
+[Round "12"]
+[White "Petrosian, Tigran V"]
+[Black "Gufeld, Eduard"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Gufeld, Eduard"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/Z9DH5qfl"]
+
+1. c4 (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 (5... Be7 6. e3 Bf5 7. Bxf6 Bxf6 8. Qb3) 6. e3 Bf5 7. Qf3) 1... Nf6 (1... c6 2. d4 d5 3. cxd5 cxd5) (1... d6) 2. Nc3 (2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 { [%cal Gf7f4] }) 2... e6 3. Nf3 (3. e4 { ist der
+Grund warum ich diese Zugreihenfolge mit Schwarz nicht spiele. } 3... d5 4. e5 (4. cxd5 exd5 5. e5) 4... d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 e5 8. Nf3 exd4 9. Bg5 Qe6+ 10. Be2 Be7 11. cxd4 { um nur eine von vielen heiklen Variante zu zeigen. }) 3... d5 4. d4 { Abgelehntes Damengambit. } 4... c6 { [%cal Gd5c4,Gb7b5] } 5. cxd5 cxd5 { Der Abtauschslawe, eine aus meiner Sicht völlig unterschätzte
+Variante. } { [%cal Gc8f5,Gf5g4,Gf4g5] } (5... exd5 6. Bg5 { [%csl Gc8] } (6. Qc2 g6 { [%cal Gf8e7] })) 6. Bg5 (6. Bf4!? Bd6 7. Bxd6 Qxd6 8. e3 O-O 9. Bd3 Nc6 10. O-O Bd7 11. Rc1 $14) (6. e3) 6... Be7 7. e3 { [%csl Gc8,Yg5] } 7... Nc6 8. Bd3 { [%csl Gc8,Gd3] } 8... Qb6 { zu früh } 9. Rb1 (9. O-O Qxb2? 10. Nb5 (10. Na4 Qb4) 10... O-O 11. Nc7 Rb8 12. Rb1 Qxa2 13. Ne5 Qa5 (13... Nd8) (13... Bd8 14. Nxc6) (13... Bd7 14. Nxd7 (14. Bxf6)) 14. Nxc6 bxc6 15. Rxb8 Qxc7 $18) 9... O-O 10. O-O Bd7 11. Ne5! { Aus meiner Sicht der Vorteil an dem Abtausch-Slawen, Weiß
+hat immer einen leichten, sehr unangenehmen Druck. } { [%cal Gd1h5,Yg5f6,Ye5d7] } 11... Qd8 { Eingeständnis der
+schlechten Strategie. } (11... Nxe5 12. dxe5 { [%csl Rf6] }) 12. Qf3 (12. f4) 12... Nb4 { wie
+sollte man reagieren? } 13. Be2! { Weiß will keine Figuren tauschen. } 13... Be8 14. a3 Nc6 15. Bd3 { Wie sollte es weitergehen? } 15... Nd7 (15... Nxe5 { Schwarz muss
+vielleicht tauschen. } 16. dxe5 Nd7 17. Qh3 g6 18. Bxe7 (18. Bh6? Nxe5) 18... Qxe7 19. Qg3 $14) 16. Nxc6 bxc6 17. Bxe7 Qxe7 { So geht der Abtausch auch, aber
+jetzt ist der c6 sehr schwach. Wie sollte Weiß weitermachen? } 18. e4!! { [%cal Gf1e1,Ge1e3] } (18. b4 a5 { [%cal Ga8a2] }) 18... a5 19. Rfe1! Qd8 20. Rbc1 Qb6 { Wie sollte man weiter
+machen? } 21. exd5 (21. Qe3! { Spannung halten. } 21... Qxb2? 22. exd5 (22. Rb1) 22... exd5 (22... cxd5 23. Rb1 Qxa3) 23. Rb1 Qxa3 24. Nb5 $18 { [%csl Rh7][%cal Rd3h7] }) 21... cxd5 22. Qe3 { Was sollte man
+spielen? } 22... Nb8? { schwerer Fehler! } (22... Nf6 { da gehört der Springer hin. }) (22... Qxb2 23. Rb1 (23. Nb5 { [%csl Gc1] })) 23. Nxd5!! exd5 24. Qxe8 g6 25. Qb5 Qxd4 26. Red1 { [%csl Ra8,Rb8] } 26... Ra6 (26... Qg7 27. Qb7) 27. Bxg6 Rc6 28. Bd3 (28. Bb1) 28... Rxc1 29. Rxc1 Nd7 30. Rd1!! { 1-0 White wins. } { [%csl Gd4] } 30... Qg4 (30... Qa7 31. Qxd5 { [%csl Gd7][%cal Gd5f5] }) 31. Be2 { [%csl Gd7][%cal Gb5d5] } 31... Qe6 32. Qxd5 (32. Bf3) (32. Rxd5 { [%csl Gg8] }) 1-0
+
+
+[Event "Interzonal-05"]
+[Site "Stockholm"]
+[Date "1962.03.04"]
+[Round "22"]
+[White "Petrosian, Tigran V"]
+[Black "German, Eugenio Maciel"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation, Hedgehog Defense"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - German, Eugenio Maciel"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/ptPvKqxo"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3! b6 (4... d5 5. cxd5 exd5 6. d4 { Die
+Tarrasch-Verteidigung. } 6... Nc6 7. Bg2 Be7 (7... cxd4)) 5. Bg2 Bb7 6. O-O Be7 7. d4 (7. Re1 { wir populärer, Idee ist e4 zu spielen und den
+Läufer auf b7 einzusperren. } { [%cal Ge2e4,Gd2d4] } 7... d6 8. e4 Nc6 9. d4 Nxd4 10. Nxd4 cxd4 11. Qxd4 O-O 12. b3 Qc7 13. Nb5 Qc6 14. Qd3 a6 15. Nd4 Qc7 16. Bb2 Rfe8 17. h3 Rad8 18. Rad1 Qb8 19. Qe2 Qa8 20. f4 Nd7 21. Kh2 Bf8 22. Nf3 b5 23. e5 dxe5 24. Nxe5 Nxe5 25. Bxe5 bxc4 26. bxc4 Bc6 27. h4 Rc8 28. Rc1 Red8 29. Bxc6 Qxc6 30. h5 Qa4 31. Rc2 Rc5 32. Kh3 Qc6 33. Qe4 Rc8 34. Qxc6 R8xc6 35. Kg4 Rxc4 36. Rxc4 Rxc4 37. Rb1 f6 38. Ba1 e5 39. Rb8 Ra4 40. Kf5 exf4 41. gxf4 Kf7 42. Rb7+ Be7 43. Bc3 g6+ 44. hxg6+ hxg6+ 45. Kg4 g5 46. Bd2 Ke6 47. Rb6+ Bd6 48. a3 Kd5 49. Kf5 Bxf4 50. Bb4 Be5 51. Rb7 Kc6 52. Re7 a5 53. Ra7 Kb5 54. Be7 Rf4+ 55. Ke6 g4 56. Bd8 Bc3 57. Rc7 Rc4 58. Ra7 g3 59. Rg7 Be5 60. Kf5 Rf4+ 61. Ke6 Rf3 62. Rb7+ Kc4 63. Bxa5 g2 64. Rg7 Bg3 65. Bb6 Bf2 66. Rxg2 Bxb6 67. Rg6 Bd4 68. Rg7 Rxa3 69. Rc7+ Kd3 70. Rd7 Ra5 71. Rd8 Ke4 72. Rg8 Ra6+ 73. Kd7 f5 74. Re8+ Be5 75. Rg8 f4 76. Rf8 Ke3 77. Rc8 Ke4 78. Re8 Ra7+ 79. Kc6 Ra6+ 80. Kb5 Rd6 81. Rc8 f3 82. Rc4+ Ke3 83. Rb4 Ke2 84. Rb3 Kf2 85. Ra3 Kg2 86. Ra2+ Kg3 87. Kc4 Kf4 88. Rf2 Ke3 89. Rxf3+ { 1-0 (89) Keymer,V (2686) -Kramnik,V (2753) Chess.
+com INT 2022 }) 7... cxd4 8. Qxd4 O-O (8... d6 { ist die Alternative. }) 9. Rd1 Qc8 { Hier gibt es viele logische Züge, der Partiezug hat nicht viele
+Nachfolger gefunden. } 10. Qf4 d5?! { logisch, aber nicht optimal. } (10... Na6!? $13 { [%cal Ga6c5,Gc5e4] }) (10... Nc6 { [%csl Rb7][%cal Gb7g2,Gc6d4,Gc6e5] }) 11. cxd5 Nxd5 12. Nxd5 Bxd5 13. Bd2 { Das ist stark gespielt, der Läufer soll auf c3 glücklich werden. } { [%csl Rb8,Yc8,Gf4][%cal Gd2c3] } 13... Qb7 14. Bc3 { was ist nun der richtige Plan für
+Schwarz`? } { [%csl Rg7][%cal Gc3g7,Rf3g5,Rf3e5] } (14. Rac1 { erstmal den Turm aktivieren. }) 14... Nd7! { [%cal Gd7f6] } 15. Ne5 Nf6 (15... Nxe5? 16. Bxd5 exd5 17. Qxe5 Bf6 18. Qxd5 $16) 16. f3 { [%csl Rd5] } 16... Qb8 17. Kh1 Qe8 { ein komische Manöver. } 18. Ng4! (18. e4! { direkt konkret spielen. } 18... Bb7 19. Bf1 { [%csl Rf7][%cal Gf1c4,Gc4f7,Ga2a4,Gf1b5] }) 18... Nh5 (18... Nxg4 19. Qxg4 g6 20. h4!) 19. Qd2 Rd8 20. Qe1 Qb5 { falsche Seite! } (20... f5! 21. e4! Bxe4 22. Rxd8 Bxd8 23. fxe4 fxg4) 21. e4 Bb7 22. e5 (22. Ne5! Nf6 23. a4 Qe8 24. Bf1 { [%cal Rf1b5] }) 22... Rxd1 23. Rxd1 Rd8 24. Rxd8+ Bxd8 25. Qd1 Qd5 26. Qxd5 Bxd5 { Ein ausgeglichenes
+Endspiel, Jetzt spielt Petrosian seine stärken aus. } 27. a3 (27. b3!? { [%cal Rb3c4,Rd5c4] }) 27... Be7 { wie sollte man weitermachen? } (27... f5! { jetzt schon wichtig! } 28. Ne3 Bb3) 28. Ne3! Bc6 29. f4! Bxg2+ 30. Kxg2 { eigentlich ist der schwarze Läufer doch schlecht, es
+gibt aber auch andere Einflüsse auf die Stellung. } { [%csl Rh5][%cal Ge3a7] } 30... f5 { das ist nicht der Weg? } (30... Kf8 { [%csl Ya7,Yb6,Rh5] } 31. Nc4 f5 32. Bb4 Bxb4 33. axb4 g6 34. Nd6 Ke7 35. Nc8+ Kd7 36. Nxa7 Ng7 { so hätte Schwarz kömpfen können. }) 31. Nc2! { und es ist beinah schon erzwungen ein Bauer weg. } 31... g5 (31... Kf7 32. Nd4 Bc5 33. Nb5 a6 34. Nc7 a5 35. b4 axb4 36. axb4 Be3 37. Nb5 $18) 32. fxg5 Bxg5 33. Nd4 Ng7 34. Nc6 { [%csl Ra7] } 34... a6 35. Bd4 b5 36. Nb8 a5 37. Nc6 { [%csl Rg7] } 37... Ne8 (37... a4 38. Na7 $18) 38. Nxa5 Nc7 39. Kf3 Kf7 40. Nc6 (40. Nb7 Bc1 41. Ke2 h5 42. Nc5 $18) 40... Bc1 41. Nb4 Bd2 42. Bc3 Bh6 43. b3 Ke8 44. g4 Kd7 45. a4 fxg4+ 46. Kxg4 Ke8 47. Kf3 Bf8 48. Nd3 bxa4 49. bxa4 Nd5 50. Bd4 Kd7 51. Kg4 Ke8 52. a5 Nc7 53. Bc5 Bh6 54. Bd6 Na6 55. Nc5 Nxc5 56. Bxc5 Kd7 57. a6 Kc6 58. a7 Kb7 59. Kf3 Bc1 60. Bd4 Bg5 61. Ke4 h5 62. Kd3 Ka8 63. Kc4 h4 64. h3 Be7 65. Kd3 { 1-0 White wins. } { [%cal Gd3e2,Ge2h5,Gh5f7,Gf7e6] } 1-0
+
+
+[Event "Candidates Tournament-05"]
+[Site "Curacao"]
+[Date "1962.06.16"]
+[Round "23"]
+[White "Petrosian, Tigran V"]
+[Black "Kortschnoj, Viktor Lvovich"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A31"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Kortschnoj, Viktor Lvovich"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/qBvVehtQ"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 { Diese Partie habe ich ausgewählt, dass Petrosian
+auch mal für einen schnellen Sieg gut ist. } 3... cxd4 4. Nxd4 g6 5. Nc3 d5 (5... Bg7 { [%cal Ge2e4] } 6. e4 { Maroczy-Stellung entsteht meistens aus dem
+beschleunigten Drachen. }) 6. Bg5 { aktiv gespielt! } 6... dxc4 { zu viel gewollt. } (6... Bg7 7. Bxf6 Bxf6 8. Nxd5 Be5 { [%csl Re1] } 9. e3 Nc6 10. Qd2 Bxd4 11. exd4 Be6 12. Nf4 Qxd4 13. Qxd4 Nxd4 14. O-O-O O-O-O) 7. e3 (7. e4 { geht auch! }) 7... Qa5 { hat keinen Nachfolger gefunden. Lg7 gilt als Hauptzug. } (7... Bg7 8. Bxc4 O-O 9. O-O a6 10. Be2 Nbd7 11. Rc1 e5 12. Nb3 h6 13. Bh4 b5 14. Bf3 Rb8 15. Ne4 g5 16. Bg3 Nxe4 17. Bxe4 Nb6 18. Qxd8 Rxd8 19. Na5 Bd7 20. f3 Nc4 21. Nxc4 bxc4 22. Rfd1 Be6 23. Rxd8+ Rxd8 24. Be1 f5 25. Bc2 e4 26. fxe4 fxe4 27. b3 cxb3 28. Bxb3 Bxb3 29. axb3 Rd3 30. Rc8+ Kh7 31. Kf2 Rxb3 32. Re8 Rb2+ 33. Kf1 Rb1 34. Ke2 Rb2+ 35. Kf1 Ra2 36. Rxe4 a5 37. Re7 Kg6 38. Ra7 a4 39. Bb4 Be5 40. e4 Bxh2 41. Ra6+ Kh5 42. Bf8 Bg3 43. Bxh6 Rf2+ { 0-1 (43) Ponomariov,R 
+(2756) -Nepomniachtchi,I (2717) Riga 2013 }) 8. Bxf6 exf6 9. Bxc4 Bb4 (9... Be7 10. h4 h5 11. O-O $16 O-O { [%csl Rf7,Rg6,Rh5][%cal Gc4g8] }) 10. Rc1 { stark
+alle Figuren mit ins Spiel. } 10... a6 { zu langsam } (10... O-O 11. O-O Bxc3 12. Rxc3 Nd7 13. a3 $16 { [%cal Gb2b4] }) 11. O-O Nd7 { was wäre der beste Zug nun
+gewesen? } 12. a3 { auch gut aber nicht gleichwertig. } (12. Bxf7+! Kxf7 13. Qb3+ Kg7 14. Ne6+ Kh6 15. Nd5 Nc5 16. Nxc5 Bxc5 17. Qc4 { [%cal Rc4c5,Rc4h4] }) 12... Be7 13. b4 Qe5 { wie geht es weiter? } 14. f4! Qb8 { und jetzt? } (14... Qxe3+ 15. Kh1 { [%csl Re3,Re7,Re8][%cal Gf1e1,Gf1f3] }) 15. Bxf7+! Kxf7 16. Qb3+ Ke8 17. Nd5 { [%cal Gd5c7,Ge8d8,Gd4e6] } 17... Bd6 18. Ne6 b5 19. Ndc7+ Ke7 20. Nd4 { [%cal Gd4c6] } 20... Kf8 21. Nxa8 { 1-0 White wins. } (21. Qxa8 Qe6 22. Be7 Nc6) 1-0
+
+
+[Event "World-ch24 Petrosian-Botvinnik +5-2=15"]
+[Site "Moscow"]
+[Date "1963.05.11"]
+[Round "19"]
+[White "Petrosian, Tigran V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E19"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Botvinnik, Mikhail"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/qJ7bw4vm"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O { Diese
+Stellungstypen gefielen Petrosian zunehmend. } 7. d4 Ne4 { logisch, Schwarz will
+Figuren abtauschen. Denn Schwarz hat wenig Raum. } 8. Qc2 (8. Bd2 { gilt als die
+Hauptalternative. } 8... Nxd2 9. Qxd2) 8... Nxc3 9. Qxc3 f5 { sehr prinzipiell gespielt von Botwinnik. Der Springer auf b8
+macht jedoch Kopfschmerzen. } { [%csl Rb8][%cal Gd7d6,Gd7f6] } 10. b3 (10. b4 { eine interessante Alternative,
+die aber auch angreifbar macht. }) 10... Bf6 11. Bb2 d6 { beginnt die
+Entwicklung des Springers über d7. } 12. Rad1 Nd7 13. Ne1! { der Springer
+soll sich verbessern. } 13... Bxg2 14. Nxg2 { [%csl Re6][%cal Gg2f4] } 14... Bg5 15. Qc2 (15. Qf3!? { um e4 vorzubereiten. }) 15... Bh6 { zu langsam } (15... Qe7 16. f4 Bf6 17. e4 fxe4 18. Qxe4 c5 $14) 16. e4! { starker Zug, Weiß muss das Zentrum
+aufmachen, der e6 ist schwach. } 16... f4 (16... fxe4 17. Qxe4 { [%csl Re6] }) 17. Ne1? (17. e5! { der direkte Ansatz ist nicht der von Petrosian, hier wäre es
+jedoch angebracht gewesen. } 17... dxe5 18. Ba3 Rf7 19. dxe5 Qe8 20. Qe4 Rd8 21. Rd3 $16) 17... Qe7 (17... Qg5 18. Qe2 Rf7 19. Kg2 Raf8 20. Nf3 Qh5 21. h3 fxg3 22. fxg3 Bg5 $14) 18. e5 { endlich! } { [%cal Ra3f8] } 18... dxe5 19. dxe5 Rad8 (19... Rf7 $14) 20. Qe2 Qg5 21. Kg2 a5 { falscher Flügel. } (21... Qg6! 22. Nf3 Bg5 23. Ba3 c5 24. Qd3 Qxd3 25. Rxd3 $14) 22. Nf3 Qh5 23. Ba3! Rfe8 (23... c5 24. Qe4 fxg3 25. fxg3 Qe8 26. Qc6 Rf7 27. Rd6 Re7 28. Qe4 $16) 24. Rd4 Nb8 25. Rfd1 Rxd4 26. Rxd4 fxg3 (26... g5 { noch der beste Versuch. } 27. h3 Qg6 28. g4 Bf8 29. Bxf8 Rxf8 30. c5 $16) 27. hxg3 Qf7 28. Qe4 g6 29. Qb7 Bg7 30. c5 (30. Ng5! Qf5 31. Be7!! h6 32. g4 Qxe5 33. Re4 Qa1 34. Nxe6 Rxe7 35. Qxb8+ $18) 30... bxc5 31. Bxc5 Nd7 32. Qxc7 Nxe5 33. Qxf7+ Nxf7 34. Ra4 Bc3 35. Rc4 Bf6 36. Bb6 Ra8 37. Ra4 Bc3 38. Bd4 Bb4 39. a3 Bd6 40. b4 Bc7 41. Bc3 Kf8 42. b5 (42. bxa5 { besser! } 42... Ra6 43. Nd4 e5 44. Nb5 Bd8 45. Rc4 Ke7 46. Nc7 Ra7 47. Nd5+ Ke6 48. Rc5 $18) 42... Ke8 43. Rc4 Kd7 44. a4 Rc8! { [%cal Gf7g5,Gf7e5,Gf7d6] } 45. Nd2 Nd6 46. Rd4 Ke7 { Botwinnik verteidigt sich stark! } 47. Rd3 (47. Nc4! Nxc4 48. Rxc4 Kd7 $16) 47... Nb7 48. Ne4 e5 49. Bb2 Bb6 50. Ba3+ (50. Bxe5 { geht auch }) 50... Ke6 51. Ng5+ Kf5 52. Nxh7 (52. Be7 { der Weg zum direkten Gewinn. } 52... Rc7 (52... e4 53. Rd5+ Kg4 54. Nxe4) 53. Rf3+ Kg4 54. Rf7 { [%cal Gf2f3,Gf7h7] }) 52... e4 53. g4+? (53. Rd5+ Ke6 54. Rg5 Kf7 55. Re5 Bd8 56. Rxe4 $18) 53... Kf4 (53... Kxg4! 54. Rg3+ Kf5 55. Rg5+ Kf4 { den hat Botwinnik übersehen. } 56. Rxg6 $14) 54. Rd7 Rc7 55. Rxc7 Bxc7 56. Nf6 Bd8 57. Nd7 Kxg4 58. b6 Bg5 59. Nc5 Nxc5 60. Bxc5 Bf4 61. b7 Bb8 62. Be3 g5 63. Bd2 Kf5 64. Kh3 Bd6 65. Bxa5 g4+ 66. Kg2 { 1-0 White wins. } 1-0
+
+
+[Event "World-ch25 Petrosian-Spassky +4-3=17"]
+[Site "Moscow"]
+[Date "1966.04.25"]
+[Round "7"]
+[White "Spassky, Boris Vasilievich"]
+[Black "Petrosian, Tigran V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[StudyName "Petrosian"]
+[ChapterName "Spassky, Boris Vasilievich - Petrosian, Tigran V"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/1YPIXR6l"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 { Spassky wählt einen ruhigen Ansatz. } 3... d5 4. Nbd2 Be7 5. e3 Nbd7 6. Bd3 c5 7. c3 b6 8. O-O Bb7 9. Ne5! Nxe5 10. dxe5 Nd7 11. Bf4? { jetzt hat Schwarz direkt einen Punkt gegen den er spielen
+kann. } { [%csl Rf4] } (11. Bxe7 Qxe7 12. f4 { [%csl Rb2,Rc3,Gd3,Re3,Re5,Rf4] } 12... O-O-O 13. Qe2 g5 14. Ba6 $14) 11... Qc7 (11... g5 12. Bg3 h5 13. h3 Qc7 14. f4) 12. Nf3 { viel zu langsam. Was jetzt? } (12. Qh5 g6 13. Qh6 O-O-O 14. a4) 12... h6 13. b4 g5! 14. Bg3 h5 15. h4 { und jetzt? } 15... gxh4! 16. Bf4 O-O-O 17. a4 c4 18. Be2 { [%cal Gb4b5,Ga4a5] } 18... a6 { Warum ist das ein starker Zug? } { [%csl Ga4,Ya6,Gb4,Yb6][%cal Ya4a5,Yb6b5,Rb4b5,Ra6a5] } (18... Rdg8) 19. Kh1 Rdg8 20. Rg1 Rg4 21. Qd2 Rhg8 { Petrosian spielt sehr konsequent } 22. a5 b5! 23. Rad1 Bf8 (23... Kb8 $19) 24. Nh2 (24. Nd4 { da gehört der Springer hin. } 24... Bg7 25. g3 Nxe5 26. Bxg4 hxg4 27. gxh4 Qe7 $17) 24... Nxe5 25. Nxg4 hxg4 { [%cal Gh4h3,Gg2h3,Gd5d4,Gb7h1] } 26. e4 Bd6 27. Qe3 (27. Be3 f6!) 27... Nd7 (27... g3! { besser }) 28. Bxd6 Qxd6 29. Rd4 { was jetzt? } (29. f4 f5 30. e5 { [%cal Gg2g3,Gh4h3] } 30... Qf8 31. Kh2 Nb8 { [%csl Gd4][%cal Gb8c6] }) 29... e5!! 30. Rd2 f5!! 31. exd5 f4 { [%csl Rf4,Rg4,Rh4] } 32. Qe4 Nf6 33. Qf5+ Kb8 34. f3 Bc8 35. Qb1 g3 36. Re1 h3 37. Bf1 Rh8 38. gxh3 Bxh3 39. Kg1 Bxf1 40. Kxf1 e4 41. Qd1 Ng4 42. fxg4 f3 43. Rg2 fxg2+ { 0-1 Black wins. } 0-1
+
+
+[Event "World-ch26 Spassky-Petrosian +6-4=13"]
+[Site "Moscow"]
+[Date "1969.04.23"]
+[Round "5"]
+[White "Spassky, Boris Vasilievich"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation"]
+[StudyName "Petrosian"]
+[ChapterName "Spassky, Boris Vasilievich - Petrosian, Tigran V"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/yqJWldxa"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 (5... exd5 6. g3 (6. Bg5) 6... Nc6 7. Bg2 cxd4 8. Nxd4 Bc5) 6. e4 { Semi-Tarrasch, eine gute Wahl von
+Petrosian! } 6... Nxc3 7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O { Eigentlich ein Stellungstyp der Petrosian liegen sollte. Positionelles Plus
+und Verteidigunsfähigkeiten. } 11. Bc4 Nc6 (11... Nd7 { versucht man heutzutage } 12. O-O b6 13. Rfe1 Bb7 14. Rad1 Rc8 15. Bb3 h6 16. h3 Qf6 17. d5 Nc5 18. Bc2 exd5 19. e5 Qe7 20. Bf5 Ne4 21. Qf4 Rc4 22. Rd4 Ng5 23. Nh4 Ne6 24. Bxe6 fxe6 25. Rxc4 dxc4 26. Qxc4 Bd5 27. Qg4 Qf7 28. Re2 Rc8 29. Rd2 Rc4 30. Qg3 g5 31. Nf3 Rc3 32. Nxg5 Rxg3 33. Nxf7 Rxg2+ 34. Kf1 Kxf7 35. Rxd5 Rxf2+ 36. Kxf2 exd5 37. Ke3 Ke6 38. Kd4 a6 { 0-1 (38) Leonard,T (2088)-Carlstedt,J (2446) Dortmund
+2022 }) 12. O-O b6 13. Rad1 Bb7 { [%csl Ya7,Yb6] } 14. Rfe1 (14. d5! Na5 15. dxe6 Nxc4 16. exf7+ Kh8 17. Qxd8 Raxd8 18. Rxd8 Rxd8 19. e5 Rc8 20. e6 Bd5 21. Ng5 Nd6 22. Rd1 Bxe6 23. f8=Q+ Rxf8 24. Nxe6 Rc8) 14... Rc8 15. d5! exd5 16. Bxd5 (16. exd5 { geht auch! } 16... Na5 17. Be2 Qd6 18. Ng5 Rcd8 19. Bf3 h6 20. Ne4 Qg6 21. Ng3 $14) 16... Na5 17. Qf4! { [%cal Gf4d6] } 17... Qc7! (17... Bxd5 18. exd5 { [%cal Gd5d6] }) 18. Qf5 { Petrosian verteidigt nicht so stark wie sonst! } 18... Bxd5 19. exd5 { [%cal Gd5d6,Gd6d7,Gf3g5,Gf5h3] } 19... Qc2 20. Qf4 Qxa2 21. d6 Rcd8 22. d7 { [%csl Ya5][%cal Gf4c7,Gf3e5,Ge1e7,Yd7e8,Yd7c8,Ra5b7,Rb7c5] } 22... Qc4 (22... Nb7 23. Qc7 Nc5 24. Qxd8 Rxd8 25. Re8+) 23. Qf5! h6 24. Rc1 (24. Ne5 { auch gut. } { [%cal Ge5f7,Gd1c1,Gc1c8] } 24... Qe6 25. Qxe6 fxe6 26. Rc1 { [%csl Gd7,Re5] }) 24... Qa6 25. Rc7 b5 { was ist jetzt der bessere Zug? } 26. Nd4 (26. Re8!! { [%csl Rd8][%cal Rc7f7,Rf5f7,Gc7c8] }) 26... Qb6 27. Rc8 Nb7 28. Nc6 Nd6 { und jetzt? } 29. Nxd8 Nxf5 30. Nc6 { 1-0 White wins. } 1-0
+
+
+[Event "Olympiad-20 Final A"]
+[Site "Skopje"]
+[Date "1972.10.02"]
+[Round "6"]
+[White "Petrosian, Tigran V"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[WhiteTeam "Soviet Union"]
+[BlackTeam "Poland"]
+[Variant "Standard"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+[StudyName "Petrosian"]
+[ChapterName "Petrosian, Tigran V - Schmidt, Wlodzimierz"]
+[Annotator "https://lichess.org/@/Grosny_Iwan"]
+[ChapterURL "https://lichess.org/study/d6qc4sRk/uc1Tri1O"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. d3 { eine englische
+Interpretation der grünfeldindischen Verteidigung. } 6... Bg7 7. Be3 Nc6 (7... O-O { hiermit besser warten! } 8. Qd2 Re8 9. h4!) 8. Bxc6+ { was für eine
+strategische Entscheidung! } 8... bxc6 9. Qc1 (9. Qd2 { gefällt besser. } 9... h6 10. Rc1) 9... h6 10. Nf3 Bh3! { Der Nachteil des Zuges Lxc6 } { [%cal Gh3g2,Gg2f3] } 11. Rg1 Bg4 (11... a5 { unterstützt den Läufer auf g7 } { [%csl Rg7][%cal Ga5a3] }) 12. Nd2 { stark } { [%csl Rc6][%cal Gd2b3,Gb3a5] } 12... Nd5 (12... a5 13. Nde4 a4 14. a3! Be6 15. Nc5 Bb3 16. Kf1 { [%cal Gf1g2,Gg2h1] }) 13. Nxd5 cxd5 (13... Qxd5 14. f3 Be6 15. Ne4 $14) 14. Nb3 (14. Qc6+! Kf8 15. d4 $16) 14... Qd6 15. f3 Bd7 16. d4 { eine gute Idee } 16... Rb8 (16... a5 { die Idee scheint an Schmidt vorbeigegangen zu
+sein. }) 17. Kf2 h5 (17... Bb5 $14) 18. Bf4! e5 19. dxe5 Bxe5 20. Qe3 f6 21. Qxa7 { stark gespielt. Petrosian ist ein fantastischer Verteidiger und es
+verteidigt sich besser mit Bauer mehr. } 21... O-O 22. Rac1 Rfe8 23. Bxe5 Qxe5 24. Rge1 { [%csl Rb2,Rc7,Re2] } 24... Ra8 25. Qxc7! Qe3+ 26. Kg2 Ra7 27. Qd6! h4 28. gxh4! Be6 29. Rc3 Qh6 30. a3 Rd7 31. Qg3 d4 32. Rd3 Bxb3 33. Rxb3 { Der
+Angriff ist vorbei, Weiß steht auf Gewinn. } 33... Qd2 34. Kf1 Kh7 35. Rb8 Re5 36. Qg4 f5 37. Qg5 Re3 38. Qf6 { 1-0 White wins. } 1-0
+
+

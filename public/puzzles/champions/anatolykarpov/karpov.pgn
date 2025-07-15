@@ -1,0 +1,828 @@
+[Event "26th RSFSR-ch"]
+[Site "Kuybyshev URS"]
+[Date "????.??.??"]
+[White "Anatoly Karpov"]
+[Black "Alexander Zaitsev"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Alexander Zaitsev"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/iaFfNHu9"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5 Bf5 8. c3 e6 9. g4 { [%csl Ge5,Gg4][%cal Gg2g4,Ge5g4,Ge5g6] } 9... Bg6 10. h4 Bd6 11. Qe2 c5 12. h5 Be4 13. f3 cxd4 14. Qb5+ Nd7 15. Nxf7 Bg3+ 16. Ke2 d3+ 17. Ke3 Qf6 18. Kxe4 Qxf7 19. Rh3 a6 20. Qg5 h6 21. Qe3 e5 22. Kxd3 Bf4 23. Qg1 O-O-O 24. Kc2 Bxc1 25. Rxc1 Qxa2 26. Rh2 Rhf8 27. Rd2 Qa4+ 28. Kb1 Qc6 29. Bd3 Kc7 30. Be4 Qb6 31. Qh2 Rde8 32. Rcd1 Nf6 33. Bg6 Re7 34. Re1 Qb5 35. Rde2 Nd7 36. Bf5 Rxf5 37. gxf5 Qd3+ 38. Ka1 Qxf5 39. Qh4 Nf6 40. Qc4+ Kd8 41. Qc5 Nd7 42. Qd5 Kc8 43. Re4 { [%cal Gd7f6] } 43... b5 { [%csl Gc8][%cal Gh1a8] } 44. Qa8+ Kc7 45. Qa7+ Kd8 46. Qxa6 Qxh5 47. f4 Qf5 48. Qa8+ Kc7 49. Qa5+ Kc6 50. c4 b4 51. Qxb4 Re6 52. fxe5 Kc7 53. Qa5+ Kb7 54. Qb5+ Rb6 55. Qd5+ Kc7 56. Kb1 Qf2 57. R4e2 Qf5+ 58. Qe4 Qxe4+ 59. Rxe4 Nc5 60. R4e3 Ne6 61. Kc2 g5 62. Kc3 h5 63. b4 Ra6 64. c5 Ra3+ 65. Kc4 Rxe3 66. Rxe3 h4 67. b5 Kd8 68. b6 Kd7 69. Rd3+ Kc8 70. Rd6 h3 71. Rxe6 g4 72. Rh6 { 1-0 Black resigns. } 1-0
+
+
+[Event "It"]
+[Site "Skopje (Macedonia)"]
+[Date "1976.??.??"]
+[White "Wolfgang Uhlmann"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A17"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Wolfgang Uhlmann - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/HMFnNNaf"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. e4 Bb7 5. Qe2 Bb4 6. e5 Ng8 7. d4 Ne7 8. Qd3 d5 9. exd6 cxd6 10. a3 Bxc3+ 11. Qxc3 Nd7 12. Be2 Rc8 13. O-O O-O 14. Bg5 h6 15. Bh4 Qe8 16. Bg3 Nf5 17. Bf4 b5 18. Bd3 Qe7 19. Bxf5 exf5 20. Rfe1 Qf6 21. d5 Rxc4 22. Qxf6 Nxf6 23. Bxd6 Rfc8 24. Be5 Nxd5 25. Nd4 f6 26. Nxf5 fxe5 27. Nd6 Nf4 28. Nxb7 Nd3 29. Nd6 Nxe1 30. Nxc4 Nc2 31. Nd6 Rd8 32. Nb7 Rd2 33. Rc1 Nd4 34. Rc8+ Kh7 35. h4 Rxb2 36. Ra8 Ne2+ 37. Kh2 Nf4 38. Kg1 Nd3 39. Nd6 Nxf2 40. Rxa7 Ng4 41. g3 Ne3 42. Kh1 Kg6 43. Rb7 Rd2 44. Nxb5 Nf5 45. g4 Nxh4 46. Kg1 Rg2+ 47. Kf1 Rxg4 48. Ra7 Nf5 49. a4 h5 50. a5 h4 51. Ra8 h3 { 0-1 White resigns. } 0-1
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "Leningrad (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Boris V Spassky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D58"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Boris V Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/hBPTeLDA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Qd6 12. Rc1 a6 13. a3 Nd7 14. b4 b5 15. Ne1 c6 16. Nd3 Nb6 17. a4 Bd8 18. Nc5 Bc8 19. a5 Bc7 20. g3 Nc4 21. e4 Bh3 22. Re1 dxe4 23. N3xe4 Qg6 24. Bh5 Qh7 25. Qf3 f5 26. Nc3 g6 27. Qxc6 gxh5 28. Nd5 f4 29. Re7 Qf5 30. Rxc7 Rae8 31. Qxh6 Rf7 32. Rxf7 Kxf7 33. Qxf4 Re2 34. Qc7+ Kf8 35. Nf4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Moscow (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Lev Polugaevsky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Lev Polugaevsky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/WgpiXwZJ"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O Be6 9. f4 Qc7 10. a4 Nbd7 11. Kh1 O-O 12. Be3 exf4 13. Rxf4 Ne5 14. a5 Nfd7 15. Rf1 Bf6 16. Nd5 Bxd5 17. Qxd5 Qxc2 18. Nd4 Qxb2 19. Rab1 Qc3 20. Nf5 Qc2 21. Rbe1 Nc5 22. Nxd6 Ncd3 23. Bxd3 Nxd3 24. Rd1 Nb4 25. Qxb7 Rab8 26. Qa7 Qc6 27. Bf4 Ra8 28. Qf2 Rad8 29. Qg3 Qc3 30. Rf3 Qc2 31. Rdf1 Bd4 32. Bh6 Nc6 33. Nf5 Qb2 34. Bc1 Qb5 35. Nh6+ Kh8 36. Nxf7+ Rxf7 37. Rxf7 Bf6 38. Qf2 Kg8 39. Rxf6 gxf6 40. Qxf6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Leningrad (Russia)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Miguel A Quinteros"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B97"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Miguel A Quinteros"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/uz00sOMz"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Nb3 Be7 9. Qf3 h6 10. Bh4 Nbd7 11. O-O-O Qc7 12. Bg3 b5 13. e5 Bb7 14. Qe2 dxe5 15. fxe5 Nh7 16. Ne4 Bg5+ 17. Kb1 O-O 18. h4 Be7 19. Nd6 Bd5 20. Rxd5 exd5 21. Nf5 Qd8 22. Qg4 g6 23. Nxh6+ Kg7 24. Nf5+ Kh8 25. Bd3 Rg8 26. Nh6 Rg7 27. h5 Qe8 28. e6 Ndf6 29. exf7 Qd8 30. Qd4 Nxh5 31. Be5 Bf6 32. Re1 Bxe5 33. Rxe5 N5f6 34. g4 Qf8 35. g5 Ne4 36. Bxe4 dxe4 37. Qxe4 { 1-0 Black resigns. } 1-0
+
+
+[Event "It (cat.11)"]
+[Site "Budapest (Hungary)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Rafael Vaganian"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Rafael Vaganian"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/1S0E4PQH"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bb6 10. Re1 O-O 11. Bg5 h6 12. Bh4 g5 13. Bg3 Nf5 14. Qd2 Nxg3 15. hxg3 Qf6 16. c3 Bf5 17. Qxd5 Rad8 18. Qc4 Bd3 19. Qa4 Bxb5 20. Qxb5 g4 21. Nfd4 Nxd4 22. cxd4 a6 23. Qh5 Bxd4 24. Qxg4+ Qg7 25. Qf3 Bxb2 26. Rad1 b6 27. Qb7 Rxd1 28. Rxd1 Qg4 29. Rb1 Rd8 30. Qxa6 Rd1+ 31. Rxd1 Qxd1+ 32. Qf1 Qc2 33. Qb5 Ba3 34. Qd5 Bf8 35. Qd2 Qe4 36. Kh2 Bc5 37. Nc1 Kg7 38. Nd3 Qd4 39. Qe2 Bd6 40. Kh3 Qd5 41. Nf4 Bxf4 42. gxf4 Kf8 43. Kg3 b5 44. Qb2 Qd3+ 45. Kh4 Qd8+ 46. Kg3 Qd3+ 47. Kh2 Kg8 48. a3 Qd6 49. Qb4 Qf6 50. f3 Qh4+ 51. Kg1 Qh5 52. Qe7 Kh7 53. g4 Qh3 54. Qxf7+ Kh8 55. Qe8+ Kh7 56. Qe4+ Kg8 57. f5 Qg3+ 58. Kf1 Qh3+ 59. Ke2 Qg2+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (students)"]
+[Site "Graz (Austria)"]
+[Date "1972.??.??"]
+[White "Anatoly Karpov"]
+[Black "Robert Huebner"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Robert Huebner"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/X465GRv1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6 8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. c4 O-O 12. Rd1 Qc7 13. Nc3 Ne5 14. Rac1 b6 15. Be2 Bb7 16. f4 Ng6 17. g3 Rfd8 18. a3 Rac8 19. Nd4 Ba8 20. b3 Ne7 21. Bf3 Rb8 22. a4 Qc5 23. Rd3 e5 24. Nde2 exf4 25. gxf4 Qxe3+ 26. Rxe3 Ng6 27. Rd1 Kf8 28. Red3 Ne8 29. Kf2 Rdc8 30. Kg3 Ne7 31. Nd4 Rc5 32. R1d2 Bb7 33. Nc2 g5 34. fxg5 Rxg5+ 35. Kf2 Ng6 36. Bh1 Rc8 37. Rg3 Rcc5 38. Ne3 Ne7 39. Bf3 Rxg3 40. hxg3 Re5 41. g4 a5 42. Rd1 Bc6 43. Ncd5 Nc8 44. Nf5 Bxd5 45. cxd5 Ne7 46. Ne3 Ng8 47. Nc4 Re7 48. Nxb6 Rb7 49. Nc4 Rxb3 50. Ra1 Ngf6 51. Nxa5 Rb2+ 52. Ke3 Nd7 53. Nc6 Rb3+ 54. Kf4 Ne5 55. Nxe5 dxe5+ 56. Kg3 Nd6 57. Kf2 Rb2+ 58. Kg1 Rb7 59. a5 Ra7 60. a6 Ke7 61. Kf2 Kd7 62. Ke3 Nc4+ 63. Kd3 Nb6 64. Be2 Kd6 65. Ke3 Nd7 66. Rh1 Nf8 67. Rh6+ Ke7 68. d6+ Kd8 69. Bb5 Ra8 70. Rh5 f6 71. Rh6 Rb8 72. Bc6 Rb3+ 73. Kd2 Ra3 74. Rxf6 Ra2+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (match) (cand.) (fin)"]
+[Site "Moscow (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "D25"]
+[Opening "Queen's Gambit Accepted: Smyslov Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Viktor Korchnoi"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/jCeosE8b"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 g6 5. Bxc4 Bg7 6. O-O O-O 7. b3 c6 8. Bb2 Bg4 9. Nbd2 Nbd7 10. h3 Bf5 11. Re1 Nb6 12. Bf1 Ne4 13. Nxe4 Bxe4 14. Nd2 Bf5 15. Rc1 Rc8 16. Qe2 Rc7 17. a4 Bc8 18. Ba3 Be6 19. Qd1 Re8 20. Ne4 f5 21. Nc5 Bf7 22. Bb2 Nd7 23. Nd3 Rc8 24. b4 a5 25. bxa5 Qxa5 26. Bc3 Qa7 27. a5 c5 28. Qa4 Nb6 29. Qa1 Nd5 30. Nxc5 Nxc3 31. Qxc3 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Ch URS"]
+[Site "Riga (Latvia)"]
+[Date "1970.??.??"]
+[White "Anatoly Karpov"]
+[Black "Vladimir Bagirov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B05"]
+[Opening "Alekhine Defense: Modern Variation, Main Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Vladimir Bagirov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/Ook56UQa"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. c4 Nb6 8. exd6 cxd6 9. Nc3 O-O 10. Be3 d5 11. c5 Bxf3 12. Bxf3 Nc4 13. Bc1 Nc6 14. b3 N4a5 15. Be3 b6 16. Na4 Rb8 17. Rc1 bxc5 18. Nxc5 Bf6 19. a3 Ne7 20. Be2 Nf5 21. b4 Nb7 22. Bf4 Nbd6 23. Be5 Bxe5 24. dxe5 Nb7 25. Nb3 Qb6 26. Bd3 Ne7 27. Qg4 f5 28. Qd4 Nd8 29. b5 g5 30. a4 Ng6 31. Qa1 Qb7 32. Rfe1 Qg7 33. Nc5 Rf7 34. a5 Re7 35. Na6 Ra8 36. Bf1 Nf7 37. Nc7 Rd8 38. Rc6 Nf8 39. b6 axb6 40. a6 Nh6 41. Rec1 Ng4 42. a7 Nxe5 43. R6c2 Nc4 44. a8=Q Rxa8 45. Nxa8 b5 46. Ra2 Rb7 { 1-0 Black resigns. } 1-0
+
+
+[Event "It"]
+[Site "Madrid (Spain)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Uhlmann"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Wolfgang Uhlmann"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/IJza0yRz"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Bh4 Bg4 12. Be2 Bh5 13. Re1 Qb6 14. Nfd4 Bg6 15. c3 Rfe8 16. Bf1 Be4 17. Bg3 Bxg3 18. hxg3 a5 19. a4 Nxd4 20. Nxd4 Nc6 21. Bb5 Red8 22. g4 Nxd4 23. Qxd4 Qxd4 24. cxd4 Rac8 25. f3 Bg6 26. Re7 b6 27. Rae1 h6 28. Rb7 Rd6 29. Ree7 h5 30. gxh5 Bxh5 31. g4 Bg6 32. f4 Rc1+ 33. Kf2 Rc2+ 34. Ke3 Be4 35. Rxf7 Rg6 36. g5 Kh7 37. Rfe7 Rxb2 38. Be8 Rb3+ 39. Ke2 Rb2+ 40. Ke1 Rd6 41. Rxg7+ Kh8 42. Rge7 { 1-0 Black resigns. } 1-0
+
+
+[Event "It"]
+[Site "Caracas (Venezuela)"]
+[Date "1970.??.??"]
+[White "Borislav Ivkov"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D58"]
+[Opening "Queen's Gambit Declined: Tartakower Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Borislav Ivkov - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/syH6pD7N"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 b6 8. Bd3 Bb7 9. O-O c5 10. Qe2 cxd4 11. exd4 Nc6 12. Rad1 Nb4 13. Bb1 dxc4 14. Ne5 Rc8 15. a3 Nbd5 16. Bxf6 Bxf6 17. Qc2 Re8 18. Qh7+ Kf8 19. Ne4 Rc7 20. Rfe1 c3 21. Ng3 Ne7 22. Qh8+ Ng8 23. Bh7 Bxe5 24. Nf5 exf5 25. Qxg8+ Ke7 26. Rxe5+ Kf6 27. Rxf5+ Ke6 28. Re1+ Kd7 29. Rxe8 { 1-0 Black resigns. } 1-0
+
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1976.12.07"]
+[Round "8"]
+[White "Anatoly Karpov"]
+[Black "Iossif Davidovich Dorfman"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B81"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Iossif Davidovich Dorfman"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/ydMQDwiw"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Be7 7. g5 Nfd7 8. h4 Nc6 9. Be3 a6 10. Qe2 Qc7 11. O-O-O b5 12. Nxc6 Qxc6 13. Bd4 b4 14. Nd5 exd5 15. Bxg7 Rg8 16. exd5 Qc7 17. Bf6 Ne5 18. Bxe5 dxe5 19. f4 Bf5 20. Bh3 Bxh3 21. Rxh3 Rc8 22. fxe5 Qc4 23. Rdd3 Qf4+ 24. Kb1 Rc4 25. d6 Re4 26. Rhe3 Rxe3 27. Rxe3 Qxh4 28. Qf3 Qxg5 29. Re1 Qg2 30. Qf5 Rg6 31. Rf1 Qd5 32. dxe7 Kxe7 33. Qf4 a5 34. Qh4+ Ke8 35. Qxh7 Qf3 36. Qh8+ Ke7 37. Qh4+ Ke8 38. Qc4 Qb7 39. b3 Re6 40. Rg1 Rxe5 41. Rg8+ Ke7 42. Qh4+ Kd7 43. Qf6 Re7 44. Qf5+ Kd6 45. Qxa5 Re5 46. Qd8+ Ke6 47. Kb2 f6 48. Rf8 Qg7 49. Qc8+ Kd5 50. Qc4+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[Round "4"]
+[White "Anatoly Karpov"]
+[Black "Dragoljub Velimirovic"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Orthodox Variation, Bronstein Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Dragoljub Velimirovic"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/ClEYYGSc"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. d4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 Qh4+ 9. Bf2 Qf4 10. Be3 Qh4+ 11. g3 Nxg3 12. Qf2 Nxf1 13. Qxh4 Nxe3 14. Ke2 Nxc4 15. Rc1 Na6 16. Nd1 Nb6 17. Nh3 Bd7 18. Ne3 f6 19. Rhg1 Rad8 20. b3 c6 21. dxc6 bxc6 22. Nf5 gxf5 23. Rxg7+ Kxg7 24. Rg1+ Kf7 25. Qh5+ Ke6 26. Qxf5+ Kf7 27. Qh5+ Ke6 28. Qf5+ Kf7 29. Ng5+ Ke8 30. Ne6 Rf7 31. Rg7 Rc8 32. Rxf7 Kxf7 33. Ng5+ Ke7 34. Qxh7+ Kd8 35. Qh8+ Kc7 36. Qxf6 Re8 37. h4 Nc5 38. h5 Ne6 39. h6 Nf8 40. b4 Nc8 41. Kd2 Ne7 42. h7 Nxh7 43. Nxh7 Nc8 44. Nf8 Re7 45. a3 Be8 46. Ne6+ Kd7 47. Ng7 Kc7 48. Nf5 Rd7 49. a4 Bf7 50. Kc3 Ba2 51. a5 Rf7 52. Qh6 Rd7 53. f4 exf4 54. Qxf4 Rf7 55. Qh6 Rd7 56. Qh2 Be6 57. Qh6 Bxf5 58. exf5 d5 59. Kd4 Nd6 60. Qf4 Kb7 61. Qe5 Nf7 62. Qe8 Kc7 63. Qa8 Kd6 64. Qf8+ Kc7 65. Qc5 Nd6 66. Qxa7+ Kc8 67. Qa6+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch Europe (team)"]
+[Site "Moscow (Russia)"]
+[Date "1977.??.??"]
+[White "Lajos Portisch"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Lajos Portisch - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/TvUARSM4"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. Nbd2 Nbd7 7. Re1 Bc5 8. c4 O-O 9. cxd5 exd5 10. Nb3 Bb4 11. Bd2 a5 12. Nbd4 Re8 13. Rc1 c5 14. Nf5 Nf8 15. d4 Ne4 16. dxc5 Nxd2 17. Nxd2 Qg5 18. Nd6 Bxd2 19. Nxb7 Bxe1 20. Qxe1 Rxe2 21. Qxe2 Qxc1+ 22. Qf1 Qd2 23. cxb6 Rc8 { 0-1 White resigns. } 0-1
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[White "Leonid Shamkovich"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Leonid Shamkovich - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/muuOizPQ"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. Ba3 Qc7 8. Bc4 Bg7 9. O-O O-O 10. Rc1 Nd7 11. d4 Rb8 12. Bb5 b6 13. Nd2 Rd8 14. Qf3 a6 15. Be2 Bb7 16. Qg3 Qc6 17. Bb2 e5 18. e4 exd4 19. cxd4 Qa4 20. Bc4 cxd4 21. Bb3 Qb5 22. Qf4 Rf8 23. Nf3 Nc5 24. Bxd4 Bxd4 25. Nxd4 Qe8 26. Bd5 Nd3 27. Qf6 Qd8 28. Qxd8 Rfxd8 29. Rcd1 Nf4 30. Nc6 Bxc6 31. Bxc6 Ne2+ 32. Kh1 Nc3 33. Rxd8+ Rxd8 34. Bd5 Kf8 35. g3 Nxd5 36. Rd1 Ke7 37. exd5 Rc8 38. Rd2 Kd6 39. a4 Rc5 40. Rb2 b5 41. axb5 axb5 42. Kg2 Kxd5 43. Rb4 Kc6 44. Kf3 Rc4 45. Rb1 b4 46. Ke3 Kb5 47. f4 f5 48. Kd2 Rc6 49. Kd3 Ka4 50. Ra1+ Kb3 { 0-1 White resigns. } 0-1
+
+
+[Event "EUR-chT (Men) 6th"]
+[Site "Moscow URS"]
+[Date "1977.04.??"]
+[Round "2"]
+[White "Ljubomir Ljubojevic"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Ljubomir Ljubojevic - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/h41GSw43"]
+
+1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Nc3 O-O 7. Re1 d5 8. cxd5 exd5 9. d4 c5 10. Bf4 Na6 11. Nd2 Qd7 12. Nf1 Rfd8 13. h3 Rac8 14. Rc1 cxd4 15. Qxd4 Rc4 16. Qd1 d4 17. Bxb7 Qxb7 18. Ne4 Rxc1 19. Nxf6+ Bxf6 20. Qxc1 Qd5 21. Qb1 Nc5 22. Nh2 h5 23. h4 d3 24. exd3 Nxd3 25. Rd1 Qb5 26. Bg5 Bxg5 27. hxg5 Qf5 28. Rd2 Rd4 29. Qc2 h4 30. gxh4 Qh3 31. Qc6 Rxh4 32. Qg2 Qf5 33. Qg3 Rd4 34. g6 fxg6 35. Qe3 Rd5 36. Nf1 Nf4 37. Qxf4 Qxf4 38. Rxd5 Qg4+ 39. Ng3 Qc4 40. Rd8+ Kh7 41. b3 Qc2 42. Kg2 g5 43. Rd6 Qxa2 44. Ne4 Qa5 45. Kf3 Qf5+ 46. Ke3 Qb5 47. Kd4 g4 48. Ke3 Qxb3+ 49. Kf4 Qf3+ 50. Ke5 Qf8 51. Ng5+ Kg8 52. Ne4 b5 53. Re6 b4 { 0-1 White resigns. } 0-1
+
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1973.??.??"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Spassky Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Viktor Korchnoi - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/PzpfzivS"]
+
+1. Nf3 Nf6 2. g3 b5 3. c3 Bb7 4. a4 a6 5. e3 Nc6 6. d4 e6 7. b4 Be7 8. Nbd2 Na7 9. Bd3 O-O 10. e4 d6 11. O-O c5 12. bxc5 dxc5 13. Bb2 Nc6 14. e5 Nd5 15. axb5 axb5 16. Qb1 cxd4 17. cxd4 h6 18. Bxb5 Qb6 19. Be2 Rxa1 20. Bxa1 Qa7 21. Nc4 Rb8 22. Bb2 Ba6 23. Qc2 Qb7 24. Ba1 Ncb4 25. Qd2 Rc8 26. Ne3 Nxe3 27. Qxe3 Bxe2 28. Qxe2 Rc2 29. Qd1 Qc6 30. h3 Nd5 31. Qd3 Qa4 32. Nd2 Ra2 33. Nb3 Nb4 34. Qb1 Nd5 35. Rc1 Qa8 36. Rc8+ Qxc8 37. Qxa2 Qc4 38. Qb1 Qe2 39. Qc1 Bg5 40. Qf1 Qf3 41. h4 { 0-1 White resigns. } 0-1
+
+
+[Event "Ch World (match) (cand.) (1/2)"]
+[Site "Leningrad (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Boris V Spassky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B83"]
+[Opening "Sicilian Defense: Scheveningen Variation, Modern Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Boris V Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/obKlVRqs"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4 Nc6 9. Be3 Bd7 10. Nb3 a5 11. a4 Nb4 12. Bf3 Bc6 13. Nd4 g6 14. Rf2 e5 15. Nxc6 bxc6 16. fxe5 dxe5 17. Qf1 Qc8 18. h3 Nd7 19. Bg4 h5 20. Bxd7 Qxd7 21. Qc4 Bh4 22. Rd2 Qe7 23. Rf1 Rfd8 24. Nb1 Qb7 25. Kh2 Kg7 26. c3 Na6 27. Re2 Rf8 28. Nd2 Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8 35. Rxd8 { 1-0 Black resigns. } 1-0
+
+
+[Event "Olympiad URS"]
+[Site "Riga (Latvia)"]
+[Date "1975.??.??"]
+[White "Anatoly Karpov"]
+[Black "Boris V Spassky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E17"]
+[Opening "Queen's Indian Defense: Anti-Queen's Indian System"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Boris V Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/awxUiR3C"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 d5 8. cxd5 Nxd5 9. O-O Nd7 10. Nxd5 exd5 11. Rd1 Nf6 12. Ne5 c5 13. dxc5 Bxc5 14. Nd3 Bd6 15. Bf4 Re8 16. e3 Ne4 17. Bxd6 Qxd6 18. Nf4 Rac8 19. Qa4 Qe7 20. Qxa7 Nxf2 21. Nxd5 Bxd5 22. Qxe7 Nxd1 23. Rc1 Rb8 24. Qb4 Bxg2 25. Kxg2 Nxe3+ 26. Kg1 Re6 27. Qf4 Rd8 28. Qd4 Rde8 29. Qd7 Ng4 30. Rc8 Nf6 31. Rxe8+ Rxe8 32. Qb7 Re6 33. Qb8+ Ne8 34. a4 g6 35. b4 Kg7 36. Qb7 h5 37. h3 Kf6 38. Kg2 Rd6 39. a5 bxa5 40. bxa5 Re6 41. a6 Nc7 42. a7 Re7 43. Qc6+ Ke5 44. Kf3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Gennadi P Kuzmin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B93"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Gennadi P Kuzmin"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/gMX1CU6g"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. a4 g6 8. Nf3 Bg4 9. Bd3 Nc6 10. h3 Bxf3 11. Qxf3 Bg7 12. O-O O-O 13. Bd2 e6 14. Ne2 Rac8 15. Kh1 e5 16. Nc3 exf4 17. Bxf4 Nb4 18. Bd2 Nd7 19. Qg3 Qc6 20. Bg5 Rce8 21. Rad1 Ne5 22. Qh4 Nexd3 23. cxd3 Qd7 24. Bf6 a5 25. d4 Re6 26. e5 d5 27. Bxg7 Kxg7 28. Rf6 h6 29. Rdf1 Rxf6 30. Rxf6 Re8 31. Ne2 Nc6 32. Rd6 Qf5 33. Ng3 Qd3 34. Rxd5 Re6 35. Qf4 Re7 36. Kh2 Kg8 37. Qxh6 Qc4 38. Ne4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Leningrad (Russia)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Gennadi P Kuzmin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Gennadi P Kuzmin"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/6KQJZYVp"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. Bh4 Qc7 12. Bg3 Bxg3 13. hxg3 Bg4 14. Re1 Rad8 15. c3 Qb6 16. Bd3 Ng6 17. Qc2 Bxf3 18. gxf3 Rd6 19. f4 Rfd8 20. a3 h5 21. Kg2 h4 22. Re2 Nf8 23. Nd2 Rh6 24. Nf3 hxg3 25. fxg3 Nd7 26. Rae1 Kf8 27. g4 Qc7 28. g5 Rh8 29. Kg3 Nc5 30. Bf5 g6 31. b4 Ne4+ 32. Bxe4 dxe4 33. Qxe4 Kg7 34. b5 Na5 35. Qe7 Qxe7 36. Rxe7 Rd3 37. Rc7 Nb3 38. Kg4 Rf8 39. Ree7 { 1-0 Black resigns. } 1-0
+
+
+[Event "It (cat.10)"]
+[Site "Hastings (England)"]
+[Date "1971.??.??"]
+[White "Anatoly Karpov"]
+[Black "Robert E Byrne"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B61"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Robert E Byrne"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/QYVtXUGC"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 Rc8 8. O-O-O Nxd4 9. Qxd4 Qa5 10. f4 h6 11. Bh4 g5 12. e5 gxh4 13. exf6 e6 14. Be2 Bc6 15. Rhe1 Rg8 16. Bf3 Kd7 17. Re5 Qb6 18. Qxb6 axb6 19. Bh5 Rxg2 20. Bxf7 Rxh2 21. Bxe6+ Kc7 22. Re3 Rd8 23. Nd5+ Bxd5 24. Rxd5 Rf2 25. f5 h5 26. Rc3+ Kb8 27. a4 Rf4 28. Ra3 Rg4 29. a5 Bh6+ 30. Kb1 bxa5 31. Rdxa5 Kc7 32. Rb5 Rg3 33. Ra7 Rb8 34. Bd5 Rg1+ 35. Ka2 Rf1 36. Raxb7+ Rxb7 37. Rxb7+ Kd8 38. Be6 h3 39. Rd7+ Ke8 40. Rc7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (match) (cand.) (fin)"]
+[Site "Moscow (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Viktor Korchnoi"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B77"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Viktor Korchnoi"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/2UVKOSCR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 Ne5 12. O-O-O Nc4 13. Bxc4 Rxc4 14. h5 Nxh5 15. g4 Nf6 16. Nde2 Qa5 17. Bh6 Bxh6 18. Qxh6 Rfc8 19. Rd3 R4c5 20. g5 Rxg5 21. Rd5 Rxd5 22. Nxd5 Re8 23. Nef4 Bc6 24. e5 Bxd5 25. exf6 exf6 26. Qxh7+ Kf8 27. Qh8+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[White "Anatoly Karpov"]
+[Black "Vladimir A Savon"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C82"]
+[Opening "Ruy Lopez: Open, St. Petersburg Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Vladimir A Savon"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/hmq2xh8R"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5 12. Nb3 Bg6 13. Nfd4 Bxd4 14. cxd4 a5 15. Be3 Nb4 16. Bb1 a4 17. Nd2 a3 18. Qc1 Ra6 19. bxa3 Rc6 20. Qb2 Nc2 21. Rc1 Nxe3 22. Rxc6 Nxf2 23. Nf1 Qd7 24. Nxe3 { 1-0 Black resigns. } 1-0
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[White "Anatoly Karpov"]
+[Black "Vlastimil Hort"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B81"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Vlastimil Hort"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/zdKsUwuY"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Nc6 7. g5 Nd7 8. Be3 a6 9. f4 Be7 10. Rg1 Nxd4 11. Qxd4 e5 12. Qd2 exf4 13. Bxf4 Ne5 14. Be2 Be6 15. Nd5 Bxd5 16. exd5 Ng6 17. Be3 h6 18. gxh6 Bh4+ 19. Kd1 gxh6 20. Bxh6 Bf6 21. c3 Be5 22. Rg4 Qf6 23. h4 Qf5 24. Rb4 Bf6 25. h5 Ne7 26. Rf4 Qe5 27. Rf3 Nxd5 28. Rd3 Rxh6 29. Rxd5 Qe4 30. Rd3 Qh1+ 31. Kc2 Qxa1 32. Qxh6 Be5 33. Qg5 { 1-0 Black resigns. } 1-0
+
+
+[Event "Chess Olympiad Final-A"]
+[Site "Skopje MKD"]
+[Date "1972.10.09"]
+[Round "12"]
+[White "Arthur Bisguier"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A56"]
+[Opening "Grünfeld Defense: Three Knights Variation, Burille Variation, Reversed Tarrasch"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Arthur Bisguier - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/DpvxBo26"]
+
+1. c4 (1. Nc3 d5) 1... c5 2. Nc3 g6 3. Nf3 Bg7 4. e3 Nf6 5. d4 O-O 6. Be2 cxd4 7. exd4 d5 8. O-O Nc6 9. h3 Bf5 10. Be3 dxc4 11. Bxc4 Rc8 12. Be2 Be6 13. Qd2 Qa5 14. Bh6 Rfd8 15. Bxg7 Kxg7 16. Rfd1 Rd6 17. Qe3 Rcd8 18. a3 Bb3 19. Rd2 Re6 20. Qf4 Nd5 21. Nxd5 Rxd5 22. g4 g5 23. Qg3 Rf6 24. Bd1 Bc4 25. b3 Ba6 26. b4 Qd8 27. Bb3 Nxd4 28. Rxd4 Rxd4 29. Nxg5 Rd3 30. Qh4 h6 31. Nxf7 Qd4 32. Re1 Rxh3 { 0-1 White resigns. } 0-1
+
+
+[Event "Karpov - Spassky Candidates Semifinal"]
+[Site "Leningrad URS"]
+[Date "1974.04.12"]
+[White "Boris V Spassky"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Boris V Spassky - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/8fvDfwWR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6 8. O-O Ngf6 9. c4 Bd6 10. b3 O-O 11. Bb2 Qc7 12. Bxg6 hxg6 13. Qe2 Rfe8 14. Ne4 Nxe4 15. Qxe4 Be7 16. Rad1 Rad8 17. Rfe1 Qa5 18. a3 Qf5 19. Qe2 g5 20. h3 g4 21. hxg4 Qxg4 22. d5 cxd5 23. cxd5 e5 24. d6 Bf6 25. Nd2 Qxe2 26. Rxe2 Rc8 27. Ne4 Bd8 28. g4 f6 29. Kg2 Kf7 30. Rc1 Bb6 31. Rec2 Rxc2 32. Rxc2 Ke6 33. a4 a5 34. Ba3 Rb8 35. Rc4 Bd4 36. f4 g6 37. Ng3 exf4 38. Rxd4 fxg3 39. Kxg3 Rc8 40. Rd3 g5 41. Bb2 b6 42. Bd4 Rc6 43. Bc3 Rc5 44. Kg2 Rc8 45. Kg3 Ne5 46. Bxe5 fxe5 47. b4 e4 48. Rd4 Ke5 49. Rd1 axb4 50. Rb1 Rc3+ 51. Kf2 Rd3 52. d7 Rxd7 53. Rxb4 Rd6 54. Ke3 Rd3+ 55. Ke2 Ra3 56. Rxb6 Rxa4 { 0-1 White resigns. } 0-1
+
+
+[Event "Tilburg Interpolis"]
+[Site "Tilburg NED"]
+[Date "1977.09.24"]
+[Round "2"]
+[White "Anatoly Karpov"]
+[Black "Anthony Miles"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A33"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Anthony Miles"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/WL7VvYbA"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 e6 4. Nc3 cxd4 5. Nxd4 Nc6 6. g3 Qb6 7. Nb3 Ne5 8. e4 Bb4 9. Qe2 a5 10. Be3 Qc6 11. f3 O-O 12. Nd4 Qa6 13. Nb5 d5 14. Nc7 Qd6 15. Nxa8 dxe4 16. fxe4 Nxe4 17. Rd1 Qc6 18. Bg2 Nxc4 19. Bd4 Bxc3+ 20. bxc3 f5 21. O-O Ncd6 22. Nb6 e5 23. Nxc8 Rxc8 24. Bxe5 Qc5+ 25. Bd4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.02.29"]
+[Round "1"]
+[White "Anatoly Karpov"]
+[Black "Rafael Vaganian"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C08"]
+[Opening "French Defense: Tarrasch Variation, Open System"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Rafael Vaganian"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/Zd3qs1BZ"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 a6 6. dxc5 Bxc5 7. Nb3 Bb6 8. Bd3 Ne7 9. O-O Nbc6 10. Re1 Bg4 11. c3 h6 12. h3 Bh5 13. Be3 O-O 14. Bxb6 Qxb6 15. Qe2 Rfd8 16. Rad1 a5 17. Bb1 Bxf3 18. Qxf3 a4 19. Nd4 Qxb2 20. Nxc6 Nxc6 21. Qf5 g6 22. Qf6 Rd7 23. Bf5 Re7 24. Rxe7 Nxe7 25. Bd3 Nf5 26. Bxf5 gxf5 27. Re1 Qxa2 28. Qxh6 a3 29. Qg5+ Kf8 30. Qf6 Kg8 31. Qxf5 Qd2 32. Re7 Rf8 33. Qg4+ Kh7 34. Re5 Qh6 35. Rh5 Ra8 36. Qf5+ Kg7 37. Rxh6 Kxh6 38. Qf6+ Kh7 39. Qxf7+ Kh8 40. Qxb7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Las Palmas"]
+[Site "Las Palmas ESP"]
+[Date "1977.05.24"]
+[Round "13"]
+[White "Stefano Tatai"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Stefano Tatai - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/HRFcSeYV"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 g6 6. Bg2 Bg7 7. Qa4+ Nc6 8. Ng5 e6 9. Nge4 Nb6 10. Qb5 c4 11. Na4 O-O 12. Nxb6 axb6 13. Qxc4 e5 14. Qc2 Nd4 15. Qb1 f5 16. Nc3 e4 17. d3 b5 18. Be3 b4 19. Nd1 Re8 20. dxe4 fxe4 21. Bxd4 Qxd4 22. a3 Bg4 23. Qc2 Qd3 24. exd3 exd3+ 25. Kd2 Re2+ 26. Kxd3 Rd8+ 27. Kc4 Rxc2+ 28. Kxb4 Rcd2 29. f3 Bf8+ 30. Ka5 Bd7 { 0-1 White resigns. } 0-1
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[White "Viktor Korchnoi"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Viktor Korchnoi - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/GyRTa7TA"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 g6 6. d4 Bg7 7. e4 Nc7 8. d5 Nb5 9. O-O O-O 10. Qc2 Na6 11. Bf4 Bg4 12. Nbd2 Nd4 13. Nxd4 cxd4 14. Nf3 Qb6 15. Ne5 Bxe5 16. Bxe5 f6 17. Bf4 Rac8 18. Qa4 g5 19. Bc1 Be2 20. Re1 d3 21. Bf1 Bxf1 22. Rxf1 Rc2 23. Be3 Nc5 24. Qd4 e5 25. dxe6 Qxe6 26. Rac1 Rc8 27. b4 Nxe4 28. Rxc2 dxc2 29. Rc1 b6 30. f3 Nd6 31. Qd3 Rc6 32. a4 Qc4 33. Qd2 Nf7 34. f4 g4 35. b5 Rc8 36. Qd7 h5 37. Kf2 Qc3 38. Qf5 Re8 { 0-1 White resigns. } 0-1
+
+
+[Event "Ch URS"]
+[Site "Moscow (Russia)"]
+[Date "1973.??.??"]
+[White "Vladimir B Tukmakov"]
+[Black "Anatoly Karpov"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Vladimir B Tukmakov - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/UU8udPk8"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Nd2 Nc6 8. Nxc6 bxc6 9. f4 d5 10. b3 Be7 11. Bb2 a5 12. c4 O-O 13. Qc2 h6 14. Kh1 Qb6 15. Rae1 Ng4 16. exd5 cxd5 17. cxd5 Nf2+ 18. Rxf2 Qxf2 19. Re2 Qxf4 20. Re4 Qd6 21. Nc4 Qxd5 22. Rg4 e5 23. Rg3 Ra6 24. Nxe5 Bf6 25. Bc4 Qd6 26. Nxf7 Rxf7 27. Bxf6 Be6 28. Rd3 Qc7 29. Rd8+ Qxd8 30. Bxd8 Bxc4 31. h3 Bf1 32. Qe4 a4 33. bxa4 Rd6 34. Ba5 Rdf6 35. Be1 Ba6 36. Kh2 Bb7 37. Qc4 Rc6 38. Qb3 Rg6 39. Bg3 Rg5 40. Qc4 Bd5 41. Qc8+ Rf8 42. Qc2 h5 43. a5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Izt (cat.12)"]
+[Site "Leningrad (Russia)"]
+[Date "1973.??.??"]
+[White "Vladimir B Tukmakov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Vladimir B Tukmakov - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/UOxJgA00"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. Bg5 h6 13. Bh4 Nh5 14. Bxe7 Qxe7 15. cxb5 axb5 16. Nc3 b4 17. Nb1 Nf4 18. Nbd2 exd4 19. Nxd4 Ne5 20. N2f3 Qf6 21. Nxe5 dxe5 22. Nf5 Bxf5 23. exf5 Rad8 24. Qf3 Rd2 25. Re3 Rxb2 26. Rae1 Re8 27. Re4 Nd5 28. Qg3 Nc3 29. Rxb4 Ne2+ 30. Rxe2 Rxe2 31. Rb7 Re7 32. Rb8+ Kh7 33. Kf1 Rd2 { 0-1 White resigns. } 0-1
+
+
+[Event "Match-Tournament (3 teams URS)"]
+[Site "Moscow (Russia)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Boris V Spassky"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C94"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Quiet Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Boris V Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/cWBGipCG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d3 Bb7 11. Nbd2 Nbd7 12. Nf1 Nc5 13. Bc2 Re8 14. Ng3 Bf8 15. b4 Ncd7 16. d4 h6 17. Bd2 Nb6 18. Bd3 g6 19. Qc2 Nfd7 20. Rad1 Bg7 21. dxe5 dxe5 22. c4 bxc4 23. Bxc4 Qe7 24. Bb3 c5 25. a4 c4 26. Ba2 Bc6 27. a5 Ba4 28. Qc1 Nc8 29. Bxh6 Bxd1 30. Rxd1 Nd6 31. Bxg7 Kxg7 32. Qg5 f6 33. Qg4 Kh7 34. Nh4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Olympiad"]
+[Site "Skopje (Macedonia)"]
+[Date "1972.??.??"]
+[White "Anatoly Karpov"]
+[Black "Eldis Cobo Arteaga"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B85"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Eldis Cobo Arteaga"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/cuj4bYk3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be2 Qc7 8. O-O Nc6 9. Kh1 Bd7 10. a4 Be7 11. Nb3 O-O 12. Be3 Nb4 13. a5 Bc6 14. Bb6 Qb8 15. Qd2 d5 16. e5 Nd7 17. Bd4 b5 18. Bg4 g6 19. Rae1 Rc8 20. f5 gxf5 21. Bxf5 Nf8 22. Qh6 Ng6 23. Bxg6 hxg6 24. Re3 Bf8 25. Qh4 Bg7 26. Rh3 Be8 27. Qh7+ Kf8 28. Qxg6 f6 29. Rxf6+ { 1-0 Black resigns. } 1-0
+
+
+[Event "It"]
+[Site "Milan (Italy)"]
+[Date "1975.??.??"]
+[White "Anatoly Karpov"]
+[Black "Lajos Portisch"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C72"]
+[Opening "Ruy Lopez: Morphy Defense, Modern Steinitz Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Lajos Portisch"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/rNty9JiM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Be7 6. Bxc6+ bxc6 7. d4 exd4 8. Nxd4 c5 9. Nc6 Qd7 10. Na5 Bf6 11. Qd3 Ne7 12. Nc3 Rb8 13. Rb1 O-O 14. Bd2 Bxc3 15. Bxc3 Nc6 16. a3 Nxa5 17. Bxa5 Re8 18. Rfe1 Re6 19. c4 Bb7 20. f3 Rbe8 21. Qd2 Bc6 22. b3 Qe7 23. Qf4 Rb8 24. Bc3 f6 25. Kf2 Qf7 26. h4 Ree8 27. g4 Rb7 28. Rb2 Reb8 29. Reb1 Rf8 30. Rg1 Bd7 31. Qe3 Qe6 32. Qd3 Bc6 33. b4 cxb4 34. axb4 Be8 35. Rd2 Rb6 36. Qd4 Qe5 37. Qxb6 Qh2+ 38. Ke1 Qxd2+ 39. Kxd2 cxb6 40. Ra1 Bf7 41. Rxa6 Rb8 42. Kd3 h5 43. b5 hxg4 44. fxg4 Rc8 45. Ra4 Be6 46. g5 f5 47. exf5 Bxf5+ 48. Kd4 Kf7 49. Bb4 Ke6 50. Ra6 Rb8 51. h5 Bg4 52. h6 gxh6 53. gxh6 Bf5 54. Bd2 Rg8 55. Bf4 Rb8 56. Ra7 Kf6 57. Rg7 Be6 58. Rc7 Rh8 59. Rc6 Rg8 60. Rxd6 Kf5 61. Rxb6 Rg4 62. Rxe6 Kxe6 63. Ke4 Rg1 64. b6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (match) (cand.) (1/4)"]
+[Site "Moscow (Russia)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Lev Polugaevsky"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Lev Polugaevsky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/ajeePKiK"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O Be6 9. f4 Qc7 10. a4 Nbd7 11. Kh1 O-O 12. Be3 exf4 13. Rxf4 Rfe8 14. Nd4 Ne5 15. Nf5 Ng6 16. Rf1 Bf8 17. Qd4 Ne5 18. Bg5 Nfd7 19. Rad1 Nc5 20. Nxd6 Bxd6 21. Qxd6 Qxd6 22. Rxd6 Bd7 23. b3 Bc6 24. Bf3 f5 25. Be3 Nxe4 26. Bxe4 fxe4 27. h3 Rad8 28. Rxd8 Rxd8 29. Kg1 Ng6 30. Ne2 Rf8 31. Rd1 Nh4 32. Bc5 Rc8 33. Be7 Nf5 34. Rd8+ Rxd8 35. Bxd8 h5 36. c4 e3 37. Bg5 Be4 38. a5 Kf7 39. Nc3 Bc2 40. b4 Nd6 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "It"]
+[Site "San Antonio (USA)"]
+[Date "1972.??.??"]
+[White "Anatoly Karpov"]
+[Black "Svetozar Gligoric"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C94"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Quiet Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Svetozar Gligoric"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/gdoxD653"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d3 Nbd7 11. Nbd2 Bb7 12. Nf1 Nc5 13. Bc2 Re8 14. Ng3 Bf8 15. b4 Ncd7 16. d4 h6 17. Bd2 Nb6 18. Bd3 Rc8 19. Qc2 Qd7 20. Rad1 Qc6 21. Be3 Na4 22. Rc1 Nb6 23. Qb1 Qd7 24. Nd2 c5 25. bxc5 dxc5 26. d5 Na4 27. c4 b4 28. Rf1 Qc7 29. f4 Nd7 30. Qc2 Nc3 31. f5 Nf6 32. Ne2 Nxe2+ 33. Bxe2 Bd6 34. g4 Kf8 35. h4 Ke7 36. g5 hxg5 37. hxg5 Nd7 38. Bg4 Rg8 39. Kf2 Rh8 40. Rh1 Rcg8 41. Qd1 Kd8 42. Qg1 Nb6 43. Rh2 Qe7 44. Nb3 Kc7 45. Kf3 Nd7 46. a3 bxa3 47. Ra2 Rh4 48. Rxa3 Rgh8 49. Rb1 Rb8 50. Qe1 Rxg4 51. Kxg4 Bc8 52. Qa5+ { 1-0 Black resigns. } 1-0
+
+
+[Event "Izt (cat.12)"]
+[Site "Leningrad (Russia)"]
+[Date "1973.??.??"]
+[White "Anatoly Karpov"]
+[Black "Svetozar Gligoric"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Svetozar Gligoric"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/VEOROep2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 c5 13. d5 Ne8 14. Nf1 g6 15. Bh6 Ng7 16. Ne3 Nf6 17. a4 Kh8 18. b3 Rb8 19. Qe2 Bc8 20. axb5 axb5 21. Ra7 Ng8 22. Bxg7+ Kxg7 23. Rea1 Nf6 24. Bd3 Bd7 25. Qa2 Ne8 26. Qa6 Rb6 27. Qa5 Nf6 28. Ng4 Rb8 29. Nxf6 Bxf6 30. Qc7 Qxc7 31. Rxc7 Rfd8 32. Raa7 Be8 33. Rab7 Kg8 34. g4 h6 35. h4 Rxb7 36. Rxb7 c4 37. bxc4 bxc4 38. Be2 Ra8 39. Bxc4 Ba4 40. Bb3 Bxb3 41. Rxb3 Rc8 42. Kg2 h5 43. gxh5 gxh5 44. Rb6 Rxc3 45. Rxd6 Kg7 46. Rc6 Rd3 47. Rc7 Kg6 48. Rc8 Bg7 49. Rc6+ Kh7 50. Ng5+ Kg8 51. Rc8+ Bf8 52. Rc7 f6 53. Ne6 Bh6 54. Rd7 Rd2 55. Kf1 Rd1+ 56. Ke2 Rd2+ 57. Ke1 Rc2 58. d6 Rc1+ 59. Ke2 Rc2+ 60. Kf1 Rc6 61. Kg2 Rb6 62. Nc7 Rb7 63. Nd5 { 1-0 Black resigns. } 1-0
+
+
+[Event "Ch World (juniors)"]
+[Site "Stockholm (Sweden)"]
+[Date "1969.??.??"]
+[White "Anatoly Karpov"]
+[Black "Ulf Andersson"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C97"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Ulf Andersson"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/AmcAS69q"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bb7 13. d5 Bc8 14. Nf1 Bd7 15. b3 Nb7 16. c4 Rfb8 17. Ne3 Bf8 18. Nf5 Nd8 19. Nh2 Ne8 20. h4 f6 21. h5 Nf7 22. Re3 Ng5 23. Nh4 Qd8 24. Rg3 Nc7 25. N2f3 h6 26. Ng6 a5 27. a4 bxc4 28. bxc4 Na6 29. Qe2 Ra7 30. Bd2 Rab7 31. Bc3 Nb4 32. Bd1 Na6 33. Nd2 Nb4 34. Re3 Be8 35. Nf1 Qc8 36. Ng3 Bd7 37. Qd2 Nh7 38. Be2 Kf7 39. Qd1 Be7 40. Nf1 Bd8 41. Nh2 Kg8 42. Bg4 Ng5 43. Bxd7 Qxd7 44. Nf1 f5 45. exf5 Qxf5 46. Ng3 Qf7 47. Qe2 Bf6 48. Rf1 Qd7 49. f4 exf4 50. Rxf4 Bxc3 51. Rxc3 Re8 52. Re3 Rbb8 53. Qf2 Nh7 54. Nf5 Rxe3 55. Qxe3 Nf6 56. Nge7+ Kh8 57. Nxh6 Re8 58. Nf7+ Kh7 59. Re4 Rxe7 60. Rxe7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Tilburg Interpolis"]
+[Site "Tilburg NED"]
+[Date "1977.09.23"]
+[White "Anatoly Karpov"]
+[Black "Vasily Smyslov"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "C82"]
+[Opening "Ruy Lopez: Open, St. Petersburg Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Vasily Smyslov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/1MfK4apB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5 12. Nb3 Bg4 13. Nxc5 Nxc5 14. Re1 Re8 15. Bf4 Bh5 16. Bg3 Ne6 17. Qd2 Ne7 18. Nh4 d4 19. Be4 c6 20. Qc2 Bg6 21. Rad1 Qb6 22. f4 d3+ 23. Qf2 Qxf2+ 24. Kxf2 Bxe4 25. Rxe4 Nc5 26. Rd4 Rad8 27. Kf3 h6 28. Bf2 Ne6 29. R4xd3 Rxd3+ 30. Rxd3 g5 31. f5 Nf4 32. Rd6 Ned5 33. Bd4 gxh4 34. Rxc6 f6 35. e6 Nh5 36. Rxa6 Ng7 37. Ke4 Ne7 38. Bxf6 Ngxf5 39. a4 bxa4 40. Rxa4 Rd8 41. Ra7 Kf8 42. Rd7 Rc8 43. b4 Ke8 44. Ra7 Nd6+ 45. Kd3 Nd5 46. Be5 Nb5 47. Rh7 Rc6 48. Rxh6 Nbxc3 49. Rxh4 Na2 50. b5 Rxe6 51. Rh5 Rg6 52. Bg3 Rg4 53. Kc2 Nab4+ 54. Kb3 Rd4 55. Bf2 Rd3+ 56. Ka4 Rd1 57. b6 Nc6 58. b7 Kd7 59. Bg3 Nde7 60. Rb5 Rd2 61. Rb3 Rxg2 62. h4 Nf5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Nice (France)"]
+[Date "1974.??.??"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Unzicker"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C98"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Wolfgang Unzicker"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/usfSM3Ci"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. a4 Rb8 15. axb5 axb5 16. b4 Nb7 17. Nf1 Bd7 18. Be3 Ra8 19. Qd2 Rfc8 20. Bd3 g6 21. Ng3 Bf8 22. Ra2 c4 23. Bb1 Qd8 24. Ba7 Ne8 25. Bc2 Nc7 26. Rea1 Qe7 27. Bb1 Be8 28. Ne2 Nd8 29. Nh2 Bg7 30. f4 f6 31. f5 g5 32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 h6 35. Bh5 Qe8 36. Qd1 Nd8 37. Ra3 Kf8 38. R1a2 Kg8 39. Ng4 Kf8 40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43. Qg6 Kf8 44. Nh5 { 1-0 Black resigns. } 1-0
+
+
+[Event "It"]
+[Site "Milan (Italy)"]
+[Date "1975.??.??"]
+[White "Anatoly Karpov"]
+[Black "Wolfgang Unzicker"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C97"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Wolfgang Unzicker"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/PHAg2Fba"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Rfe8 14. d5 Nb7 15. N3h2 g6 16. Ng3 c4 17. f4 exf4 18. Bxf4 Bf8 19. Bg5 Be7 20. Qd2 Bc8 21. Rf1 Nd7 22. Ng4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Tilburg Interpolis"]
+[Site "Tilburg NED"]
+[Date "1977.10.01"]
+[Round "7"]
+[White "Robert Huebner"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Robert Huebner - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/uRf3FFUh"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 d5 4. cxd5 Nxd5 5. g3 g6 6. d3 Bg7 7. Bd2 b6 8. Qa4+ Bd7 9. Qh4 Bc6 10. Bg2 e6 11. Qxd8+ Kxd8 12. Rc1 Na6 13. Nxd5 Bxd5 14. Bc3 f6 15. a3 Ke7 16. O-O Rhc8 17. Nd2 Nc7 18. b4 Bxg2 19. Kxg2 cxb4 20. Bxb4+ Kd7 21. Bc3 Nd5 22. Bb2 Bh6 23. e3 Bxe3 24. fxe3 Nxe3+ 25. Kf3 Nxf1 26. Nxf1 Rxc1 27. Bxc1 Rc8 28. Bb2 Rc2 29. Bxf6 Ra2 30. Ke3 Rxa3 31. Nd2 b5 32. Ne4 b4 33. Kd4 a5 34. Kc4 Ra2 35. h4 Kc6 36. Bd4 Re2 37. Be5 Re1 38. Bf6 Rb1 39. Be7 e5 40. g4 Rc1+ 41. Kb3 Kd5 42. Bg5 Rb1+ 43. Kc2 Rh1 44. Kb3 Rh3 45. Nf6+ Kd4 46. Nxh7 Rxd3+ 47. Kc2 a4 48. Be7 Rc3+ 49. Kb1 Rc7 { 0-1 White resigns. } 0-1
+
+
+[Event "October Revolution 60th Anniversary"]
+[Site "Leningrad URS"]
+[Date "1977.07.17"]
+[Round "16"]
+[White "Anatoly Karpov"]
+[Black "Florin Gheorghiu"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation, Hedgehog Defense"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Florin Gheorghiu"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/78ylEz0f"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4 d6 9. Rd1 a6 10. e4 Nbd7 11. Qe3 O-O 12. Nd4 Qc7 13. b3 Rfe8 14. Bb2 Bf8 15. Rac1 Rac8 16. h3 Qb8 17. Re1 g6 18. Rcd1 Nc5 19. f3 Bg7 20. Ba1 Ncd7 21. f4 e5 22. Nc2 exf4 23. Qxf4 Ne5 24. Nb4 h5 25. Rf1 Qc7 26. Kh1 Re6 27. Qd2 Rce8 28. Ncd5 Nxd5 29. cxd5 Rf6 30. Rf4 Rxf4 31. gxf4 Nd7 32. Bxg7 Kxg7 33. Nc6 Kg8 34. e5 Kh7 35. Rc1 dxe5 36. Nxe5 Qd6 37. Nxf7 Qf6 38. Ng5+ Kg8 39. Rc7 Nc5 40. b4 Qd6 41. Rf7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Amsterdam"]
+[Site "Amsterdam NED"]
+[Date "1976.05.21"]
+[Round "6"]
+[White "Anatoly Karpov"]
+[Black "Fridrik Olafsson"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B44"]
+[Opening "Sicilian Defense: Taimanov Variation, Modern Line"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Anatoly Karpov - Fridrik Olafsson"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/DHTHXlPc"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 12. Qb3 Nd7 13. Rfd1 Nc5 14. Qc2 Bf6 15. Rac1 Be5 16. Nab1 Qh4 17. g3 Qf6 18. f4 Bd4 19. Qd2 e5 20. Nd5 Qd8 21. Nbc3 Kh8 22. f5 Nd7 23. Bf3 Bc5 24. Kg2 f6 25. Ne2 a5 26. Ndc3 Rf7 27. Nb5 Qb8 28. Nxd6 Re7 29. Nb5 Bxe3 30. Qxe3 Nc5 31. Nec3 Ba6 32. Rd2 Bxb5 33. Nxb5 Rd7 34. Rxd7 Nxd7 35. Rd1 Nc5 36. Qd2 Qf8 37. Qd6 Qxd6 38. Rxd6 Rc8 39. g4 Kg8 40. h4 Kf7 41. g5 Ke7 42. Kg3 a4 43. Rd2 Na5 44. Na3 Nc6 45. Nc2 Rd8 46. Rxd8 Kxd8 47. gxf6 gxf6 48. Ne3 Nb4 49. a3 Nbd3 50. Kg4 Ke8 51. Kh5 Kf7 52. Kh6 Kg8 53. Nd5 Nd7 54. Bh5 Nxb2 55. Be8 Nc5 56. Nxf6+ Kf8 57. Bb5 Nbd3 58. Bc6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Skopje"]
+[Site "Skopje MKD"]
+[Date "1976.03.??"]
+[Round "5"]
+[White "Bojan Kurajica"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Bayreuth Variation"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Bojan Kurajica - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/FGmwRS0a"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. Nc3 Bd6 7. d4 Bb4 8. Nxe5 Nxe4 9. O-O Bxc3 10. bxc3 O-O 11. Ba3 Nd6 12. c4 f6 13. Ng4 Re8 14. Ne3 Nf5 15. Nxf5 Bxf5 16. Qd2 Be6 17. Qc3 Qd7 18. Rfe1 Qf7 19. Qb2 b6 20. c5 b5 21. Bb4 a5 22. Bd2 Bd5 23. f3 Rxe1+ 24. Rxe1 b4 25. a4 bxa3 26. Qxa3 a4 27. Bb4 Qg6 28. Qc3 h5 29. Ba3 Re8 30. Rxe8+ Qxe8 31. Kf2 Qg6 32. Qd3 Qxd3 33. cxd3 h4 34. g3 Kf7 35. Ke3 f5 36. Kf4 Kg6 37. Ke3 Kh5 38. Bb4 g5 39. Kf2 Ba2 40. Ba3 Bb1 41. Ke2 Ba2 42. Bc1 Be6 43. Kf2 Bc8 44. d5 cxd5 45. d4 f4 46. gxf4 g4 47. Kg2 Bf5 48. Kf2 gxf3 49. Kxf3 Be4+ 50. Kf2 Kg4 51. Bb2 Kxf4 52. Bc3 Kg4 53. Bb2 c6 54. Bc1 Kh3 55. Kg1 Bg6 56. Kh1 Bh5 57. Kg1 Bd1 { 0-1 White resigns. } 0-1
+
+
+[Event "Manila"]
+[Site "Manila PHI"]
+[Date "1976.07.16"]
+[Round "3"]
+[White "Ljubomir Ljubojevic"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "Anatoly Karpov - My Best Games"]
+[ChapterName "Ljubomir Ljubojevic - Anatoly Karpov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/ncmTN2h8/rS6GNzjR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b4 Bf8 14. a4 Nb6 15. a5 Nbd7 16. Bb2 Rb8 17. Qb1 Nh5 18. c4 bxc4 19. Nxc4 exd4 20. Bxd4 c5 21. Be3 cxb4 22. Nb6 Nhf6 23. Qxb4 d5 24. Qb3 dxe4 25. Ng5 Bd5 26. Qa4 Nxb6 27. Bxb6 Qe7 28. f3 Rxb6 29. axb6 Qc5+ 30. Kh1 Bc6 31. Qa5 exf3 32. Nxf3 Qxc2 33. Qxa6 Bxf3 34. gxf3 Rxe1+ 35. Rxe1 Nh5 36. Re8 Qf2 37. Rxf8+ Kxf8 38. Qa3+ Ke8 39. Qa4+ Ke7 40. Qb4+ Kf6 41. Qd6+ Kg5 42. Qe5+ Kh6 { 0-1 White resigns. } 0-1
+
+

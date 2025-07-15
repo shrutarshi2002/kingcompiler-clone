@@ -1,0 +1,19 @@
+[Event "PIN: pins - rook"]
+[Date "2020.04.11"]
+[White "pins"]
+[Black "rook"]
+[Result "1-0"]
+[FEN "8/1pkq4/pn6/7p/2P2b2/1P3N1P/PB4R1/R6K w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "PIN"]
+[ChapterName "pins - rook"]
+[SetUp "1"]
+[Annotator "https://lichess.org/@/kingcompiler"]
+[ChapterURL "https://lichess.org/study/P1aYdzIe/g6m3ikUJ"]
+[ChapterMode "gamebook"]
+
+1. Rg7 { 1-0 White wins. } { [%csl Gd7][%cal Gg7c7] } 1... Qxg7 2. Bxg7 1-0
+
+

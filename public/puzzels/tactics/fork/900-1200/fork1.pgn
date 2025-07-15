@@ -1,0 +1,18 @@
+[Event "level 1 Double attack: forks - knight"]
+[Date "2020.04.11"]
+[White "forks"]
+[Black "knight"]
+[Result "1-0"]
+[Annotator "Krishna"]
+[FEN "8/1k6/1p6/2p2q1p/2N4P/1P4B1/5P1K/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "level 1 Double attack"]
+[ChapterName "forks - knight"]
+[SetUp "1"]
+[ChapterURL "https://lichess.org/study/7DxkiMqI/0py3yVuJ"]
+[ChapterMode "gamebook"]
+
+{ [%evp 0,3,656,701,708,725] [%csl Gc4,Gf5,Gb7] }
+1. Nd6+ { [%csl Gb7,Gf5][%cal Gd6b7,Gd6f5] } 1... Kb8 2. Nxf5+ 1-0

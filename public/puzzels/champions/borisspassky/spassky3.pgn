@@ -1,0 +1,1118 @@
+[Event "Leningrad 1949"]
+[Date "1949.??.??"]
+[White "Spassky"]
+[Black "Aftonov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D28"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Alekhine System"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Aftonov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/k3DXjOjC"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 c5 5. Bxc4 e6 6. O-O a6 7. Qe2 b5 8. Bb3 Nc6 9. Nc3 cxd4 10. Rd1 Bb7 11. exd4 Nb4 12. d5 Nbxd5 13. Bg5 Be7 14. Bxf6 gxf6 15. Nxd5 Bxd5 16. Bxd5 exd5 17. Nd4 Kf8 18. Nf5 h5 19. Rxd5 Qxd5 20. Qxe7+ Kg8 21. Qxf6 { 1-0 White wins. } 1-0
+
+
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.??.??"]
+[Round "1"]
+[White "Spassky, Boris V"]
+[Black "Smyslov, Vassily"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E30"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Smyslov, Vassily"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/1TsY7p8q"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 exd5 7. cxd5 d6 8. e3 Nbd7 9. Bb5 O-O 10. Ne2 Ne5 11. O-O Ng6 12. Bg3 Nh5 13. Bd3 Nxg3 14. Nxg3 Ne5 15. Be2 Bxc3 16. bxc3 Qh4 17. f4 Ng4 18. Bxg4 Bxg4 19. Qa4 Bc8 20. e4 Qg4 21. Qc2 h5 22. Rf2 b5 23. e5 h4 24. Nf1 Bf5 25. Qd2 dxe5 26. fxe5 Bg6 27. Re1 h3 28. d6 Be4 29. Ne3 Qe6 30. Rf4 Bxg2 31. Nf5 Rfe8 32. Re3 Rad8 33. Nxg7 Rxd6 34. Nxe6 { 1-0 White wins. } 1-0
+
+
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1953.??.??"]
+[Round "16"]
+[White "Barda, Olaf"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Barda, Olaf - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/oyMsrMjd"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. h3 b5 8. a4 Bb7 9. Nh2 a6 10. axb5 axb5 11. Rxa8 Bxa8 12. Na3 Qd7 13. b3 Na6 14. Bb2 Nc7 15. e4 Bb7 16. Qe2 Ra8 17. Bc1 Ra7 18. f4 e6 19. c4 b4 20. Nc2 exd5 21. exd5 Ra2 22. g4 Nfxd5 23. cxd5 Ba6 24. Qd1 Bxf1 25. Bxf1 Nxd5 26. Qxd5 Rxc2 27. Be3 Qe6 28. Qa8+ Bf8 29. Bf2 Qxb3 30. g5 Rc1 31. Kg2 Qa3 32. Qd5 Ra1 33. Ng4 Qa8 34. Bc4 Bg7 35. Qxa8+ Rxa8 36. Nf6+ Bxf6 37. gxf6 Ra3 38. Be1 b3 39. Bc3 Ra2+ 40. Kf3 Rc2 { 0-1 Black wins. } 0-1
+
+
+[Event "URS-ch sf"]
+[Site "Leningrad"]
+[Date "1955.??.??"]
+[Round "2"]
+[White "Spassky, Boris V"]
+[Black "Byvshev, Vasily Mikhailovich"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D80"]
+[Opening "Grünfeld Defense: Stockholm Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Byvshev, Vasily Mikhailovich"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/HiwbusEH"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. e3 O-O 8. Nf3 c6 9. Bd3 dxc4 10. Bxc4 Nd7 11. O-O Nb6 12. Bb3 Nd5 13. Ne5 Nxf4 14. exf4 Qd6 15. Re1 e6 16. Qf3 Re8 17. h4 f6 18. Nd3 b6 19. h5 gxh5 20. f5 Kh8 21. Nf4 Bb7 22. fxe6 Re7 23. Nxh5 Rf8 24. Ng3 c5 25. d5 c4 26. Nf5 Qc5 27. Bxc4 Rxe6 28. Rxe6 Qxc4 29. Qg3 Rg8 30. Re8 { 1-0 White wins. } 1-0
+
+
+[Event "Gothenburg Interzonal"]
+[Site "Gothenburg"]
+[Date "1955.??.??"]
+[Round "18"]
+[White "Spassky, Boris V"]
+[Black "Filip, Miroslav"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E30"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Filip, Miroslav"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/65r0Nojh"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 exd5 7. cxd5 d6 8. e3 Nbd7 9. Bd3 O-O 10. Ne2 Ne5 11. O-O Bxc3 12. Nxc3 Ng6 13. Bg3 Qe7 14. e4 Bd7 15. Re1 Ne5 16. Be2 g5 17. Rf1 Kh7 18. Qd2 Ng8 19. f4 gxf4 20. Rxf4 a6 21. a4 f6 22. Raf1 Rf7 23. Bh5 Rg7 24. a5 Rf8 25. Nd1 Rg5 26. Be2 Ng6 27. R4f2 Ne5 28. Ne3 Rg7 29. Bxe5 dxe5 30. d6 Qd8 31. Bc4 Bc6 32. Nf5 Rg5 33. h4 Rg6 34. Bxg8+ Rfxg8 35. Ne7 Bxe4 36. Nxg6 Rxg6 37. h5 Rg7 38. Rxf6 Rxg2+ 39. Qxg2 Bxg2 40. Rf8 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch22"]
+[Site "Moscow"]
+[Date "1955.??.??"]
+[White "Spassky, Boris V"]
+[Black "Taimanov, Mark E"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Norwegian Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Taimanov, Mark E"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/BsdjaSJm"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d4 Nxb3 8. axb3 f6 9. Nc3 Bb7 10. Nh4 Ne7 11. dxe5 dxe5 12. Qf3 Qd7 13. Rd1 Qe6 14. Be3 g5 15. Nxb5 axb5 16. Qh5+ Qf7 17. Rxa8+ Bxa8 18. Rd8+ Kxd8 19. Qxf7 gxh4 20. Qxf6 Rg8 21. f3 h3 22. g3 Ke8 23. Qxe5 Rg6 24. Qxb5+ Bc6 25. Qb8+ Kf7 26. Qxc7 Rf6 27. Bg5 Re6 28. b4 Kg8 29. Qb8 Ng6 30. Kf2 Ne5 31. b5 Be8 32. Be3 Bd6 33. Qc8 Kf7 34. b6 Rf6 35. Bf4 Bd7 36. b7 Be6 37. Bxe5 Bxe5 38. b8=Q Bxc8 39. Qxe5 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch22"]
+[Site "Moscow"]
+[Date "1955.??.??"]
+[White "Geller, Efim P"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E26"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Geller, Efim P - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/IdabRLgX"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 d6 8. Ne2 b6 9. O-O Qd7 10. e4 Ba6 11. Bg5 O-O-O 12. Ng3 h6 13. Bxf6 gxf6 14. Nh5 cxd4 15. cxd4 Nxd4 16. Nxf6 Qe7 17. Qa4 Bb7 18. Nh5 Rhg8 19. Qd1 f5 20. Re1 Qh4 21. f4 e5 22. Rc1 exf4 23. Bf1 Qxe1 24. Qxe1 Nf3+ 25. Kf2 Nxe1 26. Rxe1 f3 27. gxf3 fxe4 28. fxe4 Rdf8+ 29. Ke3 Bxe4 30. Bh3+ Bf5 31. Bxf5+ Rxf5 { 0-1 Black wins. } 0-1
+
+
+[Event "Lyons Student Olympiade"]
+[Date "1955.??.??"]
+[White "Milic"]
+[Black "Spassky"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C94"]
+[Opening "Ruy Lopez: Closed, Breyer Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Milic - Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/2eGlr1YK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. a4 Bb7 11. d3 Nbd7 12. Bc2 Re8 13. Nbd2 Bf8 14. Nf1 c5 15. Ng3 g6 16. Bg5 Qc7 17. Nh2 d5 18. Qf3 Bg7 19. h4 d4 20. h5 c4 21. Rac1 Qb6 22. axb5 axb5 23. Bb1 Rac8 24. Ba2 Ba6 25. hxg6 hxg6 26. Red1 Nh7 27. Bd2 Nc5 28. dxc4 bxc4 29. cxd4 Nd3 30. Rb1 exd4 31. Ng4 Ne5 32. Nxe5 Rxe5 33. Rdc1 Ng5 34. Qg4 Nxe4 35. Nxe4 f5 36. Qe2 Rxe4 37. Qf1 Qe6 38. b4 Bb5 39. Qd1 Kf8 40. Qf3 d3 41. Rc3 Qc6 42. Ra1 Re2 43. Qf4 Qf6 44. Rd1 Rxd2 45. Rxd2 Qxc3 46. Qd6+ Kg8 47. Rd1 Kh7 48. Qh2+ Bh6 49. Qd6 Re8 50. Qc7+ Qg7 51. Qc5 d2 { 0-1 Black wins. } 0-1
+
+
+[Event "Lyons Student Olympiade"]
+[Date "1955.??.??"]
+[White "Spassky"]
+[Black "Kozma"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B63"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Kozma"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/mhVdVhBg"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. Be3 Qc7 12. Qf2 d5 13. exd5 Nxd5 14. Nxd5 exd5 15. g4 Be6 16. Nd4 Nxd4 17. Bxd4 Rac8 18. c3 Qc6 19. Bd3 b5 20. Kb1 Bd7 21. Bxa7 Ra8 22. Rhe1 Be6 23. Bd4 Ra6 24. f4 Rda8 25. f5 Rxa2 26. fxe6 f6 27. g5 Qa6 28. gxf6 gxf6 29. Rg1+ Kf8 30. Qxf6+ { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch24"]
+[Site "Moscow"]
+[Date "1957.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "E30"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Kholmov, Ratmir D"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/DUXU31U8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 Bxc3+ 7. bxc3 e5 8. Qc2 d6 9. e3 Qe7 10. Nf3 Nbd7 11. Nd2 e4 12. O-O-O O-O 13. g4 g5 14. Bg3 Ne5 15. h3 Ng6 16. Be2 Re8 17. Rdg1 Bd7 18. h4 Rab8 19. hxg5 hxg5 20. Rh5 Nxh5 21. gxh5 Nf8 22. Nxe4 Qxe4 23. Qxe4 Rxe4 24. Bxd6 Rbe8 25. Rxg5+ Kh8 26. Bxc5 f6 27. Rg3 b6 28. Bd4 Nh7 29. Kd2 Rg8 30. Rg6 Be8 31. Bd3 Bxg6 32. hxg6 Rxd4 33. cxd4 Nf8 34. c5 bxc5 35. dxc5 Nd7 36. c6 Nb6 37. e4 Kg7 38. Ba6 Kxg6 39. a4 Kf7 40. a5 Na8 41. Bc4 Rd8 { 1/2-1/2  wins. } 1/2-1/2
+
+
+[Event "URS-ch24"]
+[Site "Moscow"]
+[Date "1957.??.??"]
+[Round "18"]
+[White "Furman, Semen Abramovich"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B38"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Furman, Semen Abramovich - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/jIqkN3lC"]
+
+1. Nf3 c5 2. c4 g6 3. e4 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Nh6 7. Nc3 O-O 8. Be2 f5 9. exf5 Bxd4 10. Bxd4 Nxf5 11. Bc5 d6 12. Ba3 Nfd4 13. O-O Bf5 14. Rc1 Qd7 15. Nd5 Rf7 16. b3 Raf8 17. Bb2 e5 18. b4 Be6 19. Bd3 Bg4 20. f3 Bxf3 21. gxf3 Nxf3+ 22. Kh1 Qh3 23. Rf2 Ne1 { 0-1 Black wins. } 0-1
+
+
+[Event "25th USSR Championship"]
+[Date "1958.??.??"]
+[White "Spassky"]
+[Black "Ufimtsev"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Ufimtsev"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/mvGXXdYr"]
+
+1. e4 d6 2. d4 g6 3. h4 Bg7 4. h5 c5 5. d5 gxh5 6. Nc3 Bxc3+ 7. bxc3 Nf6 8. f3 Rg8 9. Ne2 Qa5 10. a4 b5 11. Bd2 bxa4 12. c4 Qa6 13. Nc3 Bd7 14. Kf2 Qc8 15. Bf4 a5 16. Bd3 Na6 17. e5 dxe5 18. Bxe5 Nb4 19. Bxf6 exf6 20. Bxh7 Rg7 21. Rxh5 Kf8 22. Qd2 Bg4 23. Bf5 Bxf5 24. Rh8+ Rg8 25. Qh6+ Ke7 26. Re1+ Kd7 27. Qxf6 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch25"]
+[Site "Riga"]
+[Date "1958.??.??"]
+[White "Spassky, Boris V"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Polugaevsky, Lev"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/hWeGf1Vr"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Be7 12. f4 Nc5 13. e5 dxe5 14. Bxf6 Bxf6 15. fxe5 Bh4 16. g3 Be7 17. Bxe6 O-O 18. Bb3 Rad8 19. Qf4 b4 20. Na4 h6 21. Nxc5 Qxc5 22. h4 Bd5 23. Nf5 Bxb3 24. axb3 Rxd1+ 25. Rxd1 Rc8 26. Qe4 Bf8 27. e6 fxe6 28. Qxe6+ Kh8 29. Qe4 Qc6 30. Qd3 Re8 31. h5 Be7 32. Nxe7 Rxe7 33. Qg6 Qe8 34. g4 Re1 35. Qxe8+ Rxe8 36. Rd4 a5 37. Kd2 Re5 38. c4 bxc3+ 39. bxc3 Rg5 40. c4 Kg8 41. Rf4 g6 { 1-0 White wins. } 1-0
+
+
+[Event "Alekhine mem"]
+[Site "Moscow"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Vasiukov, Evgeni"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Vasiukov, Evgeni"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/PqXQ64U0"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Bd3 Re8 8. Qc2 exd4 9. exd4 Nf8 10. h3 Nd5 11. cxd5 Bxg5+ 12. Kf1 Bd7 13. g3 Rc8 14. Kg2 a6 15. Rae1 Rxe1 16. Rxe1 Bh6 17. Bf5 g6 18. Bxd7 Nxd7 19. Qb3 Rb8 20. a4 Nf6 21. g4 Qd7 22. g5 Nh5 23. gxh6 Nf4+ 24. Kg3 g5 25. Ng1 Qf5 26. Qxb7 Rf8 27. Qxc7 Qd3+ 28. Kh2 Qd2 29. Ne4 { 1-0 White wins. } 1-0
+
+
+[Event "Alekhine mem"]
+[Site "Moscow"]
+[Date "1959.??.??"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Olafsson, Fridrik"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C96"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Olafsson, Fridrik"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/7JYXNHBr"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Bb7 12. d5 Bc8 13. Nbd2 c4 14. Nf1 Nb7 15. g4 h5 16. gxh5 Bxh3 17. N3h2 Nh7 18. Ne3 Bg5 19. Qf3 Bd7 20. Kh1 Bf4 21. Nf5 Bxc1 22. Raxc1 Bxf5 23. exf5 Qf6 24. Rg1 Nc5 25. Rg2 Qh6 26. Rcg1 Nf6 27. Ng4 Nxg4 28. Rxg4 Kh8 29. Rxg7 e4 30. Qg4 Nd7 31. Rg5 Rae8 32. Qf4 Nf6 33. R1g2 Nxd5 34. Rg8+ Kh7 35. R2g7+ Qxg7 36. Rxg7+ Kxg7 37. f6+ Nxf6 38. Qg5+ Kh7 39. Qxf6 Re5 40. Bxe4+ { 1-0 White wins. } 1-0
+
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.13"]
+[Round "7"]
+[White "Teschner, Rudolf"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Teschner, Rudolf - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/zFjjA3YN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 Be7 6. Bg5 O-O 7. e3 b6 8. Bd3 Bb7 9. Bxf6 Bxf6 10. h4 c5 11. Bxh7+ Kxh7 12. Ng5+ Kh6 13. Qc2 g6 14. h5 Kxg5 15. f4+ Kh6 16. hxg6+ Kg7 17. Rh7+ Kg8 18. O-O-O Bg7 19. Rdh1 Qf6 20. gxf7+ Rxf7 21. g4 cxd4 22. g5 Qf5 23. Rxg7+ Kxg7 24. Qh2 Rf8 25. g6 Qxg6 26. Rg1 Nd7 27. Rxg6+ Kxg6 28. Nb5 Rac8+ 29. Kd1 Rf6 30. Nd6 Rxd6 31. f5+ Kxf5 32. Qxd6 Nf6 33. exd4 Bc6 34. Qa3 Ra8 35. Qh3+ Kg6 36. Qg3+ Kf5 37. Qh3+ Kg6 38. Qg3+ Kf7 39. Qc7+ Bd7 40. Qb7 Rh8 41. Qxa7 b5 42. Kc2 Rc8+ 43. Kb3 Rc4 44. a3 Ke7 45. Ka2 Ne8 46. Qb8 Nc7 47. Qb7 Kd6 48. Qb6+ Bc6 49. Qb8 Kd7 50. Qh8 Ba8 51. Qh3+ Kc6 52. Qh6+ Kb7 53. Qg7 Ka7 54. Qd7 Bb7 55. Qe7 Bc8 56. Qg7 Kb7 57. Qe5 Bd7 58. Qd6 Be8 59. Qf6 b4 60. axb4 Rxb4 61. b3 Rb6 62. Qh8 Re6 63. Ka3 Re4 64. Kb2 Kb6 65. Qf6+ Ne6 66. Qe7 Bc6 67. Qd6 Rxd4 68. Kc3 Nc7 69. Qd8 Kb7 70. Qe7 Re4 71. Qg7 Bb5 72. Qh7 d4+ 73. Kb4 Re5 74. Qh2 Rd5 75. Qd2 d3 76. Kc3 Rc5+ 77. Kb4 Rc2 78. Qd1 Nd5+ { 0-1 Black wins. } 0-1
+
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.16"]
+[Round "9"]
+[White "Gipslis, Aivars"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Defense, Benelux Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Gipslis, Aivars - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/RxEiC41U"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. dxe5 Nxe4 8. Qd5 Nc5 9. Bg5 Qe8 10. Nbd2 d6 11. exd6 Be6 12. Bxc6 bxc6 13. Qd4 f6 14. Rae1 Qg6 15. Bh4 Bd5 16. Re2 Ne4 17. Qd3 Ng3 18. Qa6 Nxf1 19. Kxf1 cxd6 20. Bg3 Rfe8 21. Bxd6 Rxe2 22. Qxe2 Re8 { 0-1 Black wins. } 0-1
+
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.12"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Mikenas, Vladas"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Mikenas, Vladas"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/MUm3asdI"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e4 Nc6 5. f4 g5 6. f5 Nxe5 7. Nf3 Bb4+ 8. Nbd2 Nc6 9. Bd3 g4 10. O-O gxf3 11. Nxf3 Bd6 12. e5 Nxe5 13. Re1 f6 14. c5 Be7 15. Nxe5 fxe5 16. Rxe5 Nf6 17. Bg5 O-O 18. Qb3+ Kh8 19. Rae1 Bxc5 20. Rxc5 Qd6 21. Rce5 Ng4 22. Bf4 Bd7 23. Bg3 Bc6 24. R5e4 { 1-0 White wins. } 1-0
+
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1959.12.19"]
+[Round "12"]
+[White "Spassky, Boris V"]
+[Black "Witkowski, Stefan"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D86"]
+[Opening "Grünfeld Defense: Exchange Variation, Classical Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Witkowski, Stefan"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/OWsI06LT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 cxd4 9. cxd4 Nc6 10. Be3 b5 11. Bd5 Bd7 12. Rc1 Rc8 13. O-O e6 14. Bxc6 Rxc6 15. Rxc6 Bxc6 16. d5 exd5 17. Qc2 Qd7 18. Bc5 dxe4 19. Rd1 Qb7 20. Nd4 Be5 21. Bb4 Bxd4 22. Rxd4 a5 23. Bc5 Qc8 24. h3 f5 25. Qb2 Bd7 26. Rxe4+ fxe4 27. Qxh8+ Kf7 28. Qxh7+ Kf6 29. Qe7+ Kf5 30. g4+ Kf4 31. Qd6+ Kg5 32. Be3+ { 1-0 White wins. } 1-0
+
+
+[Event "Leningrad Championship"]
+[Date "1959.??.??"]
+[White "Spassky"]
+[Black "Henin"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Henin"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/MgOpO5FG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 g6 4. d3 Bg7 5. Nc3 Nge7 6. Ng5 O-O 7. h4 Na5 8. h5 Nxc4 9. dxc4 h6 10. hxg6 fxg6 11. Nf3 g5 12. Nxg5 hxg5 13. Qh5 Qe8 14. Qh7+ Kf7 15. Rh3 g4 16. Bh6 Rg8 17. Rh5 Kf8 18. Nd5 Qg6 19. Rf5+ Ke8 20. Qxg6+ Nxg6 21. Bg5 d6 22. Nxc7+ Kd7 23. Rf7+ Kc6 24. Nxa8 d5 25. cxd5+ Kd6 26. Bd2 Kc5 27. Be3+ { 1-0 White wins. } 1-0
+
+
+[Event "Leningrad Championship"]
+[Date "1959.??.??"]
+[White "Spassky"]
+[Black "Reshko"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Reshko"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/GSgIeEdF"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. e5 Nfd7 7. Qg3 e6 8. Be2 Qc7 9. f4 a6 10. b4 c5 11. b5 c4 12. Rb1 d4 13. Ne4 axb5 14. O-O Rxa2 15. d3 Rxc2 16. Bd1 Ra2 17. f5 Nxe5 18. fxe6 f6 19. Rxf6 gxf6 20. Nxf6+ Kd8 21. Nd5 Qd6 22. Bg5+ Kc8 23. Bg4 Nxg4 24. e7 Bxe7 25. Qxg4+ Nd7 26. Nxe7+ Kc7 27. Bf4 Ne5 28. Qg7 Kb6 29. Bxe5 Qe6 30. Bxd4+ { 1-0 White wins. } 1-0
+
+
+[Event "27th USSR Championship"]
+[Date "1959.??.??"]
+[White "Muratov"]
+[Black "Spassky"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted: Bilguer Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Muratov - Spassky"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/8V8QEx1v"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Nc3 Qg6 7. Qe2 Nf6 8. f3 Nc6 9. Be3 Be7 10. O-O-O O-O 11. d5 Nb4 12. a3 a5 13. axb4 axb4 14. Nb1 Ra1 15. Nd2 exf3 16. gxf3 Nxd5 17. Ne4 Nxe3 18. Qxe3 Be6 19. Rg1 Qf7 20. Nd2 Bf6 21. Bd3 Ra2 22. Rde1 Bxb2+ 23. Kd1 Bd5 24. Rg5 Be5 25. Reg1 Ra1 26. Rxe5 dxe5 27. Qxe5 Ra5 28. Kc1 b6 29. Qd4 Qe7 30. Qg4 Kh8 31. h4 Re8 32. Ne4 b3 33. cxb3 Bxe4 34. Bxe4 Qc5+ 35. Bc2 Qe3+ 36. Kb2 Qe5+ 37. Kc1 Ra2 38. Be4 Qb2+ 39. Kd1 Rd8+ { 0-1 Black wins. } 0-1
+
+
+[Event "URS-ch27"]
+[Site "Leningrad"]
+[Date "1960.??.??"]
+[White "Spassky, Boris V"]
+[Black "Bronstein, David I"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Modern Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Bronstein, David I"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/9jXxUvTs"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Bd6 5. Nc3 Ne7 6. d4 O-O 7. Bd3 Nd7 8. O-O h6 9. Ne4 Nxd5 10. c4 Ne3 11. Bxe3 fxe3 12. c5 Be7 13. Bc2 Re8 14. Qd3 e2 15. Nd6 Nf8 16. Nxf7 exf1=Q+ 17. Rxf1 Bf5 18. Qxf5 Qd7 19. Qf4 Bf6 20. N3e5 Qe7 21. Bb3 Bxe5 22. Nxe5+ Kh7 23. Qe4+ { 1-0 White wins. } 1-0
+
+
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1960.??.??"]
+[White "Reshko A"]
+[Black "Spassky B V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A23"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Keres Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Reshko A - Spassky B V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/sFr4gWKI"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 d6 5. Bg2 Nbd7 6. O-O Be7 7. e4 O-O 8. d4 a6 9. d5 cxd5 10. cxd5 b5 11. a3 Nc5 12. Ne1 Bd7 13. Nd3 Nxd3 14. Qxd3 Qb8 15. b4 Rc8 16. h3 Rc4 17. Bb2 Bd8 18. Ne2 Qa7 19. Kh2 Rac8 20. Bc3 Be8 21. f4 Qe7 22. fxe5 dxe5 23. Rf5 Nd7 24. Raf1 Bb6 25. g4 f6 26. g5 Bg6 27. gxf6 gxf6 28. R5f3 Rxe4 29. Qd2 Qd6 30. Rg3 Rh4 31. Qe1 Rcc4 32. Bd2 Kh8 33. Kh1 Bd8 34. Rc3 Nb6 35. Rxc4 Rxc4 36. Ng3 Qd7 37. Bh6 Nxd5 38. Qxe5 Rh4 39. Qxd5 Rxh3+ 40. Kg1 Bb6+ { 0-1 Black wins. } 0-1
+
+
+[Event "Moskva ch-SU"]
+[Site "Moskva ch-SU"]
+[Date "1961.??.??"]
+[Round "7"]
+[White "Spassky B V"]
+[Black "Bronstein, David"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky B V - Bronstein, David"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/u9UO49gW"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 d5 7. Bg5 c6 8. Re1 Ne4 9. Nxe4 dxe4 10. Nd2 e3 11. Bxe3 Bxd4 12. Bxd4 Qxd4 13. c3 Qc5 14. Ne4 Qb6 15. Qd2 Bf5 16. Ng5 Rd8 17. Qf4 e5 18. Qxe5 h6 19. e4 Bc8 20. Nxf7 Kxf7 21. Re3 Kg8 22. Bf1 Rd7 23. Qe8+ Kg7 24. Rf3 Qc5 25. Rd1 h5 26. Rxd7+ Nxd7 27. Rf7+ Kh6 28. Qh8+ Kg5 29. h4+ { 1-0 White wins. } 1-0
+
+
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1960.04.09"]
+[Round "10"]
+[White "Spassky, Boris V"]
+[Black "Foguelman, Alberto"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Foguelman, Alberto"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/M01G4N7X"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. N1e2 Nf6 8. Nf4 Bh7 9. Bc4 e5 10. Qe2 Qxd4 11. O-O b5 12. Bb3 Bc5 13. Be3 Qd6 14. Rad1 Qe7 15. Bxc5 Qxc5 16. Nfh5 Nxh5 17. Nxh5 O-O 18. Qg4 g6 19. Rd3 a5 20. Rfd1 Ra7 21. Rd6 Kh8 22. Nf6 a4 23. Nxh7 axb3 24. Nxf8 bxc2 25. Nxg6+ fxg6 26. Rd8+ Kg7 27. Rg8+ Kxg8 28. Qxg6+ Rg7 29. Rd8+ Qf8 30. Rxf8+ Kxf8 31. Qxc2 Kg8 32. Qc5 { 1-0 White wins. } 1-0
+
+
+[Event "Ch students"]
+[Site "Marianske-Lasne"]
+[Date "1962.??.??"]
+[White "Spassky B V"]
+[Black "Ciric D"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Main Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky B V - Ciric D"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/OzkoJzUB"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. dxc5 Bxc5 8. Qxd5 Qb6 9. Bc4 Bxf2+ 10. Ke2 O-O 11. Rf1 Bc5 12. Ng5 Nxe5 13. Qxe5 d5 14. Qxd5 Re8+ 15. Kf3 Qf6+ 16. Kg3 Bd6+ 17. Rf4 Be6 18. Nxe6 Rxe6 19. Qxd6 Qg6+ 20. Rg4 Re3+ 21. Bxe3 Qxd6+ 22. Kf2 Re8 23. Rf4 Re7 24. Bb3 Qe5 25. Re1 g5 26. Rf3 Kg7 27. Rd1 f6 28. Kg1 g4 29. Bd4 { 1-0 White wins. } 1-0
+
+
+[Event "Student Olympiade"]
+[Date "1961.??.??"]
+[White "Spassky"]
+[Black "Zinn"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Zinn"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/6FW8CoZX"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. g3 dxc4 5. Bg2 b5 6. O-O Bb7 7. b3 cxb3 8. Qxb3 Nf6 9. Nc3 Be7 10. Ne5 a6 11. Be3 O-O 12. Ne4 Nd5 13. Rfc1 a5 14. Bd2 Qb6 15. Qb2 Rc8 16. Nc5 Ra7 17. e4 Nf6 18. Be3 Bxc5 19. dxc5 Qc7 20. Rd1 Ne8 21. Bh3 Qe7 22. Rd6 Ba6 23. Rad1 Rb7 24. Nxf7 Kxf7 25. Bxe6+ Qxe6 26. Rxe6 Kxe6 27. Qb3+ Ke7 28. Qg8 h6 29. Rd6 Nxd6 30. cxd6+ Kd7 31. Qxg7+ Kxd6 32. Qxh6+ Kd7 33. Qg7+ Kd6 34. Qf6+ Kc7 35. Qe5+ Kd7 36. Qf5+ Kc7 37. Bf4+ Kb6 38. Qxc8 Ka7 39. e5 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch29"]
+[Site "Baku"]
+[Date "1961.11.19"]
+[Round "3"]
+[White "Savon, Vladimir A"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "A08"]
+[Opening "King's Indian Attack: French Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Savon, Vladimir A - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/CNqRlpnJ"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 f6 6. e4 d4 7. Nh4 Be6 8. f4 Qd7 9. Nd2 O-O-O 10. a4 Bd6 11. Nc4 Bc7 12. Bd2 Nge7 13. f5 Bxc4 14. dxc4 Ba5 15. Rf2 Bxd2 16. Rxd2 Kb8 17. Qf3 Qc7 18. Bf1 Nc8 19. g4 Nd6 20. Rg2 Qf7 21. Qe2 g6 22. fxg6 hxg6 23. Nf3 g5 24. Rf2 Qe6 25. Ne1 Rh6 26. b3 Qe7 27. Nd3 Ne8 28. Bg2 Nc7 29. Re1 Ne6 30. Rf5 Rdh8 31. h3 Nb4 32. Ref1 Nxd3 33. Qxd3 Nf4 34. R1xf4 gxf4 35. Kf2 Qc7 36. Qd2 Rg8 37. Ke2 Rg5 38. Rxg5 fxg5 39. Kf3 Qb6 40. Bf1 Qb4 41. Qxb4 cxb4 42. Kg2 d3 43. Bxd3 Kc7 44. Bf1 Kd6 { 0-1 Black wins. } 0-1
+
+
+[Event "URS-ch29"]
+[Site "Baku"]
+[Date "1961.11.27"]
+[Round "8"]
+[White "Spassky, Boris V"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Polugaevsky, Lev"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/ct1r6lGo"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3 Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 Nxg3 12. fxg3 g4 13. Nh4 Qg5 14. O-O Qxe3+ 15. Kh1 Nd7 16. Rf4 Rg8 17. Raf1 O-O-O 18. R1f2 Qe1+ 19. Rf1 Qe3 20. Rxf7 Rdf8 21. Qe2 Qxe2 22. Bxe2 h5 23. Kg1 Be4 24. Rxf8+ Nxf8 25. Kf2 Ng6 26. Ke3 Bc6 27. Rf6 Nxh4 28. gxh4 g3 29. hxg3 Rxg3+ 30. Kf4 Rxg2 31. Bxh5 Rxa2 32. Rxe6 a5 33. Bg4 Kd8 34. h5 Rh2 35. h6 Bd7 36. Kg3 Rh1 37. Bf3 Rg1+ 38. Bg2 Rc1 39. h7 Rxc3+ 40. Kh2 Bxe6 41. h8=Q+ Ke7 42. d5 { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch31"]
+[Site "Leningrad"]
+[Date "1963.??.??"]
+[White "Spassky, Boris V"]
+[Black "Osnos, Viatcheslav"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Osnos, Viatcheslav"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/BEm2c62K"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qb6 5. Nbd2 Qxb2 6. Bd3 cxd4 7. exd4 Qc3 8. O-O d5 9. Re1 Be7 10. Re3 Qc7 11. Ne5 Nc6 12. c3 Nxe5 13. dxe5 Ng8 14. Nf3 h6 15. Bf4 Bd7 16. Nd4 Bg5 17. Bxg5 hxg5 18. Qg4 Qxc3 19. Nb3 Nh6 20. Qxg5 Qb4 21. Rg3 Qf8 22. Rc1 f6 23. Qe3 f5 24. Nc5 f4 25. Bg6+ Ke7 26. Qa3 { 1-0 White wins. } 1-0
+
+
+[Event "URS-chT"]
+[Site "Leningrad"]
+[Date "1962.??.??"]
+[White "Mikenas, Vladas"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E43"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Mikenas, Vladas - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/jAQixygg"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Qf3 d5 6. Bd3 Ba6 7. Bd2 c5 8. dxc5 Nbd7 9. Be2 Bxc4 10. cxb6 O-O 11. Bxc4 Ne5 12. Qe2 dxc4 13. Nf3 Nd3+ 14. Kf1 axb6 15. Be1 Bxc3 16. bxc3 Ne4 17. Nd4 e5 18. Nc2 Qf6 19. f3 Rfd8 20. Kg1 Nxe1 21. Nxe1 Nxc3 22. Qxc4 e4 { 0-1 Black wins. } 0-1
+
+
+[Event "Varna ol (Men)"]
+[Site "Varna"]
+[Date "1962.??.??"]
+[Round "4"]
+[White "Spassky, Boris V"]
+[Black "Darga, Klaus"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Darga, Klaus"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/QAMLU61o"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. a3 b5 8. Be2 Bb7 9. f4 Nf6 10. Bf3 d6 11. O-O Na5 12. Qe2 Nc4 13. e5 Nxe3 14. Qxe3 dxe5 15. fxe5 Nd7 16. Bxb7 Qxb7 17. Qf4 Nb6 18. Rad1 Na4 19. Nxa4 bxa4 20. Kh1 Bc5 21. Nxe6 fxe6 22. Qxa4+ Qb5 23. Qg4 Qc6 24. Qxg7 Rf8 25. Rxf8+ Bxf8 26. Qxh7 Rc8 27. Qg6+ { 1-0 White wins. } 1-0
+
+
+[Event "Varna ol (Men)"]
+[Site "Varna"]
+[Date "1962.??.??"]
+[Round "10"]
+[White "Spassky, Boris V"]
+[Black "Evans, Larry Melvyn"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E80"]
+[Opening "King's Indian Defense: Sämisch Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Evans, Larry Melvyn"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/MKqWEcUg"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8. O-O-O bxc4 9. Bxc4 O-O 10. h4 d5 11. Bb3 dxe4 12. h5 exf3 13. hxg6 hxg6 14. Bh6 fxg2 15. Rh4 Ng4 16. Bxg7 Kxg7 17. Qxg2 Nh6 18. Nf3 Nf5 19. Rh2 Qd6 20. Ne5 Nd7 21. Ne4 Qc7 22. Rdh1 Rg8 23. Rh7+ Kf8 24. Rxf7+ Ke8 25. Qxg6 Nxe5 26. Rf8+ { 1-0 White wins. } 1-0
+
+
+[Event "URS-ch30"]
+[Site "Yerevan"]
+[Date "1962.11.27"]
+[Round "5"]
+[White "Spassky, Boris V"]
+[Black "Mikenas, Vladas"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D29"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Alekhine System, Main Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Mikenas, Vladas"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/PWdGliMu"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. Nc3 b4 11. Na4 Qa5 12. Bd2 cxd4 13. Nxd4 Be7 14. a3 O-O 15. axb4 Qg5 16. f3 Qh5 17. e4 Bd6 18. g3 Rfd8 19. Bc3 Ne5 20. Kg2 Nxf3 21. Nxf3 Nxe4 22. Rd4 Ng5 23. Rf1 Nxf3 24. Rxf3 Be7 25. Re4 Rab8 26. Bc2 Bc6 27. Rc4 Bd5 28. Be4 Bxc4 29. Qxc4 Bf6 30. Rxf6 gxf6 31. Nc5 Qd1 32. Bd3 a5 33. Qe4 Qh5 34. Qf4 axb4 35. Ne4 Qd5 36. Bc4 bxc3 37. Bxd5 cxb2 38. Nxf6+ Kf8 39. Nd7+ Ke8 40. Ne5 Rxd5 41. Qxf7+ Kd8 42. Nc6+ Kc8 43. Qe8+ Kc7 44. Qxb8+ Kxc6 45. Qxb2 h5 { 1-0 White wins. } 1-0
+
+
+[Event "31st USSR Championship"]
+[Date "1963.??.??"]
+[White "Spassky"]
+[Black "Kholmov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C35"]
+[Opening "King's Gambit Accepted: Cunningham Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Kholmov"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/ZLLgWR6b"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Nc3 Nf6 5. e5 Ng4 6. d4 Ne3 7. Bxe3 fxe3 8. Bc4 d6 9. O-O O-O 10. Qd3 Nc6 11. exd6 cxd6 12. Rae1 Bg4 13. Rxe3 Kh8 14. Nd5 Bg5 15. Nxg5 Qxg5 16. Rg3 Qh5 17. Ne3 Bd7 18. Nf5 Bxf5 19. Rxf5 Qh4 20. c3 Qe7 21. Re3 Qd7 22. Ref3 Nd8 23. Qe4 g6 24. Qh4 Rg8 25. Rxf7 { 1-0 White wins. } 1-0
+
+
+[Event "Moscow zt"]
+[Site "Moscow"]
+[Date "1964.??.??"]
+[Round "10"]
+[White "Geller, Efim P"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C72"]
+[Opening "Ruy Lopez: Morphy Defense, Modern Steinitz Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Geller, Efim P - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/CiIcOLHi"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 Bh5 7. c3 Nf6 8. d4 b5 9. Bb3 Be7 10. Be3 O-O 11. Nbd2 d5 12. g4 Bg6 13. dxe5 Nxe4 14. Nb1 Qc8 15. Nd4 Nxe5 16. f4 c5 17. fxe5 cxd4 18. cxd4 Qd7 19. Nd2 f6 20. Rc1 Kh8 21. Bf4 fxe5 22. Bxe5 Bg5 23. Rc7 Qxc7 24. Bxc7 Be3+ 25. Kg2 Nxd2 26. Rxf8+ Rxf8 27. Bxd5 Rf2+ 28. Kg3 Nf1+ 29. Kh4 h6 30. Bd8 Rf8 { 0-1 Black wins. } 0-1
+
+
+[Event "Moscow zt"]
+[Site "Moscow"]
+[Date "1964.??.??"]
+[Round "13"]
+[White "Spassky, Boris V"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E18"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Kortschnoj, Viktor"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/KrXRZLSL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. cxd5 exd5 9. Ne5 Qc8 10. Bg5 Qe6 11. Rc1 c5 12. Nd3 cxd4 13. Bxf6 Bxf6 14. Nxd5 Bxd5 15. Nf4 Qd6 16. Nxd5 Bg5 17. f4 Bd8 18. Nc3 Na6 19. Bxa8 Qb8 20. Nd5 Qxa8 21. Qxd4 Nc5 22. b4 Ne6 23. Qd3 Re8 24. e4 { 1-0 White wins. } 1-0
+
+
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1964.??.??"]
+[Round "10"]
+[White "Spassky, Boris V"]
+[Black "Zuidema, Coenraad"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Modern Main Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Zuidema, Coenraad"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/3TTTzfg0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. d4 Bb6 6. O-O O-O 7. Bg5 h6 8. Bh4 d6 9. a4 a5 10. Re1 exd4 11. Bxc6 bxc6 12. Nxd4 Re8 13. Nd2 g5 14. Bg3 Bxd4 15. cxd4 Rb8 16. f3 Be6 17. b3 Rb4 18. Bf2 Qa8 19. Rc1 Reb8 20. Rc3 Qb7 21. Qc1 Bxb3 22. h4 Be6 23. hxg5 hxg5 24. Nc4 Nh7 25. Nxa5 Qb6 26. Nxc6 Rb1 27. d5 Rxc1 28. Rexc1 Qb2 29. Nxb8 Bxd5 30. exd5 Qxb8 31. a5 Qa8 32. Ra1 Nf6 33. a6 Nxd5 34. Rb3 { 1-0 White wins. } 1-0
+
+
+[Event "Candidats qf3"]
+[Site "Riga"]
+[Date "1965.??.??"]
+[Round "10"]
+[White "Keres, Paul"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E77"]
+[Opening "King's Indian Defense: Four Pawns Attack, Normal Attack"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Keres, Paul - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/kysEyNAr"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. Be2 exd5 9. cxd5 b5 10. e5 dxe5 11. fxe5 Ng4 12. Bf4 Nd7 13. e6 fxe6 14. dxe6 Rxf4 15. Qd5 Kh8 16. Qxa8 Nb6 17. Qxa7 Bxe6 18. O-O Ne3 19. Rf2 b4 20. Nb5 Rf7 21. Qa5 Qb8 22. Re1 Bd5 23. Bf1 Nxf1 24. Rfxf1 Nc4 25. Qa6 Rf6 26. Qa4 Nxb2 27. Qc2 Qxb5 28. Re7 Nd3 29. Qe2 c4 30. Re8+ Rf8 31. Rxf8+ Bxf8 32. Ng5 Bc5+ 33. Kh1 Qd7 34. Qd2 Qe7 35. Nf3 Qe3 { 0-1 Black wins. } 0-1
+
+
+[Event "Candidats sf2"]
+[Site "Riga"]
+[Date "1965.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Geller, Efim P"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C92"]
+[Opening "Ruy Lopez: Closed, Karpov Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Geller, Efim P"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/aWwOuRD4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d6 9. h3 Nd7 10. d4 Nb6 11. Nbd2 Bf6 12. Nf1 Re8 13. N1h2 exd4 14. cxd4 Na5 15. Bc2 c5 16. Ng4 Bxg4 17. hxg4 cxd4 18. g5 Be7 19. e5 Bf8 20. Bxh7+ Kxh7 21. g6+ Kg8 22. Ng5 fxg6 23. Qf3 Qxg5 24. Bxg5 dxe5 25. Rac1 Ra7 26. Qd3 Re6 27. f4 Nac4 28. fxe5 Nxe5 29. Qxd4 Rd7 30. Qe4 Be7 31. Be3 Nbc4 32. Rcd1 Rxd1 33. Rxd1 Nxb2 34. Qd5 Kf7 35. Rb1 Nbc4 36. Bf2 g5 37. Re1 Bf6 38. Kh1 Nb2 39. Re3 Nbc4 40. Re2 Nd6 41. Bd4 Ndc4 42. g4 Ke7 43. Bc5+ Kf7 44. Qb7+ { 1-0 White wins. } 1-0
+
+
+[Event "Candidats final"]
+[Site "Tbilisi"]
+[Date "1965.??.??"]
+[Round "11"]
+[White "Tal, Mihail"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Tal, Mihail - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/RFG369io"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3 d6 10. c3 Nb8 11. Nbd2 Nbd7 12. Nf1 Nc5 13. Bc2 Re8 14. Ng3 Bf8 15. b4 Ncd7 16. Bb3 a5 17. a3 axb4 18. cxb4 h6 19. Nf5 d5 20. N3h4 c5 21. Re3 c4 22. Rg3 Kh7 23. Bc2 d4 24. Qf3 Ra6 25. Nxh6 gxh6 26. Nf5 Qa8 27. Nxh6 Bxh6 28. Qf5+ Kh8 29. Bxh6 Rg8 30. Bg5 Qe8 31. f4 Nh7 32. Bh4 Rxg3 33. Bxg3 Rf6 34. Qg4 Rg6 35. Qh4 exf4 36. Qxf4 f6 37. Bf2 cxd3 38. Bxd3 Ne5 39. Bf1 Ng5 40. Kh1 Nxe4 41. Rc1 Nxf2+ { 0-1 Black wins. } 0-1
+
+
+[Event "World Championship 26th"]
+[Site "Moscow"]
+[Date "1966.06.06"]
+[Round "23"]
+[White "Spassky, Boris V"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Petrosian, Tigran V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/LurkZ8ap"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Bd7 8. Qd2 Bc6 9. Nxf6+ Qxf6 10. Ne5 O-O 11. O-O-O Nd7 12. Nxc6 bxc6 13. h4 Rab8 14. Rh3 c5 15. Qg5 cxd4 16. Qxf6 Nxf6 17. Rxd4 Rb7 18. Rb3 Rxb3 19. axb3 Ra8 20. Rc4 Ne8 21. Ra4 Nd6 22. g3 Kf8 23. Bg2 Rc8 24. Rxa7 Ke7 25. Kd2 h6 26. c4 g5 27. hxg5 hxg5 28. Kc3 Kd7 29. b4 Rh8 30. b5 Rh2 31. Bc6+ Kd8 { 1-0 White wins. } 1-0
+
+
+[Event "Sochi Chigorin mem 04th"]
+[Site "Sochi"]
+[Date "1966.??.??"]
+[Round "2"]
+[White "Spassky, Boris V"]
+[Black "Barcza, Gedeon"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Barcza, Gedeon"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/UVYVZNK6"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O O-O-O 13. Qe2 Bd6 14. Ne4 Be7 15. c4 Ngf6 16. Nc3 Rhe8 17. g3 Bf8 18. Kb1 Qa5 19. Ne5 Nxe5 20. dxe5 Nd7 21. Nb5 Qa6 22. Nd6+ Bxd6 23. exd6 Nb6 24. b3 Rxd6 25. Bc3 Qa3 26. Bxg7 Rxd1+ 27. Rxd1 Qc5 28. Qf3 Qf5+ 29. Qxf5 exf5 30. Rh1 Re6 31. Rh4 Kd7 32. Rf4 Nc8 33. Rxf5 Nd6 34. Rf4 Ke7 35. Kc2 Ne8 36. Bc3 b6 37. Kd3 Nd6 38. b4 f6 39. c5 bxc5 40. bxc5 Nb5 41. Bd2 Nc7 42. Ra4 Re5 43. Rxa7 { 1-0 White wins. } 1-0
+
+
+[Event "Piatigorsky-Cup 2nd"]
+[Site "Santa Monica"]
+[Date "1966.07.27"]
+[Round "7"]
+[White "Ivkov, Borislav"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E18"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Ivkov, Borislav - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/vxU5oKM4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4 Bxe4 9. Ne1 Bxg2 10. Nxg2 d6 11. e4 Nd7 12. Be3 Qc8 13. Nf4 c6 14. Rc1 Re8 15. Nd3 c5 16. f3 Qa6 17. a4 Bf6 18. Nf2 cxd4 19. Bxd4 Bxd4 20. Qxd4 Nc5 21. Qxd6 Qxa4 22. Qd1 Qb4 23. Qc2 Red8 24. Rfd1 h6 25. Rxd8+ Rxd8 26. Rd1 Rxd1+ 27. Nxd1 Qe1+ 28. Kg2 a5 29. h4 Kf8 30. h5 Ke7 31. Nf2 Qe3 32. Qd1 f6 33. Kf1 Nb3 34. Kg2 Nd2 35. Nh3 Nxc4 36. Nf4 Qxf4 { 0-1 Black wins. } 0-1
+
+
+[Event "Piatigorsky-Cup 2nd"]
+[Site "Santa Monica"]
+[Date "1966.07.28"]
+[Round "8"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D86"]
+[Opening "Grünfeld Defense: Exchange Variation, Classical Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Fischer, Robert James"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/aJ8R8hUe"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. Qe1 e6 13. f4 Na5 14. Bd3 f5 15. Rd1 b6 16. Qf2 cxd4 17. Bxd4 Bxd4 18. cxd4 Bb7 19. Ng3 Qf7 20. d5 fxe4 21. dxe6 Qxe6 22. f5 Qf7 23. Bxe4 Rxd1 24. Rxd1 Rf8 25. Bb1 Qf6 26. Qc2 Kh8 27. fxg6 hxg6 28. Qd2 Kg7 29. Rf1 Qe7 30. Qd4+ Rf6 31. Ne4 Bxe4 32. Bxe4 Qc5 33. Qxc5 Rxf1+ 34. Kxf1 bxc5 35. h4 Nc4 36. Ke2 Ne5 37. Ke3 Kf6 38. Kf4 Nf7 39. Ke3 g5 40. h5 Nh6 41. Kd3 Ke5 42. Ba8 Kd6 43. Kc4 g4 44. a4 Ng8 45. a5 Nh6 46. Be4 g3 47. Kb5 Ng8 48. Bb1 Nh6 49. Ka6 Kc6 50. Ba2 { 1-0 White wins. } 1-0
+
+
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Kuijpers, Franciscus Antonius"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Weiss Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Kuijpers, Franciscus Antonius - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/TssWha8f"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8. fxe5 Ng4 9. Ne2 f6 10. exf6 exf6 11. h3 Nh6 12. c3 Re8 13. Bf4 Nf5 14. Qd2 g5 15. Bxf5 Bxf5 16. Bg3 Bg6 17. O-O Ne7 18. Bf2 Qd7 19. Rfe1 c6 20. Ng3 Nd5 21. Rxe8+ Rxe8 22. Re1 b5 23. Rxe8+ Qxe8 24. Qe1 Qxe1+ 25. Bxe1 Kf7 26. Bd2 Ke6 27. Kf2 Bb1 28. a3 h6 29. Ne1 Bf8 30. Kf3 f5 31. Bc1 Nb6 32. Nh1 Nc4 33. Nf2 Na5 34. Nfd3 Nb3 35. Be3 a5 36. g3 Kd5 37. Ne5 Be4+ 38. Kf2 Bd6 39. Nf7 Bc7 40. Nf3 f4 { 0-1 Black wins. } 0-1
+
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[White "Spassky, Boris V"]
+[Black "Bilek, Istvan"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B61"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Bilek, Istvan"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/lYlryZT9"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 a6 8. O-O-O Rc8 9. f4 h6 10. Bxf6 gxf6 11. Be2 h5 12. Kb1 e6 13. Rhf1 b5 14. Nxc6 Rxc6 15. Bf3 Rc5 16. f5 Qa5 17. fxe6 fxe6 18. e5 Rxe5 19. Qf4 Rf5 20. Qg3 Rg5 21. Qh4 d5 22. Bxd5 exd5 23. Rxf6 Rhg8 24. Nxd5 Bg4 25. Rxf8+ { 1-0 White wins. } 1-0
+
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[White "Spassky, Boris V"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense: Anti-Moscow Gambit"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Pachman, Ludek"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/fwXxDzT1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5 9. Qc2 g4 10. Ne5 Qxd4 11. Rd1 Qb6 12. Be2 Nbd7 13. O-O Be7 14. Nxg4 Nxg4 15. Bxg4 Bb7 16. e5 Nc5 17. Bh5 Rd8 18. Qe2 Nd3 19. Qf3 O-O 20. Ne4 Qd4 21. Rfe1 Kh8 22. Nd6 Nxe1 23. Rxe1 Rxd6 24. exd6 Bf6 25. h4 Qxb2 26. Bxf7 Rxf7 27. Be5 Qc2 28. d7 Kg8 29. Qxf6 Rxd7 30. Re3 { 1-0 White wins. } 1-0
+
+
+[Event "HUN-RSFSR"]
+[Site "Budapest"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted: Fischer Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Portisch, Lajos"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/wrYHNTCA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. g3 Nc6 7. gxf4 g4 8. Ng1 Qh4+ 9. Kf1 Nf6 10. Nc3 g3 11. Kg2 gxh2 12. Rxh2 Rg8+ 13. Kh1 Qxh2+ 14. Kxh2 Ng4+ 15. Qxg4 Bxg4 16. Nd5 O-O-O 17. c3 Be7 18. Ne3 Rdf8 19. Bd2 Nd8 20. Nxg4 Rxg4 21. Bf1 Kb8 22. Bh3 Rg7 23. d5 Bh4 24. Rf1 Re8 25. Bf5 Reg8 26. Bh3 f5 27. exf5 Re8 28. Rf3 c6 29. dxc6 Nxc6 30. Be3 Kc7 31. Bf2 Bf6 32. Rd3 h5 33. Rd2 Re4 34. Ne2 h4 35. Bg2 Re8 36. Bd5 a6 37. Kh3 Ne7 38. Be6 Ng8 39. c4 Be7 40. Nc3 Nf6 41. Rd3 Rf8 42. Bd4 Kb8 43. b4 Bd8 44. a4 b6 45. Ne4 Nxe4 46. Bxg7 Nf2+ 47. Kg2 Nxd3 48. Bxf8 Kc7 49. Bh6 Nxb4 50. Bg5 Nd3 51. Kh3 Nc5 52. Kxh4 Nxa4 53. f6 Nc5 54. Bf5 Nd7 55. f7 Nf8 56. Kh5 { 1-0 White wins. } 1-0
+
+
+[Event "USSR"]
+[Site "USSR"]
+[Date "1967.??.??"]
+[White "Spassky B V"]
+[Black "Petrosian, T."]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky B V - Petrosian, T."]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/smw94hIk"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 c5 8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. Bxf6 gxf6 11. c3 cxd4 12. Nxd4 Bc5 13. Qf3 O-O-O 14. O-O-O Qe7 15. Nb3 Bb6 16. g4 Rxd1+ 17. Rxd1 h5 18. h3 hxg4 19. hxg4 Rh2 20. Nd4 a6 21. Rd2 Rh8 22. b4 Kb8 23. Nb3 Rc8 24. Kb2 Rc4 25. a4 e5 26. a5 Ba7 27. Qd3 Rf4 28. f3 e4 29. fxe4 Rxe4 30. Rh2 Be3 31. Qd5 Re5 32. Rh8+ Ka7 33. Qd3 Re4 34. Rg8 Bg5 35. Nd4 Be3 36. b5 Bxd4 37. Qxd4+ { 1-0 White wins. } 1-0
+
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[White "Stein, L."]
+[Black "Spassky B V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Stein, L. - Spassky B V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/6Q2fbATG"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O Ne7 8. c4 a6 9. cxd5 axb5 10. dxc6 c4 11. cxb7 Bxb7 12. Re1 O-O 13. Ne4 Re8 14. Bg5 f6 15. Bd2 Nf5 16. Qc2 Bf8 17. Re2 Nxd4 18. Nxd4 Qxd4 19. Rae1 f5 20. Nf6+ Qxf6 21. Rxe8 Qg6 22. Rxf8+ Rxf8 23. f3 Bxf3 24. Bc3 Be4 25. Qf2 f4 26. Rd1 Bc6 27. h3 h6 28. Kh2 Rf5 29. Rd8+ Kh7 30. Qc2 Qg3+ 31. Kg1 Qe3+ 32. Qf2 Rg5 33. Qxe3 Rxg2+ 34. Kf1 fxe3 35. Rd6 Be4 36. Rd4 Bf3 37. Rf4 e2+ { 0-1 Black wins. } 0-1
+
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1967.??.??"]
+[White "Spassky B V"]
+[Black "Suetin, A."]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky B V - Suetin, A."]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/WiHrkAD2"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Nb3 Nf6 8. f4 Bb4 9. Bd3 O-O 10. O-O Bxc3 11. bxc3 d6 12. Rf3 e5 13. f5 d5 14. Rg3 Kh8 15. exd5 Ne7 16. Bc5 Nfxd5 17. Qg4 Rg8 18. Rh3 Nf6 19. Qg5 Ned5 20. Rf1 b6 21. Be4 Bb7 22. Bxd5 Bxd5 23. Be7 Qc6 24. Rh6 Ne4 25. Rxc6 Nxg5 26. Rd6 Bxb3 27. axb3 Ne4 28. Rxb6 Nxc3 29. f6 Rge8 30. fxg7+ Kxg7 31. Rb7 Ne2+ 32. Kh1 Nf4 33. g3 Ng6 34. Bd6 Nh8 35. c4 Kg6 36. g4 Re6 37. c5 Kg5 38. h3 e4 39. Kg2 e3 40. Bf4+ Kg6 41. Rb6 e2 42. Re1 Rc8 43. b4 a5 44. Rxe2 axb4 45. Rexe6+ fxe6 46. Be5 h5 47. Rxe6+ Kf7 48. Rb6 hxg4 49. hxg4 Ke7 50. Bxh8 Rxh8 51. Rxb4 Ke6 52. Rc4 Kd5 53. Rc1 Rg8 54. Kg3 Kc6 55. Kf4 Rf8+ 56. Kg5 Rg8+ 57. Kf5 Rf8+ 58. Ke6 Rg8 59. Rg1 { 1-0 White wins. } 1-0
+
+
+[Event "4th Spartakiad"]
+[Date "1967.??.??"]
+[White "Spassky"]
+[Black "Artunian"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C93"]
+[Opening "Ruy Lopez: Closed, Smyslov Defense"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky - Artunian"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/HeydB5EE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Nf1 Bd7 13. Ng3 a5 14. Bd2 a4 15. Bc2 Na5 16. b3 axb3 17. axb3 c6 18. Be3 Qc7 19. Nd2 c5 20. d5 b4 21. cxb4 cxb4 22. Bd3 Rec8 23. Qe2 Qb7 24. Ra2 Be7 25. Rea1 Bd8 26. Nh5 Nh7 27. Qf3 Nf8 28. Rxa5 Bxa5 29. Rxa5 Rxa5 30. Bxh6 Nh7 31. Nxg7 f5 32. exf5 Kh8 33. Nh5 Rg8 34. f6 { 1-0 White wins. } 1-0
+
+
+[Event "Candidats qf4"]
+[Site "Sukhumi"]
+[Date "1968.??.??"]
+[Round "6"]
+[White "Spassky, Boris V"]
+[Black "Geller, Efim P"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Geller, Efim P"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/3aP5aqqJ"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. f4 Nf6 7. Nf3 O-O 8. O-O Rb8 9. h3 b5 10. a3 a5 11. Be3 b4 12. axb4 axb4 13. Ne2 Bb7 14. b3 Ra8 15. Rc1 Ra2 16. g4 Qa8 17. Qe1 Qa6 18. Qf2 Na7 19. f5 Nb5 20. fxg6 hxg6 21. Ng5 Na3 22. Qh4 Rc8 23. Rxf6 exf6 24. Qh7+ Kf8 25. Nxf7 Rxc2 26. Bh6 Rxc1+ 27. Nxc1 Kxf7 28. Qxg7+ Ke8 29. g5 f5 30. Qxg6+ Kd7 31. Qf7+ Kc6 32. exf5+ { 1-0 White wins. } 1-0
+
+
+[Event "Candidats sf2"]
+[Site "Malmo"]
+[Date "1968.??.??"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Larsen, Bent"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Larsen, Bent"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/52s7kkLB"]
+
+1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 Nc6 6. f4 e6 7. Nf3 Nge7 8. O-O O-O 9. Bd2 Rb8 10. Rb1 b5 11. a3 a5 12. a4 b4 13. Nb5 d5 14. c4 bxc3 15. bxc3 c4 16. Be3 cxd3 17. e5 Ba6 18. Qxd3 Qd7 19. Rfd1 Rfc8 20. Qd2 Nf5 21. Bf2 h5 22. Bf1 Rd8 23. Bd3 Qe7 24. Qe2 Rb7 25. h3 h4 26. Nxh4 Nxh4 27. gxh4 Bh6 28. Bg3 Qc5+ 29. Kh2 Ne7 30. h5 Nf5 31. hxg6 fxg6 32. Bxf5 exf5 33. c4 d4 34. Nd6 Rxb1 35. Rxb1 d3 36. Qxd3 Bxf4 37. Qd5+ Qxd5 38. cxd5 Be3 39. Bh4 Bf4+ 40. Kg2 Bd3 41. Rb6 g5 42. Bg3 Bxg3 43. Kxg3 Bc2 44. Rb2 f4+ 45. Kg4 Bxa4 46. Kxg5 f3 47. Ne4 Kf8 48. Nf6 Bd1 49. Rb7 f2 50. e6 Rxd5+ 51. Kh6 Rh5+ 52. Kg6 { 1-0 White wins. } 1-0
+
+
+[Event "Candidats final"]
+[Site "Kiev"]
+[Date "1968.??.??"]
+[Round "7"]
+[White "Spassky, Boris V"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E83"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Formation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Kortschnoj, Viktor"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/Pm7ED1Us"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Nc1 e5 9. d5 Nd4 10. Nb3 Nxb3 11. Qxb3 c5 12. dxc6 bxc6 13. O-O-O Be6 14. Qa3 Ne8 15. h4 f6 16. c5 Rf7 17. Qa4 Qc7 18. Bc4 Bxc4 19. Qxc4 Bf8 20. h5 dxc5 21. hxg6 hxg6 22. Qe6 Rd8 23. Rxd8 Qxd8 24. Rd1 Qe7 25. Qxc6 Nc7 26. Qb6 Kg7 27. Nd5 Qe6 28. Bxc5 Bxc5 29. Qxc5 Nb5 30. Qe3 Qc6+ 31. Kb1 Nd4 32. Rc1 Qb5 33. Nc7 Qe2 34. Ne6+ Kh7 35. Qh6+ { 1-0 White wins. } 1-0
+
+
+[Event "Lugano ol (Men)"]
+[Site "Lugano"]
+[Date "1968.??.??"]
+[White "Spassky, Boris V"]
+[Black "Porat, Yosef"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Porat, Yosef"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/jmX2Xx8n"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 Be7 7. Nxf6+ Bxf6 8. Bxf6 Qxf6 9. Bc4 c5 10. Qe2 O-O 11. O-O-O a6 12. Qe3 cxd4 13. Rxd4 b5 14. Bd3 g6 15. Rd1 Nc5 16. Ne5 Qe7 17. Be2 f6 18. Nc6 Qc7 19. Rd8 Nb7 20. Rxf8+ Kxf8 21. Bf3 Kg7 22. Qa3 Kf7 23. g3 e5 24. Nd8+ Kg8 25. Bd5+ { 1-0 White wins. } 1-0
+
+
+[Event "Palma de Mallorca"]
+[Site "Palma de Mallorca"]
+[Date "1968.??.??"]
+[Round "3"]
+[White "Spassky, Boris V"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Ivkov, Borislav"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/8dPGWm94"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 dxc4 8. Bxc4 O-O 9. O-O Nc6 10. a3 a6 11. Bg5 b5 12. Ba2 Bb7 13. Rc1 Rc8 14. Qd3 Re8 15. Rfd1 Nd5 16. Ne4 h6 17. Bd2 Qb6 18. Bb1 f5 19. Ng3 Bf6 20. Ne2 Rcd8 21. Ba2 Kh8 22. b4 Nce7 23. Ng3 Nc7 24. Nh5 Be4 25. Qe2 Bxf3 26. Qxf3 Bxd4 27. Bc3 e5 28. Qg3 Bxf2+ 29. Qxf2 Qxf2+ 30. Kxf2 Ned5 31. Bxe5 Rxe5 32. Rxc7 { 1-0 White wins. } 1-0
+
+
+[Event "World Championship 27th"]
+[Site "Moscow"]
+[Date "1969.04.21"]
+[Round "4"]
+[White "Petrosian, Tigran V"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "D34"]
+[Opening "Tarrasch Defense: Classical Variation, Spassky Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Petrosian, Tigran V - Spassky, Boris V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/6wUS0OlF"]
+
+1. c4 e6 2. d4 d5 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Bg4 12. Nb3 Be6 13. Rc1 Re8 14. Re1 Qd7 15. Bc5 Rac8 16. Bxe7 Qxe7 17. e3 Red8 18. Qe2 Bg4 19. f3 Bf5 20. Rcd1 Ne5 21. Nd4 Bg6 22. Bh3 Rc4 23. g4 Rb4 24. b3 Nc6 25. Qd2 Rb6 26. Nce2 Bh7 27. Bg2 Re8 28. Ng3 Nxd4 29. exd4 Re6 30. Rxe6 Qxe6 31. Rc1 Bg6 32. Bf1 Nh7 33. Qf4 Nf8 34. Rc5 Bb1 35. a4 Ng6 36. Qd2 Qf6 37. Kf2 Nf4 38. a5 Bd3 39. Nf5 Qg5 40. Ne3 Qh4+ 41. Kg1 Bxf1 { 0-1 Black wins. } 0-1
+
+
+[Event "World Championship 27th"]
+[Site "Moscow"]
+[Date "1969.04.23"]
+[Round "5"]
+[White "Spassky, Boris V"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Petrosian, Tigran V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/DDGb7Uzi"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nc6 12. O-O b6 13. Rad1 Bb7 14. Rfe1 Rc8 15. d5 exd5 16. Bxd5 Na5 17. Qf4 Qc7 18. Qf5 Bxd5 19. exd5 Qc2 20. Qf4 Qxa2 21. d6 Rcd8 22. d7 Qc4 23. Qf5 h6 24. Rc1 Qa6 25. Rc7 b5 26. Nd4 Qb6 27. Rc8 Nb7 28. Nc6 Nd6 29. Nxd8 Nxf5 30. Nc6 { 1-0 White wins. } 1-0
+
+
+[Event "World Championship 27th"]
+[Site "Moscow"]
+[Date "1969.06.04"]
+[Round "19"]
+[White "Spassky, Boris V"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Petrosian, Tigran V"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/IyhTUXUk"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 h6 9. Bxf6 Nxf6 10. O-O-O e6 11. Rhe1 Be7 12. f4 O-O 13. Bb3 Re8 14. Kb1 Bf8 15. g4 Nxg4 16. Qg2 Nf6 17. Rg1 Bd7 18. f5 Kh8 19. Rdf1 Qd8 20. fxe6 fxe6 21. e5 dxe5 22. Ne4 Nh5 23. Qg6 exd4 24. Ng5 { 1-0 White wins. } 1-0
+
+
+[Event "San Juan"]
+[Site "San Juan"]
+[Date "1969.??.??"]
+[Round "11"]
+[White "Spassky, Boris V"]
+[Black "Kavalek, Lubomir"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "E80"]
+[Opening "King's Indian Defense: Sämisch Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - Kavalek, Lubomir"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/rWAh8ChS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Bd3 b5 8. e5 dxe5 9. dxe5 Ng8 10. f4 Nh6 11. Nf3 Bf5 12. Be2 Qxd1+ 13. Rxd1 f6 14. Nd4 fxe5 15. fxe5 O-O 16. O-O Nf7 17. Nxf5 gxf5 18. e6 Ne5 19. g4 f4 20. Rxf4 Re8 21. Rfd4 c5 22. Rd8 Nbc6 23. Rxe8+ Rxe8 24. cxb5 Nd4 25. bxa6 Ra8 26. Bxd4 cxd4 27. Nd5 { 1-0 White wins. } 1-0
+
+
+[Event "San Juan"]
+[Site "San Juan"]
+[Date "1969.??.??"]
+[Round "2"]
+[White "Spassky, Boris V"]
+[Black "O'Kelly de Galway, Alberic"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+[StudyName "Soltis - The Best Games of Boris Spassky 1/2"]
+[ChapterName "Spassky, Boris V - O'Kelly de Galway, Alberic"]
+[Annotator "https://lichess.org/@/MagoGG"]
+[ChapterURL "https://lichess.org/study/nwGwOrIb/i477jFME"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Bxe4 7. Bxe4 c6 8. O-O Nf6 9. Bd3 Nbd7 10. c4 Bd6 11. b3 O-O 12. Bb2 Qc7 13. Qc2 Rfe8 14. Rfe1 Bf8 15. Rad1 g6 16. Bf1 Bg7 17. g3 Rad8 18. Bg2 Nh5 19. Re2 Rc8 20. h4 Rcd8 21. Rde1 Nhf6 22. Qc1 h5 23. Bh3 Nf8 24. Qa1 Ng4 25. Bc3 Nh6 26. Qb2 Nf5 27. Bxf5 gxf5 28. d5 Bxc3 29. Qxc3 cxd5 30. Nd4 Qd7 31. c5 Nh7 32. b4 a6 33. a4 Rc8 34. b5 axb5 35. axb5 Rf8 36. c6 bxc6 37. bxc6 Qd8 38. Rc1 Nf6 39. c7 Qd7 40. Qe3 Ne4 41. f3 e5 42. fxe4 f4 43. gxf4 exd4 44. Rg2+ { 1-0 White wins. } 1-0
+
+
