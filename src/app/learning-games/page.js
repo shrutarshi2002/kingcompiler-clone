@@ -11,7 +11,7 @@ export default function LearningGamesPage() {
 
   const games = [
     {
-      id: 1,
+      id: "chess",
       title: "Practice Chess",
       description:
         "Sharpen your chess skills with interactive puzzles and practice games.",
@@ -20,7 +20,7 @@ export default function LearningGamesPage() {
       rating: 4.9,
     },
     {
-      id: 2,
+      id: "coding",
       title: "Practice Coding",
       description:
         "Solve coding challenges and improve your programming logic in a fun way.",
@@ -30,7 +30,7 @@ export default function LearningGamesPage() {
       link: "/learning-games/practice-coding",
     },
     {
-      id: 3,
+      id: "webdev",
       title: "Practice Web Dev",
       description:
         "Build and debug websites with hands-on web development mini-games.",
@@ -39,7 +39,7 @@ export default function LearningGamesPage() {
       rating: 4.8,
     },
     {
-      id: 4,
+      id: "ai",
       title: "Practice A.I",
       description:
         "Explore artificial intelligence concepts through interactive games and quizzes.",

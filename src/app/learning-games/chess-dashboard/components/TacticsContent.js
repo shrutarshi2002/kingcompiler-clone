@@ -1,6 +1,7 @@
 "use client";
 import { useState, useEffect, useCallback } from "react";
 import { Chess } from "chess.js";
+import ChessboardDisplay from "./ChessboardDisplay";
 
 const tacticalTopics = [
   "Fork",
@@ -434,92 +435,38 @@ function TacticsContent() {
             </span>
           </div>
           <div className="flex">
-            <div className="flex flex-col justify-between mr-1 select-none">
-              {(flipBoard
-                ? [...Array(8).keys()].reverse()
-                : [...Array(8).keys()]
-              ).map((i) => (
-                <div
-                  key={i}
-                  className="h-20 flex items-center justify-center text-lg font-bold text-gray-700"
-                  style={{ height: "5rem", width: "2rem" }}
-                >
-                  {8 - i}
-                </div>
-              ))}
-            </div>
-            <div
-              className="grid grid-cols-8 border-2 border-gray-800"
-              style={{ width: "40rem" }}
-            >
-              {(flipBoard ? [...board].reverse() : board).map((row, rowIdx) =>
-                (flipBoard ? [...row].reverse() : row).map((piece, colIdx) => {
-                  const displayRowIdx = flipBoard ? 7 - rowIdx : rowIdx;
-                  const displayColIdx = flipBoard ? 7 - colIdx : colIdx;
-                  const isLight = (displayRowIdx + displayColIdx) % 2 === 0;
-                  const isSelected =
-                    selectedSquare &&
-                    selectedSquare.row === displayRowIdx &&
-                    selectedSquare.col === displayColIdx;
-                  return (
-                    <div
-                      key={`${rowIdx}-${colIdx}`}
-                      className={`w-20 h-20 flex items-center justify-center cursor-pointer transition-all duration-200 ${
-                        isLight ? "bg-yellow-100" : ""
-                      } ${
-                        isSelected ? "ring-4 ring-blue-500 bg-blue-200" : ""
-                      }`}
-                      style={{
-                        width: "5rem",
-                        height: "5rem",
-                        backgroundColor: isLight ? undefined : "#B58863",
-                      }}
-                      onClick={() =>
-                        handleSquareClick(displayRowIdx, displayColIdx)
-                      }
-                    >
-                      {piece && (
-                        <span className="text-4xl font-bold">
-                          <img
-                            src={getPieceImage(piece)}
-                            alt={piece}
-                            className="w-16 h-16 object-contain"
-                            onError={(e) => {
-                              e.target.onerror = null;
-                              e.target.style.display = "none";
-                              e.target.parentNode.textContent =
-                                pieceImages[piece];
-                            }}
-                          />
-                        </span>
-                      )}
-                    </div>
-                  );
-                })
-              )}
-            </div>
-          </div>
-          <div className="flex mt-1 ml-[2.5rem] select-none">
-            {(flipBoard ? [..."abcdefgh"].reverse() : [..."abcdefgh"]).map(
-              (file, i) => (
-                <div
-                  key={file}
-                  className="w-20 flex items-center justify-center text-lg font-bold text-gray-700"
-                  style={{ width: "5rem", height: "2rem" }}
-                >
-                  {file}
-                </div>
-              )
-            )}
+            <ChessboardDisplay
+              board={board}
+              fen={puzzles[currentPuzzleIdx]?.fen}
+              onMove={(from, to) => {
+                // Convert algebraic to row/col for handleSquareClick
+                const files = "abcdefgh";
+                const fromCol = files.indexOf(from[0]);
+                const fromRow = 8 - parseInt(from[1]);
+                const toCol = files.indexOf(to[0]);
+                const toRow = 8 - parseInt(to[1]);
+                handleSquareClick(fromRow, fromCol);
+                handleSquareClick(toRow, toCol);
+              }}
+              userColor={userColor}
+              allowMove={true}
+              highlightSquares={[]}
+              currentTurn={turn}
+              freeMove={false}
+              selectablePieceType={null}
+              legalMovesForSelected={null}
+              starSquares={[]}
+              starActive={true}
+            />
           </div>
         </div>
         {/* Filters on right */}
-        <div className="w-full md:w-72 flex flex-col gap-4">
+        <div className="w-full max-w-xs md:w-72 flex flex-col gap-2 md:gap-4 text-sm md:text-base">
           {/* Topic Dropdown */}
-          <div className="flex flex-col items-start">
+          <div className="flex flex-col items-start w-full">
             <label
               htmlFor="tactic-topic"
-              className="mb-1 font-semibold text-gray-700"
+              className="mb-1 font-semibold text-gray-700 text-xs md:text-base"
             >
               Tactic Topic
             </label>
@@ -527,7 +474,7 @@ function TacticsContent() {
               id="tactic-topic"
               value={selectedTopic}
               onChange={(e) => setSelectedTopic(e.target.value)}
-              className="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm"
+              className="w-full p-1 md:p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm text-xs md:text-base"
             >
               {tacticalTopics.map((topic) => (
                 <option key={topic} value={topic}>
@@ -537,10 +484,10 @@ function TacticsContent() {
             </select>
           </div>
           {/* Level Dropdown */}
-          <div className="flex flex-col items-start">
+          <div className="flex flex-col items-start w-full">
             <label
               htmlFor="tactic-level"
-              className="mb-1 font-semibold text-gray-700"
+              className="mb-1 font-semibold text-gray-700 text-xs md:text-base"
             >
               Difficulty Level
             </label>
@@ -548,7 +495,7 @@ function TacticsContent() {
               id="tactic-level"
               value={selectedLevel}
               onChange={(e) => setSelectedLevel(e.target.value)}
-              className="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm"
+              className="w-full p-1 md:p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm text-xs md:text-base"
             >
               {levels.map((level) => (
                 <option key={level.value} value={level.value}>
@@ -560,14 +507,14 @@ function TacticsContent() {
           {/* Position (FEN) in right panel, below filters, above Flip Board */}
           {puzzles.length > 0 && (
             <div className="w-full">
-              <label className="block text-sm font-semibold text-gray-700 mb-1">
+              <label className="block font-semibold text-gray-700 mb-1 text-xs md:text-base">
                 Position (FEN)
               </label>
               <input
                 type="text"
                 value={puzzles[currentPuzzleIdx]?.fen || ""}
                 readOnly
-                className="w-full px-2 py-1 border border-gray-300 rounded bg-gray-50 text-xs font-mono cursor-pointer select-all"
+                className="w-full px-1 md:px-2 py-1 border border-gray-300 rounded bg-gray-50 text-xs font-mono cursor-pointer select-all"
                 onFocus={(e) => e.target.select()}
                 title="Current FEN position"
               />
@@ -576,33 +523,33 @@ function TacticsContent() {
           {/* Flip Board Button */}
           <button
             onClick={() => setFlipBoard((f) => !f)}
-            className="w-full mt-2 px-4 py-2 rounded-lg font-semibold border border-gray-300 bg-gray-100 hover:bg-yellow-100 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400"
+            className="w-full mt-2 px-2 md:px-4 py-1 md:py-2 rounded-lg font-semibold border border-gray-300 bg-gray-100 hover:bg-yellow-100 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 text-xs md:text-base"
           >
             Flip Board
           </button>
           {/* Puzzle Position Numbers */}
           {puzzles.length > 0 && (
             <div className="w-full mt-2">
-              <label className="block text-sm font-semibold text-gray-700 mb-1">
+              <label className="block font-semibold text-gray-700 mb-1 text-xs md:text-base">
                 Puzzle
               </label>
-              <div className="flex flex-wrap gap-2 mb-2">
+              <div className="flex flex-wrap gap-1 md:gap-2 mb-2">
                 {puzzles.map((_, idx) => (
                   <button
                     key={idx}
                     onClick={() => setCurrentPuzzleIdx(idx)}
-                    className={`w-8 h-8 rounded-full font-bold border-2 flex items-center justify-center transition-colors duration-150 ${
+                    className={`w-6 h-6 md:w-8 md:h-8 rounded-full font-bold border-2 flex items-center justify-center transition-colors duration-150 text-xs md:text-base ${
                       idx === currentPuzzleIdx
                         ? "bg-yellow-500 border-yellow-700 text-black scale-110"
                         : "bg-white border-gray-300 text-gray-700 hover:bg-yellow-100"
                     }`}
-                    style={{ minWidth: "2rem", minHeight: "2rem" }}
+                    style={{ minWidth: "1.5rem", minHeight: "1.5rem" }}
                   >
                     {idx + 1}
                   </button>
                 ))}
               </div>
-              <div className="text-sm text-gray-600 font-semibold">
+              <div className="text-xs md:text-sm text-gray-600 font-semibold">
                 {selectedTopic} - {currentPuzzleIdx + 1}
               </div>
             </div>

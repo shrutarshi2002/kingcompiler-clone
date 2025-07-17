@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import styles from "./ChessboardDisplay.module.css";
 
 function ChessboardDisplay({
   fen,
@@ -115,6 +116,7 @@ function ChessboardDisplay({
       : [...Array(8)].map((_, i) => i + 1);
   const files = userColor === "w" ? [..."abcdefgh"] : [..."hgfedcba"];
 
+  // Remove JS-based isMobile, use Tailwind responsive classes instead
   return (
     <div className="flex flex-col items-center">
       <div className="flex">
@@ -122,16 +124,14 @@ function ChessboardDisplay({
           {ranks.map((rank) => (
             <div
               key={rank}
-              className="h-20 flex items-center justify-center text-lg font-bold text-gray-700"
-              style={{ height: "5rem", width: "2rem" }}
+              className="flex items-center justify-center text-lg font-bold text-gray-700 h-10 w-5 md:h-20 md:w-8"
             >
               {rank}
             </div>
           ))}
         </div>
         <div
-          className="grid grid-cols-8 border-2 border-gray-800"
-          style={{ width: "40rem" }}
+          className={`grid grid-cols-8 border-2 border-gray-800 ${styles.chessboard}`}
         >
           {orientedBoard.map((row, rowIdx) =>
             row.map((piece, colIdx) => {
@@ -160,25 +160,25 @@ function ChessboardDisplay({
               return (
                 <div
                   key={`${rowIdx}-${colIdx}`}
-                  className={`w-20 h-20 flex items-center justify-center cursor-pointer transition-all duration-200 ${
-                    isLight ? "bg-yellow-100" : ""
-                  } ${isSelected ? "ring-4 ring-blue-500 bg-blue-200" : ""} ${
-                    isHighlighted ? "ring-4 ring-green-500" : ""
-                  } ${isLegalDest ? "ring-4 ring-yellow-400" : ""}`}
+                  className={`flex items-center justify-center cursor-pointer transition-all duration-200 ${
+                    styles.square
+                  } ${isLight ? "bg-yellow-100" : ""} ${
+                    isSelected ? "ring-4 ring-blue-500 bg-blue-200" : ""
+                  } ${isHighlighted ? "ring-4 ring-green-500" : ""} ${
+                    isLegalDest ? "ring-4 ring-yellow-400" : ""
+                  }`}
                   style={{
-                    width: "5rem",
-                    height: "5rem",
                     backgroundColor: isLight ? undefined : "#B58863",
                     position: "relative",
                   }}
                   onClick={() => handleSquareClick(actualRow, actualCol)}
                 >
                   {piece && (
-                    <span className="text-4xl font-bold">
+                    <span className="font-bold" style={{ fontSize: undefined }}>
                       <img
                         src={getPieceImage(piece)}
                         alt={piece}
-                        className="w-16 h-16 object-contain"
+                        className={`object-contain ${styles.piece}`}
                         onError={(e) => {
                           e.target.onerror = null;
                           e.target.style.display = "none";
@@ -190,7 +190,7 @@ function ChessboardDisplay({
                   {/* Star overlay */}
                   {isStar && (
                     <span
-                      className={`absolute text-5xl pointer-events-none select-none flex items-center justify-center w-full h-full star-fade`}
+                      className={`absolute text-2xl md:text-5xl pointer-events-none select-none flex items-center justify-center w-full h-full star-fade`}
                       style={{
                         top: 0,
                         left: 0,
@@ -215,12 +215,11 @@ function ChessboardDisplay({
           )}
         </div>
       </div>
-      <div className="flex mt-1 ml-[2.5rem] select-none">
+      <div className="flex mt-1 ml-2 md:ml-[2.5rem] select-none">
         {files.map((file) => (
           <div
             key={file}
-            className="w-20 flex items-center justify-center text-lg font-bold text-gray-700"
-            style={{ width: "5rem", height: "2rem" }}
+            className={`flex items-center justify-center text-lg font-bold text-gray-700 ${styles.filelabel}`}
           >
             {file}
           </div>

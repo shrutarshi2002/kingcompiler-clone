@@ -113,9 +113,13 @@ export default function FunCoding() {
       return;
     }
     try {
-      // Redirect sys.stdout to capture print() output
+      // Register a JS input function for Python's input()
+      pyodideRef.current.registerJsModule("jsinput", {
+        input: (promptText) =>
+          window.prompt(promptText || "Enter input:") || "",
+      });
       await pyodideRef.current.runPythonAsync(
-        `import sys\nfrom io import StringIO\nsys.stdout = mystdout = StringIO()`
+        `import sys\nfrom io import StringIO\nsys.stdout = mystdout = StringIO()\nimport builtins\nfrom jsinput import input as js_input\nbuiltins.input = js_input`
       );
       let result = await pyodideRef.current.runPythonAsync(code);
       const printed = await pyodideRef.current.runPythonAsync(
