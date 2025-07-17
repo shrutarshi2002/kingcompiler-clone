@@ -564,25 +564,10 @@ function IntuitionTrainer() {
 
   return (
     <div className="w-full max-w-xl mx-auto">
-      <div className="flex flex-row items-start justify-center gap-8 mt-2">
-        <div className="flex flex-col items-center">
-          <button
-            onClick={() => setFlipBoard((f) => !f)}
-            className="mb-2 px-3 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xl"
-            title="Flip board"
-          >
-            ♾️
-          </button>
-          <div className="mb-4 w-full text-left">
-            <span
-              className={`text-2xl font-extrabold tracking-wide ${
-                turn === "w" ? "text-yellow-700" : "text-black"
-              }`}
-              style={{ letterSpacing: "2px" }}
-            >
-              {turn === "w" ? "WHITE TO MOVE" : "BLACK TO MOVE"}
-            </span>
-          </div>
+      <div className="flex flex-col md:flex-row md:justify-center gap-8 mb-6">
+        {/* Main content left, filters right */}
+        <div className="flex-1 flex flex-col items-center">
+          {/* ...chessboard and board UI... */}
           <div className="flex">
             <div className="flex flex-col justify-between mr-1 select-none">
               {(flipBoard
@@ -663,6 +648,7 @@ function IntuitionTrainer() {
             )}
           </div>
         </div>
+        {/* Filters and controls on right */}
         <div className="flex flex-col items-start mt-4 min-w-[260px] w-[300px]">
           <div className="w-full mb-2">
             <label className="block text-lg font-semibold mb-2 text-gray-800">
@@ -680,6 +666,13 @@ function IntuitionTrainer() {
               ))}
             </select>
           </div>
+          {/* Flip Board Button */}
+          <button
+            onClick={() => setFlipBoard((f) => !f)}
+            className="w-full mb-2 px-4 py-2 rounded-lg font-semibold border border-gray-300 bg-gray-100 hover:bg-yellow-100 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400"
+          >
+            Flip Board
+          </button>
           {puzzles.length > 0 && (
             <div className="mb-4 w-full">
               <div className="font-semibold text-gray-800 mb-1">Position:</div>

@@ -17,19 +17,8 @@ export default function Navbar() {
     // Close mobile menu if open
     setMenuOpen(false);
 
-    // If we're not on the homepage, navigate there first
-    if (pathname !== "/") {
-      router.push("/#courses");
-    } else {
-      // If we're already on homepage, just scroll to courses
-      const coursesSection = document.getElementById("courses");
-      if (coursesSection) {
-        coursesSection.scrollIntoView({
-          behavior: "smooth",
-          block: "start",
-        });
-      }
-    }
+    // Navigate to the courses page
+    router.push("/courses");
   };
 
   const openFormModal = () => {
@@ -108,14 +97,13 @@ export default function Navbar() {
                 border: "1px solid var(--primary)",
               }}
             >
-              <Link href="/learning-games" legacyBehavior>
-                <a
-                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                  style={{ background: "none", color: "#000" }}
-                  onClick={() => setArenaOpen(false)}
-                >
-                  Learning Games
-                </a>
+              <Link
+                href="/learning-games"
+                className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                style={{ background: "none", color: "#000" }}
+                onClick={() => setArenaOpen(false)}
+              >
+                Learning Games
               </Link>
               <hr
                 className="my-1 border-t w-3/4 mx-auto"
@@ -254,14 +242,13 @@ export default function Navbar() {
                 className="w-full rounded shadow-lg z-30 border border-primary mt-1 flex flex-col space-y-2"
                 style={{ background: "#F9FAFB" }}
               >
-                <Link href="/learning-games" legacyBehavior>
-                  <a
-                    className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
-                    style={{ background: "none", color: "#000" }}
-                    onClick={() => setArenaOpen(false)}
-                  >
-                    Learning Games
-                  </a>
+                <Link
+                  href="/learning-games"
+                  className="block w-full text-left px-4 py-2 rounded transition-all duration-150 font-bold hover:bg-[#fbbf24] hover:scale-105 active:bg-[#fbbf24] active:scale-95 active:border-2 active:border-[#fbbf24]"
+                  style={{ background: "none", color: "#000" }}
+                  onClick={() => setArenaOpen(false)}
+                >
+                  Learning Games
                 </Link>
                 <hr
                   className="my-1 border-t w-3/4 mx-auto"

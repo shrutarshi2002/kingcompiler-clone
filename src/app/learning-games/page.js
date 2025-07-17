@@ -27,6 +27,7 @@ export default function LearningGamesPage() {
       image: "/Courses/2.png",
       category: "Coding",
       rating: 4.7,
+      link: "/learning-games/practice-coding",
     },
     {
       id: 3,
@@ -44,10 +45,19 @@ export default function LearningGamesPage() {
         "Explore artificial intelligence concepts through interactive games and quizzes.",
       image: "/Courses/11.png",
       category: "Artificial Intelligence",
-      rating: 4.7,
+      rating: 4.8,
     },
     {
       id: 5,
+      title: "Build-a-Story",
+      description:
+        "Create interactive stories using code and logic",
+      image: "/Courses/12.png",
+      category: "Storytelling",
+      rating: 4.9,
+    },
+    {
+      id: 6,
       title: "Practice Mathematics",
       description:
         "Tackle math puzzles and games to boost your problem-solving skills.",
@@ -93,6 +103,8 @@ export default function LearningGamesPage() {
   const handlePlayNow = (game) => {
     if (game.title === "Practice Chess") {
       window.location.href = "/learning-games/chess-dashboard";
+    } else if (game.title === "Practice Coding") {
+      window.location.href = "/learning-games/practice-coding";
     } else {
       openFormModal();
     }

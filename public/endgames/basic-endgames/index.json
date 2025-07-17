@@ -1,0 +1,12 @@
+{
+  "category": "Basic Endgames",
+  "description": "Fundamental endgame concepts with minimal pieces",
+  "endgames": [
+    {
+      "name": "King vs King",
+      "file": "king-vs-king.pgn",
+      "difficulty": "Beginner",
+      "description": "Basic king vs king endgame - always a draw"
+    }
+  ]
+}

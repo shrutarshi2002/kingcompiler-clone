@@ -2,9 +2,11 @@
 
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 export default function HeroSection({ onBookDemo }) {
   const [currentSlide, setCurrentSlide] = useState(0);
+  const router = useRouter();
 
   const slides = [
     {
@@ -86,12 +88,7 @@ export default function HeroSection({ onBookDemo }) {
 
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center lg:justify-start">
           <button
-            onClick={() => {
-              const coursesSection = document.getElementById("courses");
-              if (coursesSection) {
-                coursesSection.scrollIntoView({ behavior: "smooth" });
-              }
-            }}
+            onClick={() => router.push("/courses")}
             className="px-6 sm:px-8 py-2 sm:py-3 rounded-full text-base sm:text-lg font-semibold shadow-lg transition-transform duration-200 hover:scale-105 hover:shadow-2xl"
             style={{
               background: "#000",
@@ -103,7 +100,7 @@ export default function HeroSection({ onBookDemo }) {
           </button>
           <button
             onClick={onBookDemo}
-            className="border-2 px-6 sm:px-8 py-2 sm:py-3 rounded-full text-base sm:text-lg font-semibold transition-transform duration-200 hover:scale-105 hover:shadow-2xl"
+            className="hidden sm:inline-block border-2 px-6 sm:px-8 py-2 sm:py-3 rounded-full text-base sm:text-lg font-semibold transition-transform duration-200 hover:scale-105 hover:shadow-2xl"
             style={{
               borderColor: "var(--accent)",
               color: "#000",

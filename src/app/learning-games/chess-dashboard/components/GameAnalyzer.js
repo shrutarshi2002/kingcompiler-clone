@@ -4,14 +4,25 @@ import { Chess } from "chess.js";
 import createStockfishWorker from "./stockfishWorker";
 import ChessboardDisplay from "./ChessboardDisplay";
 
-export default function GameAnalyzer() {
-  const [game, setGame] = useState(new Chess());
-  const [fen, setFen] = useState(game.fen());
+const PLAY_MODES = {
+  ANALYZE: "Analyze Game",
+};
+const COLORS = {
+  WHITE: "w",
+  BLACK: "b",
+};
+
+export default function GameAnalyzer({ fen: initialFen }) {
+  // Remove playMode, userSide, playing, and related state
+  const [game, setGame] = useState(new Chess(initialFen));
+  const [fen, setFen] = useState(initialFen || new Chess().fen());
   const [bestMove, setBestMove] = useState("");
+  const [bestMoveSAN, setBestMoveSAN] = useState("");
+  const [lastAnalyzedFen, setLastAnalyzedFen] = useState("");
   const [info, setInfo] = useState("");
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [userColor, setUserColor] = useState("w");
-  const [playing, setPlaying] = useState(false); // Play/Pause state
+  const [continuousAnalysis, setContinuousAnalysis] = useState(false);
   const workerRef = useRef(null);
 
   // Initialize Stockfish worker
@@ -23,7 +34,34 @@ export default function GameAnalyzer() {
           typeof event.data === "string" ? event.data : event.data?.data;
         if (line?.startsWith("info")) setInfo(line);
         if (line?.startsWith("bestmove")) {
-          setBestMove(line.split(" ")[1]);
+          const moveStr = line.split(" ")[1];
+          setBestMove(moveStr);
+          // Convert to SAN using chess.js and the FEN that was analyzed
+          if (
+            moveStr &&
+            moveStr.length >= 4 &&
+            lastAnalyzedFen &&
+            lastAnalyzedFen.split(" ").length === 6
+          ) {
+            let moveObj = null;
+            try {
+              const tempGame = new Chess(lastAnalyzedFen);
+              console.log("SAN conversion debug:", {
+                fen: lastAnalyzedFen,
+                move: moveStr,
+              });
+              moveObj = tempGame.move({
+                from: moveStr.substring(0, 2),
+                to: moveStr.substring(2, 4),
+                promotion: moveStr.length > 4 ? moveStr[4] : "q",
+              });
+            } catch (e) {
+              moveObj = null;
+            }
+            setBestMoveSAN(moveObj ? moveObj.san : moveStr);
+          } else {
+            setBestMoveSAN(moveStr || "No move found");
+          }
           setIsAnalyzing(false);
         }
       };
@@ -32,6 +70,35 @@ export default function GameAnalyzer() {
         setIsAnalyzing(false);
       };
     }
+  }
+
+  // Analyze current position
+  function analyzePosition(fenOverride) {
+    // Check for game over before analyzing
+    const tempGame = new Chess(fenOverride || fen);
+    if (tempGame.isGameOver()) {
+      setBestMove("");
+      setBestMoveSAN(tempGame.isCheckmate() ? "Checkmate" : "Game Over");
+      setInfo(
+        tempGame.isCheckmate()
+          ? "Checkmate"
+          : tempGame.isStalemate()
+          ? "Stalemate"
+          : "No legal moves"
+      );
+      setIsAnalyzing(false);
+      return;
+    }
+    initWorker();
+    setBestMove("");
+    setBestMoveSAN("");
+    setInfo("Analyzing...");
+    setIsAnalyzing(true);
+    const fenToAnalyze = fenOverride || fen;
+    setLastAnalyzedFen(fenToAnalyze);
+    workerRef.current.postMessage("ucinewgame");
+    workerRef.current.postMessage(`position fen ${fenToAnalyze}`);
+    workerRef.current.postMessage("go depth 15");
   }
 
   // Handle moves on the chessboard
@@ -45,37 +112,29 @@ export default function GameAnalyzer() {
           setFen(newGame.fen());
           setBestMove("");
           setInfo("");
-          // If playing, auto-analyze after move
-          if (playing) {
-            setTimeout(() => analyzePosition(newGame.fen()), 100); // slight delay to ensure state update
+          if (continuousAnalysis) {
+            setTimeout(() => analyzePosition(newGame.fen()), 100);
           }
         }
       } catch (e) {
         // Invalid move
       }
     },
-    [fen, playing]
+    [fen, continuousAnalysis]
   );
 
-  // Get current turn from FEN
-  const getCurrentTurn = useCallback(() => {
-    const parts = fen.split(" ");
-    return parts[1] || "w";
-  }, [fen]);
-
-  // Analyze current position
-  function analyzePosition(fenOverride) {
-    initWorker();
-    setBestMove("");
-    setInfo("Analyzing...");
-    setIsAnalyzing(true);
-    const fenToAnalyze = fenOverride || fen;
-    workerRef.current.postMessage("ucinewgame");
-    workerRef.current.postMessage(`position fen ${fenToAnalyze}`);
-    workerRef.current.postMessage("go depth 15");
+  // Start/stop continuous analysis
+  function handleAnalyzeToggle() {
+    if (!continuousAnalysis) {
+      setContinuousAnalysis(true);
+      analyzePosition();
+    } else {
+      setContinuousAnalysis(false);
+      setIsAnalyzing(false);
+    }
   }
 
-  // Reset to starting position
+  // Stop continuous analysis when board is reset
   function resetPosition() {
     const newGame = new Chess();
     setGame(newGame);
@@ -83,25 +142,15 @@ export default function GameAnalyzer() {
     setBestMove("");
     setInfo("");
     setIsAnalyzing(false);
+    setContinuousAnalysis(false);
   }
 
-  // Flip board
+  // Stop continuous analysis when board is flipped
   function flipBoard() {
     setUserColor((prev) => (prev === "w" ? "b" : "w"));
+    setContinuousAnalysis(false);
+    setIsAnalyzing(false);
   }
-
-  // Play/Pause toggle
-  function togglePlaying() {
-    setPlaying((prev) => !prev);
-  }
-
-  // If play is turned on, analyze immediately
-  useEffect(() => {
-    if (playing) {
-      analyzePosition();
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [playing]);
 
   return (
     <div className="relative p-6 max-w-7xl mx-auto">
@@ -121,7 +170,8 @@ export default function GameAnalyzer() {
             onMove={handleMove}
             userColor={userColor}
             allowMove={true}
-            currentTurn={getCurrentTurn()}
+            currentTurn={"w"} // Allow moving any piece
+            freeMove={true}
           />
           <div className="flex gap-2 mt-4">
             <button
@@ -137,21 +187,27 @@ export default function GameAnalyzer() {
               Flip Board
             </button>
             <button
-              onClick={togglePlaying}
+              onClick={handleAnalyzeToggle}
               className={`px-4 py-2 rounded-lg font-semibold transition-colors ${
-                playing ? "bg-red-500 text-white" : "bg-green-500 text-white"
-              }`}
+                continuousAnalysis
+                  ? "bg-red-500"
+                  : "bg-blue-600 hover:bg-blue-700"
+              } text-white`}
+              disabled={false}
             >
-              {playing ? "Pause" : "Play"}
+              {continuousAnalysis ? "Stop Analyze" : "Analyze"}
             </button>
           </div>
         </div>
         <div className="flex-1 space-y-4">
-          {/* Removed FEN input */}
           <div className="bg-gray-50 rounded-lg shadow p-4 h-48 flex flex-col justify-between">
             <div className="font-semibold mb-1">Best Move:</div>
             <div className="text-lg font-mono break-all mb-2 min-h-[28px] flex items-center">
-              {bestMove || (
+              {isAnalyzing ? (
+                <span className="text-blue-500">Analyzing...</span>
+              ) : bestMoveSAN ? (
+                bestMoveSAN
+              ) : (
                 <span className="text-gray-400">&nbsp;No move found&nbsp;</span>
               )}
             </div>

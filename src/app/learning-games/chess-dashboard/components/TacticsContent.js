@@ -415,17 +415,14 @@ function TacticsContent() {
     }
   }, [currentPuzzleIdx, puzzles.length]);
 
+  // UI for filters
   return (
-    <div className="w-full max-w-xl mx-auto">
-      <div className="flex flex-row items-start justify-center gap-8 mt-2">
-        <div className="flex flex-col items-center">
-          <button
-            onClick={() => setFlipBoard((f) => !f)}
-            className="mb-2 px-3 py-1 rounded bg-gray-200 hover:bg-gray-300 text-xl"
-            title="Flip board"
-          >
-            ♾️
-          </button>
+    <div className="p-4">
+      <h2 className="text-2xl font-bold mb-4 text-center">Solve Tactics</h2>
+      <div className="flex flex-col md:flex-row md:justify-center gap-8 mb-6">
+        {/* Main content left, filters right */}
+        <div className="flex-1 flex flex-col items-center">
+          {/* Remove Position (FEN) above board, keep only in right panel */}
           <div className="mb-4 w-full text-left">
             <span
               className={`text-2xl font-extrabold tracking-wide ${
@@ -516,44 +513,79 @@ function TacticsContent() {
             )}
           </div>
         </div>
-        <div className="flex flex-col items-start mt-4 min-w-[260px] w-[300px]">
-          <div className="flex flex-row gap-6 w-full mb-2">
-            <div className="flex-1">
-              <label className="block text-lg font-semibold mb-2 text-gray-800">
-                Choose Topic
-              </label>
-              <select
-                value={selectedTopic}
-                onChange={(e) => setSelectedTopic(e.target.value)}
-                className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:ring-2 focus:ring-yellow-500 focus:border-transparent text-black font-normal"
-              >
-                {tacticalTopics.map((topic) => (
-                  <option key={topic} value={topic}>
-                    {topic}
-                  </option>
-                ))}
-              </select>
-            </div>
-            <div className="flex-1">
-              <label className="block text-lg font-semibold mb-2 text-gray-800">
-                Choose Level
-              </label>
-              <select
-                value={selectedLevel}
-                onChange={(e) => setSelectedLevel(e.target.value)}
-                className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:ring-2 focus:ring-yellow-500 focus:border-transparent text-black font-normal"
-              >
-                {levels.map((level) => (
-                  <option key={level.value} value={level.value}>
-                    {level.label}
-                  </option>
-                ))}
-              </select>
-            </div>
+        {/* Filters on right */}
+        <div className="w-full md:w-72 flex flex-col gap-4">
+          {/* Topic Dropdown */}
+          <div className="flex flex-col items-start">
+            <label
+              htmlFor="tactic-topic"
+              className="mb-1 font-semibold text-gray-700"
+            >
+              Tactic Topic
+            </label>
+            <select
+              id="tactic-topic"
+              value={selectedTopic}
+              onChange={(e) => setSelectedTopic(e.target.value)}
+              className="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm"
+            >
+              {tacticalTopics.map((topic) => (
+                <option key={topic} value={topic}>
+                  {topic}
+                </option>
+              ))}
+            </select>
           </div>
+          {/* Level Dropdown */}
+          <div className="flex flex-col items-start">
+            <label
+              htmlFor="tactic-level"
+              className="mb-1 font-semibold text-gray-700"
+            >
+              Difficulty Level
+            </label>
+            <select
+              id="tactic-level"
+              value={selectedLevel}
+              onChange={(e) => setSelectedLevel(e.target.value)}
+              className="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400 bg-white shadow-sm"
+            >
+              {levels.map((level) => (
+                <option key={level.value} value={level.value}>
+                  {level.label}
+                </option>
+              ))}
+            </select>
+          </div>
+          {/* Position (FEN) in right panel, below filters, above Flip Board */}
           {puzzles.length > 0 && (
-            <div className="mb-4 w-full">
-              <div className="font-semibold text-gray-800 mb-1">Position:</div>
+            <div className="w-full">
+              <label className="block text-sm font-semibold text-gray-700 mb-1">
+                Position (FEN)
+              </label>
+              <input
+                type="text"
+                value={puzzles[currentPuzzleIdx]?.fen || ""}
+                readOnly
+                className="w-full px-2 py-1 border border-gray-300 rounded bg-gray-50 text-xs font-mono cursor-pointer select-all"
+                onFocus={(e) => e.target.select()}
+                title="Current FEN position"
+              />
+            </div>
+          )}
+          {/* Flip Board Button */}
+          <button
+            onClick={() => setFlipBoard((f) => !f)}
+            className="w-full mt-2 px-4 py-2 rounded-lg font-semibold border border-gray-300 bg-gray-100 hover:bg-yellow-100 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400"
+          >
+            Flip Board
+          </button>
+          {/* Puzzle Position Numbers */}
+          {puzzles.length > 0 && (
+            <div className="w-full mt-2">
+              <label className="block text-sm font-semibold text-gray-700 mb-1">
+                Puzzle
+              </label>
               <div className="flex flex-wrap gap-2 mb-2">
                 {puzzles.map((_, idx) => (
                   <button
@@ -575,23 +607,25 @@ function TacticsContent() {
               </div>
             </div>
           )}
-          {error && (
-            <div className="text-red-600 font-semibold mb-4">{error}</div>
-          )}
-          {showCongrats && (
-            <div className="mt-4 w-full text-center">
-              <div className="text-green-600 font-bold text-xl mb-2">
-                Congratulations! Puzzle solved.
-              </div>
-              <button
-                onClick={handleNextPuzzle}
-                className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-2 px-6 rounded-lg mt-2"
-              >
-                Next Puzzle
-              </button>
-            </div>
-          )}
         </div>
+      </div>
+      <div className="w-full max-w-xl mx-auto">
+        {error && (
+          <div className="text-red-600 font-semibold mb-4">{error}</div>
+        )}
+        {showCongrats && (
+          <div className="mt-4 w-full text-center">
+            <div className="text-green-600 font-bold text-xl mb-2">
+              Congratulations! Puzzle solved.
+            </div>
+            <button
+              onClick={handleNextPuzzle}
+              className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-2 px-6 rounded-lg mt-2"
+            >
+              Next Puzzle
+            </button>
+          </div>
+        )}
       </div>
       {selectedTopic !== "Fork" && selectedTopic !== "Pin" && (
         <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-8 text-center text-xl font-bold text-gray-900">

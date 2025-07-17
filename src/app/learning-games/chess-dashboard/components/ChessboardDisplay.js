@@ -3,11 +3,17 @@ import { useState } from "react";
 
 function ChessboardDisplay({
   fen,
+  board: customBoard = null, // new prop
   onMove,
   userColor = "w",
   allowMove = true,
   highlightSquares = [],
   currentTurn = "w", // New prop for turn validation
+  freeMove = false, // New prop for free move
+  selectablePieceType = null, // New prop for restricting selectable piece type
+  legalMovesForSelected = null, // New prop for restricting legal destination squares
+  starSquares = [], // New prop for star overlays
+  starActive = true, // New prop: only show star if true
 }) {
   // fenToBoard and getPieceImage logic
   function fenToBoard(fen) {
@@ -54,7 +60,7 @@ function ChessboardDisplay({
   }
 
   // Board state
-  const board = fenToBoard(fen);
+  const board = customBoard ? customBoard : fenToBoard(fen);
   const [selectedSquare, setSelectedSquare] = useState(null);
 
   // Move handling
@@ -69,12 +75,24 @@ function ChessboardDisplay({
       const piece = board[row][col];
       if (
         piece &&
-        ((currentTurn === "w" && piece === piece.toUpperCase()) ||
-          (currentTurn === "b" && piece === piece.toLowerCase()))
+        (freeMove ||
+          (currentTurn === "w" && piece === piece.toUpperCase()) ||
+          (currentTurn === "b" && piece === piece.toLowerCase())) &&
+        (!selectablePieceType || piece.toLowerCase() === selectablePieceType)
       ) {
         setSelectedSquare({ row, col });
       }
       return;
+    }
+
+    // Only allow moving to legal destination squares if provided
+    if (legalMovesForSelected) {
+      const files = "abcdefgh";
+      const toAlg = `${files[to.col]}${8 - to.row}`;
+      if (!legalMovesForSelected.includes(toAlg)) {
+        setSelectedSquare(null);
+        return;
+      }
     }
 
     setSelectedSquare(null);
@@ -128,6 +146,16 @@ function ChessboardDisplay({
               const isHighlighted = highlightSquares.some(
                 ([r, c]) => r === actualRow && c === actualCol
               );
+              const isLegalDest =
+                selectedSquare && legalMovesForSelected
+                  ? legalMovesForSelected.includes(
+                      `${files[colIdx]}${8 - rowIdx}`
+                    )
+                  : false;
+              // Star overlay logic
+              const squareAlg = `${files[colIdx]}${8 - rowIdx}`;
+              const isStar =
+                starActive && starSquares && starSquares.includes(squareAlg);
 
               return (
                 <div
@@ -136,11 +164,12 @@ function ChessboardDisplay({
                     isLight ? "bg-yellow-100" : ""
                   } ${isSelected ? "ring-4 ring-blue-500 bg-blue-200" : ""} ${
                     isHighlighted ? "ring-4 ring-green-500" : ""
-                  }`}
+                  } ${isLegalDest ? "ring-4 ring-yellow-400" : ""}`}
                   style={{
                     width: "5rem",
                     height: "5rem",
                     backgroundColor: isLight ? undefined : "#B58863",
+                    position: "relative",
                   }}
                   onClick={() => handleSquareClick(actualRow, actualCol)}
                 >
@@ -156,6 +185,28 @@ function ChessboardDisplay({
                           e.target.parentNode.textContent = pieceImages[piece];
                         }}
                       />
+                    </span>
+                  )}
+                  {/* Star overlay */}
+                  {isStar && (
+                    <span
+                      className={`absolute text-5xl pointer-events-none select-none flex items-center justify-center w-full h-full star-fade`}
+                      style={{
+                        top: 0,
+                        left: 0,
+                        color: "#FFD700",
+                        textShadow: "0 0 8px #fff, 0 0 2px #FFD700",
+                        zIndex: 2,
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        width: "100%",
+                        height: "100%",
+                        transition: "opacity 0.4s cubic-bezier(0.4,0,0.2,1)",
+                        opacity: isStar ? 1 : 0,
+                      }}
+                    >
+                      ⭐
                     </span>
                   )}
                 </div>

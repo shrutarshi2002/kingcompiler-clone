@@ -7,6 +7,7 @@ import { courses, categories } from "../../data/courseData";
 import Navbar from "../../components/Navbar";
 import GoogleFormModal from "../../components/GoogleFormModal";
 import Footer from "../../components/Footer";
+import FloatingDemoButton from "../../components/FloatingDemoButton";
 
 export default function CoursesPage() {
   const router = useRouter();
@@ -169,45 +170,39 @@ export default function CoursesPage() {
       <Navbar />
 
       {/* Hero Section */}
-      <section className="py-16 bg-gradient-to-br from-yellow-50 to-orange-50">
+      <section className="py-8 sm:py-16 bg-gradient-to-br from-yellow-50 to-orange-50">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 text-gray-900">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6 text-gray-900">
               Explore Our Courses
             </h1>
-            <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
+            <p className="text-lg sm:text-xl text-gray-600 mb-4 sm:mb-8 max-w-3xl mx-auto">
               Discover a world of learning opportunities designed to nurture
               your child&apos;s talents and prepare them for the future.
             </p>
 
             {/* CTA Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
+            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4 sm:mb-8">
               <button
                 onClick={openFormModal}
-                className="bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-4 px-8 rounded-lg transition-colors duration-200 text-lg shadow-lg hover:shadow-xl"
+                className="hidden sm:block bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-4 px-8 rounded-lg transition-colors duration-200 text-lg shadow-lg hover:shadow-xl"
               >
                 🎯 BOOK A FREE TRIAL
-              </button>
-              <button
-                onClick={() => router.push("/contact")}
-                className="bg-white border-2 border-gray-300 text-gray-700 font-semibold py-4 px-8 rounded-lg hover:bg-gray-50 transition-colors duration-200 text-lg"
-              >
-                Contact Us
               </button>
             </div>
 
             {/* Search Bar */}
-            <div className="max-w-2xl mx-auto mb-8">
+            <div className="max-w-2xl mx-auto mb-3 sm:mb-8">
               <div className="relative">
                 <input
                   type="text"
                   placeholder="Search courses..."
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
-                  className="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-lg focus:border-yellow-500 focus:outline-none"
+                  className="w-full px-4 sm:px-6 py-2 sm:py-4 text-base sm:text-lg border-2 border-gray-300 rounded-lg focus:border-yellow-500 focus:outline-none"
                 />
                 <svg
-                  className="absolute right-4 top-1/2 transform -translate-y-1/2 w-6 h-6 text-gray-400"
+                  className="absolute right-3 sm:right-4 top-1/2 transform -translate-y-1 w-5 h-5 sm:w-6 sm:h-6 text-gray-400"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
@@ -223,12 +218,12 @@ export default function CoursesPage() {
             </div>
 
             {/* Category Filter */}
-            <div className="flex flex-wrap justify-center gap-4 mb-8">
+            <div className="flex flex-wrap justify-center gap-2 sm:gap-4 mb-8">
               {categories.map((category) => (
                 <button
                   key={category}
                   onClick={() => setSelectedCategory(category)}
-                  className={`px-6 py-3 rounded-full font-semibold transition-colors duration-200 ${
+                  className={`px-3 sm:px-6 py-2 sm:py-3 rounded-full font-semibold transition-colors duration-200 text-sm sm:text-base ${
                     selectedCategory === category
                       ? "bg-yellow-500 text-black"
                       : "bg-white text-gray-700 hover:bg-gray-100 border-2 border-gray-200"
@@ -240,7 +235,7 @@ export default function CoursesPage() {
             </div>
 
             {/* Results Count */}
-            <p className="text-gray-600">
+            <p className="text-gray-600 text-sm sm:text-base">
               Showing {filteredCourses.length} of {courses.length} courses
             </p>
           </div>
@@ -278,7 +273,7 @@ export default function CoursesPage() {
                   onClick={() => handleCourseClick(course.id)}
                 >
                   {/* Course Image */}
-                  <div className="relative h-48 overflow-hidden group">
+                  <div className="relative h-56 overflow-hidden group">
                     <Image
                       src={course.image}
                       alt={course.name}
@@ -386,21 +381,41 @@ export default function CoursesPage() {
                     </div>
 
                     {/* CTA Buttons */}
-                    <div className="space-y-3">
+                    <div className="mt-auto flex flex-col gap-2 w-full">
                       <button
                         onClick={(e) => {
                           e.stopPropagation();
                           openFormModal();
                         }}
-                        className="w-full bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-lg transition-colors duration-200 text-sm"
+                        className="w-full bg-gradient-to-r from-yellow-300 to-yellow-400 border-2 border-yellow-400 text-black font-bold py-2 px-4 rounded shadow-lg transition-transform duration-200 hover:scale-105 hover:-translate-y-1"
                       >
-                        🎯 BOOK FREE TRIAL
+                        🎯 BOOK A FREE TRIAL
                       </button>
                       <button
                         onClick={() => handleCourseClick(course.id)}
-                        className="w-full bg-yellow-500 hover:bg-yellow-600 text-black font-bold py-3 px-6 rounded-lg transition-colors duration-200"
+                        className="w-auto mx-auto flex items-center justify-center bg-white border border-yellow-400 text-black font-bold py-1.5 px-3 rounded shadow-lg hover:bg-yellow-100 transition-colors duration-200 text-sm"
                       >
                         Explore Course
+                        <span className="ml-2 flex items-center">
+                          <span className="inline-flex items-center justify-center rounded-full bg-gray-200 w-6 h-6">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="14"
+                              height="14"
+                              fill="none"
+                              viewBox="0 0 24 24"
+                              stroke="currentColor"
+                              className="inline-block align-middle"
+                            >
+                              <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                strokeWidth={2}
+                                d="M5 12h14M12 5l7 7-7 7"
+                              />
+                            </svg>
+                          </span>
+                        </span>
                       </button>
                     </div>
                   </div>
@@ -429,12 +444,6 @@ export default function CoursesPage() {
               🎯 BOOK A FREE TRIAL
             </button>
             <button
-              onClick={() => router.push("/contact")}
-              className="bg-white border-2 border-gray-300 text-gray-700 font-semibold py-4 px-8 rounded-lg hover:bg-gray-50 transition-colors duration-200 text-lg"
-            >
-              Contact Us
-            </button>
-            <button
               onClick={() => router.push("/")}
               className="bg-white border-2 border-gray-300 text-gray-700 font-semibold py-4 px-8 rounded-lg hover:bg-gray-50 transition-colors duration-200 text-lg"
             >
@@ -449,43 +458,60 @@ export default function CoursesPage() {
 
       {/* Video Modal */}
       {isVideoModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-transparent px-2 sm:px-0">
-          <div
-            className="bg-white rounded-lg shadow-lg w-full max-w-xs relative border-4 border-yellow-500 mx-auto"
-            style={{ borderWidth: 5, maxWidth: "95vw" }}
-          >
-            <button
-              onClick={closeVideoModal}
-              className="absolute top-2 right-2 bg-white border-2 border-gray-400 rounded-full text-black hover:text-yellow-600 text-2xl font-bold z-50 w-10 h-10 flex items-center justify-center shadow-lg focus:outline-none focus:ring-2 focus:ring-yellow-500"
-              aria-label="Close Video"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                width="22"
-                height="22"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="3"
-                strokeLinecap="round"
-                strokeLinejoin="round"
+        <div className="fixed inset-0 z-50 flex items-center justify-center px-2 py-8">
+          <div className="bg-white rounded-lg shadow-2xl w-full max-w-3xl relative border-4 border-yellow-500 mx-auto">
+            {/* Header Bar */}
+            <div className="bg-yellow-500 px-6 py-3 rounded-t-lg flex items-center justify-between">
+              <h3 className="text-black font-bold text-lg">
+                Coding Logic for Kids (Scratch + Python)
+              </h3>
+              <button
+                onClick={closeVideoModal}
+                className="bg-white rounded-full w-8 h-8 flex items-center justify-center text-black hover:bg-gray-100 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-black"
+                aria-label="Close Video"
               >
-                <line x1="18" y1="6" x2="6" y2="18" />
-                <line x1="6" y1="6" x2="18" y2="18" />
-              </svg>
-            </button>
-            <div className="relative aspect-video w-64 max-h-[30vh] mx-auto">
-              <iframe
-                src="https://www.youtube.com/embed/lxIFwQ6GaZI?si=jn8mYOaAkz5MnQ62"
-                title="Course Video"
-                className="absolute top-0 left-0 w-full h-full rounded-b-lg max-h-[30vh]"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+                <svg
+                  viewBox="0 0 24 24"
+                  width="20"
+                  height="20"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="3"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <line x1="18" y1="6" x2="6" y2="18" />
+                  <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+              </button>
+            </div>
+
+            {/* Video Player */}
+            <div className="relative">
+              <div className="relative aspect-video w-full">
+                <iframe
+                  src="https://www.youtube.com/embed/lxIFwQ6GaZI?si=jn8mYOaAkz5MnQ62"
+                  title="Coding Logic for Kids - KingCompiler"
+                  className="w-full h-full rounded-b-lg"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
+              </div>
+            </div>
+
+            {/* Bottom Text */}
+            <div className="px-6 py-4 text-center">
+              <p className="text-black font-medium">
+                Teach programming logic through fun, visual tools.
+              </p>
             </div>
           </div>
         </div>
       )}
+
+      {/* Floating Demo Button */}
+      <FloatingDemoButton />
 
       {/* Footer */}
       <Footer />
