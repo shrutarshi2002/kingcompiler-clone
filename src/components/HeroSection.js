@@ -52,7 +52,7 @@ export default function HeroSection({ onBookDemo }) {
 
   return (
     <section
-      className="flex flex-col lg:flex-row items-center justify-center flex-1 px-4 py-8 sm:py-12 lg:py-16 max-w-7xl mx-auto"
+      className="flex flex-col lg:flex-row items-center justify-center flex-1 w-full max-w-7xl mx-auto p-4 sm:p-8"
       style={{ color: "var(--foreground)" }}
     >
       {/* Left Side - Content */}

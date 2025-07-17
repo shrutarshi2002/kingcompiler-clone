@@ -117,7 +117,7 @@ export default function ChessDashboard() {
         </div>
 
         {/* Main Content */}
-        <section className="flex-1 bg-white rounded-r-xl shadow-lg p-6 min-h-[400px] flex flex-col items-center justify-center ml-0 md:ml-64">
+        <section className="flex-1 bg-white shadow-lg p-6 min-h-[400px] flex flex-col items-center justify-center w-full mx-auto rounded-none md:rounded-r-xl ml-0 md:ml-64">
           {gameContentWithEngine[selectedGame]}
         </section>
       </main>
