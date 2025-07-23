@@ -50,8 +50,7 @@ export default function LearningGamesPage() {
     {
       id: 5,
       title: "Build-a-Story",
-      description:
-        "Create interactive stories using code and logic",
+      description: "Create interactive stories using code and logic",
       image: "/Courses/12.png",
       category: "Storytelling",
       rating: 4.9,
@@ -66,7 +65,7 @@ export default function LearningGamesPage() {
       rating: 5.0,
     },
     {
-      id: 6,
+      id: 7,
       title: "Practice English",
       description:
         "Enhance your English language skills with vocabulary and grammar games.",
@@ -102,7 +101,7 @@ export default function LearningGamesPage() {
 
   const handlePlayNow = (game) => {
     if (game.title === "Practice Chess") {
-      window.location.href = "/learning-games/chess-dashboard";
+      window.location.href = "https://kingcompiler-chessdashboard.netlify.app/";
     } else if (game.title === "Practice Coding") {
       window.location.href = "/learning-games/practice-coding";
     } else {

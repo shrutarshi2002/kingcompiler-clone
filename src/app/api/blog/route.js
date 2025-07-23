@@ -171,12 +171,20 @@ export async function GET() {
       console.error("Error fetching local posts:", error);
     }
 
-    // Combine and sort posts by date (newest first)
-    const allPosts = [...substackPosts, ...localPosts].sort((a, b) => {
+    // Sort local blogs by date (newest first)
+    const sortedLocalPosts = [...localPosts].sort((a, b) => {
       const dateA = new Date(a.date || a.createdAt || 0);
       const dateB = new Date(b.date || b.createdAt || 0);
       return dateB - dateA;
     });
+    // Sort API blogs by date (newest first)
+    const sortedApiPosts = [...substackPosts].sort((a, b) => {
+      const dateA = new Date(a.date || a.createdAt || 0);
+      const dateB = new Date(b.date || b.createdAt || 0);
+      return dateB - dateA;
+    });
+    // Local blogs always first, then API blogs
+    const allPosts = [...sortedLocalPosts, ...sortedApiPosts];
 
     // Return combined posts with cache control headers
     return NextResponse.json(
