@@ -1,9 +1,36 @@
 import { NextResponse } from "next/server";
 
+// In-memory cache for Hashnode posts
+let cachedPosts = null;
+let cacheTimestamp = 0;
+const CACHE_DURATION_MS = 30 * 60 * 1000; // 30 minutes
+
 export async function GET() {
+  const now = Date.now();
+  // Serve from cache if not expired
+  if (cachedPosts && now - cacheTimestamp < CACHE_DURATION_MS) {
+    return NextResponse.json(
+      {
+        success: true,
+        posts: cachedPosts,
+        lastUpdated: new Date(cacheTimestamp).toISOString(),
+        totalPosts: cachedPosts.length,
+        cached: true,
+      },
+      {
+        headers: {
+          "Cache-Control": "no-cache, no-store, must-revalidate",
+          Pragma: "no-cache",
+          Expires: "0",
+          "Last-Modified": new Date(cacheTimestamp).toISOString(),
+        },
+      }
+    );
+  }
+
   try {
-    // Fetch RSS feed from your Substack with cache-busting
-    const rssUrl = "https://kingcompiler.substack.com/feed";
+    // Fetch RSS feed from Hashnode
+    const rssUrl = "https://hashnode.com/@kingcompiler/rss.xml";
     const response = await fetch(rssUrl, {
       method: "GET",
       headers: {
@@ -12,50 +39,114 @@ export async function GET() {
         Expires: "0",
         "User-Agent": "KingCompiler-Blog-Fetcher/1.0",
       },
-      next: { revalidate: 0 }, // Disable Next.js caching for this route
+      next: { revalidate: 0 },
     });
+
+    if (response.status === 429) {
+      // Rate limited: serve cached data if available
+      if (cachedPosts) {
+        return NextResponse.json(
+          {
+            success: true,
+            posts: cachedPosts,
+            lastUpdated: new Date(cacheTimestamp).toISOString(),
+            totalPosts: cachedPosts.length,
+            cached: true,
+            warning: "Rate limited by Hashnode. Serving cached posts.",
+          },
+          {
+            headers: {
+              "Cache-Control": "no-cache, no-store, must-revalidate",
+              Pragma: "no-cache",
+              Expires: "0",
+              "Last-Modified": new Date(cacheTimestamp).toISOString(),
+            },
+          }
+        );
+      } else {
+        return NextResponse.json(
+          {
+            success: false,
+            error: "Rate limited by Hashnode and no cached posts available.",
+            posts: [],
+            lastUpdated: new Date().toISOString(),
+          },
+          {
+            status: 429,
+            headers: {
+              "Cache-Control": "no-cache, no-store, must-revalidate",
+            },
+          }
+        );
+      }
+    }
 
     if (!response.ok) {
       console.error(
-        `Failed to fetch RSS feed: ${response.status} ${response.statusText}`
+        `Failed to fetch Hashnode RSS feed: ${response.status} ${response.statusText}`
       );
-      throw new Error(`Failed to fetch RSS feed: ${response.status}`);
+      throw new Error(`Failed to fetch Hashnode RSS feed: ${response.status}`);
     }
 
     const xmlText = await response.text();
 
     if (!xmlText || xmlText.trim().length === 0) {
-      console.error("RSS feed returned empty content");
-      throw new Error("RSS feed returned empty content");
+      console.error("Hashnode RSS feed returned empty content");
+      throw new Error("Hashnode RSS feed returned empty content");
     }
 
     // Parse XML to extract posts
     const posts = parseRSSFeed(xmlText);
+    // Update cache
+    cachedPosts = posts;
+    cacheTimestamp = Date.now();
 
     // Return response with cache control headers to ensure fresh content
     return NextResponse.json(
       {
         success: true,
         posts: posts,
-        lastUpdated: new Date().toISOString(),
+        lastUpdated: new Date(cacheTimestamp).toISOString(),
         totalPosts: posts.length,
+        cached: false,
       },
       {
         headers: {
           "Cache-Control": "no-cache, no-store, must-revalidate",
           Pragma: "no-cache",
           Expires: "0",
-          "Last-Modified": new Date().toISOString(),
+          "Last-Modified": new Date(cacheTimestamp).toISOString(),
         },
       }
     );
   } catch (error) {
-    console.error("Error fetching Substack posts:", error);
+    console.error("Error fetching Hashnode posts:", error);
+    // Serve cached data if available
+    if (cachedPosts) {
+      return NextResponse.json(
+        {
+          success: true,
+          posts: cachedPosts,
+          lastUpdated: new Date(cacheTimestamp).toISOString(),
+          totalPosts: cachedPosts.length,
+          cached: true,
+          warning: "Error fetching new posts. Serving cached posts.",
+        },
+        {
+          headers: {
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            Pragma: "no-cache",
+            Expires: "0",
+            "Last-Modified": new Date(cacheTimestamp).toISOString(),
+          },
+        }
+      );
+    }
     return NextResponse.json(
       {
         success: false,
         error: error.message,
-        posts: [], // Return empty array instead of undefined
+        posts: [],
         lastUpdated: new Date().toISOString(),
       },
       {
@@ -100,16 +191,6 @@ function parseRSSFeed(xmlText) {
       while ((categoryMatch = categoryRegexLocal.exec(itemContent)) !== null) {
         categories.push(categoryMatch[1]);
       }
-      // Add required tags for every Substack blog
-      const extraTags = [
-        "KingCompilerChessAcademy",
-        "OnlineChessClassesForKids",
-        "BestChessCoaching",
-        "LearnChessWithAI",
-        "ChessTrainingForBeginners",
-        "GlobalChessAcademy",
-      ];
-      const allTags = Array.from(new Set([...categories, ...extraTags]));
 
       // Clean up title (remove CDATA tags)
       const cleanTitle = title
@@ -140,53 +221,6 @@ function parseRSSFeed(xmlText) {
         .replace(/&gt;/g, ">")
         .replace(/&quot;/g, '"')
         .replace(/&#39;/g, "'")
-        .trim();
-
-      // Remove Substack subscription prompts and related content
-      cleanContent = cleanContent
-        // Remove subscription prompts
-        .replace(
-          /<p[^>]*>Thanks for reading Kingcompiler's Substack! Subscribe for free to receive new posts and support my work\.<\/p>/gi,
-          ""
-        )
-        .replace(
-          /<p[^>]*>Subscribe for free to receive new posts and support my work\.<\/p>/gi,
-          ""
-        )
-        .replace(
-          /<p[^>]*>Thanks for reading.*?Substack!.*?Subscribe.*?<\/p>/gi,
-          ""
-        )
-        .replace(/<p[^>]*>Type your email.*?<\/p>/gi, "")
-        .replace(/<p[^>]*>subscribe.*?<\/p>/gi, "")
-
-        // Remove subscription forms and related HTML
-        .replace(/<div[^>]*class="[^"]*subscribe[^"]*"[^>]*>.*?<\/div>/gis, "")
-        .replace(
-          /<form[^>]*class="[^"]*subscribe[^"]*"[^>]*>.*?<\/form>/gis,
-          ""
-        )
-        .replace(/<input[^>]*placeholder="[^"]*email[^"]*"[^>]*>/gi, "")
-        .replace(/<button[^>]*>subscribe[^>]*<\/button>/gi, "")
-
-        // Remove common Substack footer content
-        .replace(/<div[^>]*class="[^"]*footer[^"]*"[^>]*>.*?<\/div>/gis, "")
-        .replace(
-          /<div[^>]*class="[^"]*subscription[^"]*"[^>]*>.*?<\/div>/gis,
-          ""
-        )
-
-        // Remove any remaining subscription-related text
-        .replace(/Thanks for reading.*?Substack!.*?Subscribe.*?/gi, "")
-        .replace(/Subscribe for free.*?/gi, "")
-        .replace(/Type your email.*?/gi, "")
-
-        // Clean up any empty paragraphs or divs that might be left
-        .replace(/<p[^>]*>\s*<\/p>/gi, "")
-        .replace(/<div[^>]*>\s*<\/div>/gi, "")
-
-        // Clean up multiple line breaks
-        .replace(/\n\s*\n\s*\n/g, "\n\n")
         .trim();
 
       // Extract images from content
@@ -229,26 +263,23 @@ function parseRSSFeed(xmlText) {
         content: cleanContent,
         author: "Kingcompiler Team",
         date: new Date(pubDate).toISOString().split("T")[0],
-        category: categories[0] || "Chess",
-        tags: allTags,
+        category: "Coding",
+        tags: categories,
         readTime: `${Math.ceil(
           cleanDescription.split(" ").length / 200
         )} min read`,
-        image: featuredImage || "/blog/substack-post.jpg",
+        image: featuredImage || "/blog/hashnode-post.jpg",
         images: images,
         enclosure: enclosure,
         externalLinks: {
-          substack: link,
-          hashnode: `https://hashnode.dev/@kingcompiler/${slug}`,
-          devto: `https://dev.to/kingcompiler/${slug}`,
-          linkedin: `https://linkedin.com/posts/kingcompiler-${slug}`,
+          hashnode: link,
         },
-        source: "substack",
+        source: "hashnode",
         originalLink: link,
       });
     }
   } catch (error) {
-    console.error("Error parsing RSS feed:", error);
+    console.error("Error parsing Hashnode RSS feed:", error);
   }
 
   return posts;

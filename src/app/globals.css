@@ -51,10 +51,17 @@ body {
 .prose h4,
 .prose h5,
 .prose h6 {
-  color: var(--foreground);
+  color: #000;
   font-weight: 700;
   margin-top: 2rem;
   margin-bottom: 1rem;
+}
+.prose ul,
+.prose ol,
+.prose li,
+.prose p {
+  color: #000;
+  font-weight: 400;
 }
 
 .prose h1 {

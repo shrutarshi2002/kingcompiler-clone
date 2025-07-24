@@ -114,13 +114,12 @@ const regularBlogPosts = [
 
 export async function GET() {
   try {
-    // Fetch both Substack posts and local posts
+    // Fetch Substack and local posts only
     let substackPosts = [];
     let localPosts = [];
 
     // Fetch Substack posts
     try {
-      // Use relative URL for internal API calls in production
       const baseUrl =
         process.env.NEXT_PUBLIC_BASE_URL ||
         (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
@@ -133,7 +132,7 @@ export async function GET() {
           Pragma: "no-cache",
           Expires: "0",
         },
-        next: { revalidate: 0 }, // Disable Next.js caching
+        next: { revalidate: 0 },
       });
       if (substackResponse.ok) {
         const substackData = await substackResponse.json();
@@ -159,7 +158,7 @@ export async function GET() {
           Pragma: "no-cache",
           Expires: "0",
         },
-        next: { revalidate: 0 }, // Disable Next.js caching
+        next: { revalidate: 0 },
       });
       if (localResponse.ok) {
         const localData = await localResponse.json();
@@ -171,20 +170,12 @@ export async function GET() {
       console.error("Error fetching local posts:", error);
     }
 
-    // Sort local blogs by date (newest first)
-    const sortedLocalPosts = [...localPosts].sort((a, b) => {
+    // Sort all posts by date (newest first)
+    const allPosts = [...localPosts, ...substackPosts].sort((a, b) => {
       const dateA = new Date(a.date || a.createdAt || 0);
       const dateB = new Date(b.date || b.createdAt || 0);
       return dateB - dateA;
     });
-    // Sort API blogs by date (newest first)
-    const sortedApiPosts = [...substackPosts].sort((a, b) => {
-      const dateA = new Date(a.date || a.createdAt || 0);
-      const dateB = new Date(b.date || b.createdAt || 0);
-      return dateB - dateA;
-    });
-    // Local blogs always first, then API blogs
-    const allPosts = [...sortedLocalPosts, ...sortedApiPosts];
 
     // Return combined posts with cache control headers
     return NextResponse.json(
@@ -211,7 +202,7 @@ export async function GET() {
       {
         success: false,
         error: error.message,
-        posts: [], // Return empty array if error
+        posts: [],
         lastUpdated: new Date().toISOString(),
       },
       {

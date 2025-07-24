@@ -43,7 +43,8 @@ export const courses = [
       credentials: "FIDE Master, 15+ years teaching experience",
       specialization: "Chess Strategy & Youth Development",
     },
-    price: "$99/month",
+    price: 99,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -220,7 +221,8 @@ export const courses = [
       credentials: "MSc Computer Science, 10+ years teaching kids",
       specialization: "Educational Technology & Programming",
     },
-    price: "$89/month",
+    price: 89,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -397,7 +399,8 @@ export const courses = [
       credentials: "Full-Stack Developer, 8+ years experience",
       specialization: "Frontend Development & UI/UX",
     },
-    price: "$79/month",
+    price: 79,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -578,7 +581,8 @@ export const courses = [
       credentials: "PhD in AI, Research Scientist",
       specialization: "AI Education & Ethics",
     },
-    price: "$109/month",
+    price: 109,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -756,7 +760,8 @@ export const courses = [
       credentials: "AI Research Engineer, 12+ years experience",
       specialization: "Natural Language Processing & AI",
     },
-    price: "$129/month",
+    price: 129,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -933,7 +938,8 @@ export const courses = [
       credentials: "Senior UX Designer, 10+ years experience",
       specialization: "Digital Design & User Experience",
     },
-    price: "$89/month",
+    price: 89,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -1111,7 +1117,8 @@ export const courses = [
       credentials: "Database Administrator, 15+ years experience",
       specialization: "Database Management & SQL",
     },
-    price: "$79/month",
+    price: 79,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -1288,7 +1295,8 @@ export const courses = [
       credentials: "PhD in Machine Learning, Research Scientist",
       specialization: "AI/ML Education & Research",
     },
-    price: "$139/month",
+    price: 139,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -1466,7 +1474,8 @@ export const courses = [
       credentials: "Mobile App Developer, 12+ years experience",
       specialization: "iOS & Android Development",
     },
-    price: "$99/month",
+    price: 99,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -1647,7 +1656,8 @@ export const courses = [
       credentials: "Game Developer, 10+ years experience",
       specialization: "Unity & Game Design",
     },
-    price: "$89/month",
+    price: 89,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -1828,7 +1838,8 @@ export const courses = [
       credentials: "Robotics Engineer, PhD in Engineering",
       specialization: "Educational Robotics & STEM",
     },
-    price: "$119/month",
+    price: 119,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {
@@ -2006,7 +2017,8 @@ export const courses = [
       credentials: "Mathematics Educator, 15+ years experience",
       specialization: "Vedic Mathematics & Mental Math",
     },
-    price: "$69/month",
+    price: 69,
+    priceUnit: "USD",
     trialClass: "Free 30-minute trial available",
     reviews: [
       {

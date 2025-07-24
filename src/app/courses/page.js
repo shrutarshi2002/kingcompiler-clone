@@ -9,6 +9,16 @@ import GoogleFormModal from "../../components/GoogleFormModal";
 import Footer from "../../components/Footer";
 import FloatingDemoButton from "../../components/FloatingDemoButton";
 
+const currencyMap = {
+  IN: { symbol: "₹", code: "INR", rate: 83 },
+  US: { symbol: "$", code: "USD", rate: 1 },
+  AE: { symbol: "د.إ", code: "AED", rate: 3.67 },
+  AU: { symbol: "A$", code: "AUD", rate: 1.5 },
+  CA: { symbol: "C$", code: "CAD", rate: 1.35 },
+  GB: { symbol: "£", code: "GBP", rate: 0.8 },
+  // ...add more as needed
+};
+
 export default function CoursesPage() {
   const router = useRouter();
   const [selectedCategory, setSelectedCategory] = useState("All");
@@ -16,6 +26,23 @@ export default function CoursesPage() {
   const [filteredCourses, setFilteredCourses] = useState(courses);
   const [isFormModalOpen, setIsFormModalOpen] = useState(false);
   const [isVideoModalOpen, setIsVideoModalOpen] = useState(false);
+  const [country, setCountry] = useState("US");
+  const [currency, setCurrency] = useState(currencyMap["US"]);
+
+  useEffect(() => {
+    fetch("https://ipapi.co/json/")
+      .then((res) => res.json())
+      .then((data) => {
+        if (currencyMap[data.country_code]) {
+          setCountry(data.country_code);
+          setCurrency(currencyMap[data.country_code]);
+        }
+      })
+      .catch(() => {
+        setCountry("US");
+        setCurrency(currencyMap["US"]);
+      });
+  }, []);
 
   useEffect(() => {
     let filtered = courses;
@@ -287,7 +314,25 @@ export default function CoursesPage() {
                     </div>
                     <div className="absolute top-4 right-4">
                       <span className="bg-yellow-500 text-black px-3 py-1 rounded-full text-sm font-semibold">
-                        {course.price}
+                        Starting from {currency.symbol}
+                        {Math.round(20 * currency.rate)}
+                        <svg
+                          style={{
+                            display: "inline",
+                            verticalAlign: "middle",
+                            marginLeft: 2,
+                          }}
+                          width="16"
+                          height="16"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          viewBox="0 0 24 24"
+                        >
+                          <path d="M3 17l6-6 4 4 8-8" />
+                          <path d="M14 7h7v7" />
+                        </svg>
+                        /month
                       </span>
                     </div>
                     {/* Play Button Overlay */}

@@ -8,6 +8,16 @@ import Navbar from "../../../components/Navbar";
 import GoogleFormModal from "../../../components/GoogleFormModal";
 import Footer from "../../../components/Footer";
 
+const currencyMap = {
+  IN: { symbol: "₹", code: "INR", rate: 83 },
+  US: { symbol: "$", code: "USD", rate: 1 },
+  AE: { symbol: "د.إ", code: "AED", rate: 3.67 },
+  AU: { symbol: "A$", code: "AUD", rate: 1.5 },
+  CA: { symbol: "C$", code: "CAD", rate: 1.35 },
+  GB: { symbol: "£", code: "GBP", rate: 0.8 },
+  // ...add more as needed
+};
+
 export default function CoursePage() {
   const params = useParams();
   const router = useRouter();
@@ -15,6 +25,23 @@ export default function CoursePage() {
   const [isFormModalOpen, setIsFormModalOpen] = useState(false);
   const [activeTab, setActiveTab] = useState("overview");
   const [isVideoModalOpen, setIsVideoModalOpen] = useState(false);
+  const [country, setCountry] = useState("US");
+  const [currency, setCurrency] = useState(currencyMap["US"]);
+
+  useEffect(() => {
+    fetch("https://ipapi.co/json/")
+      .then((res) => res.json())
+      .then((data) => {
+        if (currencyMap[data.country_code]) {
+          setCountry(data.country_code);
+          setCurrency(currencyMap[data.country_code]);
+        }
+      })
+      .catch(() => {
+        setCountry("US");
+        setCurrency(currencyMap["US"]);
+      });
+  }, []);
 
   useEffect(() => {
     const courseId = parseInt(params.id);
@@ -216,7 +243,25 @@ export default function CoursePage() {
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-4">
                   <div>
                     <span className="text-3xl font-bold text-gray-900">
-                      {course.price}
+                      Starting from {currency.symbol}
+                      {Math.round(20 * currency.rate)}
+                      <svg
+                        style={{
+                          display: "inline",
+                          verticalAlign: "middle",
+                          marginLeft: 2,
+                        }}
+                        width="20"
+                        height="20"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M3 17l6-6 4 4 8-8" />
+                        <path d="M14 7h7v7" />
+                      </svg>
+                      /month
                     </span>
                     <span className="text-gray-600 ml-2">per month</span>
                   </div>
