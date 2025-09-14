@@ -33,17 +33,61 @@ async function writeBlogPosts(posts) {
   await fs.writeFile(BLOG_DATA_PATH, JSON.stringify(posts, null, 2));
 }
 
-// GET - Retrieve all local blog posts
-export async function GET() {
+// GET - Retrieve all local blog posts or a single post by slug
+export async function GET(request) {
   try {
+    // Check if we're requesting a specific post by slug
+    const { searchParams } = new URL(request.url);
+    const slug = searchParams.get("slug");
+
     const posts = await readBlogPosts();
 
-    return NextResponse.json({
-      success: true,
-      posts: posts,
-      total: posts.length,
-      lastUpdated: new Date().toISOString(),
-    });
+    if (slug) {
+      // Return specific post by slug
+      const post = posts.find((p) => p.slug === slug);
+      if (post) {
+        return NextResponse.json(
+          {
+            success: true,
+            post: post,
+          },
+          {
+            headers: {
+              "Cache-Control":
+                "public, s-maxage=120, stale-while-revalidate=60", // Cache for 2 minutes, serve stale for 1 minute
+            },
+          }
+        );
+      } else {
+        return NextResponse.json(
+          {
+            success: false,
+            error: "Post not found",
+          },
+          {
+            status: 404,
+            headers: {
+              "Cache-Control": "no-cache, no-store, must-revalidate",
+            },
+          }
+        );
+      }
+    }
+
+    // Return all posts
+    return NextResponse.json(
+      {
+        success: true,
+        posts: posts,
+        total: posts.length,
+        lastUpdated: new Date().toISOString(),
+      },
+      {
+        headers: {
+          "Cache-Control": "public, s-maxage=120, stale-while-revalidate=60", // Cache for 2 minutes, serve stale for 1 minute
+        },
+      }
+    );
   } catch (error) {
     console.error("Error reading local blog posts:", error);
     return NextResponse.json(

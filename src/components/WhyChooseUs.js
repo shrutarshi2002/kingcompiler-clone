@@ -86,7 +86,7 @@ export default function WhyChooseUs() {
               </div>
               <h3
                 className="text-sm font-bold mb-2 text-center"
-                style={{ color: "var(--foreground)" }}
+                style={{ color: "#000" }}
               >
                 {reason.title}
               </h3>

@@ -16,18 +16,15 @@ export default function LocalBlogPostPage() {
     const fetchPost = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch("/api/blog/local");
+        const response = await fetch(`/api/blog/local?slug=${params.slug}`);
         const data = await response.json();
 
-        if (data.success && data.posts) {
-          const foundPost = data.posts.find((p) => p.slug === params.slug);
-          if (foundPost) {
-            setPost(foundPost);
-          } else {
-            setError("Blog post not found");
-          }
+        if (data.success && data.post) {
+          setPost(data.post);
         } else {
-          setError("Failed to fetch blog post");
+          setError(data.error || "Blog post not found");
+          // Redirect to main blog page if post not found
+          window.location.href = "/blog";
         }
       } catch (error) {
         setError("Network error occurred");

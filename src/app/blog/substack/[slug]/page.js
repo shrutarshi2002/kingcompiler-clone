@@ -24,12 +24,15 @@ export default function SubstackPostPage() {
 
       try {
         setIsLoading(true);
-        const response = await fetch("/api/blog/substack");
+        const response = await fetch(`/api/blog/substack?slug=${params.slug}`);
         const data = await response.json();
 
-        if (data.success && data.posts) {
-          const foundPost = data.posts.find((p) => p.slug === params.slug);
-          setPost(foundPost);
+        if (data.success && data.post) {
+          setPost(data.post);
+        } else {
+          console.error("Post not found or error:", data.error);
+          // Redirect to main blog page if post not found
+          window.location.href = "/blog";
         }
       } catch (error) {
         console.error("Error fetching post:", error);

@@ -110,74 +110,159 @@ const regularBlogPosts = [
     },
     source: "regular",
   },
+  // Country-specific blog posts
+  {
+    id: 7,
+    title: "USA Chess Championships: Training for National Competitions",
+    excerpt:
+      "Learn the strategies and techniques used by top American chess players in national tournaments and championships.",
+    author: "King Master Team",
+    date: "2024-01-20",
+    category: "Chess",
+    tags: ["usa", "championships", "tournaments", "national"],
+    readTime: "8 min read",
+    image: "/blog/usa-chess.jpg",
+    country: "USA",
+    source: "regular",
+  },
+  {
+    id: 8,
+    title: "UK Chess Education: Royal Academy Methods",
+    excerpt:
+      "Discover the traditional British approach to chess education and how it's adapted for modern online learning.",
+    author: "King Master Team",
+    date: "2024-01-18",
+    category: "Education",
+    tags: ["uk", "royal", "education", "traditional"],
+    readTime: "6 min read",
+    image: "/blog/uk-chess.jpg",
+    country: "UK",
+    source: "regular",
+  },
+  {
+    id: 9,
+    title: "UAE Chess Innovation: Dubai's Tech-Forward Approach",
+    excerpt:
+      "Explore how Dubai is revolutionizing chess education with cutting-edge technology and AI integration.",
+    author: "King Master Team",
+    date: "2024-01-16",
+    category: "Coding",
+    tags: ["uae", "dubai", "innovation", "ai", "technology"],
+    readTime: "7 min read",
+    image: "/blog/uae-chess.jpg",
+    country: "UAE",
+    source: "regular",
+  },
+  {
+    id: 10,
+    title: "Singapore Chess Hub: Excellence in STEM Education",
+    excerpt:
+      "Learn how Singapore's world-class education system incorporates chess into their STEM curriculum.",
+    author: "King Master Team",
+    date: "2024-01-14",
+    category: "Education",
+    tags: ["singapore", "stem", "excellence", "curriculum"],
+    readTime: "9 min read",
+    image: "/blog/singapore-chess.jpg",
+    country: "Singapore",
+    source: "regular",
+  },
+  {
+    id: 11,
+    title: "Canadian Chess Masters: Winter Training Strategies",
+    excerpt:
+      "Discover unique training methods used by Canadian chess players during long winter months.",
+    author: "King Master Team",
+    date: "2024-01-12",
+    category: "Chess",
+    tags: ["canada", "winter", "training", "strategies"],
+    readTime: "5 min read",
+    image: "/blog/canada-chess.jpg",
+    country: "Canada",
+    source: "regular",
+  },
+  {
+    id: 12,
+    title: "Saudi Arabia Chess Vision: Future Skills Development",
+    excerpt:
+      "Explore Saudi Arabia's Vision 2030 and how chess education fits into their future skills development program.",
+    author: "King Master Team",
+    date: "2024-01-10",
+    category: "Education",
+    tags: ["saudi", "vision2030", "future", "skills"],
+    readTime: "8 min read",
+    image: "/blog/saudi-chess.jpg",
+    country: "Saudi Arabia",
+    source: "regular",
+  },
 ];
 
-export async function GET() {
+export async function GET(request) {
   try {
-    // Fetch Substack and local posts only
+    // Check if we're requesting a limited number of posts for homepage
+    const { searchParams } = new URL(request.url);
+    const limit = searchParams.get("limit");
+
+    // Start with regular posts immediately for faster initial load
+    let allPosts = [...regularBlogPosts];
     let substackPosts = [];
     let localPosts = [];
 
-    // Fetch Substack posts
-    try {
-      const baseUrl =
-        process.env.NEXT_PUBLIC_BASE_URL ||
-        (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
-      const substackApiUrl = `${baseUrl}/api/blog/substack`;
+    // Use Promise.allSettled for parallel API calls instead of sequential
+    const baseUrl =
+      process.env.NEXT_PUBLIC_BASE_URL ||
+      (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
 
-      const substackResponse = await fetch(substackApiUrl, {
+    const [substackResult, localResult] = await Promise.allSettled([
+      // Fetch Substack posts with optimized caching
+      fetch(`${baseUrl}/api/blog/substack`, {
         method: "GET",
         headers: {
-          "Cache-Control": "no-cache, no-store, must-revalidate",
-          Pragma: "no-cache",
-          Expires: "0",
+          "Cache-Control": "public, max-age=300, stale-while-revalidate=60",
         },
-        next: { revalidate: 0 },
-      });
-      if (substackResponse.ok) {
-        const substackData = await substackResponse.json();
-        if (substackData.success && substackData.posts) {
-          substackPosts = substackData.posts;
-        }
-      }
-    } catch (error) {
-      console.error("Error fetching Substack posts:", error);
-    }
+        next: { revalidate: 300 }, // Revalidate every 5 minutes
+      }).then((res) => (res.ok ? res.json() : { success: false, posts: [] })),
 
-    // Fetch local posts
-    try {
-      const baseUrl =
-        process.env.NEXT_PUBLIC_BASE_URL ||
-        (process.env.NODE_ENV === "production" ? "" : "http://localhost:3000");
-      const localApiUrl = `${baseUrl}/api/blog/local`;
-
-      const localResponse = await fetch(localApiUrl, {
+      // Fetch local posts with optimized caching
+      fetch(`${baseUrl}/api/blog/local`, {
         method: "GET",
         headers: {
-          "Cache-Control": "no-cache, no-store, must-revalidate",
-          Pragma: "no-cache",
-          Expires: "0",
+          "Cache-Control": "public, max-age=300, stale-while-revalidate=60",
         },
-        next: { revalidate: 0 },
-      });
-      if (localResponse.ok) {
-        const localData = await localResponse.json();
-        if (localData.success && localData.posts) {
-          localPosts = localData.posts;
-        }
-      }
-    } catch (error) {
-      console.error("Error fetching local posts:", error);
+        next: { revalidate: 300 }, // Revalidate every 5 minutes
+      }).then((res) => (res.ok ? res.json() : { success: false, posts: [] })),
+    ]);
+
+    // Process Substack posts
+    if (substackResult.status === "fulfilled" && substackResult.value.success) {
+      substackPosts = substackResult.value.posts || [];
+    } else {
+      console.warn("Substack posts fetch failed:", substackResult.reason);
     }
 
-    // Sort all posts by date (newest first)
-    const allPosts = [...localPosts, ...substackPosts].sort((a, b) => {
+    // Process local posts
+    if (localResult.status === "fulfilled" && localResult.value.success) {
+      localPosts = localResult.value.posts || [];
+    } else {
+      console.warn("Local posts fetch failed:", localResult.reason);
+    }
+
+    // Combine all posts and sort by date (newest first)
+    allPosts = [...allPosts, ...localPosts, ...substackPosts].sort((a, b) => {
       const dateA = new Date(a.date || a.createdAt || 0);
       const dateB = new Date(b.date || b.createdAt || 0);
       return dateB - dateA;
     });
 
-    // Return combined posts with cache control headers
+    // Apply limit if specified
+    if (limit) {
+      const limitNum = parseInt(limit);
+      if (!isNaN(limitNum) && limitNum > 0) {
+        allPosts = allPosts.slice(0, limitNum);
+      }
+    }
+
+    // Return combined posts with optimized cache control headers
     return NextResponse.json(
       {
         success: true,
@@ -185,30 +270,38 @@ export async function GET() {
         total: allPosts.length,
         substack: substackPosts.length,
         local: localPosts.length,
+        regular: regularBlogPosts.length,
         lastUpdated: new Date().toISOString(),
       },
       {
         headers: {
-          "Cache-Control": "no-cache, no-store, must-revalidate",
-          Pragma: "no-cache",
-          Expires: "0",
+          "Cache-Control": "public, s-maxage=300, stale-while-revalidate=60", // Cache for 5 minutes, serve stale for 1 minute
           "Last-Modified": new Date().toISOString(),
         },
       }
     );
   } catch (error) {
     console.error("Error fetching blog posts:", error);
+
+    // Return regular posts as fallback even on error
+    const fallbackPosts = limit
+      ? regularBlogPosts.slice(0, parseInt(limit) || 6)
+      : regularBlogPosts;
+
     return NextResponse.json(
       {
-        success: false,
-        error: error.message,
-        posts: [],
+        success: true, // Still return success with fallback data
+        posts: fallbackPosts,
+        total: fallbackPosts.length,
+        substack: 0,
+        local: 0,
+        regular: fallbackPosts.length,
         lastUpdated: new Date().toISOString(),
+        fallback: true, // Indicate this is fallback data
       },
       {
-        status: 500,
         headers: {
-          "Cache-Control": "no-cache, no-store, must-revalidate",
+          "Cache-Control": "public, s-maxage=60, stale-while-revalidate=30", // Shorter cache for fallback
         },
       }
     );

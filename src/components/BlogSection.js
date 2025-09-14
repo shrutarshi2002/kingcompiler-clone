@@ -12,6 +12,7 @@ export default function BlogSection() {
   const [isClient, setIsClient] = useState(false);
   const [blogPosts, setBlogPosts] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState("");
   const [lastUpdated, setLastUpdated] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
 
@@ -23,33 +24,55 @@ export default function BlogSection() {
   // Fetch blog posts from combined API with cache busting
   const fetchBlogPosts = useCallback(async (forceRefresh = false) => {
     try {
+      setError(""); // Clear any previous errors
       if (forceRefresh) {
         setIsRefreshing(true);
       } else {
         setIsLoading(true);
       }
 
-      const response = await fetch("/api/blog", {
+      // Fetch only 6 posts for homepage display with optimized caching
+      const response = await fetch("/api/blog?limit=6", {
         method: "GET",
         headers: {
-          "Cache-Control": "no-cache, no-store, must-revalidate",
-          Pragma: "no-cache",
-          Expires: "0",
+          "Cache-Control": "public, max-age=300, stale-while-revalidate=60",
         },
+        next: { revalidate: 300 }, // Revalidate every 5 minutes
       });
+
+      if (!response.ok) {
+        throw new Error(
+          `Failed to fetch blog posts: ${response.status} ${response.statusText}`
+        );
+      }
+
       const data = await response.json();
 
       if (data.success && data.posts) {
-        setBlogPosts(data.posts);
-        setFilteredPosts(data.posts);
+        // Limit to 6 posts for homepage display
+        const limitedPosts = data.posts.slice(0, 6);
+        setBlogPosts(limitedPosts);
+        setFilteredPosts(limitedPosts);
         setLastUpdated(data.lastUpdated || new Date().toISOString());
+
+        // If this was fallback data, try to refresh in background
+        if (data.fallback && !forceRefresh) {
+          setTimeout(() => {
+            fetchBlogPosts(true);
+          }, 2000); // Retry after 2 seconds
+        }
       } else {
-        console.error("Failed to fetch blog posts:", data.error);
+        const errorMessage = data.error || "Failed to fetch blog posts";
+        console.error("Failed to fetch blog posts:", errorMessage);
+        setError(errorMessage);
         setBlogPosts([]);
         setFilteredPosts([]);
       }
     } catch (error) {
-      console.error("Error fetching blog posts:", error);
+      const errorMessage =
+        error.message || "Network error occurred while fetching blog posts";
+      console.error("Error fetching blog posts:", errorMessage);
+      setError(errorMessage);
       setBlogPosts([]);
       setFilteredPosts([]);
     } finally {
@@ -65,14 +88,13 @@ export default function BlogSection() {
     }
   }, [isClient, fetchBlogPosts]);
 
-  // Set up automatic refresh every 5 minutes
+  // Set up automatic refresh every 15 minutes
   useEffect(() => {
     if (!isClient) return;
 
     const interval = setInterval(() => {
-      console.log("Auto-refreshing blog posts...");
       fetchBlogPosts(true);
-    }, 5 * 60 * 1000); // 5 minutes
+    }, 15 * 60 * 1000); // 15 minutes
 
     return () => clearInterval(interval);
   }, [isClient, fetchBlogPosts]);
@@ -182,6 +204,30 @@ export default function BlogSection() {
     fetchBlogPosts(true);
   };
 
+  // Skeleton loading component
+  const BlogSkeleton = () => (
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {[...Array(6)].map((_, index) => (
+        <div
+          key={index}
+          className="bg-white rounded-lg shadow-md overflow-hidden animate-pulse"
+        >
+          <div className="h-48 bg-gray-200"></div>
+          <div className="p-6">
+            <div className="h-4 bg-gray-200 rounded mb-2"></div>
+            <div className="h-4 bg-gray-200 rounded w-3/4 mb-4"></div>
+            <div className="h-3 bg-gray-200 rounded mb-2"></div>
+            <div className="h-3 bg-gray-200 rounded w-5/6"></div>
+            <div className="flex justify-between items-center mt-4">
+              <div className="h-3 bg-gray-200 rounded w-20"></div>
+              <div className="h-3 bg-gray-200 rounded w-16"></div>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+
   if (isLoading) {
     return (
       <section className="py-16 bg-gray-50">
@@ -195,9 +241,48 @@ export default function BlogSection() {
               Substack
             </p>
           </div>
+          <BlogSkeleton />
+        </div>
+      </section>
+    );
+  }
+
+  if (error) {
+    return (
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Latest from Our Blog
+            </h2>
+            <p className="text-lg text-gray-600">
+              Chess strategies, coding tutorials, and educational insights from
+              Substack
+            </p>
+          </div>
           <div className="text-center py-12">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-            <p className="text-gray-600">Loading blog posts...</p>
+            <div className="text-red-500 mb-4">
+              <svg
+                className="mx-auto h-12 w-12"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L3.732 16.5c-.77.833.192 2.5 1.732 2.5z"
+                />
+              </svg>
+            </div>
+            <p className="text-red-600 mb-4">{error}</p>
+            <button
+              onClick={() => fetchBlogPosts(true)}
+              className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold transition-colors duration-200"
+            >
+              Retry
+            </button>
           </div>
         </div>
       </section>
